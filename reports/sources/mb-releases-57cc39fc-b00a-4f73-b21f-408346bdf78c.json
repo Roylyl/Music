@@ -1,0 +1,111 @@
+{
+  "releases": [
+    {
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Hant",
+        "language": "zho"
+      },
+      "title": "在每一条伤心的应天大街上",
+      "country": "TW",
+      "asin": null,
+      "packaging": "Jewel Case",
+      "quality": "normal",
+      "media": [
+        {
+          "track-count": 8,
+          "format": "CD",
+          "id": "c2888d5e-f670-33c0-b750-20705375b979",
+          "position": 1,
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": ""
+        }
+      ],
+      "id": "dde3284d-3c53-4d81-b139-ac11bc831e73",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "artwork": true,
+        "front": true,
+        "count": 1
+      },
+      "date": "2016-12",
+      "barcode": "4713012740647",
+      "release-events": [
+        {
+          "date": "2016-12",
+          "area": {
+            "name": "Taiwan",
+            "type": null,
+            "disambiguation": "",
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "type-id": null,
+            "sort-name": "Taiwan"
+          }
+        }
+      ]
+    },
+    {
+      "title": "在每一條傷心的應天大街上",
+      "text-representation": {
+        "script": "Hant",
+        "language": "zho"
+      },
+      "asin": null,
+      "country": "XW",
+      "disambiguation": "",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "quality": "normal",
+      "media": [
+        {
+          "id": "6b20b7c3-a3db-33b7-83d4-2481284d2699",
+          "position": 1,
+          "format": "Digital Media",
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "track-count": 7
+        }
+      ],
+      "packaging": "None",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "id": "e6610137-0c7d-4bd8-b576-ee03d29399e5",
+      "status": "Official",
+      "date": "2020-10-22",
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "front": true,
+        "artwork": true,
+        "count": 1
+      },
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "sort-name": "[Worldwide]",
+            "type-id": null,
+            "type": null,
+            "name": "[Worldwide]"
+          },
+          "date": "2020-10-22"
+        }
+      ],
+      "barcode": ""
+    }
+  ],
+  "release-count": 2,
+  "release-offset": 0
+}

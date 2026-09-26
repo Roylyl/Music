@@ -1,0 +1,160 @@
+{
+  "id": "other-Beyond-2003-光輝歲月-二十周年精選",
+  "artist": "Beyond",
+  "title": "光輝歲月-二十周年精選",
+  "releaseDate": "2003",
+  "releaseDatePrecision": "year",
+  "year": 2003,
+  "type": "compilation",
+  "path": "artists/Beyond/2003 - 光輝歲月-二十周年精選",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "Apple Music artwork",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/7c/6e/9e7c6ef4-c1c6-f49f-7639-ac85d096b2b1/19UMGIM62501.rgb.jpg/1200x1200bb.jpg",
+    "width": 1200,
+    "height": 1200,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2003 - 光輝歲月-二十周年精選 - Beyond.jpg"
+  },
+  "catalogUrl": "https://musicbrainz.org/release/6c0d5252-0b9a-4b17-9cfd-e8e236456bce",
+  "tracklistCompleteness": "partial",
+  "notes": "仅导入用户指定曲目；专辑其余曲目尚未编目。",
+  "tracks": [
+    {
+      "id": "other-Beyond-2003-光輝歲月-二十周年精選-d01-t01",
+      "artist": "Beyond",
+      "album": "光輝歲月-二十周年精選",
+      "title": "抗戰二十年",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 341.264,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/Beyond/2003 - 光輝歲月-二十周年精選/01-01 - 抗戰二十年.mp3",
+      "sources": [
+        {
+          "provider": "release-catalog",
+          "url": "https://musicbrainz.org/release/6c0d5252-0b9a-4b17-9cfd-e8e236456bce",
+          "status": "reference"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 341.264,
+        "fileSize": 13839151,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "album-track-match; master-unverified",
+      "assets": [
+        {
+          "trackId": "other-Beyond-2003-光輝歲月-二十周年精選-d01-t01",
+          "localPath": "artists/Beyond/2003 - 光輝歲月-二十周年精選/01-01 - 抗戰二十年.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 341.264,
+            "fileSize": 13839151,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "redistributionAllowed": false,
+          "qualityAudit": "not-applicable-lossy",
+          "sourceFileName": "Beyond - 抗战二十年.flac",
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 96000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 341.221,
+            "fileSize": 133374974,
+            "bitRate": 3119803
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "versionReviewReason": "无原文件专辑标签；依据曲长匹配，具体母带版本未确认。",
+      "qualityAudit": "not-applicable-lossy",
+      "sourceFileName": "Beyond - 抗战二十年.flac",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 96000,
+        "channels": 2,
+        "bitDepth": 24,
+        "duration": 341.221,
+        "fileSize": 133374974,
+        "bitRate": 3119803
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "other-Beyond-2003-光輝歲月-二十周年精選-d01-t01",
+          "localPath": "artists/Beyond/2003 - 光輝歲月-二十周年精選/01-01 - 抗戰二十年.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 341.264,
+            "fileSize": 13839151,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "redistributionAllowed": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "sourceFileName": "Beyond - 抗战二十年.flac",
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 96000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 341.221,
+            "fileSize": 133374974,
+            "bitRate": 3119803
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "versionReviewReason": "无原文件专辑标签；依据曲长匹配，具体母带版本未确认。"
+}

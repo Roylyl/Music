@@ -1,0 +1,65 @@
+{
+  "releases": [
+    {
+      "asin": null,
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 10,
+          "format": "CD",
+          "position": 1,
+          "title": "",
+          "id": "825fe36c-802b-37c6-a2c0-d51ba4e62b05"
+        },
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": "",
+          "id": "29ceb145-385f-3c5e-808b-c1eba14c550a",
+          "track-count": 14,
+          "position": 2,
+          "format": "CD"
+        }
+      ],
+      "title": "IMAGINE",
+      "disambiguation": "",
+      "release-events": [
+        {
+          "date": "2012",
+          "area": {
+            "sort-name": "China",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "name": "China",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "type": null,
+            "disambiguation": ""
+          }
+        }
+      ],
+      "barcode": null,
+      "text-representation": {
+        "language": "zho",
+        "script": null
+      },
+      "cover-art-archive": {
+        "artwork": true,
+        "back": false,
+        "front": true,
+        "darkened": false,
+        "count": 1
+      },
+      "country": "CN",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "quality": "normal",
+      "status": "Official",
+      "date": "2012",
+      "packaging-id": null,
+      "packaging": null,
+      "id": "f7f7a172-a4cb-4342-af4d-eca0b8371c05"
+    }
+  ],
+  "release-count": 1,
+  "release-offset": 0
+}

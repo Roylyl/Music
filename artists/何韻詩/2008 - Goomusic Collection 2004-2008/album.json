@@ -1,0 +1,158 @@
+{
+  "id": "other-何韻詩-2008-Goomusic-Collection-2004-2008",
+  "artist": "何韻詩",
+  "title": "Goomusic Collection 2004-2008",
+  "releaseDate": "2008-04-02",
+  "releaseDatePrecision": "day",
+  "year": 2008,
+  "type": "compilation",
+  "path": "artists/何韻詩/2008 - Goomusic Collection 2004-2008",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "Apple Music artwork",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/36/23/02/362302e8-8977-e813-b3aa-1007c9f1df97/825646270798.jpg/1200x1200bb.jpg",
+    "width": 1200,
+    "height": 1200,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2008 - Goomusic Collection 2004-2008 - 何韻詩.jpg"
+  },
+  "catalogUrl": "https://music.apple.com/hk/search?term=Goomusic%20Collection%202004-2008",
+  "tracklistCompleteness": "partial",
+  "notes": "仅导入用户指定曲目；专辑其余曲目尚未编目。",
+  "tracks": [
+    {
+      "id": "other-何韻詩-2008-Goomusic-Collection-2004-2008-d01-t15",
+      "artist": "何韻詩",
+      "album": "Goomusic Collection 2004-2008",
+      "title": "勞斯.萊斯",
+      "discNumber": 1,
+      "trackNumber": 15,
+      "sequenceNumber": 15,
+      "duration": 270.106,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/何韻詩/2008 - Goomusic Collection 2004-2008/01-15 - 勞斯.萊斯.mp3",
+      "sources": [
+        {
+          "provider": "release-catalog",
+          "url": "https://music.apple.com/hk/search?term=Goomusic%20Collection%202004-2008",
+          "status": "reference"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 270.106,
+        "fileSize": 10890789,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "album-track-match; master-unverified",
+      "assets": [
+        {
+          "trackId": "other-何韻詩-2008-Goomusic-Collection-2004-2008-d01-t15",
+          "localPath": "artists/何韻詩/2008 - Goomusic Collection 2004-2008/01-15 - 勞斯.萊斯.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 270.106,
+            "fileSize": 10890789,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "redistributionAllowed": false,
+          "qualityAudit": "not-applicable-lossy",
+          "sourceFileName": "15. 劳斯.莱斯.flac",
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 270.067,
+            "fileSize": 30436171,
+            "bitRate": 892240
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceFileName": "15. 劳斯.莱斯.flac",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 270.067,
+        "fileSize": 30436171,
+        "bitRate": 892240
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "other-何韻詩-2008-Goomusic-Collection-2004-2008-d01-t15",
+          "localPath": "artists/何韻詩/2008 - Goomusic Collection 2004-2008/01-15 - 勞斯.萊斯.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 270.106,
+            "fileSize": 10890789,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "redistributionAllowed": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "sourceFileName": "15. 劳斯.莱斯.flac",
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 270.067,
+            "fileSize": 30436171,
+            "bitRate": 892240
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ]
+}

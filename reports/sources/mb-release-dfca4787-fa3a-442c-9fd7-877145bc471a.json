@@ -1,0 +1,638 @@
+{
+  "status": null,
+  "date": "2016",
+  "packaging-id": null,
+  "packaging": null,
+  "id": "dfca4787-fa3a-442c-9fd7-877145bc471a",
+  "cover-art-archive": {
+    "back": false,
+    "front": false,
+    "artwork": false,
+    "count": 0,
+    "darkened": false
+  },
+  "country": "CN",
+  "quality": "low",
+  "status-id": null,
+  "text-representation": {
+    "script": null,
+    "language": null
+  },
+  "release-group": {
+    "secondary-type-ids": [
+      "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+    ],
+    "id": "eb73b3ea-0b7b-4fb3-b9e4-afd92feb0d85",
+    "artist-credit": [
+      {
+        "joinphrase": "",
+        "name": "李志",
+        "artist": {
+          "sort-name": "Li, Zhi",
+          "name": "李志",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+          "type": "Person",
+          "disambiguation": "",
+          "country": "CN"
+        }
+      }
+    ],
+    "first-release-date": "2016",
+    "primary-type": "Album",
+    "secondary-types": [
+      "Live"
+    ],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "disambiguation": "",
+    "title": "李志北京不插电现场"
+  },
+  "asin": null,
+  "artist-credit": [
+    {
+      "name": "李志",
+      "artist": {
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "name": "李志",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Li, Zhi",
+        "country": "CN",
+        "disambiguation": "",
+        "type": "Person"
+      },
+      "joinphrase": ""
+    }
+  ],
+  "media": [
+    {
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+      "tracks": [
+        {
+          "recording": {
+            "disambiguation": "",
+            "title": "黑色信封 (2016 unplugged)",
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "type": "Person"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "2016",
+            "id": "05e37aa8-b10b-4f05-8614-b84243677f92",
+            "video": false,
+            "length": 280207
+          },
+          "number": "1",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "artist": {
+                "disambiguation": "",
+                "country": "CN",
+                "type": "Person",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "id": "199b7720-cc72-4745-8a4e-4fb4abe7d157",
+          "title": "黑色信封 (2016 unplugged)",
+          "position": 1,
+          "length": 280207
+        },
+        {
+          "id": "a95e6884-e36f-451e-98b4-ce41fe5bc822",
+          "title": "鸵鸟 (2016 unplugged)",
+          "position": 2,
+          "length": 259011,
+          "recording": {
+            "title": "鸵鸟 (2016 unplugged)",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "sort-name": "Li, Zhi",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "2016",
+            "video": false,
+            "id": "e5b1dcc3-0cd8-41aa-9ed3-666afacf3402",
+            "length": 259011
+          },
+          "number": "2",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "disambiguation": "",
+                "country": "CN"
+              }
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "disambiguation": "",
+                "type": "Person"
+              }
+            }
+          ],
+          "recording": {
+            "length": 340667,
+            "id": "1b71b27b-f0e4-420d-8a06-bfb56cb0cab1",
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "type": "Person"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "2016",
+            "disambiguation": "",
+            "title": "大象 (2016 unplugged)"
+          },
+          "position": 3,
+          "length": 340667,
+          "id": "87534ed3-dce8-4ed7-bbb9-07403c286037",
+          "title": "大象 (2016 unplugged)"
+        },
+        {
+          "id": "e29770e9-190e-45e8-bfb7-e998dcad25c1",
+          "title": "定西 (2016 unplugged)",
+          "position": 4,
+          "length": 473932,
+          "recording": {
+            "length": 473932,
+            "id": "71c08b71-1fec-4a74-b0b6-ed134d7b0937",
+            "video": false,
+            "first-release-date": "2016",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "country": "CN"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "",
+            "title": "定西 (2016 unplugged)"
+          },
+          "number": "4",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "disambiguation": "",
+                "type": "Person"
+              },
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "title": "这个世界会好吗 (2016 unplugged)",
+          "id": "edd02923-bcbd-4063-95fd-916e8a8e4d5e",
+          "length": 273680,
+          "position": 5,
+          "recording": {
+            "id": "62fe568b-b957-40c9-a5f5-200058052d39",
+            "video": false,
+            "length": 273680,
+            "first-release-date": "2016",
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "country": "CN"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "",
+            "title": "这个世界会好吗 (2016 unplugged)"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "disambiguation": "",
+                "type": "Person"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "number": "5"
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "李志",
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "disambiguation": "",
+                "type": "Person"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "number": "6",
+          "recording": {
+            "first-release-date": "2016",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "type": "Person"
+                },
+                "name": "李志"
+              }
+            ],
+            "disambiguation": "",
+            "title": "结婚 (2016 unplugged)",
+            "id": "0c9ff361-da0e-4cff-a7cc-ae8678e03ad7",
+            "video": false,
+            "length": 420960
+          },
+          "length": 420960,
+          "position": 6,
+          "title": "结婚 (2016 unplugged)",
+          "id": "b20c35c2-6a84-42d8-a3c2-a30f57a9385e"
+        },
+        {
+          "recording": {
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "country": "CN"
+                }
+              }
+            ],
+            "first-release-date": "2016",
+            "title": "关于郑州的记忆 (2016 unplugged)",
+            "disambiguation": "",
+            "video": false,
+            "id": "8caf114c-1e97-4f7d-805f-11e0b3c97bf0",
+            "length": 287348
+          },
+          "number": "7",
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "disambiguation": "",
+                "type": "Person"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "id": "4a81860f-ada8-458f-ad7c-877b11646c46",
+          "title": "关于郑州的记忆 (2016 unplugged)",
+          "position": 7,
+          "length": 287348
+        },
+        {
+          "recording": {
+            "id": "b14141d3-5add-408c-88e2-fab4c208151a",
+            "video": false,
+            "length": 222400,
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "2016",
+            "disambiguation": "",
+            "title": "杭州 (2016 unplugged)"
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "disambiguation": "",
+                "country": "CN"
+              }
+            }
+          ],
+          "number": "8",
+          "title": "杭州 (2016 unplugged)",
+          "id": "aed9d16a-9cfc-46f4-94a2-2528ae3a09eb",
+          "length": 222400,
+          "position": 8
+        },
+        {
+          "position": 9,
+          "length": 364684,
+          "id": "88678e30-25e0-41e9-8f93-d274bb382eb2",
+          "title": "热河 (2016 unplugged)",
+          "number": "9",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "country": "CN",
+                "disambiguation": ""
+              },
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "video": false,
+            "id": "5496a692-6b59-4b89-aee0-13c7638f9f05",
+            "length": 364684,
+            "title": "热河 (2016 unplugged)",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type": "Person"
+                }
+              }
+            ],
+            "first-release-date": "2016"
+          }
+        },
+        {
+          "recording": {
+            "length": 404475,
+            "id": "530846f3-6666-4c32-b0df-841c4c39405a",
+            "video": false,
+            "disambiguation": "",
+            "title": "春末的南方城市 (2016 unplugged)",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "2016"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "disambiguation": "",
+                "type": "Person"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "number": "10",
+          "title": "春末的南方城市 (2016 unplugged)",
+          "id": "587450f4-677d-4b34-9abb-c63e6cfad678",
+          "length": 404475,
+          "position": 10
+        },
+        {
+          "recording": {
+            "length": 485063,
+            "id": "f8f24cad-70e7-407d-8c2c-49c16d84ea19",
+            "video": false,
+            "disambiguation": "",
+            "title": "鼠说 (2016 unplugged)",
+            "first-release-date": "2016",
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "country": "CN",
+                  "disambiguation": ""
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ]
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "disambiguation": "",
+                "type": "Person"
+              },
+              "name": "李志"
+            }
+          ],
+          "number": "11",
+          "title": "鼠说 (2016 unplugged)",
+          "id": "b7976071-7404-4052-a86e-3d78bcf8992a",
+          "length": 485063,
+          "position": 11
+        },
+        {
+          "recording": {
+            "length": 343418,
+            "id": "ca773abe-8dca-48c1-ac66-24e0c228436a",
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "country": "CN"
+                }
+              }
+            ],
+            "first-release-date": "2016",
+            "disambiguation": "",
+            "title": "山阴路的夏天 (2016 unplugged)"
+          },
+          "number": "12",
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "country": "CN",
+                "disambiguation": ""
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "id": "2e9f3a0a-f579-4779-a586-c5d0dabbd84a",
+          "title": "山阴路的夏天 (2016 unplugged)",
+          "position": 12,
+          "length": 343418
+        }
+      ],
+      "track-offset": 0,
+      "title": "",
+      "id": "ec3992e4-9e39-3169-9936-740eb8ef3bdf",
+      "position": 1,
+      "track-count": 12,
+      "format": "CD"
+    }
+  ],
+  "title": "李志北京不插电现场",
+  "disambiguation": "",
+  "release-events": [
+    {
+      "area": {
+        "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+        "iso-3166-1-codes": [
+          "CN"
+        ],
+        "name": "China",
+        "type-id": null,
+        "sort-name": "China",
+        "disambiguation": "",
+        "type": null
+      },
+      "date": "2016"
+    }
+  ],
+  "barcode": null
+}

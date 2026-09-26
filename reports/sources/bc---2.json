@@ -1,0 +1,65 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/--2",
+  "title": "梵高先生",
+  "releaseDate": "21 Oct 2020 00:00:00 GMT",
+  "current": {
+    "minimum_price": 56.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "21 Oct 2020 10:27:58 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "李志LiZhi - 你離開了南京，從此沒有人和我說話",
+      "track_num": 1,
+      "duration": 71.8133,
+      "title_link": "/track/--7",
+      "track_id": 2367657344
+    },
+    {
+      "title": "李志LiZhi - 董卓瑤",
+      "track_num": 2,
+      "duration": 197.787,
+      "title_link": "/track/--8",
+      "track_id": 2477525235
+    },
+    {
+      "title": "李志LiZhi - 春末的南方城市",
+      "track_num": 3,
+      "duration": 246.747,
+      "title_link": "/track/--9",
+      "track_id": 2065133941
+    },
+    {
+      "title": "李志LiZhi - 來了",
+      "track_num": 4,
+      "duration": 311.56,
+      "title_link": "/track/--10",
+      "track_id": 883377400
+    },
+    {
+      "title": "李志LiZhi - 梵高先生",
+      "track_num": 5,
+      "duration": 249.747,
+      "title_link": "/track/--11",
+      "track_id": 2232849791
+    },
+    {
+      "title": "李志LiZhi - 想起了她",
+      "track_num": 6,
+      "duration": 273.493,
+      "title_link": "/track/--12",
+      "track_id": 292775779
+    },
+    {
+      "title": "李志LiZhi - 斜",
+      "track_num": 7,
+      "duration": 216.76,
+      "title_link": "/track/--13",
+      "track_id": 3106989859
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $56 HKD or more Send as Gift"
+}

@@ -1,0 +1,145 @@
+{
+  "release-count": 2,
+  "release-offset": 0,
+  "releases": [
+    {
+      "packaging": "None",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "date": "2016-10-18",
+      "asin": null,
+      "media": [
+        {
+          "title": "",
+          "position": 1,
+          "id": "b46b0a77-4c8a-33eb-b106-5f6dc23b35c8",
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "track-count": 9
+        }
+      ],
+      "release-events": [
+        {
+          "date": "2016-10-18",
+          "area": {
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "sort-name": "China",
+            "name": "China",
+            "type": null,
+            "type-id": null,
+            "disambiguation": ""
+          }
+        }
+      ],
+      "id": "ccf142c6-ad89-4115-aa0c-30d8f587b0fe",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "status": "Official",
+      "barcode": null,
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "country": "CN",
+      "quality": "normal",
+      "title": "8",
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": false,
+        "darkened": false,
+        "count": 1
+      },
+      "disambiguation": ""
+    },
+    {
+      "title": "捌",
+      "quality": "normal",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "back": false,
+        "artwork": true,
+        "front": true
+      },
+      "country": "HK",
+      "text-representation": {
+        "script": "Hant",
+        "language": "zho"
+      },
+      "disambiguation": "",
+      "id": "d8a57b50-282e-4f93-8f39-7023c4c63f2c",
+      "release-events": [
+        {
+          "area": {
+            "type-id": null,
+            "name": "Hong Kong",
+            "type": null,
+            "sort-name": "Hong Kong",
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "iso-3166-2-codes": [
+              "CN-91"
+            ],
+            "disambiguation": ""
+          },
+          "date": "2016"
+        },
+        {
+          "area": {
+            "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+            "sort-name": "Macao",
+            "iso-3166-1-codes": [
+              "MO"
+            ],
+            "type-id": null,
+            "type": null,
+            "name": "Macao",
+            "iso-3166-2-codes": [
+              "CN-92"
+            ],
+            "disambiguation": ""
+          },
+          "date": "2016"
+        },
+        {
+          "date": "2016",
+          "area": {
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "disambiguation": "",
+            "sort-name": "Taiwan",
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "type-id": null,
+            "name": "Taiwan",
+            "type": null
+          }
+        }
+      ],
+      "barcode": "9555150725262",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "media": [
+        {
+          "title": "",
+          "position": 1,
+          "id": "e715d0d3-1ae5-3306-8927-51c775b5691c",
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "track-count": 9
+        }
+      ],
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "asin": null,
+      "date": "2016"
+    }
+  ]
+}

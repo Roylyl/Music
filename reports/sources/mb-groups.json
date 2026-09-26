@@ -1,0 +1,320 @@
+{
+  "release-group-count": 25,
+  "release-group-offset": 0,
+  "release-groups": [
+    {
+      "id": "1575bde1-3bbd-48d1-af25-654c9b63d5df",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "first-release-date": "2013-01-01",
+      "title": "李志跨年音乐会",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "id": "1781c5c4-0121-3f7a-bb7f-45d558538910",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2004-11-30",
+      "primary-type": "Album",
+      "title": "被禁忌的游戏",
+      "disambiguation": "",
+      "secondary-types": []
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "title": "IMAGINE",
+      "primary-type": "Album",
+      "first-release-date": "2012",
+      "id": "1d34f2e6-cb30-4b10-beb1-b5f5ad7c55db",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "id": "2b741791-a2dc-4f2a-8b6f-1de8149ecec6",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Best Selection Songs 2004~2018 (Volume.2)",
+      "first-release-date": "2020-05-27",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": ""
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "2c5f22bb-2ed7-4076-be21-cc3637baf4df",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "title": "三缺一2024日本巡演",
+      "primary-type": "Album",
+      "first-release-date": ""
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "2d883813-a08d-420e-8664-fc936d271125",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "first-release-date": "2009-01-22",
+      "title": "工体东路没有人",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "2dfe220e-8ee5-4d3f-bcf0-2b35b0ac2491",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "title": "李志、電聲與管弦樂",
+      "primary-type": "Album",
+      "first-release-date": "2017"
+    },
+    {
+      "first-release-date": "2011",
+      "title": "F",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "33383bca-a17a-468c-bd3b-9c47878bba2a",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": []
+    },
+    {
+      "id": "342db479-567f-40ce-9457-83ef00ac8ba2",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2020-10-22",
+      "title": "看見"
+    },
+    {
+      "secondary-type-ids": [],
+      "id": "4522784e-170d-4a92-95a0-b09c44d21596",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "8",
+      "first-release-date": "2016-10-18"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "4f39f226-4ea5-48f6-9cd5-6da2320282b6",
+      "secondary-type-ids": [],
+      "first-release-date": "2009-10-16",
+      "title": "我爱南京",
+      "primary-type": "Album",
+      "disambiguation": "In Love with Nanjing",
+      "secondary-types": []
+    },
+    {
+      "first-release-date": "2016-12",
+      "primary-type": "Album",
+      "title": "在每一条伤心的应天大街上",
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "57cc39fc-b00a-4f73-b21f-408346bdf78c",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "動靜",
+      "first-release-date": "2016-01-01",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "id": "69a04640-d2e8-45fc-8bfa-d2a6952e31dd",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "id": "7db4d471-88c8-4dd3-93b4-0fda16797bb4",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "disambiguation": "",
+      "first-release-date": "2005-12-01",
+      "primary-type": "Album",
+      "title": "梵高先生"
+    },
+    {
+      "primary-type": "Album",
+      "title": "Best Selection Songs 2004~2018",
+      "first-release-date": "2019",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "id": "9993e729-93b8-4d63-ac82-a92a20a219fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "id": "a0583f22-a04e-4769-9c68-10ef14f0c015",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Best Selection Songs 2004~2018 (Volume.3)",
+      "first-release-date": "2021-09",
+      "primary-type": "Album"
+    },
+    {
+      "title": "这个世界会好吗",
+      "primary-type": "Album",
+      "first-release-date": "2006-11-20",
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "a6c427b3-78d5-4537-95f1-5e5bc80c2c9c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": []
+    },
+    {
+      "first-release-date": "2010-09-01",
+      "title": "你好，郑州",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "be714e48-1059-4688-b913-dd9456700aa5",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "1701",
+      "primary-type": "Album",
+      "first-release-date": "2014",
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "id": "cb5747e8-517a-4d53-b352-ee4a02d94323",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "first-release-date": "2010",
+      "primary-type": "Album",
+      "title": "二零零九年十月十六日事件",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "id": "d91b6e94-91a6-469c-a940-f94db3a03d0b",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "dcc7022c-d53c-406d-9f5b-95c16111b48e",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "title": "勾三搭四 (2013 Live)",
+      "first-release-date": "2014-01-01",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "id": "e663792e-f797-491e-a24b-3b3ca1ac73f1",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "title": "李志跨年音乐会",
+      "first-release-date": "2015-01-01",
+      "disambiguation": "李志跨年音乐会",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "title": "爵士乐与不插电新编12首",
+      "primary-type": "Album",
+      "first-release-date": "2018",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "id": "ea4e9241-0926-4cf1-b412-f9d42b7b1342",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2016",
+      "title": "李志北京不插电现场",
+      "id": "eb73b3ea-0b7b-4fb3-b9e4-afd92feb0d85",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "title": "李志、电声与管弦乐II",
+      "first-release-date": "2018",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "fbc3a716-3193-46de-aa99-2326cf7f7431",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    }
+  ]
+}

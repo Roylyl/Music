@@ -1,0 +1,114 @@
+{
+  "release-offset": 0,
+  "release-count": 2,
+  "releases": [
+    {
+      "disambiguation": "",
+      "country": "CN",
+      "status": "Official",
+      "packaging-id": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "language": null,
+        "script": null
+      },
+      "id": "4970c47f-8920-416b-94e5-485ca1be5396",
+      "date": "2010",
+      "release-events": [
+        {
+          "date": "2010",
+          "area": {
+            "type-id": null,
+            "type": null,
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "sort-name": "China",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "name": "China",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "media": [
+        {
+          "track-count": 13,
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "position": 1,
+          "format": "Digital Media",
+          "id": "a1279617-caba-3da5-97c7-3a3b0ab049a7"
+        },
+        {
+          "format": "Digital Media",
+          "position": 2,
+          "id": "58d21697-8fac-306e-a2ae-f47b023f4c97",
+          "track-count": 14,
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "quality": "normal",
+      "barcode": null,
+      "packaging": null,
+      "asin": null,
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "count": 1,
+        "darkened": false,
+        "artwork": true
+      },
+      "title": "二零零九年十月十六日事件"
+    },
+    {
+      "status": "Official",
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": null,
+      "disambiguation": "",
+      "country": null,
+      "packaging": null,
+      "barcode": null,
+      "quality": "normal",
+      "title": "二零零九年十月十六日事件",
+      "cover-art-archive": {
+        "darkened": false,
+        "artwork": false,
+        "front": false,
+        "count": 0,
+        "back": false
+      },
+      "asin": null,
+      "date": "2010",
+      "release-events": [
+        {
+          "date": "2010",
+          "area": null
+        }
+      ],
+      "id": "a4d1ba2f-f904-4ae3-8de3-55a8333046a7",
+      "media": [
+        {
+          "position": 1,
+          "format": "CD",
+          "id": "e5a13ee2-41f6-3520-b678-311b58a97c75",
+          "title": "",
+          "track-count": 12,
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        },
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 14,
+          "title": "",
+          "position": 2,
+          "format": "CD",
+          "id": "ffd6d944-2f45-3735-8e33-24b913b7d19c"
+        }
+      ]
+    }
+  ]
+}

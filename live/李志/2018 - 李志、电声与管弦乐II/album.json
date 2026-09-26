@@ -1,0 +1,1616 @@
+{
+  "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1",
+  "artist": "李志",
+  "title": "李志、电声与管弦乐II",
+  "releaseDate": "2018-05-16",
+  "releaseDatePrecision": "day",
+  "year": 2018,
+  "type": "live",
+  "path": "live/李志/2018 - 李志、电声与管弦乐II",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t01",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐II",
+      "title": "相信未来序曲（2017跨年版）",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 306.495,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1WGPpYG64ge_wh_nQKJIslc0nA8xwKYPG/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-01 - 相信未来序曲（2017跨年版）.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-10",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/ii",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 1,
+          "duration": 306.443,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 306.495,
+        "fileSize": 12398759,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t01",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-01 - 相信未来序曲（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1WGPpYG64ge_wh_nQKJIslc0nA8xwKYPG/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 306.495,
+            "fileSize": 12398759,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 306.443,
+            "fileSize": 32681368,
+            "bitRate": 846545
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 306.503,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 306.443,
+        "fileSize": 32681368,
+        "bitRate": 846545
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t01",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-01 - 相信未来序曲（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1WGPpYG64ge_wh_nQKJIslc0nA8xwKYPG/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 306.495,
+            "fileSize": 12398759,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 306.443,
+            "fileSize": 32681368,
+            "bitRate": 846545
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t01",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-01 - 相信未来序曲（2017跨年版）.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐II/相信未来序曲%20(乐曲).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 306.495,
+            "fileSize": 12398759,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t02",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐II",
+      "title": "一头偶像（2017跨年版）",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 289.437,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1cCewoFRVQ-uG_3sC4_kRoOU1rTH2I2Nr/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-02 - 一头偶像（2017跨年版）.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-11",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/ii",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 2,
+          "duration": 289.397,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 289.437,
+        "fileSize": 11715755,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t02",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-02 - 一头偶像（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1cCewoFRVQ-uG_3sC4_kRoOU1rTH2I2Nr/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 289.437,
+            "fileSize": 11715755,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 289.397,
+            "fileSize": 35646035,
+            "bitRate": 978364
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 289.459,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 289.397,
+        "fileSize": 35646035,
+        "bitRate": 978364
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t02",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-02 - 一头偶像（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1cCewoFRVQ-uG_3sC4_kRoOU1rTH2I2Nr/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 289.437,
+            "fileSize": 11715755,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 289.397,
+            "fileSize": 35646035,
+            "bitRate": 978364
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t02",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-02 - 一头偶像（2017跨年版）.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐II/一头偶像%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 289.437,
+            "fileSize": 11715755,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t03",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐II",
+      "title": "你好明天（2017跨年版）",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 307.252,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1TGAmnXNPjaMa-NKNw6upKrkvFWLO7XJm/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-03 - 你好明天（2017跨年版）.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-12",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/ii",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 3,
+          "duration": 307.221,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 307.252,
+        "fileSize": 12429088,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t03",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-03 - 你好明天（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1TGAmnXNPjaMa-NKNw6upKrkvFWLO7XJm/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 307.252,
+            "fileSize": 12429088,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 307.221,
+            "fileSize": 32598397,
+            "bitRate": 842239
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 307.269,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 307.221,
+        "fileSize": 32598397,
+        "bitRate": 842239
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t03",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-03 - 你好明天（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1TGAmnXNPjaMa-NKNw6upKrkvFWLO7XJm/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 307.252,
+            "fileSize": 12429088,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 307.221,
+            "fileSize": 32598397,
+            "bitRate": 842239
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t03",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-03 - 你好明天（2017跨年版）.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐II/你好明天%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 307.252,
+            "fileSize": 12429088,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t04",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐II",
+      "title": "寻找（2017跨年版）",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 259.657,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/15BXxWIEnUM9fUWJbiW7N193_U1QDQ2VL/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-04 - 寻找（2017跨年版）.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-13",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/ii",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 4,
+          "duration": 259.611,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 259.657,
+        "fileSize": 10523376,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t04",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-04 - 寻找（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/15BXxWIEnUM9fUWJbiW7N193_U1QDQ2VL/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 259.657,
+            "fileSize": 10523376,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 259.611,
+            "fileSize": 29814396,
+            "bitRate": 910922
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 259.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 259.611,
+        "fileSize": 29814396,
+        "bitRate": 910922
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t04",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-04 - 寻找（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/15BXxWIEnUM9fUWJbiW7N193_U1QDQ2VL/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 259.657,
+            "fileSize": 10523376,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 259.611,
+            "fileSize": 29814396,
+            "bitRate": 910922
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t04",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-04 - 寻找（2017跨年版）.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐II/寻找%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 259.657,
+            "fileSize": 10523376,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t05",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐II",
+      "title": "山阴路的夏天（2017跨年版）",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 289.097,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1JrBIQBj_o7XgwMjp2y-Pa8vLxKhEB7Gf/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-05 - 山阴路的夏天（2017跨年版）.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-14",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/ii",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 5,
+          "duration": 289.051,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 289.097,
+        "fileSize": 11702161,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t05",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-05 - 山阴路的夏天（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1JrBIQBj_o7XgwMjp2y-Pa8vLxKhEB7Gf/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 289.097,
+            "fileSize": 11702161,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 289.051,
+            "fileSize": 27953720,
+            "bitRate": 766639
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 289.111,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 289.051,
+        "fileSize": 27953720,
+        "bitRate": 766639
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t05",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-05 - 山阴路的夏天（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1JrBIQBj_o7XgwMjp2y-Pa8vLxKhEB7Gf/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 289.097,
+            "fileSize": 11702161,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 289.051,
+            "fileSize": 27953720,
+            "bitRate": 766639
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t05",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-05 - 山阴路的夏天（2017跨年版）.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐II/山阴路的夏天%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 289.097,
+            "fileSize": 11702161,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t06",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐II",
+      "title": "哦吼（2017跨年版）",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 324.833,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1lQfCHizHEf10ZlPaAZDmrXMam0sTp3MN/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-06 - 哦吼（2017跨年版）.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-15",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/ii",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 6,
+          "duration": 324.794,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 324.833,
+        "fileSize": 13133004,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t06",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-06 - 哦吼（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1lQfCHizHEf10ZlPaAZDmrXMam0sTp3MN/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 324.833,
+            "fileSize": 13133004,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 324.794,
+            "fileSize": 36624012,
+            "bitRate": 895821
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 324.847,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 324.794,
+        "fileSize": 36624012,
+        "bitRate": 895821
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t06",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-06 - 哦吼（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1lQfCHizHEf10ZlPaAZDmrXMam0sTp3MN/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 324.833,
+            "fileSize": 13133004,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 324.794,
+            "fileSize": 36624012,
+            "bitRate": 895821
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t06",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-06 - 哦吼（2017跨年版）.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐II/哦吼%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 324.833,
+            "fileSize": 13133004,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t07",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐II",
+      "title": "天空之城（2017跨年版）",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 291.291,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1HXTuJzVEIkE9iPyRzOkMcFuBQTzcUjty/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-07 - 天空之城（2017跨年版）.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-16",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/ii",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 7,
+          "duration": 291.253,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 291.291,
+        "fileSize": 11790017,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t07",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-07 - 天空之城（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1HXTuJzVEIkE9iPyRzOkMcFuBQTzcUjty/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 291.291,
+            "fileSize": 11790017,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 291.253,
+            "fileSize": 29504013,
+            "bitRate": 803423
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 291.317,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 291.253,
+        "fileSize": 29504013,
+        "bitRate": 803423
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t07",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-07 - 天空之城（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1HXTuJzVEIkE9iPyRzOkMcFuBQTzcUjty/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 291.291,
+            "fileSize": 11790017,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 291.253,
+            "fileSize": 29504013,
+            "bitRate": 803423
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t07",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-07 - 天空之城（2017跨年版）.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐II/天空之城%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 291.291,
+            "fileSize": 11790017,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t08",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐II",
+      "title": "家乡（2017跨年版）",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 425.874,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1rtl3s7ZveDniNNa2K1SIavCTIicGMKLb/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-08 - 家乡（2017跨年版）.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-17",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/ii",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 8,
+          "duration": 425.835,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 425.874,
+        "fileSize": 17178711,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t08",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-08 - 家乡（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1rtl3s7ZveDniNNa2K1SIavCTIicGMKLb/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 425.874,
+            "fileSize": 17178711,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 425.835,
+            "fileSize": 36419195,
+            "bitRate": 679399
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 425.9,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 425.835,
+        "fileSize": 36419195,
+        "bitRate": 679399
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t08",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-08 - 家乡（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1rtl3s7ZveDniNNa2K1SIavCTIicGMKLb/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 425.874,
+            "fileSize": 17178711,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 425.835,
+            "fileSize": 36419195,
+            "bitRate": 679399
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t08",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-08 - 家乡（2017跨年版）.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐II/家乡%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 425.874,
+            "fileSize": 17178711,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t09",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐II",
+      "title": "这个世界会好吗（2017跨年版）",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 374.439,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/187eaUzscaAwR7vDnpKUqtyOsHYgo_ze6/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-09 - 这个世界会好吗（2017跨年版）.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 374.439,
+        "fileSize": 15119259,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t09",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-09 - 这个世界会好吗（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/187eaUzscaAwR7vDnpKUqtyOsHYgo_ze6/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 374.439,
+            "fileSize": 15119259,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 374.395,
+            "fileSize": 40725097,
+            "bitRate": 864762
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 374.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 374.395,
+        "fileSize": 40725097,
+        "bitRate": 864762
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t09",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-09 - 这个世界会好吗（2017跨年版）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/187eaUzscaAwR7vDnpKUqtyOsHYgo_ze6/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 374.439,
+            "fileSize": 15119259,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 374.395,
+            "fileSize": 40725097,
+            "bitRate": 864762
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t09",
+          "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-09 - 这个世界会好吗（2017跨年版）.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐II/这个世界会好吗%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 374.439,
+            "fileSize": 15119259,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/6a798753-fe04-4301-b727-3b0b9be33fa1",
+    "https://lizhilizhi.bandcamp.com/album/ii"
+  ],
+  "notes": [],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "Bandcamp",
+      "url": "https://lizhilizhi.bandcamp.com/album/ii",
+      "title": "李志、電聲與管弦樂II",
+      "releaseDate": "23 Oct 2020 02:51:04 GMT",
+      "trackCount": 8,
+      "tracks": [
+        {
+          "title": "相信未來序曲（2017跨年版）",
+          "track_num": 1,
+          "duration": 306.443,
+          "title_link": "/track/2017-10",
+          "track_id": 4289149452
+        },
+        {
+          "title": "一頭偶像（2017跨年版）",
+          "track_num": 2,
+          "duration": 289.397,
+          "title_link": "/track/2017-11",
+          "track_id": 646575013
+        },
+        {
+          "title": "你好明天（2017跨年版）",
+          "track_num": 3,
+          "duration": 307.221,
+          "title_link": "/track/2017-12",
+          "track_id": 557147356
+        },
+        {
+          "title": "尋找（2017跨年版）",
+          "track_num": 4,
+          "duration": 259.611,
+          "title_link": "/track/2017-13",
+          "track_id": 4134481531
+        },
+        {
+          "title": "山陰路的夏天（2017跨年版）",
+          "track_num": 5,
+          "duration": 289.051,
+          "title_link": "/track/2017-14",
+          "track_id": 362995466
+        },
+        {
+          "title": "哦吼（2017跨年版）",
+          "track_num": 6,
+          "duration": 324.794,
+          "title_link": "/track/2017-15",
+          "track_id": 4065006424
+        },
+        {
+          "title": "天空之城（2017跨年版）",
+          "track_num": 7,
+          "duration": 291.253,
+          "title_link": "/track/2017-16",
+          "track_id": 2415237845
+        },
+        {
+          "title": "家鄉（2017跨年版）",
+          "track_num": 8,
+          "duration": 425.835,
+          "title_link": "/track/2017-17",
+          "track_id": 4152940881
+        }
+      ],
+      "offer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $62 HKD Send as Gift",
+      "note": "平台上架日期，不替代原始发行日期。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "6a798753-fe04-4301-b727-3b0b9be33fa1",
+    "title": "李志、電聲與管弦樂II",
+    "date": "2018",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2018",
+      "source": "https://musicbrainz.org/release/6a798753-fe04-4301-b727-3b0b9be33fa1"
+    },
+    {
+      "date": "2018-05-16",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2018 - 李志 - 李志、电声与管弦乐II.jpg",
+    "width": 3000,
+    "height": 3000,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2018 - 李志 - 李志、电声与管弦乐II.jpg"
+  },
+  "trackCount": 9,
+  "tracklistStatus": "edition-listed"
+}

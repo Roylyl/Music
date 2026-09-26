@@ -1,0 +1,158 @@
+{
+  "id": "other-Beyond-1992-繼續革命",
+  "artist": "Beyond",
+  "title": "繼續革命",
+  "releaseDate": "1992-08",
+  "releaseDatePrecision": "month",
+  "year": 1992,
+  "type": "studio",
+  "path": "artists/Beyond/1992 - 繼續革命",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "Apple Music artwork",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/a9/c8/21a9c8f3-eecf-9829-bdbc-d5ab20f514e5/mzi.zjalonbm.jpg/1200x1200bb.jpg",
+    "width": 1194,
+    "height": 1200,
+    "lowResolution": false,
+    "originalPath": "covers/originals/1992 - 繼續革命 - Beyond.jpg"
+  },
+  "catalogUrl": "https://musicbrainz.org/release/835b1079-2856-4e53-804a-6dae0d64edc1/cover-art",
+  "tracklistCompleteness": "partial",
+  "notes": "仅导入用户指定曲目；专辑其余曲目尚未编目。",
+  "tracks": [
+    {
+      "id": "other-Beyond-1992-繼續革命-d01-t01",
+      "artist": "Beyond",
+      "album": "繼續革命",
+      "title": "長城",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 290.429,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/Beyond/1992 - 繼續革命/01-01 - 長城.mp3",
+      "sources": [
+        {
+          "provider": "release-catalog",
+          "url": "https://musicbrainz.org/release/835b1079-2856-4e53-804a-6dae0d64edc1/cover-art",
+          "status": "reference"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 290.429,
+        "fileSize": 11794993,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "album-track-match; master-unverified",
+      "assets": [
+        {
+          "trackId": "other-Beyond-1992-繼續革命-d01-t01",
+          "localPath": "artists/Beyond/1992 - 繼續革命/01-01 - 長城.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 290.429,
+            "fileSize": 11794993,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "redistributionAllowed": false,
+          "qualityAudit": "not-applicable-lossy",
+          "sourceFileName": "Beyond - 长城.flac",
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 96000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 290.389,
+            "fileSize": 117318351,
+            "bitRate": 3224250
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceFileName": "Beyond - 长城.flac",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 96000,
+        "channels": 2,
+        "bitDepth": 24,
+        "duration": 290.389,
+        "fileSize": 117318351,
+        "bitRate": 3224250
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "other-Beyond-1992-繼續革命-d01-t01",
+          "localPath": "artists/Beyond/1992 - 繼續革命/01-01 - 長城.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 290.429,
+            "fileSize": 11794993,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "redistributionAllowed": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "sourceFileName": "Beyond - 长城.flac",
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 96000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 290.389,
+            "fileSize": 117318351,
+            "bitRate": 3224250
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ]
+}

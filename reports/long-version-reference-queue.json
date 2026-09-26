@@ -1,0 +1,40 @@
+[
+  {
+    "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t09",
+    "album": "这个世界会好吗",
+    "title": "这个世界会好吗",
+    "localPath": "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.mp3",
+    "source": {
+      "album": "这个世界会好吗",
+      "title": "这个世界会好吗",
+      "fileName": "这个世界会好吗.mp3",
+      "url": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97.mp3",
+      "provider": "GitHub lvboda/lizhi-mp3",
+      "extension": ".mp3",
+      "size": 9639410
+    },
+    "alternatives": [
+      {
+        "album": "这个世界会好吗",
+        "title": "这个世界会好吗",
+        "fileName": "这个世界会好吗.mp3",
+        "url": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97.mp3",
+        "provider": "GitHub lvboda/lizhi-mp3",
+        "extension": ".mp3",
+        "size": 9639410
+      },
+      {
+        "album": "这个世界会好吗",
+        "title": "这个世界会好吗",
+        "fileName": "这个世界会好吗.mp3",
+        "url": "https://st.nj1701.com/这个世界会好吗/这个世界会好吗.mp3",
+        "downloadUrl": "https://st.nj1701.com/这个世界会好吗/这个世界会好吗.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=39&oa_song=9",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  }
+]

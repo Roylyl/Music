@@ -1,0 +1,204 @@
+{
+  "release-offset": 0,
+  "release-count": 3,
+  "releases": [
+    {
+      "barcode": null,
+      "quality": "normal",
+      "release-events": [
+        {
+          "date": "2009-10-16",
+          "area": {
+            "sort-name": "China",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "type-id": null,
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "type": null,
+            "name": "China"
+          }
+        }
+      ],
+      "id": "355106ea-2263-4983-b24a-42d225d222ad",
+      "disambiguation": "",
+      "title": "我爱南京",
+      "media": [
+        {
+          "track-count": 9,
+          "position": 1,
+          "title": "",
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "2b03ef7a-f5bf-3d18-ae87-b72bd70c3c6a"
+        },
+        {
+          "title": "",
+          "position": 2,
+          "track-count": 7,
+          "id": "8a10d7e8-3a6b-3628-bb0b-6aaa66cb853d",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD"
+        }
+      ],
+      "status": "Official",
+      "packaging-id": null,
+      "country": "CN",
+      "packaging": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "front": true,
+        "back": false,
+        "artwork": true
+      },
+      "date": "2009-10-16",
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "asin": null
+    },
+    {
+      "barcode": "9787880973792",
+      "quality": "normal",
+      "release-events": [
+        {
+          "date": "",
+          "area": {
+            "sort-name": "[Worldwide]",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type-id": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "type": null,
+            "name": "[Worldwide]"
+          }
+        }
+      ],
+      "id": "54a14696-fbef-4e89-971e-4cb48043b87a",
+      "disambiguation": "",
+      "title": "我愛南京",
+      "media": [
+        {
+          "format": "Digital Media",
+          "id": "2d1bca5f-ea33-3543-a90d-de398adf7135",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": "",
+          "position": 1,
+          "track-count": 11
+        }
+      ],
+      "country": "XW",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status": "Official",
+      "packaging": "None",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "darkened": false,
+        "count": 1
+      },
+      "date": "",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "asin": null
+    },
+    {
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "asin": null,
+      "date": "2009-10-16",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status": "Official",
+      "country": "HK",
+      "packaging": "None",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": false,
+        "darkened": false,
+        "count": 1
+      },
+      "media": [
+        {
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "5f9e6050-a1fe-386a-8bee-715de9399471",
+          "track-count": 11,
+          "position": 1,
+          "title": ""
+        }
+      ],
+      "disambiguation": "",
+      "title": "我愛南京",
+      "quality": "normal",
+      "release-events": [
+        {
+          "date": "2009-10-16",
+          "area": {
+            "name": "Hong Kong",
+            "type": null,
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "iso-3166-2-codes": [
+              "CN-91"
+            ],
+            "disambiguation": "",
+            "sort-name": "Hong Kong"
+          }
+        },
+        {
+          "date": "2009-10-16",
+          "area": {
+            "type": null,
+            "name": "Macao",
+            "type-id": null,
+            "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+            "disambiguation": "",
+            "iso-3166-2-codes": [
+              "CN-92"
+            ],
+            "iso-3166-1-codes": [
+              "MO"
+            ],
+            "sort-name": "Macao"
+          }
+        },
+        {
+          "area": {
+            "sort-name": "Taiwan",
+            "disambiguation": "",
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "type-id": null,
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "type": null,
+            "name": "Taiwan"
+          },
+          "date": "2009-10-16"
+        }
+      ],
+      "id": "f28acf1a-9a4f-40dd-84e6-559a8d7f4340",
+      "barcode": "9787880973792"
+    }
+  ]
+}

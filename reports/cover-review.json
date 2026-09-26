@@ -1,0 +1,106 @@
+[
+  {
+    "album": "将进酒",
+    "cover": "cover.jpg",
+    "source": {
+      "provider": "OneDrive",
+      "sourceFileName": "2007 - 李志 - 将进酒.jpg",
+      "width": 370,
+      "height": 370,
+      "lowResolution": true,
+      "originalPath": "covers/originals/2007 - 李志 - 将进酒.jpg"
+    }
+  },
+  {
+    "album": "我们也爱南京",
+    "cover": "cover.jpg",
+    "source": {
+      "provider": "Douban",
+      "url": "https://img3.doubanio.com/view/subject/m/public/s6978572.jpg",
+      "width": 115,
+      "height": 160,
+      "lowResolution": true
+    }
+  },
+  {
+    "album": "金城兰州",
+    "cover": "cover.jpg",
+    "source": {
+      "provider": "lizhinb.com",
+      "url": "https://st.nj1701.com/金城兰州/封面.jpg",
+      "width": 300,
+      "height": 300,
+      "lowResolution": true,
+      "originalPath": "covers/originals/2018 - 金城兰州 - 金城兰州.jpg"
+    }
+  },
+  {
+    "album": "义乌隔壁酒吧",
+    "cover": "cover.jpg",
+    "source": {
+      "provider": "lizhinb.com",
+      "url": "https://st.nj1701.com/义乌隔壁酒吧/封面.jpg",
+      "width": 358,
+      "height": 358,
+      "lowResolution": true,
+      "originalPath": "covers/originals/2009 - 义乌隔壁酒吧 - 义乌隔壁酒吧.jpg"
+    }
+  },
+  {
+    "album": "叁缺壹吉隆坡站",
+    "cover": "cover.jpg",
+    "source": {
+      "provider": "lizhinb.com",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/封面.jpg",
+      "width": 300,
+      "height": 300,
+      "lowResolution": true,
+      "originalPath": "covers/originals/2025 - 叁缺壹吉隆坡站 - 叁缺壹吉隆坡站.jpg"
+    }
+  },
+  {
+    "album": "挺 不插电巡演 郑州站",
+    "cover": "cover.jpg",
+    "source": {
+      "provider": "lizhinb.com",
+      "url": "https://st.nj1701.com/挺%20不插电巡演%20郑州站/封面.jpg",
+      "width": 300,
+      "height": 300,
+      "lowResolution": true
+    }
+  },
+  {
+    "album": "杭州酒球会一身酒气",
+    "cover": "cover.jpg",
+    "source": {
+      "provider": "lizhinb.com",
+      "url": "https://st.nj1701.com/杭州酒球会一身酒气/封面.jpg",
+      "width": 300,
+      "height": 300,
+      "lowResolution": true,
+      "originalPath": "covers/originals/2015 - 杭州酒球会一身酒气 - 杭州酒球会一身酒气.jpg"
+    }
+  },
+  {
+    "album": "洗心革面 - 演唱会录音",
+    "cover": "cover.jpg",
+    "source": {
+      "provider": "lizhinb.com",
+      "url": "https://st.nj1701.com/洗心革面%20跨年音乐会/封面.jpg",
+      "width": 300,
+      "height": 300,
+      "lowResolution": true
+    }
+  },
+  {
+    "album": "洗心革面（歌迷站26轨版）",
+    "cover": "cover.jpg",
+    "source": {
+      "provider": "lizhinb.com",
+      "url": "https://st.nj1701.com/洗心革面%20跨年音乐会/封面.jpg",
+      "width": 300,
+      "height": 300,
+      "lowResolution": true
+    }
+  }
+]

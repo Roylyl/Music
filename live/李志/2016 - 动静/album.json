@@ -1,0 +1,1681 @@
+{
+  "id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7",
+  "artist": "李志",
+  "title": "动静",
+  "releaseDate": "2016-03-14",
+  "releaseDatePrecision": "day",
+  "year": 2016,
+  "type": "live",
+  "path": "live/李志/2016 - 动静",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t01",
+      "artist": "李志",
+      "album": "动静",
+      "title": "好威武支持有希望+倒影+青春+人民币 (2015动静版)",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 665.13,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1aKUaM7mwft1mtkujMdYEbHoWUxurVvZn/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 动静/01-01 - 好威武支持有希望+倒影+青春+人民币 (2015动静版).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 665.13,
+        "fileSize": 26918284,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t01",
+          "localPath": "live/李志/2016 - 动静/01-01 - 好威武支持有希望+倒影+青春+人民币 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1aKUaM7mwft1mtkujMdYEbHoWUxurVvZn/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 665.13,
+            "fileSize": 26918284,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 665.13,
+            "fileSize": 26918284,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 665.129,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 665.13,
+        "fileSize": 26918284,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t01",
+          "localPath": "live/李志/2016 - 动静/01-01 - 好威武支持有希望+倒影+青春+人民币 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1aKUaM7mwft1mtkujMdYEbHoWUxurVvZn/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 665.13,
+            "fileSize": 26918284,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 665.13,
+            "fileSize": 26918284,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t02",
+      "artist": "李志",
+      "album": "动静",
+      "title": "你的早晨 (2015动静版)",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 340.01,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1MwM9bwN_nlrMz-AmdALx2ZtnT0sEa2Te/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 动静/01-02 - 你的早晨 (2015动静版).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2015-9",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--10",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 1,
+          "duration": 339.968,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 340.01,
+        "fileSize": 13900451,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t02",
+          "localPath": "live/李志/2016 - 动静/01-02 - 你的早晨 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1MwM9bwN_nlrMz-AmdALx2ZtnT0sEa2Te/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 340.01,
+            "fileSize": 13900451,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 340.01,
+            "fileSize": 13900451,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 339.968,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 340.01,
+        "fileSize": 13900451,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t02",
+          "localPath": "live/李志/2016 - 动静/01-02 - 你的早晨 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1MwM9bwN_nlrMz-AmdALx2ZtnT0sEa2Te/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 340.01,
+            "fileSize": 13900451,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 340.01,
+            "fileSize": 13900451,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t03",
+      "artist": "李志",
+      "album": "动静",
+      "title": "普希金 (2015动静版)",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 273.319,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/动静/普希金(2015动静版).mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 动静/01-03 - 普希金 (2015动静版).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2015-10",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--10",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 2,
+          "duration": 273.28,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 273.319,
+        "fileSize": 11230157,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t03",
+          "localPath": "live/李志/2016 - 动静/01-03 - 普希金 (2015动静版).mp3",
+          "sourceUrl": "https://st.nj1701.com/动静/普希金(2015动静版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 273.319,
+            "fileSize": 11230157,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 273.319,
+            "fileSize": 11230157,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 273.28,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 273.319,
+        "fileSize": 11230157,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t03",
+          "localPath": "live/李志/2016 - 动静/01-03 - 普希金 (2015动静版).mp3",
+          "sourceUrl": "https://st.nj1701.com/动静/普希金(2015动静版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 273.319,
+            "fileSize": 11230157,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 273.319,
+            "fileSize": 11230157,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t04",
+      "artist": "李志",
+      "album": "动静",
+      "title": "卡夫卡 (2015动静版)",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 276.637,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1KndorqOLtoyUz2ojbc6Qz76b3Yy4vkIg/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 动静/01-04 - 卡夫卡 (2015动静版).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2015-11",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--10",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 3,
+          "duration": 276.603,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 276.637,
+        "fileSize": 11362992,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t04",
+          "localPath": "live/李志/2016 - 动静/01-04 - 卡夫卡 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1KndorqOLtoyUz2ojbc6Qz76b3Yy4vkIg/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 276.637,
+            "fileSize": 11362992,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 276.637,
+            "fileSize": 11362992,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 276.602,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 276.637,
+        "fileSize": 11362992,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t04",
+          "localPath": "live/李志/2016 - 动静/01-04 - 卡夫卡 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1KndorqOLtoyUz2ojbc6Qz76b3Yy4vkIg/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 276.637,
+            "fileSize": 11362992,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 276.637,
+            "fileSize": 11362992,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t05",
+      "artist": "李志",
+      "album": "动静",
+      "title": "和你在一起 (2015动静版)",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 280.059,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/11IixF_q0orwlMx_TcDq9-cxwGyE1sk1V/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 动静/01-05 - 和你在一起 (2015动静版).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2015-12",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--10",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 4,
+          "duration": 280.021,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 280.059,
+        "fileSize": 11500015,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t05",
+          "localPath": "live/李志/2016 - 动静/01-05 - 和你在一起 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/11IixF_q0orwlMx_TcDq9-cxwGyE1sk1V/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 280.059,
+            "fileSize": 11500015,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 280.059,
+            "fileSize": 11500015,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 280.021,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 280.059,
+        "fileSize": 11500015,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t05",
+          "localPath": "live/李志/2016 - 动静/01-05 - 和你在一起 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/11IixF_q0orwlMx_TcDq9-cxwGyE1sk1V/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 280.059,
+            "fileSize": 11500015,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 280.059,
+            "fileSize": 11500015,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t06",
+      "artist": "李志",
+      "album": "动静",
+      "title": "忽然 (2015动静版)",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 266.527,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1_WYzaHcySIDUJy8D5rUNhVOi6-7qq6YC/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 动静/01-06 - 忽然 (2015动静版).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2015-13",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--10",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 5,
+          "duration": 266.496,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 266.527,
+        "fileSize": 10958210,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t06",
+          "localPath": "live/李志/2016 - 动静/01-06 - 忽然 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1_WYzaHcySIDUJy8D5rUNhVOi6-7qq6YC/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 266.527,
+            "fileSize": 10958210,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 266.527,
+            "fileSize": 10958210,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 266.496,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 266.527,
+        "fileSize": 10958210,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t06",
+          "localPath": "live/李志/2016 - 动静/01-06 - 忽然 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1_WYzaHcySIDUJy8D5rUNhVOi6-7qq6YC/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 266.527,
+            "fileSize": 10958210,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 266.527,
+            "fileSize": 10958210,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t07",
+      "artist": "李志",
+      "album": "动静",
+      "title": "定西 (2015动静版)",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 265.221,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/15o50W4iGj_xDZlAuQUpEyDkMIGILMgE6/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 动静/01-07 - 定西 (2015动静版).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2015-14",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--10",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 6,
+          "duration": 265.19,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 265.221,
+        "fileSize": 10905913,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t07",
+          "localPath": "live/李志/2016 - 动静/01-07 - 定西 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/15o50W4iGj_xDZlAuQUpEyDkMIGILMgE6/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 265.221,
+            "fileSize": 10905913,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 265.221,
+            "fileSize": 10905913,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 265.19,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 265.221,
+        "fileSize": 10905913,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t07",
+          "localPath": "live/李志/2016 - 动静/01-07 - 定西 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/15o50W4iGj_xDZlAuQUpEyDkMIGILMgE6/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 265.221,
+            "fileSize": 10905913,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 265.221,
+            "fileSize": 10905913,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t08",
+      "artist": "李志",
+      "album": "动静",
+      "title": "地方 (2015动静版)",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 361.169,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1luDYwPvDbWN7f0aqw1ocCRfVkUM4rHcr/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 动静/01-08 - 地方 (2015动静版).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 361.169,
+        "fileSize": 14747661,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t08",
+          "localPath": "live/李志/2016 - 动静/01-08 - 地方 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1luDYwPvDbWN7f0aqw1ocCRfVkUM4rHcr/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 361.169,
+            "fileSize": 14747661,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 361.169,
+            "fileSize": 14747661,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 361.168,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 361.169,
+        "fileSize": 14747661,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t08",
+          "localPath": "live/李志/2016 - 动静/01-08 - 地方 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1luDYwPvDbWN7f0aqw1ocCRfVkUM4rHcr/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 361.169,
+            "fileSize": 14747661,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 361.169,
+            "fileSize": 14747661,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t09",
+      "artist": "李志",
+      "album": "动静",
+      "title": "这个世界会好吗 (2015动静版)",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 314.122,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/19B-MM38s11037rSmeu_354z1LGzvHg31/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 动静/01-09 - 这个世界会好吗 (2015动静版).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 314.122,
+        "fileSize": 12863928,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t09",
+          "localPath": "live/李志/2016 - 动静/01-09 - 这个世界会好吗 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/19B-MM38s11037rSmeu_354z1LGzvHg31/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 314.122,
+            "fileSize": 12863928,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 314.122,
+            "fileSize": 12863928,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 314.09,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 314.122,
+        "fileSize": 12863928,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t09",
+          "localPath": "live/李志/2016 - 动静/01-09 - 这个世界会好吗 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/19B-MM38s11037rSmeu_354z1LGzvHg31/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 314.122,
+            "fileSize": 12863928,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 314.122,
+            "fileSize": 12863928,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t10",
+      "artist": "李志",
+      "album": "动静",
+      "title": "墙上的向日葵 (2015动静版)",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 405.29,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/17duLdB9Hnx6x21_J6N1CiFefl8OaQABW/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 动静/01-10 - 墙上的向日葵 (2015动静版).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2015-15",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--10",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 7,
+          "duration": 405.243,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 405.29,
+        "fileSize": 16514268,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t10",
+          "localPath": "live/李志/2016 - 动静/01-10 - 墙上的向日葵 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/17duLdB9Hnx6x21_J6N1CiFefl8OaQABW/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 405.29,
+            "fileSize": 16514268,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 405.29,
+            "fileSize": 16514268,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 405.242,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 405.29,
+        "fileSize": 16514268,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t10",
+          "localPath": "live/李志/2016 - 动静/01-10 - 墙上的向日葵 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/17duLdB9Hnx6x21_J6N1CiFefl8OaQABW/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 405.29,
+            "fileSize": 16514268,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 405.29,
+            "fileSize": 16514268,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t11",
+      "artist": "李志",
+      "album": "动静",
+      "title": "尽头 (2015动静版)",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 206.158,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1QxuhIUx1UkN78-0EaToc5ej4pMZdCKa1/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 动静/01-11 - 尽头 (2015动静版).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2015-16",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--10",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 8,
+          "duration": 206.128,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 206.158,
+        "fileSize": 8541038,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t11",
+          "localPath": "live/李志/2016 - 动静/01-11 - 尽头 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1QxuhIUx1UkN78-0EaToc5ej4pMZdCKa1/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 206.158,
+            "fileSize": 8541038,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 206.158,
+            "fileSize": 8541038,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 206.128,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 206.158,
+        "fileSize": 8541038,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t11",
+          "localPath": "live/李志/2016 - 动静/01-11 - 尽头 (2015动静版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1QxuhIUx1UkN78-0EaToc5ej4pMZdCKa1/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 206.158,
+            "fileSize": 8541038,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 206.158,
+            "fileSize": 8541038,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/860b6bbc-fd99-42a9-94bb-0b08af0958f7",
+    "https://lizhilizhi.bandcamp.com/album/--10"
+  ],
+  "notes": [],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "Bandcamp",
+      "url": "https://lizhilizhi.bandcamp.com/album/--10",
+      "title": "動靜",
+      "releaseDate": "22 Oct 2020 10:12:37 GMT",
+      "trackCount": 8,
+      "tracks": [
+        {
+          "title": "你的早晨（2015跨年版）",
+          "track_num": 1,
+          "duration": 339.968,
+          "title_link": "/track/2015-9",
+          "track_id": 1824420435
+        },
+        {
+          "title": "普希金（2015跨年版）",
+          "track_num": 2,
+          "duration": 273.28,
+          "title_link": "/track/2015-10",
+          "track_id": 722409837
+        },
+        {
+          "title": "卡夫卡（2015跨年版）",
+          "track_num": 3,
+          "duration": 276.603,
+          "title_link": "/track/2015-11",
+          "track_id": 1350440412
+        },
+        {
+          "title": "和你在一起（2015跨年版）",
+          "track_num": 4,
+          "duration": 280.021,
+          "title_link": "/track/2015-12",
+          "track_id": 1236136435
+        },
+        {
+          "title": "忽然（2015跨年版）",
+          "track_num": 5,
+          "duration": 266.496,
+          "title_link": "/track/2015-13",
+          "track_id": 250723492
+        },
+        {
+          "title": "定西（2015跨年版）",
+          "track_num": 6,
+          "duration": 265.19,
+          "title_link": "/track/2015-14",
+          "track_id": 1101445991
+        },
+        {
+          "title": "牆上的向日葵（2015跨年版）",
+          "track_num": 7,
+          "duration": 405.243,
+          "title_link": "/track/2015-15",
+          "track_id": 1820273270
+        },
+        {
+          "title": "盡頭（2015跨年版）",
+          "track_num": 8,
+          "duration": 206.128,
+          "title_link": "/track/2015-16",
+          "track_id": 551812571
+        }
+      ],
+      "offer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $62 HKD or more Send as Gift",
+      "note": "平台上架日期，不替代原始发行日期。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "860b6bbc-fd99-42a9-94bb-0b08af0958f7",
+    "title": "动静（2015 Live）",
+    "date": "2016-01-01",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2016-01-01",
+      "source": "https://musicbrainz.org/release/860b6bbc-fd99-42a9-94bb-0b08af0958f7"
+    },
+    {
+      "date": "2016-03-14",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2016 - 李志 - 动静.jpg",
+    "width": 3000,
+    "height": 3000,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2016 - 李志 - 动静.jpg"
+  },
+  "trackCount": 11,
+  "tracklistStatus": "edition-listed"
+}

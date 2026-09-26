@@ -1,0 +1,8 @@
+{
+  "paths": {
+    "live/李志/2015 - i／O - 完整版录音/full-concert.webm": "live/李志/2015 - i／O - 完整版录音/full-concert.opus",
+    "live/李志/2011 - 我们也爱南京/full-concert.webm": "live/李志/2011 - 我们也爱南京/full-concert.opus",
+    "live/李志/2007 - 将进酒/full-concert.webm": "live/李志/2007 - 将进酒/full-concert.opus"
+  },
+  "method": "Opus stream copy, no audio re-encoding"
+}

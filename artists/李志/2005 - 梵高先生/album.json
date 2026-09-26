@@ -1,0 +1,1438 @@
+{
+  "id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493",
+  "artist": "李志",
+  "title": "梵高先生",
+  "releaseDate": "2005-12-25",
+  "releaseDatePrecision": "day",
+  "year": 2005,
+  "type": "studio",
+  "path": "artists/李志/2005 - 梵高先生",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t01",
+      "artist": "李志",
+      "album": "梵高先生",
+      "title": "你离开了南京，从此没有人和我说话（乐曲）",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 71.863,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1CZkr-wWc6ez__9qWGQo4JMSpsdnR63Ua/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2005 - 梵高先生/01-01 - 你离开了南京，从此没有人和我说话（乐曲）.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--7",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--2",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 1,
+          "duration": 71.8133,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 71.863,
+        "fileSize": 2988756,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t01",
+          "localPath": "artists/李志/2005 - 梵高先生/01-01 - 你离开了南京，从此没有人和我说话（乐曲）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1CZkr-wWc6ez__9qWGQo4JMSpsdnR63Ua/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 71.863,
+            "fileSize": 2988756,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 71.813,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 71.813,
+            "fileSize": 6696099,
+            "bitRate": 732912
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 73.813,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 71.813,
+        "fileSize": 6696099,
+        "bitRate": 732912
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t01",
+          "localPath": "artists/李志/2005 - 梵高先生/01-01 - 你离开了南京，从此没有人和我说话（乐曲）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1CZkr-wWc6ez__9qWGQo4JMSpsdnR63Ua/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 71.863,
+            "fileSize": 2988756,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 71.813,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 71.813,
+            "fileSize": 6696099,
+            "bitRate": 732912
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t02",
+      "artist": "李志",
+      "album": "梵高先生",
+      "title": "董卓瑶",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 197.825,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Gp82w6ZM6_NIRIi8iWdgIxumVO91CYag/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2005 - 梵高先生/01-02 - 董卓瑶.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--8",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--2",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 2,
+          "duration": 197.787,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 197.825,
+        "fileSize": 8032259,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t02",
+          "localPath": "artists/李志/2005 - 梵高先生/01-02 - 董卓瑶.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Gp82w6ZM6_NIRIi8iWdgIxumVO91CYag/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 197.825,
+            "fileSize": 8032259,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 197.787,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 197.787,
+            "fileSize": 25642255,
+            "bitRate": 1031672
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 199.786,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 197.787,
+        "fileSize": 25642255,
+        "bitRate": 1031672
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t02",
+          "localPath": "artists/李志/2005 - 梵高先生/01-02 - 董卓瑶.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Gp82w6ZM6_NIRIi8iWdgIxumVO91CYag/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 197.825,
+            "fileSize": 8032259,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 197.787,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 197.787,
+            "fileSize": 25642255,
+            "bitRate": 1031672
+          }
+        },
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t02",
+          "localPath": "artists/李志/2005 - 梵高先生/01-02 - 董卓瑶.mp3",
+          "sourceUrl": "https://st.nj1701.com/梵高先生/董卓瑶.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 197.825,
+            "fileSize": 8032259,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t03",
+      "artist": "李志",
+      "album": "梵高先生",
+      "title": "春末的南方城市",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 246.779,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1pK5vKfz3vtfpmvGa-RyMPo_a6qgi9Rcl/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--9",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--2",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 3,
+          "duration": 246.747,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 246.779,
+        "fileSize": 9992364,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t03",
+          "localPath": "artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1pK5vKfz3vtfpmvGa-RyMPo_a6qgi9Rcl/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 246.779,
+            "fileSize": 9992364,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 246.747,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 246.747,
+            "fileSize": 30869900,
+            "bitRate": 996286
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 248.746,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 246.747,
+        "fileSize": 30869900,
+        "bitRate": 996286
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t03",
+          "localPath": "artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1pK5vKfz3vtfpmvGa-RyMPo_a6qgi9Rcl/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 246.779,
+            "fileSize": 9992364,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 246.747,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 246.747,
+            "fileSize": 30869900,
+            "bitRate": 996286
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t04",
+      "artist": "李志",
+      "album": "梵高先生",
+      "title": "来了",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 311.589,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1dGx6cpWqiBH6lJel-K5YAU8Q1z3LkLE-/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2005 - 梵高先生/01-04 - 来了.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--10",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--2",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 4,
+          "duration": 311.56,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 311.589,
+        "fileSize": 12587337,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t04",
+          "localPath": "artists/李志/2005 - 梵高先生/01-04 - 来了.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1dGx6cpWqiBH6lJel-K5YAU8Q1z3LkLE-/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 311.589,
+            "fileSize": 12587337,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 311.56,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 311.56,
+            "fileSize": 33960680,
+            "bitRate": 868314
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 313.56,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 311.56,
+        "fileSize": 33960680,
+        "bitRate": 868314
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t04",
+          "localPath": "artists/李志/2005 - 梵高先生/01-04 - 来了.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1dGx6cpWqiBH6lJel-K5YAU8Q1z3LkLE-/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 311.589,
+            "fileSize": 12587337,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 311.56,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 311.56,
+            "fileSize": 33960680,
+            "bitRate": 868314
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05",
+      "artist": "李志",
+      "album": "梵高先生",
+      "title": "广场",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 251.35,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1iGCU2h-oimCGAqNP3chfA2Hp2zdR0VtB/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2005 - 梵高先生/01-05 - 广场.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 251.35,
+        "fileSize": 10175394,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05",
+          "localPath": "artists/李志/2005 - 梵高先生/01-05 - 广场.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1iGCU2h-oimCGAqNP3chfA2Hp2zdR0VtB/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 251.35,
+            "fileSize": 10175394,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 251.32,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 251.32,
+            "fileSize": 30310103,
+            "bitRate": 960355
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 251.32,
+        "fileSize": 30310103,
+        "bitRate": 960355
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05",
+          "localPath": "artists/李志/2005 - 梵高先生/01-05 - 广场.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1iGCU2h-oimCGAqNP3chfA2Hp2zdR0VtB/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 251.35,
+            "fileSize": 10175394,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 251.32,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 251.32,
+            "fileSize": 30310103,
+            "bitRate": 960355
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t06",
+      "artist": "李志",
+      "album": "梵高先生",
+      "title": "暧昧",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 217.678,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1qpFSnH2MmSUTtYA9ik652ChU7k00r3Kk/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2005 - 梵高先生/01-06 - 暧昧.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 217.678,
+        "fileSize": 8827173,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t06",
+          "localPath": "artists/李志/2005 - 梵高先生/01-06 - 暧昧.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1qpFSnH2MmSUTtYA9ik652ChU7k00r3Kk/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 217.678,
+            "fileSize": 8827173,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 217.627,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 217.627,
+            "fileSize": 26379838,
+            "bitRate": 964706
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 219.626,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 217.627,
+        "fileSize": 26379838,
+        "bitRate": 964706
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t06",
+          "localPath": "artists/李志/2005 - 梵高先生/01-06 - 暧昧.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1qpFSnH2MmSUTtYA9ik652ChU7k00r3Kk/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 217.678,
+            "fileSize": 8827173,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 217.627,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 217.627,
+            "fileSize": 26379838,
+            "bitRate": 964706
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t07",
+      "artist": "李志",
+      "album": "梵高先生",
+      "title": "想起了他",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 273.528,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1oQHIoKCBX7Y4orqTljGBiQRoXfu6ToPC/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2005 - 梵高先生/01-07 - 想起了他.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 273.528,
+        "fileSize": 11063403,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t07",
+          "localPath": "artists/李志/2005 - 梵高先生/01-07 - 想起了他.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1oQHIoKCBX7Y4orqTljGBiQRoXfu6ToPC/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 273.528,
+            "fileSize": 11063403,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 273.493,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 273.493,
+            "fileSize": 26034524,
+            "bitRate": 757554
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 275.493,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 273.493,
+        "fileSize": 26034524,
+        "bitRate": 757554
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t07",
+          "localPath": "artists/李志/2005 - 梵高先生/01-07 - 想起了他.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1oQHIoKCBX7Y4orqTljGBiQRoXfu6ToPC/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 273.528,
+            "fileSize": 11063403,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 273.493,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 273.493,
+            "fileSize": 26034524,
+            "bitRate": 757554
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t08",
+      "artist": "李志",
+      "album": "梵高先生",
+      "title": "梵高先生",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 249.783,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/李志/2005 - 梵高先生/01-08 - 梵高先生.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--11",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--2",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 5,
+          "duration": 249.747,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 249.783,
+        "fileSize": 10112641,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t08",
+          "localPath": "artists/李志/2005 - 梵高先生/01-08 - 梵高先生.mp3",
+          "sourceUrl": "",
+          "sourceFileName": "梵高先生.flac",
+          "provider": "OneDrive user library",
+          "rightsStatus": "user-provided-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 249.783,
+            "fileSize": 10112641,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 249.747,
+            "fileSize": 29464186,
+            "bitRate": 939332
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "user-provided-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 251.746,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 249.747,
+        "fileSize": 29464186,
+        "bitRate": 939332
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t08",
+          "localPath": "artists/李志/2005 - 梵高先生/01-08 - 梵高先生.mp3",
+          "sourceUrl": "",
+          "sourceFileName": "梵高先生.flac",
+          "provider": "OneDrive user library",
+          "rightsStatus": "user-provided-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 249.783,
+            "fileSize": 10112641,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 249.747,
+            "fileSize": 29464186,
+            "bitRate": 939332
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t08",
+          "localPath": "artists/李志/2005 - 梵高先生/01-08 - 梵高先生.mp3",
+          "sourceUrl": "https://st.nj1701.com/梵高先生/梵高先生.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 249.783,
+            "fileSize": 10112641,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t09",
+      "artist": "李志",
+      "album": "梵高先生",
+      "title": "斜",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 216.79,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/18Qlxpne0qlTTF3AhcW6LRQvm3aGZKJdM/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2005 - 梵高先生/01-09 - 斜.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--13",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--2",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 7,
+          "duration": 216.76,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 216.79,
+        "fileSize": 8791609,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t09",
+          "localPath": "artists/李志/2005 - 梵高先生/01-09 - 斜.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/18Qlxpne0qlTTF3AhcW6LRQvm3aGZKJdM/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 216.79,
+            "fileSize": 8791609,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 216.76,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 216.76,
+            "fileSize": 20641135,
+            "bitRate": 756976
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 216.773,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 216.76,
+        "fileSize": 20641135,
+        "bitRate": 756976
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t09",
+          "localPath": "artists/李志/2005 - 梵高先生/01-09 - 斜.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/18Qlxpne0qlTTF3AhcW6LRQvm3aGZKJdM/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 216.79,
+            "fileSize": 8791609,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 216.76,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 216.76,
+            "fileSize": 20641135,
+            "bitRate": 756976
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/211ffdd9-238e-4c6d-858d-a38f725e0493",
+    "https://lizhilizhi.bandcamp.com/album/--2"
+  ],
+  "notes": [
+    "MusicBrainz数字版记2005-12-01，实体版记2005-12-25；再版另有2007日期。"
+  ],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "Bandcamp",
+      "url": "https://lizhilizhi.bandcamp.com/album/--2",
+      "title": "梵高先生",
+      "releaseDate": "21 Oct 2020 00:00:00 GMT",
+      "trackCount": 7,
+      "tracks": [
+        {
+          "title": "李志LiZhi - 你離開了南京，從此沒有人和我說話",
+          "track_num": 1,
+          "duration": 71.8133,
+          "title_link": "/track/--7",
+          "track_id": 2367657344
+        },
+        {
+          "title": "李志LiZhi - 董卓瑤",
+          "track_num": 2,
+          "duration": 197.787,
+          "title_link": "/track/--8",
+          "track_id": 2477525235
+        },
+        {
+          "title": "李志LiZhi - 春末的南方城市",
+          "track_num": 3,
+          "duration": 246.747,
+          "title_link": "/track/--9",
+          "track_id": 2065133941
+        },
+        {
+          "title": "李志LiZhi - 來了",
+          "track_num": 4,
+          "duration": 311.56,
+          "title_link": "/track/--10",
+          "track_id": 883377400
+        },
+        {
+          "title": "李志LiZhi - 梵高先生",
+          "track_num": 5,
+          "duration": 249.747,
+          "title_link": "/track/--11",
+          "track_id": 2232849791
+        },
+        {
+          "title": "李志LiZhi - 想起了她",
+          "track_num": 6,
+          "duration": 273.493,
+          "title_link": "/track/--12",
+          "track_id": 292775779
+        },
+        {
+          "title": "李志LiZhi - 斜",
+          "track_num": 7,
+          "duration": 216.76,
+          "title_link": "/track/--13",
+          "track_id": 3106989859
+        }
+      ],
+      "offer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $56 HKD or more Send as Gift",
+      "note": "平台上架日期，不替代原始发行日期。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "211ffdd9-238e-4c6d-858d-a38f725e0493",
+    "title": "梵高先生",
+    "date": "2005-12-25",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2005-12-25",
+      "source": "https://musicbrainz.org/release/211ffdd9-238e-4c6d-858d-a38f725e0493"
+    },
+    {
+      "date": "2005-12-25",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2005 - 李志 - 梵高先生.jpg",
+    "width": 3000,
+    "height": 3000,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2005 - 李志 - 梵高先生.jpg"
+  },
+  "trackCount": 9,
+  "tracklistStatus": "edition-listed"
+}

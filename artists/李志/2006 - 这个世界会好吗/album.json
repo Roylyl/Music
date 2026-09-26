@@ -1,0 +1,1595 @@
+{
+  "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9",
+  "artist": "李志",
+  "title": "这个世界会好吗",
+  "releaseDate": "2006-11-20",
+  "releaseDatePrecision": "day",
+  "year": 2006,
+  "type": "studio",
+  "path": "artists/李志/2006 - 这个世界会好吗",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t01",
+      "artist": "李志",
+      "album": "这个世界会好吗",
+      "title": "妈妈",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 244.14,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/14qAI_EsJNvXhe328QWrWfV4fRpS80rH9/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2006 - 这个世界会好吗/01-01 - 妈妈.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--14",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--3",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 1,
+          "duration": 244.107,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 244.14,
+        "fileSize": 9881755,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t01",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-01 - 妈妈.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/14qAI_EsJNvXhe328QWrWfV4fRpS80rH9/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 244.14,
+            "fileSize": 9881755,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 244.107,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 244.107,
+            "fileSize": 23758187,
+            "bitRate": 774387
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 244.107,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 244.107,
+        "fileSize": 23758187,
+        "bitRate": 774387
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t01",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-01 - 妈妈.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/14qAI_EsJNvXhe328QWrWfV4fRpS80rH9/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 244.14,
+            "fileSize": 9881755,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 244.107,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 244.107,
+            "fileSize": 23758187,
+            "bitRate": 774387
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t02",
+      "artist": "李志",
+      "album": "这个世界会好吗",
+      "title": "喀纳斯",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 320.026,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1NdLqvvg4iPur7aouJpE_1TtPO7xju25Y/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2006 - 这个世界会好吗/01-02 - 喀纳斯.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--15",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--3",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 2,
+          "duration": 320.0,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 320.026,
+        "fileSize": 12920221,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t02",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-02 - 喀纳斯.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1NdLqvvg4iPur7aouJpE_1TtPO7xju25Y/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 320.026,
+            "fileSize": 12920221,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 320.0,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 320.0,
+            "fileSize": 36222172,
+            "bitRate": 902017
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 320.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 320.0,
+        "fileSize": 36222172,
+        "bitRate": 902017
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t02",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-02 - 喀纳斯.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1NdLqvvg4iPur7aouJpE_1TtPO7xju25Y/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 320.026,
+            "fileSize": 12920221,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 320.0,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 320.0,
+            "fileSize": 36222172,
+            "bitRate": 902017
+          }
+        },
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t02",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-02 - 喀纳斯.mp3",
+          "sourceUrl": "https://st.nj1701.com/这个世界会好吗/喀纳斯.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 322.09,
+            "fileSize": 13002850,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t03",
+      "artist": "李志",
+      "album": "这个世界会好吗",
+      "title": "和你在一起",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 251.977,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1R7xh6brTXGm47QoAUL11y-jY6RC1CapI/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--16",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--3",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 3,
+          "duration": 251.933,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 251.977,
+        "fileSize": 10195544,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t03",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1R7xh6brTXGm47QoAUL11y-jY6RC1CapI/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 251.977,
+            "fileSize": 10195544,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 251.933,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 251.933,
+            "fileSize": 22780615,
+            "bitRate": 719318
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 251.933,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 251.933,
+        "fileSize": 22780615,
+        "bitRate": 719318
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t03",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1R7xh6brTXGm47QoAUL11y-jY6RC1CapI/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 251.977,
+            "fileSize": 10195544,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 251.933,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 251.933,
+            "fileSize": 22780615,
+            "bitRate": 719318
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t04",
+      "artist": "李志",
+      "album": "这个世界会好吗",
+      "title": "我们不能失去信仰",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 251.951,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1WPcz03i8nOpiLX4m7j-CUDvKcktvbBD6/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2006 - 这个世界会好吗/01-04 - 我们不能失去信仰.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--18",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--3",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 5,
+          "duration": 251.907,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 251.951,
+        "fileSize": 10194504,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t04",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-04 - 我们不能失去信仰.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1WPcz03i8nOpiLX4m7j-CUDvKcktvbBD6/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 251.951,
+            "fileSize": 10194504,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 251.907,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 251.907,
+            "fileSize": 30888794,
+            "bitRate": 976635
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 251.907,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 251.907,
+        "fileSize": 30888794,
+        "bitRate": 976635
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t04",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-04 - 我们不能失去信仰.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1WPcz03i8nOpiLX4m7j-CUDvKcktvbBD6/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 251.951,
+            "fileSize": 10194504,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 251.907,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 251.907,
+            "fileSize": 30888794,
+            "bitRate": 976635
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t05",
+      "artist": "李志",
+      "album": "这个世界会好吗",
+      "title": "翁庆年的六英镑",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 256.522,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1NCPt7QTd_k1fvVsVLlZcI2v3KbzOIxfb/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2006 - 这个世界会好吗/01-05 - 翁庆年的六英镑.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--17",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--3",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 4,
+          "duration": 256.48,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 256.522,
+        "fileSize": 10377542,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t05",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-05 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1NCPt7QTd_k1fvVsVLlZcI2v3KbzOIxfb/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 256.522,
+            "fileSize": 10377542,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 256.48,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 256.48,
+            "fileSize": 26414137,
+            "bitRate": 819789
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 256.48,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 256.48,
+        "fileSize": 26414137,
+        "bitRate": 819789
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t05",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-05 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1NCPt7QTd_k1fvVsVLlZcI2v3KbzOIxfb/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 256.522,
+            "fileSize": 10377542,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 256.48,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 256.48,
+            "fileSize": 26414137,
+            "bitRate": 819789
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t06",
+      "artist": "李志",
+      "album": "这个世界会好吗",
+      "title": "他们",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 297.038,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Qc6yjftWXXy1SzaEeV2WXt13m2cQNfl6/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2006 - 这个世界会好吗/01-06 - 他们.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 297.038,
+        "fileSize": 11999789,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t06",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-06 - 他们.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Qc6yjftWXXy1SzaEeV2WXt13m2cQNfl6/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 297.038,
+            "fileSize": 11999789,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 297.0,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 297.0,
+            "fileSize": 36665876,
+            "bitRate": 983810
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 297.0,
+        "fileSize": 36665876,
+        "bitRate": 983810
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t06",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-06 - 他们.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Qc6yjftWXXy1SzaEeV2WXt13m2cQNfl6/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 297.038,
+            "fileSize": 11999789,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 297.0,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 297.0,
+            "fileSize": 36665876,
+            "bitRate": 983810
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t07",
+      "artist": "李志",
+      "album": "这个世界会好吗",
+      "title": "海的女儿",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 210.965,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1-8mdb_KCCCNIla8lP5E-YCiYp2zxb_KT/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2006 - 这个世界会好吗/01-07 - 海的女儿.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--19",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--3",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 6,
+          "duration": 210.92,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 210.965,
+        "fileSize": 8553412,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t07",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-07 - 海的女儿.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1-8mdb_KCCCNIla8lP5E-YCiYp2zxb_KT/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 210.965,
+            "fileSize": 8553412,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 210.92,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 210.92,
+            "fileSize": 17756349,
+            "bitRate": 668814
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 210.92,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 210.92,
+        "fileSize": 17756349,
+        "bitRate": 668814
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t07",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-07 - 海的女儿.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1-8mdb_KCCCNIla8lP5E-YCiYp2zxb_KT/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 210.965,
+            "fileSize": 8553412,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 210.92,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 210.92,
+            "fileSize": 17756349,
+            "bitRate": 668814
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t08",
+      "artist": "李志",
+      "album": "这个世界会好吗",
+      "title": "交河（乐曲）",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 218.462,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/11vi5Q2xAEeCWhhF1CIBzHpT1gXnqQftW/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2006 - 这个世界会好吗/01-08 - 交河（乐曲）.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--20",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--3",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 7,
+          "duration": 218.427,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 218.462,
+        "fileSize": 8853601,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t08",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-08 - 交河（乐曲）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/11vi5Q2xAEeCWhhF1CIBzHpT1gXnqQftW/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 218.462,
+            "fileSize": 8853601,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 218.427,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 218.427,
+            "fileSize": 23135394,
+            "bitRate": 842643
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 218.427,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 218.427,
+        "fileSize": 23135394,
+        "bitRate": 842643
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t08",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-08 - 交河（乐曲）.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/11vi5Q2xAEeCWhhF1CIBzHpT1gXnqQftW/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 218.462,
+            "fileSize": 8853601,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 218.427,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 218.427,
+            "fileSize": 23135394,
+            "bitRate": 842643
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t09",
+      "artist": "李志",
+      "album": "这个世界会好吗",
+      "title": "这个世界会好吗",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 240.039,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/12l8CsNTVLvIc8npGvQOloLE4op2GHgE5/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 240.039,
+        "fileSize": 9717552,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t09",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/12l8CsNTVLvIc8npGvQOloLE4op2GHgE5/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 240.039,
+            "fileSize": 9717552,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 240.0,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 240.0,
+            "fileSize": 25446859,
+            "bitRate": 843870
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 240.0,
+        "fileSize": 25446859,
+        "bitRate": 843870
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t09",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/12l8CsNTVLvIc8npGvQOloLE4op2GHgE5/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 240.039,
+            "fileSize": 9717552,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 240.0,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 240.0,
+            "fileSize": 25446859,
+            "bitRate": 843870
+          }
+        },
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t09",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.mp3",
+          "sourceUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97.mp3",
+          "provider": "GitHub lvboda/lizhi-mp3",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 240.039,
+            "fileSize": 9717552,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t10",
+      "artist": "李志",
+      "album": "这个世界会好吗",
+      "title": "人民不需要自由",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 280.529,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BA%BA%E6%B0%91%E4%B8%8D%E9%9C%80%E8%A6%81%E8%87%AA%E7%94%B1.mp3",
+      "format": "MP3",
+      "localPath": "artists/李志/2006 - 这个世界会好吗/01-10 - 人民不需要自由.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 280.529,
+        "fileSize": 11338766,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t10",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-10 - 人民不需要自由.mp3",
+          "sourceUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BA%BA%E6%B0%91%E4%B8%8D%E9%9C%80%E8%A6%81%E8%87%AA%E7%94%B1.mp3",
+          "provider": "GitHub lvboda/lizhi-mp3",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 280.529,
+            "fileSize": 11338766,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 280.529,
+            "fileSize": 11338766,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 280.529,
+        "fileSize": 11338766,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t10",
+          "localPath": "artists/李志/2006 - 这个世界会好吗/01-10 - 人民不需要自由.mp3",
+          "sourceUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BA%BA%E6%B0%91%E4%B8%8D%E9%9C%80%E8%A6%81%E8%87%AA%E7%94%B1.mp3",
+          "provider": "GitHub lvboda/lizhi-mp3",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 280.529,
+            "fileSize": 11338766,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 280.529,
+            "fileSize": 11338766,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/083e1542-8767-4a92-8465-bc3fb233b8b9",
+    "https://lizhilizhi.bandcamp.com/album/--3"
+  ],
+  "notes": [
+    "公开WAV的17分18秒源文件另存full-source.flac；前240秒已无损切分为曲目9，后段未归属具体曲目。 原WAV已转为44.1kHz FLAC。"
+  ],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "Bandcamp",
+      "url": "https://lizhilizhi.bandcamp.com/album/--3",
+      "title": "这个世界会好吗",
+      "releaseDate": "22 Oct 2020 00:00:00 GMT",
+      "trackCount": 7,
+      "tracks": [
+        {
+          "title": "李志LiZhi - 媽媽",
+          "track_num": 1,
+          "duration": 244.107,
+          "title_link": "/track/--14",
+          "track_id": 13042796
+        },
+        {
+          "title": "李志LiZhi - 喀納斯",
+          "track_num": 2,
+          "duration": 320.0,
+          "title_link": "/track/--15",
+          "track_id": 278772199
+        },
+        {
+          "title": "李志LiZhi - 和你在一起",
+          "track_num": 3,
+          "duration": 251.933,
+          "title_link": "/track/--16",
+          "track_id": 3815106632
+        },
+        {
+          "title": "李志LiZhi - 翁慶年的六英鎊",
+          "track_num": 4,
+          "duration": 256.48,
+          "title_link": "/track/--17",
+          "track_id": 3961875065
+        },
+        {
+          "title": "李志LiZhi - 我們不能失去信仰",
+          "track_num": 5,
+          "duration": 251.907,
+          "title_link": "/track/--18",
+          "track_id": 1063781425
+        },
+        {
+          "title": "李志LiZhi - 海的女兒",
+          "track_num": 6,
+          "duration": 210.92,
+          "title_link": "/track/--19",
+          "track_id": 1153945285
+        },
+        {
+          "title": "李志LiZhi - 交河",
+          "track_num": 7,
+          "duration": 218.427,
+          "title_link": "/track/--20",
+          "track_id": 3782285991
+        }
+      ],
+      "offer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $56 HKD or more Send as Gift",
+      "note": "平台上架日期，不替代原始发行日期。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "083e1542-8767-4a92-8465-bc3fb233b8b9",
+    "title": "这个世界会好吗",
+    "date": "2006-11-20",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2006-11-20",
+      "source": "https://musicbrainz.org/release/083e1542-8767-4a92-8465-bc3fb233b8b9"
+    },
+    {
+      "date": "2006-11-20",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2006 - 李志 - 这个世界会好吗.jpg",
+    "width": 3000,
+    "height": 3000,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2006 - 李志 - 这个世界会好吗.jpg"
+  },
+  "trackCount": 10,
+  "tracklistStatus": "edition-listed",
+  "additionalAssets": [
+    {
+      "path": "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.full-source.flac",
+      "type": "unidentified-extended-source",
+      "description": "17分18秒公开WAV包含歌曲以外音频；已保留待辨认。"
+    }
+  ]
+}

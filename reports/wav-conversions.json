@@ -1,0 +1,786 @@
+{
+  "artists/李志/2004 - 被禁忌的游戏/01-02 - 青春.wav": {
+    "new": "artists/李志/2004 - 被禁忌的游戏/01-02 - 青春.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 192.56,
+      "fileSize": 18940189,
+      "bitRate": 786535
+    }
+  },
+  "artists/李志/2004 - 被禁忌的游戏/01-03 - 阿兰.wav": {
+    "new": "artists/李志/2004 - 被禁忌的游戏/01-03 - 阿兰.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 166.093,
+      "fileSize": 13977660,
+      "bitRate": 672844
+    }
+  },
+  "artists/李志/2004 - 被禁忌的游戏/01-04 - 离婚.wav": {
+    "new": "artists/李志/2004 - 被禁忌的游戏/01-04 - 离婚.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 295.813,
+      "fileSize": 26750575,
+      "bitRate": 723220
+    }
+  },
+  "artists/李志/2004 - 被禁忌的游戏/01-05 - 欢愉.wav": {
+    "new": "artists/李志/2004 - 被禁忌的游戏/01-05 - 欢愉.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 207.453,
+      "fileSize": 19518826,
+      "bitRate": 752382
+    }
+  },
+  "artists/李志/2004 - 被禁忌的游戏/01-06 - 卡夫卡.wav": {
+    "new": "artists/李志/2004 - 被禁忌的游戏/01-06 - 卡夫卡.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 176.88,
+      "fileSize": 16914556,
+      "bitRate": 764643
+    }
+  },
+  "artists/李志/2004 - 被禁忌的游戏/01-07 - 被禁忌的游戏.wav": {
+    "new": "artists/李志/2004 - 被禁忌的游戏/01-07 - 被禁忌的游戏.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 377.827,
+      "fileSize": 31243988,
+      "bitRate": 661376
+    }
+  },
+  "artists/李志/2004 - 被禁忌的游戏/01-08 - 罗庄的冬天.wav": {
+    "new": "artists/李志/2004 - 被禁忌的游戏/01-08 - 罗庄的冬天.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 410.893,
+      "fileSize": 39514113,
+      "bitRate": 769169
+    }
+  },
+  "artists/李志/2004 - 被禁忌的游戏/01-09 - 红色气球.wav": {
+    "new": "artists/李志/2004 - 被禁忌的游戏/01-09 - 红色气球.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 173.36,
+      "fileSize": 14319761,
+      "bitRate": 660428
+    }
+  },
+  "artists/李志/2005 - 梵高先生/01-01 - 你离开了南京，从此没有人和我说话（乐曲）.wav": {
+    "new": "artists/李志/2005 - 梵高先生/01-01 - 你离开了南京，从此没有人和我说话（乐曲）.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 71.813,
+      "fileSize": 6587393,
+      "bitRate": 732912
+    }
+  },
+  "artists/李志/2005 - 梵高先生/01-02 - 董卓瑶.wav": {
+    "new": "artists/李志/2005 - 梵高先生/01-02 - 董卓瑶.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 197.787,
+      "fileSize": 25514673,
+      "bitRate": 1031672
+    }
+  },
+  "artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.wav": {
+    "new": "artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 246.747,
+      "fileSize": 30737084,
+      "bitRate": 996286
+    }
+  },
+  "artists/李志/2005 - 梵高先生/01-04 - 来了.wav": {
+    "new": "artists/李志/2005 - 梵高先生/01-04 - 来了.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 311.56,
+      "fileSize": 33824791,
+      "bitRate": 868314
+    }
+  },
+  "artists/李志/2005 - 梵高先生/01-05 - 广场.wav": {
+    "new": "artists/李志/2005 - 梵高先生/01-05 - 广场.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 251.32,
+      "fileSize": 30177861,
+      "bitRate": 960355
+    }
+  },
+  "artists/李志/2005 - 梵高先生/01-06 - 暧昧.wav": {
+    "new": "artists/李志/2005 - 梵高先生/01-06 - 暧昧.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 217.627,
+      "fileSize": 26251522,
+      "bitRate": 964706
+    }
+  },
+  "artists/李志/2005 - 梵高先生/01-07 - 想起了他.wav": {
+    "new": "artists/李志/2005 - 梵高先生/01-07 - 想起了他.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 273.493,
+      "fileSize": 25906547,
+      "bitRate": 757554
+    }
+  },
+  "artists/李志/2005 - 梵高先生/01-09 - 斜.wav": {
+    "new": "artists/李志/2005 - 梵高先生/01-09 - 斜.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 216.76,
+      "fileSize": 20518555,
+      "bitRate": 756976
+    }
+  },
+  "artists/李志/2006 - 这个世界会好吗/01-01 - 妈妈.wav": {
+    "new": "artists/李志/2006 - 这个世界会好吗/01-01 - 妈妈.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 244.107,
+      "fileSize": 23637440,
+      "bitRate": 774387
+    }
+  },
+  "artists/李志/2006 - 这个世界会好吗/01-02 - 喀纳斯.wav": {
+    "new": "artists/李志/2006 - 这个世界会好吗/01-02 - 喀纳斯.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 320.0,
+      "fileSize": 36088971,
+      "bitRate": 902017
+    }
+  },
+  "artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.wav": {
+    "new": "artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 251.933,
+      "fileSize": 22660836,
+      "bitRate": 719318
+    }
+  },
+  "artists/李志/2006 - 这个世界会好吗/01-04 - 我们不能失去信仰.wav": {
+    "new": "artists/李志/2006 - 这个世界会好吗/01-04 - 我们不能失去信仰.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 251.907,
+      "fileSize": 30760906,
+      "bitRate": 976635
+    }
+  },
+  "artists/李志/2006 - 这个世界会好吗/01-05 - 翁庆年的六英镑.wav": {
+    "new": "artists/李志/2006 - 这个世界会好吗/01-05 - 翁庆年的六英镑.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 256.48,
+      "fileSize": 26290722,
+      "bitRate": 819789
+    }
+  },
+  "artists/李志/2006 - 这个世界会好吗/01-06 - 他们.wav": {
+    "new": "artists/李志/2006 - 这个世界会好吗/01-06 - 他们.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 297.0,
+      "fileSize": 36532235,
+      "bitRate": 983810
+    }
+  },
+  "artists/李志/2006 - 这个世界会好吗/01-07 - 海的女儿.wav": {
+    "new": "artists/李志/2006 - 这个世界会好吗/01-07 - 海的女儿.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 210.92,
+      "fileSize": 17641592,
+      "bitRate": 668814
+    }
+  },
+  "artists/李志/2006 - 这个世界会好吗/01-08 - 交河（乐曲）.wav": {
+    "new": "artists/李志/2006 - 这个世界会好吗/01-08 - 交河（乐曲）.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 218.427,
+      "fileSize": 23015258,
+      "bitRate": 842643
+    }
+  },
+  "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.full-source.wav": {
+    "new": "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.full-source.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 1038.893,
+      "fileSize": 78130436,
+      "bitRate": 601579
+    }
+  },
+  "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.wav": {
+    "new": "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 240.0,
+      "fileSize": 25324410,
+      "bitRate": 843870
+    }
+  },
+  "artists/李志/2009 - 我爱南京/01-01 - 意味.wav": {
+    "new": "artists/李志/2009 - 我爱南京/01-01 - 意味.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 201.701,
+      "fileSize": 15398158,
+      "bitRate": 610398
+    }
+  },
+  "artists/李志/2009 - 我爱南京/01-02 - 苍井空.wav": {
+    "new": "artists/李志/2009 - 我爱南京/01-02 - 苍井空.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 260.29,
+      "fileSize": 29272284,
+      "bitRate": 899423
+    }
+  },
+  "artists/李志/2009 - 我爱南京/01-03 - 结婚.wav": {
+    "new": "artists/李志/2009 - 我爱南京/01-03 - 结婚.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 352.621,
+      "fileSize": 30667770,
+      "bitRate": 695577
+    }
+  },
+  "artists/李志/2009 - 我爱南京/01-04 - 鸵鸟.wav": {
+    "new": "artists/李志/2009 - 我爱南京/01-04 - 鸵鸟.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 267.191,
+      "fileSize": 30180873,
+      "bitRate": 903396
+    }
+  },
+  "artists/李志/2009 - 我爱南京/01-05 - 天空之城.wav": {
+    "new": "artists/李志/2009 - 我爱南京/01-05 - 天空之城.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 223.015,
+      "fileSize": 22264457,
+      "bitRate": 798369
+    }
+  },
+  "artists/李志/2009 - 我爱南京/01-06 - 倒影.wav": {
+    "new": "artists/李志/2009 - 我爱南京/01-06 - 倒影.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 182.865,
+      "fileSize": 22698715,
+      "bitRate": 992659
+    }
+  },
+  "artists/李志/2009 - 我爱南京/01-07 - 爱.wav": {
+    "new": "artists/李志/2009 - 我爱南京/01-07 - 爱.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 200.819,
+      "fileSize": 19607852,
+      "bitRate": 780781
+    }
+  },
+  "artists/李志/2009 - 我爱南京/01-08 - 家乡.wav": {
+    "new": "artists/李志/2009 - 我爱南京/01-08 - 家乡.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 343.293,
+      "fileSize": 31755063,
+      "bitRate": 739814
+    }
+  },
+  "artists/李志/2009 - 我爱南京/01-09 - 1990年的春天.wav": {
+    "new": "artists/李志/2009 - 我爱南京/01-09 - 1990年的春天.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 269.492,
+      "fileSize": 29888230,
+      "bitRate": 886998
+    }
+  },
+  "artists/李志/2009 - 我爱南京/02-01 - 冬妮娅.wav": {
+    "new": "artists/李志/2009 - 我爱南京/02-01 - 冬妮娅.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 232.413,
+      "fileSize": 24419781,
+      "bitRate": 840277
+    }
+  },
+  "artists/李志/2009 - 我爱南京/02-02 - 听妈妈讲那过去的事情.wav": {
+    "new": "artists/李志/2009 - 我爱南京/02-02 - 听妈妈讲那过去的事情.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 169.693,
+      "fileSize": 18987920,
+      "bitRate": 894768
+    }
+  },
+  "artists/李志/2009 - 我爱南京/02-03 - 美丽的梭罗河.wav": {
+    "new": "artists/李志/2009 - 我爱南京/02-03 - 美丽的梭罗河.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 149.339,
+      "fileSize": 15564757,
+      "bitRate": 833345
+    }
+  },
+  "artists/李志/2009 - 我爱南京/02-04 - 米店.wav": {
+    "new": "artists/李志/2009 - 我爱南京/02-04 - 米店.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 211.0,
+      "fileSize": 21970915,
+      "bitRate": 832702
+    }
+  },
+  "artists/李志/2009 - 我爱南京/02-06 - 在那遥远的地方.wav": {
+    "new": "artists/李志/2009 - 我爱南京/02-06 - 在那遥远的地方.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 171.801,
+      "fileSize": 18992369,
+      "bitRate": 883997
+    }
+  },
+  "artists/李志/2009 - 我爱南京/02-07 - 再见.wav": {
+    "new": "artists/李志/2009 - 我爱南京/02-07 - 再见.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 88.879,
+      "fileSize": 8200356,
+      "bitRate": 737354
+    }
+  },
+  "artists/李志/2010 - 你好，郑州/01-02 - 铅笔.wav": {
+    "new": "artists/李志/2010 - 你好，郑州/01-02 - 铅笔.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 276.573,
+      "fileSize": 22837205,
+      "bitRate": 660336
+    }
+  },
+  "artists/李志/2010 - 你好，郑州/01-10 - 铅笔 (吉松浩版).wav": {
+    "new": "artists/李志/2010 - 你好，郑州/01-10 - 铅笔 (吉松浩版).flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 276.573,
+      "fileSize": 22837205,
+      "bitRate": 660336
+    }
+  },
+  "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.wav": {
+    "new": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.flac",
+    "sourceSampleRate": 192000,
+    "sourceBitDepth": 32,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 24,
+      "channels": 2,
+      "duration": 324.004,
+      "fileSize": 56482430,
+      "bitRate": 1394404
+    }
+  },
+  "live/李志/2017 - 李志、电声与管弦乐/01-01 - 序曲 - 2016跨年版.wav": {
+    "new": "live/李志/2017 - 李志、电声与管弦乐/01-01 - 序曲 - 2016跨年版.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 289.756,
+      "fileSize": 35180644,
+      "bitRate": 971086
+    }
+  },
+  "live/李志/2017 - 李志、电声与管弦乐/01-02 - 杭州 - 2016跨年版.wav": {
+    "new": "live/李志/2017 - 李志、电声与管弦乐/01-02 - 杭州 - 2016跨年版.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 331.411,
+      "fileSize": 42567889,
+      "bitRate": 1027353
+    }
+  },
+  "live/李志/2017 - 李志、电声与管弦乐/01-03 - 尽头 - 2016跨年版.wav": {
+    "new": "live/李志/2017 - 李志、电声与管弦乐/01-03 - 尽头 - 2016跨年版.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 258.539,
+      "fileSize": 28914776,
+      "bitRate": 894454
+    }
+  },
+  "live/李志/2017 - 李志、电声与管弦乐/01-04 - 定西 - 2016跨年版.wav": {
+    "new": "live/李志/2017 - 李志、电声与管弦乐/01-04 - 定西 - 2016跨年版.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 363.733,
+      "fileSize": 40959538,
+      "bitRate": 900684
+    }
+  },
+  "live/李志/2017 - 李志、电声与管弦乐/01-05 - 春末的南方城市 - 2016跨年版.wav": {
+    "new": "live/李志/2017 - 李志、电声与管弦乐/01-05 - 春末的南方城市 - 2016跨年版.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 256.821,
+      "fileSize": 33028167,
+      "bitRate": 1028567
+    }
+  },
+  "live/李志/2017 - 李志、电声与管弦乐/01-06 - 黑色信封 - 2016跨年版.wav": {
+    "new": "live/李志/2017 - 李志、电声与管弦乐/01-06 - 黑色信封 - 2016跨年版.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 333.952,
+      "fileSize": 40186456,
+      "bitRate": 962487
+    }
+  },
+  "live/李志/2017 - 李志、电声与管弦乐/01-07 - 铅笔 - 2016跨年版.wav": {
+    "new": "live/李志/2017 - 李志、电声与管弦乐/01-07 - 铅笔 - 2016跨年版.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 312.432,
+      "fileSize": 38381225,
+      "bitRate": 982558
+    }
+  },
+  "live/李志/2017 - 李志、电声与管弦乐/01-08 - 和你在一起 - 2016跨年版.wav": {
+    "new": "live/李志/2017 - 李志、电声与管弦乐/01-08 - 和你在一起 - 2016跨年版.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 259.605,
+      "fileSize": 31433489,
+      "bitRate": 968395
+    }
+  },
+  "live/李志/2017 - 李志、电声与管弦乐/01-09 - 墙上的向日葵 - 2016跨年版.wav": {
+    "new": "live/李志/2017 - 李志、电声与管弦乐/01-09 - 墙上的向日葵 - 2016跨年版.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 465.045,
+      "fileSize": 56176478,
+      "bitRate": 966238
+    }
+  },
+  "live/李志/2017 - 李志、电声与管弦乐/01-10 - 大象 - 2016跨年版.wav": {
+    "new": "live/李志/2017 - 李志、电声与管弦乐/01-10 - 大象 - 2016跨年版.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 409.515,
+      "fileSize": 48824004,
+      "bitRate": 953628
+    }
+  },
+  "live/李志/2017 - 李志、电声与管弦乐/01-11 - 门 - 2016跨年版.wav": {
+    "new": "live/李志/2017 - 李志、电声与管弦乐/01-11 - 门 - 2016跨年版.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 402.581,
+      "fileSize": 45258854,
+      "bitRate": 899206
+    }
+  },
+  "live/李志/2017 - 李志、电声与管弦乐/01-12 - 回答 - 2016跨年版.wav": {
+    "new": "live/李志/2017 - 李志、电声与管弦乐/01-12 - 回答 - 2016跨年版.flac",
+    "sourceSampleRate": 44100,
+    "sourceBitDepth": 16,
+    "audioProperties": {
+      "codec": "FLAC",
+      "sampleRate": 44100,
+      "bitDepth": 16,
+      "channels": 2,
+      "duration": 378.379,
+      "fileSize": 42909359,
+      "bitRate": 907048
+    }
+  }
+}

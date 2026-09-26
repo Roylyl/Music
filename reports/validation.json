@@ -1,0 +1,13 @@
+{
+  "valid": true,
+  "errors": [],
+  "albums": 45,
+  "tracks": 538,
+  "checks": [
+    "Unique track identifiers",
+    "Allowed sourceStatus values",
+    "Repository-relative existing audio paths",
+    "Every release has album.json"
+  ],
+  "hashesComputed": false
+}

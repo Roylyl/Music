@@ -1,0 +1,2589 @@
+{
+  "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809",
+  "artist": "李志",
+  "title": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+  "releaseDate": "2021-11-12",
+  "releaseDatePrecision": "day",
+  "year": 2021,
+  "type": "compilation",
+  "path": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t01",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "卡夫卡（2004）",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 178.827,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/卡夫卡%202004.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-01 - 卡夫卡（2004）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 178.827,
+        "fileSize": 7301285,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t01",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-01 - 卡夫卡（2004）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/卡夫卡%202004.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 178.827,
+            "fileSize": 7301285,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 178.827,
+            "fileSize": 7301285,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 178.826,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 178.827,
+        "fileSize": 7301285,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t01",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-01 - 卡夫卡（2004）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/卡夫卡%202004.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 178.827,
+            "fileSize": 7301285,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 178.827,
+            "fileSize": 7301285,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t02",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "董卓瑶（2005）",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 198.467,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/董卓瑶%202005.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-02 - 董卓瑶（2005）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 198.467,
+        "fileSize": 8087834,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t02",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-02 - 董卓瑶（2005）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/董卓瑶%202005.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 198.467,
+            "fileSize": 8087834,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 198.467,
+            "fileSize": 8087834,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 198.466,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 198.467,
+        "fileSize": 8087834,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t02",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-02 - 董卓瑶（2005）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/董卓瑶%202005.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 198.467,
+            "fileSize": 8087834,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 198.467,
+            "fileSize": 8087834,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t03",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "翁庆年的六英镑（2006）",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 252.587,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/翁庆年的六英镑%202006.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-03 - 翁庆年的六英镑（2006）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 252.587,
+        "fileSize": 10255036,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t03",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-03 - 翁庆年的六英镑（2006）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/翁庆年的六英镑%202006.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 252.587,
+            "fileSize": 10255036,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 252.587,
+            "fileSize": 10255036,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 252.586,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 252.587,
+        "fileSize": 10255036,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t03",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-03 - 翁庆年的六英镑（2006）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/翁庆年的六英镑%202006.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 252.587,
+            "fileSize": 10255036,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 252.587,
+            "fileSize": 10255036,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t04",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "爱（2009）",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 202.64,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/爱%202009.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-04 - 爱（2009）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 202.64,
+        "fileSize": 8255181,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t04",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-04 - 爱（2009）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/爱%202009.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 202.64,
+            "fileSize": 8255181,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 202.64,
+            "fileSize": 8255181,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 202.64,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 202.64,
+        "fileSize": 8255181,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t04",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-04 - 爱（2009）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/爱%202009.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 202.64,
+            "fileSize": 8255181,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 202.64,
+            "fileSize": 8255181,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t05",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "忽然（2010）",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 127.627,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/忽然%202010.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-05 - 忽然（2010）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 127.627,
+        "fileSize": 5251235,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t05",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-05 - 忽然（2010）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/忽然%202010.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 127.627,
+            "fileSize": 5251235,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 127.627,
+            "fileSize": 5251235,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 127.626,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 127.627,
+        "fileSize": 5251235,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t05",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-05 - 忽然（2010）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/忽然%202010.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 127.627,
+            "fileSize": 5251235,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 127.627,
+            "fileSize": 5251235,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t06",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "尽头（2011）",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 275.507,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/尽头%202011.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-06 - 尽头（2011）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 275.507,
+        "fileSize": 11172317,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t06",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-06 - 尽头（2011）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/尽头%202011.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 275.507,
+            "fileSize": 11172317,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 275.507,
+            "fileSize": 11172317,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 275.506,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 275.507,
+        "fileSize": 11172317,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t06",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-06 - 尽头（2011）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/尽头%202011.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 275.507,
+            "fileSize": 11172317,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 275.507,
+            "fileSize": 11172317,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t07",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "大象（2014）",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 327.787,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/大象%202014.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-07 - 大象（2014）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 327.787,
+        "fileSize": 13266295,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t07",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-07 - 大象（2014）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/大象%202014.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 327.787,
+            "fileSize": 13266295,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 327.787,
+            "fileSize": 13266295,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 327.786,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 327.787,
+        "fileSize": 13266295,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t07",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-07 - 大象（2014）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/大象%202014.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 327.787,
+            "fileSize": 13266295,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 327.787,
+            "fileSize": 13266295,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t08",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "定西（2014）",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 298.027,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/定西%202014.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-08 - 定西（2014）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 298.027,
+        "fileSize": 12073920,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t08",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-08 - 定西（2014）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/定西%202014.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 298.027,
+            "fileSize": 12073920,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 298.027,
+            "fileSize": 12073920,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 298.026,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 298.027,
+        "fileSize": 12073920,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t08",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-08 - 定西（2014）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/定西%202014.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 298.027,
+            "fileSize": 12073920,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 298.027,
+            "fileSize": 12073920,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t09",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "一个夜晚（2016）",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 282.853,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/一个夜晚%20%202016.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-09 - 一个夜晚（2016）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 282.853,
+        "fileSize": 11466232,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t09",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-09 - 一个夜晚（2016）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/一个夜晚%20%202016.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 282.853,
+            "fileSize": 11466232,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 282.853,
+            "fileSize": 11466232,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 282.853,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 282.853,
+        "fileSize": 11466232,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t09",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-09 - 一个夜晚（2016）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/一个夜晚%20%202016.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 282.853,
+            "fileSize": 11466232,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 282.853,
+            "fileSize": 11466232,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t10",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "倒影（2009）",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 184.853,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/倒影%202009.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-10 - 倒影（2009）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 184.853,
+        "fileSize": 7542897,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t10",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-10 - 倒影（2009）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/倒影%202009.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 184.853,
+            "fileSize": 7542897,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 184.853,
+            "fileSize": 7542897,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 184.853,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 184.853,
+        "fileSize": 7542897,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t10",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-10 - 倒影（2009）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/倒影%202009.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 184.853,
+            "fileSize": 7542897,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 184.853,
+            "fileSize": 7542897,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t01",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "卡夫卡（2016 动静）",
+      "discNumber": 2,
+      "trackNumber": 1,
+      "sequenceNumber": 11,
+      "duration": 278.96,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/卡夫卡%202016%20Live.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-01 - 卡夫卡（2016 动静）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 278.96,
+        "fileSize": 11310390,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t01",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-01 - 卡夫卡（2016 动静）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/卡夫卡%202016%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 278.96,
+            "fileSize": 11310390,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 278.96,
+            "fileSize": 11310390,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 278.96,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 278.96,
+        "fileSize": 11310390,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t01",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-01 - 卡夫卡（2016 动静）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/卡夫卡%202016%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 278.96,
+            "fileSize": 11310390,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 278.96,
+            "fileSize": 11310390,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t02",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "董卓瑶（2015 看见）",
+      "discNumber": 2,
+      "trackNumber": 2,
+      "sequenceNumber": 12,
+      "duration": 281.6,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/董卓瑶%202015%20Live.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-02 - 董卓瑶（2015 看见）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 281.6,
+        "fileSize": 11416030,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t02",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-02 - 董卓瑶（2015 看见）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/董卓瑶%202015%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 281.6,
+            "fileSize": 11416030,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 281.6,
+            "fileSize": 11416030,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 281.6,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 281.6,
+        "fileSize": 11416030,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t02",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-02 - 董卓瑶（2015 看见）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/董卓瑶%202015%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 281.6,
+            "fileSize": 11416030,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 281.6,
+            "fileSize": 11416030,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t03",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "翁庆年的六英镑（2018 爵士乐与不插电）",
+      "discNumber": 2,
+      "trackNumber": 3,
+      "sequenceNumber": 13,
+      "duration": 408.16,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/翁庆年的六英镑%202018%20Live.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-03 - 翁庆年的六英镑（2018 爵士乐与不插电）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 408.16,
+        "fileSize": 16483641,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t03",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-03 - 翁庆年的六英镑（2018 爵士乐与不插电）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/翁庆年的六英镑%202018%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 408.16,
+            "fileSize": 16483641,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 408.16,
+            "fileSize": 16483641,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 408.16,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 408.16,
+        "fileSize": 16483641,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t03",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-03 - 翁庆年的六英镑（2018 爵士乐与不插电）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/翁庆年的六英镑%202018%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 408.16,
+            "fileSize": 16483641,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 408.16,
+            "fileSize": 16483641,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t04",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "爱（2018 爵士乐与不插电）",
+      "discNumber": 2,
+      "trackNumber": 4,
+      "sequenceNumber": 14,
+      "duration": 279.373,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/爱%202018%20Live.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-04 - 爱（2018 爵士乐与不插电）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 279.373,
+        "fileSize": 11327131,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t04",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-04 - 爱（2018 爵士乐与不插电）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/爱%202018%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 279.373,
+            "fileSize": 11327131,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 279.373,
+            "fileSize": 11327131,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 279.373,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 279.373,
+        "fileSize": 11327131,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t04",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-04 - 爱（2018 爵士乐与不插电）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/爱%202018%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 279.373,
+            "fileSize": 11327131,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 279.373,
+            "fileSize": 11327131,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t05",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "忽然（2016 动静）",
+      "discNumber": 2,
+      "trackNumber": 5,
+      "sequenceNumber": 15,
+      "duration": 265.48,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/忽然%202016%20Live.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-05 - 忽然（2016 动静）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 265.48,
+        "fileSize": 10770681,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t05",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-05 - 忽然（2016 动静）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/忽然%202016%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 265.48,
+            "fileSize": 10770681,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 265.48,
+            "fileSize": 10770681,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 265.48,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 265.48,
+        "fileSize": 10770681,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t05",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-05 - 忽然（2016 动静）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/忽然%202016%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 265.48,
+            "fileSize": 10770681,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 265.48,
+            "fileSize": 10770681,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t06",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "尽头（2017 电声与管弦乐）",
+      "discNumber": 2,
+      "trackNumber": 6,
+      "sequenceNumber": 16,
+      "duration": 260.68,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/尽头%202017%20Live.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-06 - 尽头（2017 电声与管弦乐）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 260.68,
+        "fileSize": 10579282,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t06",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-06 - 尽头（2017 电声与管弦乐）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/尽头%202017%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 260.68,
+            "fileSize": 10579282,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 260.68,
+            "fileSize": 10579282,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 260.68,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 260.68,
+        "fileSize": 10579282,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t06",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-06 - 尽头（2017 电声与管弦乐）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/尽头%202017%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 260.68,
+            "fileSize": 10579282,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 260.68,
+            "fileSize": 10579282,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t07",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "大象（2017 电声与管弦乐）",
+      "discNumber": 2,
+      "trackNumber": 7,
+      "sequenceNumber": 17,
+      "duration": 411.64,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/大象%202017%20Live.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-07 - 大象（2017 电声与管弦乐）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 411.64,
+        "fileSize": 16623785,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t07",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-07 - 大象（2017 电声与管弦乐）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/大象%202017%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 411.64,
+            "fileSize": 16623785,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 411.64,
+            "fileSize": 16623785,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 411.64,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 411.64,
+        "fileSize": 16623785,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t07",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-07 - 大象（2017 电声与管弦乐）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/大象%202017%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 411.64,
+            "fileSize": 16623785,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 411.64,
+            "fileSize": 16623785,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t08",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "定西（2017 电声与管弦乐）",
+      "discNumber": 2,
+      "trackNumber": 8,
+      "sequenceNumber": 18,
+      "duration": 365.867,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/定西%202017%20Live.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-08 - 定西（2017 电声与管弦乐）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 365.867,
+        "fileSize": 14790247,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t08",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-08 - 定西（2017 电声与管弦乐）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/定西%202017%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 365.867,
+            "fileSize": 14790247,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 365.867,
+            "fileSize": 14790247,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 365.866,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 365.867,
+        "fileSize": 14790247,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t08",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-08 - 定西（2017 电声与管弦乐）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/定西%202017%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 365.867,
+            "fileSize": 14790247,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 365.867,
+            "fileSize": 14790247,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t09",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "一个夜晚（2019 洗心革面）",
+      "discNumber": 2,
+      "trackNumber": 9,
+      "sequenceNumber": 19,
+      "duration": 433.64,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/一个夜晚%20%202019%20Live.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-09 - 一个夜晚（2019 洗心革面）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 433.64,
+        "fileSize": 17504470,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t09",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-09 - 一个夜晚（2019 洗心革面）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/一个夜晚%20%202019%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 433.64,
+            "fileSize": 17504470,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 433.64,
+            "fileSize": 17504470,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 433.64,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 433.64,
+        "fileSize": 17504470,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t09",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-09 - 一个夜晚（2019 洗心革面）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/一个夜晚%20%202019%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 433.64,
+            "fileSize": 17504470,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 433.64,
+            "fileSize": 17504470,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t10",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+      "title": "倒影（2019 洗心革面）",
+      "discNumber": 2,
+      "trackNumber": 10,
+      "sequenceNumber": 20,
+      "duration": 300.32,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/倒影%202019%20Live.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-10 - 倒影（2019 洗心革面）.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 300.32,
+        "fileSize": 12165975,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t10",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-10 - 倒影（2019 洗心革面）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/倒影%202019%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 300.32,
+            "fileSize": 12165975,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 300.32,
+            "fileSize": 12165975,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 300.32,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 300.32,
+        "fileSize": 12165975,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t10",
+          "localPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-10 - 倒影（2019 洗心革面）.mp3",
+          "sourceUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/倒影%202019%20Live.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 300.32,
+            "fileSize": 12165975,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 300.32,
+            "fileSize": 12165975,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/f441c560-c866-410a-a53e-432f3e69b809"
+  ],
+  "notes": [
+    "最早黑胶发行采用厂牌微博2021-11-12；本曲单取CD版，CD发行2021-12-24；MusicBrainz写2021-09存在冲突。"
+  ],
+  "metadataStatus": "provisional",
+  "editions": [],
+  "selectedEdition": {
+    "id": "f441c560-c866-410a-a53e-432f3e69b809",
+    "title": "Best Selection Songs 2004~2018 (Volume.3)",
+    "date": "2021-09",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2021-09",
+      "source": "https://musicbrainz.org/release/f441c560-c866-410a-a53e-432f3e69b809"
+    },
+    {
+      "date": "2021-11-12",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2020 - 李志 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）.png",
+    "width": 1920,
+    "height": 1920,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2020 - 李志 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）.png"
+  },
+  "trackCount": 20,
+  "tracklistStatus": "edition-listed"
+}

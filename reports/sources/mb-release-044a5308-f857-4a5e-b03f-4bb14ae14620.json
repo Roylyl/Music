@@ -1,0 +1,499 @@
+{
+  "id": "044a5308-f857-4a5e-b03f-4bb14ae14620",
+  "status": "Official",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "release-group": {
+    "first-release-date": "2004-11-30",
+    "secondary-type-ids": [],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "primary-type": "Album",
+    "id": "1781c5c4-0121-3f7a-bb7f-45d558538910",
+    "disambiguation": "",
+    "secondary-types": [],
+    "artist-credit": [
+      {
+        "joinphrase": "",
+        "name": "李志",
+        "artist": {
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+          "disambiguation": "",
+          "sort-name": "Li, Zhi",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "country": "CN",
+          "name": "李志",
+          "type": "Person"
+        }
+      }
+    ],
+    "title": "被禁忌的游戏"
+  },
+  "release-events": [
+    {
+      "area": {
+        "type": null,
+        "name": "[Worldwide]",
+        "sort-name": "[Worldwide]",
+        "type-id": null,
+        "iso-3166-1-codes": [
+          "XW"
+        ],
+        "disambiguation": "",
+        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+      },
+      "date": "2016-01-09"
+    }
+  ],
+  "barcode": "",
+  "cover-art-archive": {
+    "darkened": false,
+    "back": false,
+    "front": true,
+    "count": 1,
+    "artwork": true
+  },
+  "date": "2016-01-09",
+  "disambiguation": "Bandcamp release",
+  "artist-credit": [
+    {
+      "artist": {
+        "name": "李志",
+        "type": "Person",
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "disambiguation": "",
+        "sort-name": "Li, Zhi",
+        "country": "CN",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "李志"
+    }
+  ],
+  "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+  "country": "XW",
+  "asin": null,
+  "title": "The Forbidden Game",
+  "text-representation": {
+    "language": "mul",
+    "script": "Qaaa"
+  },
+  "packaging": "None",
+  "media": [
+    {
+      "track-offset": 0,
+      "track-count": 9,
+      "tracks": [
+        {
+          "title": "Black Envelopes (黑色信封)",
+          "recording": {
+            "length": 287267,
+            "title": "黑色信封",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "name": "李志",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "sort-name": "Li, Zhi"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "id": "377077e3-04c3-4ce5-8a25-929e9c23c6ee",
+            "first-release-date": "2004-11-30",
+            "video": false
+          },
+          "length": 287267,
+          "id": "d0b4923d-0661-4d7f-8005-3935a18cf72a",
+          "position": 1,
+          "artist-credit": [
+            {
+              "artist": {
+                "type": "Person",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "number": "1"
+        },
+        {
+          "id": "67cef3d4-4d38-4b84-abb6-a1d02b8fe918",
+          "position": 2,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "name": "李志",
+                "type": "Person"
+              }
+            }
+          ],
+          "number": "2",
+          "recording": {
+            "first-release-date": "2016-01-09",
+            "video": false,
+            "disambiguation": "",
+            "id": "670362e5-da53-423b-b008-a731a7a3e0c8",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "name": "李志",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "sort-name": "Li, Zhi"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "length": 192560,
+            "title": "青春"
+          },
+          "length": 192560,
+          "title": "Youth (青春)"
+        },
+        {
+          "length": 166093,
+          "recording": {
+            "id": "a01fe9cf-f745-4649-8bc7-e2e30cbdf928",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "name": "李志",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                }
+              }
+            ],
+            "length": 166093,
+            "title": "阿兰",
+            "first-release-date": "2004-11-30",
+            "video": false
+          },
+          "title": "Alan (阿兰)",
+          "number": "3",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "type": "Person",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": ""
+              }
+            }
+          ],
+          "position": 3,
+          "id": "091e1629-ab8e-4d03-9318-f4ddc3396d58"
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "name": "李志",
+                "type": "Person"
+              }
+            }
+          ],
+          "number": "4",
+          "id": "323faf5b-a7cd-4e28-b189-25171b75c246",
+          "position": 4,
+          "length": 295813,
+          "recording": {
+            "length": 295813,
+            "title": "离婚",
+            "disambiguation": "",
+            "id": "14c5ebbe-aa5b-4ce6-89f9-d7fd76e9d570",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "type": "Person",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN"
+                }
+              }
+            ],
+            "first-release-date": "2004-11-30",
+            "video": false
+          },
+          "title": "Divorced (离婚)"
+        },
+        {
+          "title": "Joy (欢愉)",
+          "length": 207453,
+          "recording": {
+            "first-release-date": "2004-11-30",
+            "video": false,
+            "length": 207453,
+            "title": "欢愉",
+            "id": "5f034f3d-9ebd-413d-a7ad-94311cf6e236",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "name": "李志"
+                }
+              }
+            ]
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type": "Person"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "number": "5",
+          "id": "3802d593-1866-4236-a02d-af33702739db",
+          "position": 5
+        },
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "name": "李志",
+                "type": "Person"
+              }
+            }
+          ],
+          "number": "6",
+          "id": "d7db5fdd-5e50-4ef8-80ed-220a299f7eff",
+          "position": 6,
+          "length": 176880,
+          "recording": {
+            "video": false,
+            "first-release-date": "2004-11-30",
+            "id": "1a1ddaf1-f2f2-4cd0-9001-39555d7f0c86",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "title": "卡夫卡",
+            "length": 176880
+          },
+          "title": "Kafka (卡夫卡)"
+        },
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "sort-name": "Li, Zhi",
+                "name": "李志",
+                "type": "Person"
+              }
+            }
+          ],
+          "number": "7",
+          "id": "c83089eb-14ac-4479-9620-507fe3423cee",
+          "position": 7,
+          "length": 377827,
+          "recording": {
+            "title": "被禁忌的游戏",
+            "length": 377827,
+            "id": "c59896b0-59d3-49f2-95ce-7034f8a4735e",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "sort-name": "Li, Zhi"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "first-release-date": "2004-11-30"
+          },
+          "title": "The Forbidden Game (被禁忌的游戏)"
+        },
+        {
+          "title": "Winter in Luo Zhuang (罗庄的冬天)",
+          "length": 410893,
+          "recording": {
+            "id": "1f35a9e1-7136-41ac-ab46-148aaf3ef16c",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "name": "李志"
+                }
+              }
+            ],
+            "title": "罗庄的冬天",
+            "length": 410893,
+            "video": false,
+            "first-release-date": "2004-11-30"
+          },
+          "number": "8",
+          "artist-credit": [
+            {
+              "artist": {
+                "type": "Person",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "id": "c7074df4-4ddf-41e0-8c25-69e64715de5e",
+          "position": 8
+        },
+        {
+          "title": "The Red Balloon (红色气球)",
+          "recording": {
+            "video": false,
+            "first-release-date": "2004-11-30",
+            "title": "红色气球",
+            "length": 173360,
+            "id": "d4bd81b1-7918-494e-9fec-5ba3c97881f9",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "name": "李志",
+                  "type": "Person"
+                }
+              }
+            ]
+          },
+          "length": 173360,
+          "position": 9,
+          "id": "19336f2d-3ebb-4fdf-a2c9-cebc9f775813",
+          "number": "9",
+          "artist-credit": [
+            {
+              "artist": {
+                "name": "李志",
+                "type": "Person",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ]
+        }
+      ],
+      "position": 1,
+      "id": "fb169f61-04a0-3310-8f24-ab67cb90d9f8",
+      "format": "Digital Media",
+      "title": "",
+      "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+    }
+  ],
+  "quality": "normal"
+}

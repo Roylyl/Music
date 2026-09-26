@@ -1,0 +1,57 @@
+{
+  "release-count": 1,
+  "release-offset": 0,
+  "releases": [
+    {
+      "country": "XW",
+      "packaging": "None",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "barcode": "9555150725286",
+      "asin": null,
+      "disambiguation": "",
+      "title": "看見",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "release-events": [
+        {
+          "date": "2020-10-22",
+          "area": {
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "disambiguation": "",
+            "type-id": null,
+            "sort-name": "[Worldwide]",
+            "name": "[Worldwide]",
+            "type": null
+          }
+        }
+      ],
+      "date": "2020-10-22",
+      "status": "Official",
+      "quality": "normal",
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "count": 1,
+        "artwork": true,
+        "front": true
+      },
+      "id": "51675d2e-3989-4115-91a0-b8b606bbb6cc",
+      "media": [
+        {
+          "position": 1,
+          "id": "04311c42-27f6-3e90-8c04-78ff80338306",
+          "format": "Digital Media",
+          "track-count": 8,
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ]
+    }
+  ]
+}

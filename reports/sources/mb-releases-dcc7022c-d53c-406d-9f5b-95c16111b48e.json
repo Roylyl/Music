@@ -1,0 +1,57 @@
+{
+  "release-offset": 0,
+  "releases": [
+    {
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "count": 1,
+        "front": true,
+        "artwork": true
+      },
+      "date": "2014-01-01",
+      "release-events": [
+        {
+          "area": {
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "sort-name": "China",
+            "type-id": null,
+            "type": null,
+            "name": "China"
+          },
+          "date": "2014-01-01"
+        }
+      ],
+      "barcode": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "status": "Official",
+      "id": "1442643e-a76d-4bcf-b2f5-9fbddc1b05c6",
+      "quality": "normal",
+      "media": [
+        {
+          "track-count": 21,
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "d8d6f04e-027e-36ce-bb81-ad272e847bbc",
+          "position": 1,
+          "format": "Digital Media"
+        }
+      ],
+      "packaging": null,
+      "text-representation": {
+        "language": "zho",
+        "script": "Hans"
+      },
+      "title": "勾三搭四 (2013 Live)",
+      "asin": null,
+      "country": "CN",
+      "disambiguation": "",
+      "packaging-id": null
+    }
+  ],
+  "release-count": 1
+}

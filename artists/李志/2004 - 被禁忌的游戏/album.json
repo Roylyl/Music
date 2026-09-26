@@ -1,0 +1,1389 @@
+{
+  "id": "lizhi-758a394c-126c-487f-bca1-31ff28467d13",
+  "artist": "李志",
+  "title": "被禁忌的游戏",
+  "releaseDate": "2004",
+  "releaseDatePrecision": "year",
+  "year": 2004,
+  "type": "studio",
+  "path": "artists/李志/2004 - 被禁忌的游戏",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t01",
+      "artist": "李志",
+      "album": "被禁忌的游戏",
+      "title": "黑色信封",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 287.295,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/被禁忌的游戏/黑色信封.mp3",
+      "format": "MP3",
+      "localPath": "artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/-",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/-",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 1,
+          "duration": 287.267,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 287.295,
+        "fileSize": 11619212,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t01",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.mp3",
+          "sourceUrl": "https://st.nj1701.com/被禁忌的游戏/黑色信封.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 287.295,
+            "fileSize": 11619212,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 287.295,
+            "fileSize": 11619212,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 287.267,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 287.295,
+        "fileSize": 11619212,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t01",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.mp3",
+          "sourceUrl": "https://st.nj1701.com/被禁忌的游戏/黑色信封.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 287.295,
+            "fileSize": 11619212,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 287.295,
+            "fileSize": 11619212,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t02",
+      "artist": "李志",
+      "album": "被禁忌的游戏",
+      "title": "青春",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 192.601,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/12fLUNZV50jwttUjlONU4GL8D1OvAaPh-/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2004 - 被禁忌的游戏/01-02 - 青春.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 192.601,
+        "fileSize": 7827666,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t02",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-02 - 青春.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/12fLUNZV50jwttUjlONU4GL8D1OvAaPh-/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 192.601,
+            "fileSize": 7827666,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 192.56,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 192.56,
+            "fileSize": 19065799,
+            "bitRate": 786535
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 192.56,
+        "fileSize": 19065799,
+        "bitRate": 786535
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t02",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-02 - 青春.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/12fLUNZV50jwttUjlONU4GL8D1OvAaPh-/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 192.601,
+            "fileSize": 7827666,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 192.56,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 192.56,
+            "fileSize": 19065799,
+            "bitRate": 786535
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t03",
+      "artist": "李志",
+      "album": "被禁忌的游戏",
+      "title": "阿兰",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 166.139,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1xsPfVhCbhoM1UujD9bsFZwUOFAIvNp0X/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2004 - 被禁忌的游戏/01-03 - 阿兰.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--2",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/-",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 2,
+          "duration": 166.093,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 166.139,
+        "fileSize": 6768126,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t03",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-03 - 阿兰.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1xsPfVhCbhoM1UujD9bsFZwUOFAIvNp0X/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 166.139,
+            "fileSize": 6768126,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 166.093,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 166.093,
+            "fileSize": 14098308,
+            "bitRate": 672844
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 166.093,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 166.093,
+        "fileSize": 14098308,
+        "bitRate": 672844
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t03",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-03 - 阿兰.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1xsPfVhCbhoM1UujD9bsFZwUOFAIvNp0X/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 166.139,
+            "fileSize": 6768126,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 166.093,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 166.093,
+            "fileSize": 14098308,
+            "bitRate": 672844
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t04",
+      "artist": "李志",
+      "album": "被禁忌的游戏",
+      "title": "离婚",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 295.863,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1nwqxoyKG0bfcLtsiL1gEjaguhTRuRSiB/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2004 - 被禁忌的游戏/01-04 - 离婚.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 295.863,
+        "fileSize": 11962278,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t04",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-04 - 离婚.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1nwqxoyKG0bfcLtsiL1gEjaguhTRuRSiB/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 295.863,
+            "fileSize": 11962278,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 295.813,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 295.813,
+            "fileSize": 26883996,
+            "bitRate": 723220
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 295.813,
+        "fileSize": 26883996,
+        "bitRate": 723220
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t04",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-04 - 离婚.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1nwqxoyKG0bfcLtsiL1gEjaguhTRuRSiB/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 295.863,
+            "fileSize": 11962278,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 295.813,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 295.813,
+            "fileSize": 26883996,
+            "bitRate": 723220
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t05",
+      "artist": "李志",
+      "album": "被禁忌的游戏",
+      "title": "欢愉",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 207.491,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Hs-MwQuLVbcVUUX1msqfurL7F6CBmf03/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2004 - 被禁忌的游戏/01-05 - 欢愉.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 207.491,
+        "fileSize": 8423853,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t05",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-05 - 欢愉.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Hs-MwQuLVbcVUUX1msqfurL7F6CBmf03/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 207.491,
+            "fileSize": 8423853,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 207.453,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 207.453,
+            "fileSize": 19645015,
+            "bitRate": 752382
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 207.453,
+        "fileSize": 19645015,
+        "bitRate": 752382
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t05",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-05 - 欢愉.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Hs-MwQuLVbcVUUX1msqfurL7F6CBmf03/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 207.491,
+            "fileSize": 8423853,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 207.453,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 207.453,
+            "fileSize": 19645015,
+            "bitRate": 752382
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t06",
+      "artist": "李志",
+      "album": "被禁忌的游戏",
+      "title": "卡夫卡",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 176.927,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1xn9CkeIJ70V-q458ZWb6qLUDQD24gRdp/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2004 - 被禁忌的游戏/01-06 - 卡夫卡.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--3",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/-",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 3,
+          "duration": 176.88,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 176.927,
+        "fileSize": 7200102,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t06",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-06 - 卡夫卡.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1xn9CkeIJ70V-q458ZWb6qLUDQD24gRdp/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 176.927,
+            "fileSize": 7200102,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 176.88,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 176.88,
+            "fileSize": 17038144,
+            "bitRate": 764643
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 176.88,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 176.88,
+        "fileSize": 17038144,
+        "bitRate": 764643
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t06",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-06 - 卡夫卡.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1xn9CkeIJ70V-q458ZWb6qLUDQD24gRdp/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 176.927,
+            "fileSize": 7200102,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 176.88,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 176.88,
+            "fileSize": 17038144,
+            "bitRate": 764643
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t07",
+      "artist": "李志",
+      "album": "被禁忌的游戏",
+      "title": "被禁忌的游戏",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 377.861,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1JMbBkRfdUrozNfwIIAsNIs61UALaMNt-/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2004 - 被禁忌的游戏/01-07 - 被禁忌的游戏.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--4",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/-",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 4,
+          "duration": 377.827,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 377.861,
+        "fileSize": 15245501,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t07",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-07 - 被禁忌的游戏.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1JMbBkRfdUrozNfwIIAsNIs61UALaMNt-/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 377.861,
+            "fileSize": 15245501,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 377.827,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 377.827,
+            "fileSize": 31381914,
+            "bitRate": 661376
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 377.827,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 377.827,
+        "fileSize": 31381914,
+        "bitRate": 661376
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t07",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-07 - 被禁忌的游戏.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1JMbBkRfdUrozNfwIIAsNIs61UALaMNt-/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 377.861,
+            "fileSize": 15245501,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 377.827,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 377.827,
+            "fileSize": 31381914,
+            "bitRate": 661376
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t08",
+      "artist": "李志",
+      "album": "被禁忌的游戏",
+      "title": "罗庄的冬天",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 410.932,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1iFip0yygDWdJi83wryLR0EWH_U2o2F3D/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2004 - 被禁忌的游戏/01-08 - 罗庄的冬天.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--5",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/-",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 5,
+          "duration": 410.893,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 410.932,
+        "fileSize": 16569662,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t08",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-08 - 罗庄的冬天.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1iFip0yygDWdJi83wryLR0EWH_U2o2F3D/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 410.932,
+            "fileSize": 16569662,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 410.893,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 410.893,
+            "fileSize": 39660306,
+            "bitRate": 769169
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 410.893,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 410.893,
+        "fileSize": 39660306,
+        "bitRate": 769169
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t08",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-08 - 罗庄的冬天.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1iFip0yygDWdJi83wryLR0EWH_U2o2F3D/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 410.932,
+            "fileSize": 16569662,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 410.893,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 410.893,
+            "fileSize": 39660306,
+            "bitRate": 769169
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t09",
+      "artist": "李志",
+      "album": "被禁忌的游戏",
+      "title": "红色气球",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 173.401,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1xKHuDp_0-xl-601WvHf359yfT47AeC0z/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2004 - 被禁忌的游戏/01-09 - 红色气球.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--6",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/-",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 6,
+          "duration": 173.36,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 173.401,
+        "fileSize": 7058902,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t09",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-09 - 红色气球.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1xKHuDp_0-xl-601WvHf359yfT47AeC0z/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 173.401,
+            "fileSize": 7058902,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 173.36,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 173.36,
+            "fileSize": 14440757,
+            "bitRate": 660428
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 173.36,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 173.36,
+        "fileSize": 14440757,
+        "bitRate": 660428
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t09",
+          "localPath": "artists/李志/2004 - 被禁忌的游戏/01-09 - 红色气球.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1xKHuDp_0-xl-601WvHf359yfT47AeC0z/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 173.401,
+            "fileSize": 7058902,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 173.36,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 173.36,
+            "fileSize": 14440757,
+            "bitRate": 660428
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/758a394c-126c-487f-bca1-31ff28467d13",
+    "https://lizhilizhi.bandcamp.com/album/-"
+  ],
+  "notes": [
+    "自发行常记为2004；MusicBrainz记录2004-11-30，豆瓣记2004-12，维基表记2005-12-01，摇滚数据库另列2006再版。仅采用年，具体日期待核。"
+  ],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "Bandcamp",
+      "url": "https://lizhilizhi.bandcamp.com/album/-",
+      "title": "被禁忌的遊戲",
+      "releaseDate": "21 Oct 2020 00:00:00 GMT",
+      "trackCount": 6,
+      "tracks": [
+        {
+          "title": "李志LiZhi - 黑色信封",
+          "track_num": 1,
+          "duration": 287.267,
+          "title_link": "/track/-",
+          "track_id": 2859188521
+        },
+        {
+          "title": "李志LiZhi - 阿蘭",
+          "track_num": 2,
+          "duration": 166.093,
+          "title_link": "/track/--2",
+          "track_id": 2263651429
+        },
+        {
+          "title": "李志LiZhi - 卡夫卡",
+          "track_num": 3,
+          "duration": 176.88,
+          "title_link": "/track/--3",
+          "track_id": 4121063468
+        },
+        {
+          "title": "李志LiZhi - 被禁忌的遊戲",
+          "track_num": 4,
+          "duration": 377.827,
+          "title_link": "/track/--4",
+          "track_id": 3864012076
+        },
+        {
+          "title": "李志LiZhi - 羅莊的冬天",
+          "track_num": 5,
+          "duration": 410.893,
+          "title_link": "/track/--5",
+          "track_id": 3080733789
+        },
+        {
+          "title": "紅色氣球",
+          "track_num": 6,
+          "duration": 173.36,
+          "title_link": "/track/--6",
+          "track_id": 2250310961
+        }
+      ],
+      "offer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $56 HKD or more Send as Gift",
+      "note": "平台上架日期，不替代原始发行日期。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "758a394c-126c-487f-bca1-31ff28467d13",
+    "title": "被禁忌的游戏",
+    "date": "2004-11-30",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2004-11-30",
+      "source": "https://musicbrainz.org/release/758a394c-126c-487f-bca1-31ff28467d13"
+    },
+    {
+      "date": "2004",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2004 - 李志 - 被禁忌的游戏.jpg",
+    "width": 3000,
+    "height": 3000,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2004 - 李志 - 被禁忌的游戏.jpg"
+  },
+  "trackCount": 9,
+  "tracklistStatus": "edition-listed"
+}

@@ -1,0 +1,1009 @@
+{
+  "media": [
+    {
+      "id": "1a05479c-3e2b-340e-96da-4a9b904c95f8",
+      "position": 1,
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+      "track-count": 10,
+      "tracks": [
+        {
+          "recording": {
+            "id": "5140489a-058f-4aeb-a50d-a5cb84006aa0",
+            "first-release-date": "2019",
+            "title": "黑色信封 (2004)",
+            "length": null,
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "country": "CN",
+                  "name": "李志",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi"
+                },
+                "name": "李志"
+              }
+            ],
+            "disambiguation": ""
+          },
+          "length": null,
+          "title": "黑色信封 (2004)",
+          "position": 1,
+          "id": "5add3731-cd04-4bba-a003-814767466839",
+          "number": "1",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "name": "李志"
+              },
+              "name": "李志"
+            }
+          ]
+        },
+        {
+          "number": "2",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "id": "b7d5d620-c231-4693-a018-cd4ff7f662ad",
+            "first-release-date": "2019",
+            "title": "春末的南方城市 (2005)",
+            "length": null,
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "country": "CN",
+                  "disambiguation": "",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "type": "Person"
+                },
+                "name": "李志"
+              }
+            ],
+            "disambiguation": ""
+          },
+          "length": null,
+          "position": 2,
+          "title": "春末的南方城市 (2005)",
+          "id": "8fa159a0-f0da-4702-909c-adb9341c6106"
+        },
+        {
+          "id": "ea1e2ead-6791-488f-9118-cdcaebc9ddf5",
+          "title": "和你在一起 (2006)",
+          "position": 3,
+          "length": null,
+          "recording": {
+            "id": "457435a4-6558-4d76-834f-425b0b7e2c39",
+            "length": null,
+            "first-release-date": "2019",
+            "title": "和你在一起 (2006)",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": ""
+                },
+                "name": "李志"
+              }
+            ],
+            "video": false
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "name": "李志",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "disambiguation": "",
+                "country": "CN"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "number": "3"
+        },
+        {
+          "id": "1c4c5572-a620-43d5-b717-9a69e211e956",
+          "title": "苍井空 (2009)",
+          "position": 4,
+          "length": null,
+          "recording": {
+            "title": "苍井空 (2009)",
+            "first-release-date": "2019",
+            "length": null,
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "disambiguation": "",
+            "id": "958f7ca8-6f2b-44f9-8d71-58b074a43665"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "disambiguation": "",
+                "country": "CN"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "number": "4"
+        },
+        {
+          "number": "5",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "name": "李志"
+            }
+          ],
+          "length": null,
+          "recording": {
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": ""
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "2019",
+            "title": "天空之城 (2009)",
+            "length": null,
+            "id": "61071f20-f3c6-448f-aaea-6ef16c215fff"
+          },
+          "id": "9d3b209a-b8ad-46e4-8c22-7156ba07c37d",
+          "position": 5,
+          "title": "天空之城 (2009)"
+        },
+        {
+          "id": "c083fa83-4bbb-4c53-8525-10d59e915f54",
+          "position": 6,
+          "title": "墙上的向日葵 (2010)",
+          "length": null,
+          "recording": {
+            "first-release-date": "2019",
+            "title": "墙上的向日葵 (2010)",
+            "length": null,
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "CN",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "disambiguation": "",
+            "id": "4517a2c3-7161-4285-af36-de239ca28083"
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "name": "李志"
+            }
+          ],
+          "number": "6"
+        },
+        {
+          "number": "7",
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "name": "李志",
+                "country": "CN",
+                "disambiguation": ""
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "length": null,
+          "recording": {
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "video": false,
+            "disambiguation": "",
+            "title": "关于郑州的记忆 (2010)",
+            "first-release-date": "2019",
+            "length": null,
+            "id": "17350aec-0a8a-4b37-8290-296c0a3d39bc"
+          },
+          "id": "8cae32c1-f651-4da0-b6d8-b913ec586add",
+          "position": 7,
+          "title": "关于郑州的记忆 (2010)"
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "disambiguation": "",
+                "country": "CN"
+              }
+            }
+          ],
+          "number": "8",
+          "id": "bed56aaa-10f9-4d56-be4c-8a8ff4390567",
+          "title": "山阴路的夏天 (2011)",
+          "position": 8,
+          "length": null,
+          "recording": {
+            "id": "05b90dec-23b2-457c-b89b-0c7b8d3cb2ce",
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": ""
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "disambiguation": "",
+            "first-release-date": "2019",
+            "title": "山阴路的夏天 (2011)",
+            "length": null
+          }
+        },
+        {
+          "number": "9",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": ""
+              },
+              "name": "李志"
+            }
+          ],
+          "length": null,
+          "recording": {
+            "disambiguation": "",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "country": "CN",
+                  "name": "李志",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi"
+                }
+              }
+            ],
+            "length": null,
+            "first-release-date": "2019",
+            "title": "杭州 (2011)",
+            "id": "f0d6b3ef-cb28-4126-947c-2a8eefacf3fb"
+          },
+          "id": "25b51325-089e-40ce-b55c-e8af3df1fd2b",
+          "title": "杭州 (2011)",
+          "position": 9
+        },
+        {
+          "length": null,
+          "recording": {
+            "length": null,
+            "first-release-date": "2019",
+            "title": "这个世界会好吗 (2006)",
+            "disambiguation": "",
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "id": "c12a2c9b-9e32-4dc7-9463-c1ef1e3a0097"
+          },
+          "id": "48aa021e-c674-4bf6-a6ad-18d7bd6b1bea",
+          "position": 10,
+          "title": "这个世界会好吗 (2006)",
+          "number": "10",
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ]
+        }
+      ],
+      "format": "CD",
+      "title": "Studio Recording",
+      "track-offset": 0
+    },
+    {
+      "title": "Live Recording",
+      "track-offset": 0,
+      "position": 2,
+      "id": "c96b5f15-7fc7-338c-a926-eef8941fab93",
+      "tracks": [
+        {
+          "number": "1",
+          "artist-credit": [
+            {
+              "artist": {
+                "disambiguation": "",
+                "country": "CN",
+                "name": "李志",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "recording": {
+            "length": null,
+            "first-release-date": "2019",
+            "title": "黑色信封 (2015 Live)",
+            "disambiguation": "",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "artist": {
+                  "country": "CN",
+                  "disambiguation": "",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "id": "80b1259a-c126-4859-a992-9753bf812354"
+          },
+          "length": null,
+          "position": 1,
+          "title": "黑色信封 (2015 Live)",
+          "id": "408b8658-3e8b-4e44-b799-d580bd13c0ac"
+        },
+        {
+          "recording": {
+            "title": "春末的南方城市 (2015 Live)",
+            "first-release-date": "2019",
+            "length": null,
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                },
+                "name": "李志"
+              }
+            ],
+            "disambiguation": "",
+            "id": "a13abd3c-2d94-49a1-a1d5-c6a80628967a"
+          },
+          "length": null,
+          "title": "春末的南方城市 (2015 Live)",
+          "position": 2,
+          "id": "c167f88e-c9ef-4c64-8862-3e43a1e5a597",
+          "number": "2",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "name": "李志",
+                "country": "CN",
+                "disambiguation": ""
+              }
+            }
+          ]
+        },
+        {
+          "length": null,
+          "recording": {
+            "id": "707671e0-39a2-4943-920f-42f389d68591",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "country": "CN"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "length": null,
+            "first-release-date": "2019",
+            "title": "和你在一起 (2016 Live)"
+          },
+          "id": "05ba8242-2ccb-4b70-9480-46b39418a205",
+          "title": "和你在一起 (2016 Live)",
+          "position": 3,
+          "number": "3",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN"
+              }
+            }
+          ]
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "李志",
+              "artist": {
+                "name": "李志",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "number": "4",
+          "title": "苍井空 (2015 Live)",
+          "position": 4,
+          "id": "0e82dd05-86b5-4bfe-9c9e-3434d6177c54",
+          "recording": {
+            "id": "41e35f42-55f9-4a98-b1ab-d7687d435e6b",
+            "length": null,
+            "title": "苍井空 (2015 Live)",
+            "first-release-date": "2019",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": ""
+                },
+                "joinphrase": ""
+              }
+            ],
+            "video": false
+          },
+          "length": null
+        },
+        {
+          "length": null,
+          "recording": {
+            "id": "e4f8c4d2-b825-4a3e-89ce-52dbf4c19e8c",
+            "disambiguation": "",
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi"
+                },
+                "name": "李志"
+              }
+            ],
+            "length": null,
+            "title": "天空之城 (2018 Live)",
+            "first-release-date": "2019"
+          },
+          "id": "efdadb3b-1856-4144-a7d7-897bb378143d",
+          "title": "天空之城 (2018 Live)",
+          "position": 5,
+          "number": "5",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "name": "李志"
+              },
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "6",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              },
+              "name": "李志"
+            }
+          ],
+          "length": null,
+          "recording": {
+            "disambiguation": "",
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "name": "李志",
+                  "country": "CN",
+                  "disambiguation": ""
+                },
+                "name": "李志"
+              }
+            ],
+            "length": null,
+            "first-release-date": "2019",
+            "title": "墙上的向日葵 (2015 Live)",
+            "id": "e97caeb5-d601-4507-9f37-2bcde339d281"
+          },
+          "id": "85cb3521-c28a-4a0e-b86f-a1ff1be6a133",
+          "title": "墙上的向日葵 (2015 Live)",
+          "position": 6
+        },
+        {
+          "length": null,
+          "recording": {
+            "id": "f12b1d03-7a02-4f73-9d79-4f6dad7d8bc6",
+            "title": "关于郑州的记忆 (2018 Live)",
+            "first-release-date": "2019",
+            "length": null,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "country": "CN"
+                },
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "disambiguation": ""
+          },
+          "id": "a2b5468c-1d93-4344-90d3-7d211aa5eaef",
+          "position": 7,
+          "title": "关于郑州的记忆 (2018 Live)",
+          "number": "7",
+          "artist-credit": [
+            {
+              "artist": {
+                "disambiguation": "",
+                "country": "CN",
+                "name": "李志",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ]
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": ""
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "number": "8",
+          "id": "092ca73a-40e3-4657-887d-d802f4c78fa7",
+          "position": 8,
+          "title": "山阴路的夏天 (2014 Live)",
+          "length": null,
+          "recording": {
+            "id": "821cfe30-e13d-446b-8c09-11e7b0bd56d2",
+            "disambiguation": "",
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "country": "CN",
+                  "disambiguation": "",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                },
+                "name": "李志"
+              }
+            ],
+            "length": null,
+            "first-release-date": "2019",
+            "title": "山阴路的夏天 (2014 Live)"
+          }
+        },
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "type": "Person"
+              },
+              "name": "李志"
+            }
+          ],
+          "number": "9",
+          "id": "adfbd0e7-b567-4dbb-847d-b9f8d295fc28",
+          "position": 9,
+          "title": "杭州 (2015 Live)",
+          "length": null,
+          "recording": {
+            "id": "e99c4f4f-6942-486f-9d72-fae5e583fdd4",
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "country": "CN",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "name": "李志"
+                },
+                "name": "李志"
+              }
+            ],
+            "disambiguation": "",
+            "title": "杭州 (2015 Live)",
+            "first-release-date": "2019",
+            "length": null
+          }
+        },
+        {
+          "recording": {
+            "title": "这个世界会好吗 (2018 Live)",
+            "first-release-date": "2019",
+            "length": null,
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "type": "Person",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "disambiguation": "",
+            "id": "1f3a8bdb-0eaf-4133-8405-cdb2b85ba5be"
+          },
+          "length": null,
+          "position": 10,
+          "title": "这个世界会好吗 (2018 Live)",
+          "id": "8f67600c-a301-458c-9fe7-570dc1b75b4f",
+          "number": "10",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "name": "李志"
+              }
+            }
+          ]
+        }
+      ],
+      "format": "CD",
+      "track-count": 10,
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+    }
+  ],
+  "artist-credit": [
+    {
+      "name": "李志",
+      "artist": {
+        "type": "Person",
+        "name": "李志",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "sort-name": "Li, Zhi",
+        "disambiguation": "",
+        "country": "CN"
+      },
+      "joinphrase": ""
+    }
+  ],
+  "packaging": null,
+  "packaging-id": null,
+  "asin": null,
+  "date": "2019",
+  "country": "JP",
+  "text-representation": {
+    "script": "Qaaa",
+    "language": "mul"
+  },
+  "cover-art-archive": {
+    "count": 0,
+    "darkened": false,
+    "back": false,
+    "front": false,
+    "artwork": false
+  },
+  "quality": "normal",
+  "title": "Best Selection Songs 2004~2018",
+  "disambiguation": "",
+  "release-events": [
+    {
+      "area": {
+        "type-id": null,
+        "name": "Japan",
+        "type": null,
+        "sort-name": "Japan",
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "iso-3166-1-codes": [
+          "JP"
+        ],
+        "disambiguation": ""
+      },
+      "date": "2019"
+    }
+  ],
+  "release-group": {
+    "id": "9993e729-93b8-4d63-ac82-a92a20a219fc",
+    "secondary-type-ids": [
+      "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+    ],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "primary-type": "Album",
+    "title": "Best Selection Songs 2004~2018",
+    "first-release-date": "2019",
+    "disambiguation": "",
+    "artist-credit": [
+      {
+        "name": "李志",
+        "artist": {
+          "sort-name": "Li, Zhi",
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+          "type": "Person",
+          "name": "李志",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "country": "CN",
+          "disambiguation": ""
+        },
+        "joinphrase": ""
+      }
+    ],
+    "secondary-types": [
+      "Compilation"
+    ]
+  },
+  "id": "7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc",
+  "status": "Official",
+  "barcode": "4582237844740",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+}

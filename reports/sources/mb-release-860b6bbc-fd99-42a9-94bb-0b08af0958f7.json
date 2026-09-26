@@ -1,0 +1,593 @@
+{
+  "release-events": [
+    {
+      "area": {
+        "name": "China",
+        "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+        "disambiguation": "",
+        "sort-name": "China",
+        "type": null,
+        "iso-3166-1-codes": [
+          "CN"
+        ],
+        "type-id": null
+      },
+      "date": "2016-01-01"
+    }
+  ],
+  "date": "2016-01-01",
+  "id": "860b6bbc-fd99-42a9-94bb-0b08af0958f7",
+  "media": [
+    {
+      "id": "4da0bd3f-8a52-3ea2-b806-bc857898f572",
+      "track-offset": 0,
+      "track-count": 11,
+      "position": 1,
+      "format": "Digital Media",
+      "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+      "title": "",
+      "tracks": [
+        {
+          "length": 665129,
+          "position": 1,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person"
+              }
+            }
+          ],
+          "number": "1",
+          "title": "好威武支持有希望+倒影+青春+人民币 (2015动静版)",
+          "id": "3fedde57-ea6b-4f4e-b8d6-e3bb9c9c92ab",
+          "recording": {
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person"
+                }
+              }
+            ],
+            "video": false,
+            "disambiguation": "",
+            "length": 665129,
+            "id": "bb422f93-a453-4924-b455-eefcfb10d73f",
+            "title": "好威武支持有希望+倒影+青春+人民币 (2015动静版)",
+            "first-release-date": "2016-01-01"
+          }
+        },
+        {
+          "number": "2",
+          "title": "你的早晨 (2015动静版)",
+          "length": 339968,
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "disambiguation": "",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "sort-name": "Li, Zhi"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "position": 2,
+          "recording": {
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "id": "29daa2ae-fdf7-4ec2-93a6-aaaf0018db4c",
+            "length": 339968,
+            "title": "你的早晨(2015动静版)",
+            "first-release-date": "2016-01-01"
+          },
+          "id": "4085aea1-3fc0-4136-a932-423400bd875f"
+        },
+        {
+          "title": "普希金 (2015动静版)",
+          "number": "3",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "disambiguation": "",
+                "country": "CN"
+              }
+            }
+          ],
+          "position": 3,
+          "length": 273280,
+          "recording": {
+            "id": "6ee57519-9166-433c-b5b5-8d91207fad9b",
+            "length": 273280,
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "first-release-date": "2016-01-01",
+            "title": "普希金(2015动静版)"
+          },
+          "id": "6603c641-ba84-4f40-a020-7db0be669473"
+        },
+        {
+          "id": "8b791f9d-0284-40a3-b148-03badbef2ce5",
+          "recording": {
+            "title": "卡夫卡(2015动静版)",
+            "first-release-date": "2016-01-01",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "video": false,
+            "id": "2875520e-7451-459b-8aa9-700bdec4fbae",
+            "length": 276602
+          },
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              }
+            }
+          ],
+          "position": 4,
+          "length": 276602,
+          "title": "卡夫卡 (2015动静版)",
+          "number": "4"
+        },
+        {
+          "length": 280021,
+          "position": 5,
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              }
+            }
+          ],
+          "number": "5",
+          "title": "和你在一起 (2015动静版)",
+          "id": "f79cee5f-30cd-4fe2-bece-c884ad4d50b3",
+          "recording": {
+            "first-release-date": "2016-01-01",
+            "title": "和你在一起(2015动静版)",
+            "length": 280021,
+            "id": "843c418e-c7b3-4760-8a97-48015d9b49d7",
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "CN",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": ""
+          }
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              }
+            }
+          ],
+          "position": 6,
+          "length": 266496,
+          "title": "忽然 (2015动静版)",
+          "number": "6",
+          "id": "05e1d0bf-9218-4ca6-b15f-6439c1112158",
+          "recording": {
+            "title": "忽然(2015动静版)",
+            "first-release-date": "2016-01-01",
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "",
+            "video": false,
+            "id": "54ae2326-66c4-4199-9b77-8a87c567e8b4",
+            "length": 266496
+          }
+        },
+        {
+          "id": "e8e8d286-7836-4c3a-ac9a-bf685d7e3253",
+          "recording": {
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "country": "CN",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                }
+              }
+            ],
+            "video": false,
+            "id": "0ffb3d19-91ce-4dc5-ad69-7204f68fcfcf",
+            "length": 265190,
+            "title": "定西(2015动静版)",
+            "first-release-date": "2016-01-01"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "CN",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "position": 7,
+          "length": 265190,
+          "title": "定西 (2015动静版)",
+          "number": "7"
+        },
+        {
+          "recording": {
+            "title": "地方(2015动静版)",
+            "first-release-date": "2016-01-01",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "country": "CN"
+                }
+              }
+            ],
+            "video": false,
+            "id": "b9f6daf3-8352-4fda-95c1-50e5b15f3697",
+            "length": 361168
+          },
+          "id": "fec132ac-6ccb-4ee2-9bdf-c76b48798262",
+          "title": "地方 (2015动静版)",
+          "number": "8",
+          "position": 8,
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "country": "CN"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "length": 361168
+        },
+        {
+          "id": "5daf13b1-6ee4-4db4-a120-32b68fb703e8",
+          "recording": {
+            "first-release-date": "2016-01-01",
+            "title": "这个世界会好吗(2015动静版)",
+            "length": 314090,
+            "id": "78be0dbf-4341-45d6-8521-c4bb27b7ef10",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "country": "CN"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "disambiguation": "",
+            "video": false
+          },
+          "length": 314090,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "disambiguation": "",
+                "country": "CN"
+              }
+            }
+          ],
+          "position": 9,
+          "number": "9",
+          "title": "这个世界会好吗 (2015动静版)"
+        },
+        {
+          "id": "a7bdfd65-c78b-46b9-82ea-a683c0c0c3ff",
+          "recording": {
+            "first-release-date": "2016-01-01",
+            "title": "墙上的向日葵(2015动静版)",
+            "id": "c6c5187f-d2dd-4fd4-a97d-7ef9535a94c4",
+            "length": 405242,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "disambiguation": "",
+            "video": false
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "position": 10,
+          "length": 405242,
+          "title": "墙上的向日葵 (2015动静版)",
+          "number": "10"
+        },
+        {
+          "id": "e8a5372c-dbfb-4d5e-857c-58cfadc3bf37",
+          "recording": {
+            "title": "尽头(2015动静版)",
+            "first-release-date": "2016-01-01",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "country": "CN",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                }
+              }
+            ],
+            "video": false,
+            "disambiguation": "",
+            "length": 206128,
+            "id": "4dbc62b9-9790-4be6-b3c7-274b888dad22"
+          },
+          "length": 206128,
+          "position": 11,
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "country": "CN"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "number": "11",
+          "title": "尽头 (2015动静版)"
+        }
+      ]
+    }
+  ],
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "CN",
+        "disambiguation": "",
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "name": "李志",
+        "type": "Person",
+        "sort-name": "Li, Zhi",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "李志"
+    }
+  ],
+  "barcode": null,
+  "packaging": null,
+  "quality": "normal",
+  "title": "动静（2015 Live）",
+  "cover-art-archive": {
+    "front": true,
+    "back": false,
+    "count": 1,
+    "darkened": false,
+    "artwork": true
+  },
+  "asin": null,
+  "disambiguation": "",
+  "release-group": {
+    "first-release-date": "2016-01-01",
+    "title": "動靜",
+    "artist-credit": [
+      {
+        "artist": {
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "sort-name": "Li, Zhi",
+          "type": "Person",
+          "disambiguation": "",
+          "name": "李志",
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+          "country": "CN"
+        },
+        "name": "李志",
+        "joinphrase": ""
+      }
+    ],
+    "secondary-type-ids": [
+      "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+    ],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "primary-type": "Album",
+    "secondary-types": [
+      "Live"
+    ],
+    "id": "69a04640-d2e8-45fc-8bfa-d2a6952e31dd",
+    "disambiguation": ""
+  },
+  "country": "CN",
+  "status": "Official",
+  "text-representation": {
+    "script": "Hans",
+    "language": "zho"
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "packaging-id": null
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "artist": "李志",
+    "album": "梵高先生",
+    "title": "你离开了南京，从此没有人和我说话（乐曲）",
+    "removedPath": "artists/李志/2005 - 梵高先生/01-01 - 你离开了南京，从此没有人和我说话（乐曲） [OneDrive].flac",
+    "retainedPath": "artists/李志/2005 - 梵高先生/01-01 - 你离开了南京，从此没有人和我说话（乐曲）.flac",
+    "removedBytes": 6749536,
+    "reason": "同一录音的重复来源；抽样音频高度一致，时长差异为编码边界或近乎静音的尾段。",
+    "cloudOriginalUnchanged": true
+  },
+  {
+    "artist": "李志",
+    "album": "梵高先生",
+    "title": "春末的南方城市",
+    "removedPath": "artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市 [OneDrive].flac",
+    "retainedPath": "artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.flac",
+    "removedBytes": 30831508,
+    "reason": "同一录音的重复来源；抽样音频高度一致，时长差异为编码边界或近乎静音的尾段。",
+    "cloudOriginalUnchanged": true
+  },
+  {
+    "artist": "李志",
+    "album": "梵高先生",
+    "title": "广场",
+    "removedPath": "artists/李志/2005 - 梵高先生/01-05 - 广场 [OneDrive].flac",
+    "retainedPath": "artists/李志/2005 - 梵高先生/01-05 - 广场.flac",
+    "removedBytes": 30283720,
+    "reason": "同一录音的重复来源；抽样音频高度一致，时长差异为编码边界或近乎静音的尾段。",
+    "cloudOriginalUnchanged": true
+  },
+  {
+    "artist": "李志",
+    "album": "我爱南京",
+    "title": "意味",
+    "removedPath": "artists/李志/2009 - 我爱南京/01-01 - 意味 [OneDrive].flac",
+    "retainedPath": "artists/李志/2009 - 我爱南京/01-01 - 意味.flac",
+    "removedBytes": 15741656,
+    "reason": "同一录音的重复来源；抽样音频高度一致，时长差异为编码边界或近乎静音的尾段。",
+    "cloudOriginalUnchanged": true
+  },
+  {
+    "artist": "李志",
+    "album": "我爱南京",
+    "title": "苍井空",
+    "removedPath": "artists/李志/2009 - 我爱南京/01-02 - 苍井空 [OneDrive].flac",
+    "retainedPath": "artists/李志/2009 - 我爱南京/01-02 - 苍井空.flac",
+    "removedBytes": 29221291,
+    "reason": "同一录音的重复来源；抽样音频高度一致，时长差异为编码边界或近乎静音的尾段。",
+    "cloudOriginalUnchanged": true
+  },
+  {
+    "artist": "李志",
+    "album": "我爱南京",
+    "title": "结婚",
+    "removedPath": "artists/李志/2009 - 我爱南京/01-03 - 结婚 [OneDrive].flac",
+    "retainedPath": "artists/李志/2009 - 我爱南京/01-03 - 结婚.flac",
+    "removedBytes": 30824736,
+    "reason": "同一录音的重复来源；抽样音频高度一致，时长差异为编码边界或近乎静音的尾段。",
+    "cloudOriginalUnchanged": true
+  },
+  {
+    "artist": "李志",
+    "album": "我爱南京",
+    "title": "天空之城",
+    "removedPath": "artists/李志/2009 - 我爱南京/01-05 - 天空之城 [OneDrive].flac",
+    "retainedPath": "artists/李志/2009 - 我爱南京/01-05 - 天空之城.flac",
+    "removedBytes": 22344990,
+    "reason": "同一录音的重复来源；抽样音频高度一致，时长差异为编码边界或近乎静音的尾段。",
+    "cloudOriginalUnchanged": true
+  },
+  {
+    "artist": "李志",
+    "album": "我爱南京",
+    "title": "米店",
+    "removedPath": "artists/李志/2009 - 我爱南京/02-04 - 米店 [OneDrive].flac",
+    "retainedPath": "artists/李志/2009 - 我爱南京/02-04 - 米店.flac",
+    "removedBytes": 22227322,
+    "reason": "同一录音的重复来源；抽样音频高度一致，时长差异为编码边界或近乎静音的尾段。",
+    "cloudOriginalUnchanged": true
+  }
+]

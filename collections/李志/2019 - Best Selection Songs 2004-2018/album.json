@@ -1,0 +1,2587 @@
+{
+  "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc",
+  "artist": "李志",
+  "title": "Best Selection Songs 2004-2018",
+  "releaseDate": "2019-04-01",
+  "releaseDatePrecision": "day",
+  "year": 2019,
+  "type": "compilation",
+  "path": "collections/李志/2019 - Best Selection Songs 2004-2018",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t01",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "黑色信封 (2004)",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 284.63,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/黒い封筒(2004)(黑色信封Black%20Envelope).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-01 - 黑色信封 (2004).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 284.63,
+        "fileSize": 11536290,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t01",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-01 - 黑色信封 (2004).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/黒い封筒(2004)(黑色信封Black%20Envelope).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 284.63,
+            "fileSize": 11536290,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 284.63,
+            "fileSize": 11536290,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 284.63,
+        "fileSize": 11536290,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t01",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-01 - 黑色信封 (2004).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/黒い封筒(2004)(黑色信封Black%20Envelope).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 284.63,
+            "fileSize": 11536290,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 284.63,
+            "fileSize": 11536290,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t02",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "春末的南方城市 (2005)",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 248.79,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/晩春の南方都市(2005)(春末的南方城市A%20southern%20city%20in%20a%20late%20spring%20day).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-02 - 春末的南方城市 (2005).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 248.79,
+        "fileSize": 10101262,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t02",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-02 - 春末的南方城市 (2005).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/晩春の南方都市(2005)(春末的南方城市A%20southern%20city%20in%20a%20late%20spring%20day).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 248.79,
+            "fileSize": 10101262,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 248.79,
+            "fileSize": 10101262,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 248.79,
+        "fileSize": 10101262,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t02",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-02 - 春末的南方城市 (2005).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/晩春の南方都市(2005)(春末的南方城市A%20southern%20city%20in%20a%20late%20spring%20day).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 248.79,
+            "fileSize": 10101262,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 248.79,
+            "fileSize": 10101262,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t03",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "和你在一起 (2006)",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 254.981,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/君と(2006)(和你在一起Be%20with%20you).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-03 - 和你在一起 (2006).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 254.981,
+        "fileSize": 10349147,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t03",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-03 - 和你在一起 (2006).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/君と(2006)(和你在一起Be%20with%20you).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 254.981,
+            "fileSize": 10349147,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 254.981,
+            "fileSize": 10349147,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 254.981,
+        "fileSize": 10349147,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t03",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-03 - 和你在一起 (2006).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/君と(2006)(和你在一起Be%20with%20you).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 254.981,
+            "fileSize": 10349147,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 254.981,
+            "fileSize": 10349147,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t04",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "苍井空 (2009)",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 262.322,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/青い空(2009)(苍井空Sky%20city).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-04 - 苍井空 (2009).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 262.322,
+        "fileSize": 10643052,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t04",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-04 - 苍井空 (2009).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/青い空(2009)(苍井空Sky%20city).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 262.322,
+            "fileSize": 10643052,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 262.322,
+            "fileSize": 10643052,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 262.322,
+        "fileSize": 10643052,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t04",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-04 - 苍井空 (2009).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/青い空(2009)(苍井空Sky%20city).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 262.322,
+            "fileSize": 10643052,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 262.322,
+            "fileSize": 10643052,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t05",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "天空之城 (2009)",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 225.567,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/天空の城(2009)(天空之城Sky%20city).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-05 - 天空之城 (2009).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 225.567,
+        "fileSize": 9171412,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t05",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-05 - 天空之城 (2009).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/天空の城(2009)(天空之城Sky%20city).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 225.567,
+            "fileSize": 9171412,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 225.567,
+            "fileSize": 9171412,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 225.567,
+        "fileSize": 9171412,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t05",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-05 - 天空之城 (2009).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/天空の城(2009)(天空之城Sky%20city).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 225.567,
+            "fileSize": 9171412,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 225.567,
+            "fileSize": 9171412,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t06",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "墙上的向日葵 (2010)",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 298.188,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/壁のヒマワリ(2010)(墙上的向日葵Sunflower%20on%20the%20wall).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-06 - 墙上的向日葵 (2010).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 298.188,
+        "fileSize": 12079138,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t06",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-06 - 墙上的向日葵 (2010).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/壁のヒマワリ(2010)(墙上的向日葵Sunflower%20on%20the%20wall).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 298.188,
+            "fileSize": 12079138,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 298.188,
+            "fileSize": 12079138,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 298.188,
+        "fileSize": 12079138,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t06",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-06 - 墙上的向日葵 (2010).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/壁のヒマワリ(2010)(墙上的向日葵Sunflower%20on%20the%20wall).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 298.188,
+            "fileSize": 12079138,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 298.188,
+            "fileSize": 12079138,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t07",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "关于郑州的记忆 (2010)",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 230.191,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/鄭州の記憶(2010)(关于郑州的记忆Memory%20about%20Zhengzhou%20).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-07 - 关于郑州的记忆 (2010).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 230.191,
+        "fileSize": 9356550,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t07",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-07 - 关于郑州的记忆 (2010).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/鄭州の記憶(2010)(关于郑州的记忆Memory%20about%20Zhengzhou%20).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 230.191,
+            "fileSize": 9356550,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 230.191,
+            "fileSize": 9356550,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 230.191,
+        "fileSize": 9356550,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t07",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-07 - 关于郑州的记忆 (2010).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/鄭州の記憶(2010)(关于郑州的记忆Memory%20about%20Zhengzhou%20).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 230.191,
+            "fileSize": 9356550,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 230.191,
+            "fileSize": 9356550,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t08",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "山阴路的夏天 (2011)",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 280.059,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/山陰路の夏(2011)(山阴路的夏天Nanjing%20summer%20day).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-08 - 山阴路的夏天 (2011).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 280.059,
+        "fileSize": 11353254,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t08",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-08 - 山阴路的夏天 (2011).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/山陰路の夏(2011)(山阴路的夏天Nanjing%20summer%20day).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 280.059,
+            "fileSize": 11353254,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 280.059,
+            "fileSize": 11353254,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 280.059,
+        "fileSize": 11353254,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t08",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-08 - 山阴路的夏天 (2011).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/山陰路の夏(2011)(山阴路的夏天Nanjing%20summer%20day).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 280.059,
+            "fileSize": 11353254,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 280.059,
+            "fileSize": 11353254,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t09",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "杭州 (2011)",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 241.215,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/杭州(2011)(杭州Hangzhou).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-09 - 杭州 (2011).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 241.215,
+        "fileSize": 9797928,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t09",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-09 - 杭州 (2011).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/杭州(2011)(杭州Hangzhou).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 241.215,
+            "fileSize": 9797928,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 241.215,
+            "fileSize": 9797928,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 241.215,
+        "fileSize": 9797928,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t09",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-09 - 杭州 (2011).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/杭州(2011)(杭州Hangzhou).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 241.215,
+            "fileSize": 9797928,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 241.215,
+            "fileSize": 9797928,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t10",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "这个世界会好吗 (2006)",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 242.469,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/この世界に未来はあるの？(2006)(这个世界会好吗Has%20man%20a%20future).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-10 - 这个世界会好吗 (2006).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 242.469,
+        "fileSize": 9848145,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t10",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-10 - 这个世界会好吗 (2006).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/この世界に未来はあるの？(2006)(这个世界会好吗Has%20man%20a%20future).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 242.469,
+            "fileSize": 9848145,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 242.469,
+            "fileSize": 9848145,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 242.469,
+        "fileSize": 9848145,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t10",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/01-10 - 这个世界会好吗 (2006).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/この世界に未来はあるの？(2006)(这个世界会好吗Has%20man%20a%20future).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 242.469,
+            "fileSize": 9848145,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 242.469,
+            "fileSize": 9848145,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t01",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "黑色信封 (2015 Live)",
+      "discNumber": 2,
+      "trackNumber": 1,
+      "sequenceNumber": 11,
+      "duration": 294.243,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/黒い封筒(2015%20Live)(黑色信封Black%20Envelope).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-01 - 黑色信封 (2015 Live).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 294.243,
+        "fileSize": 11921206,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t01",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-01 - 黑色信封 (2015 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/黒い封筒(2015%20Live)(黑色信封Black%20Envelope).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 294.243,
+            "fileSize": 11921206,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 294.243,
+            "fileSize": 11921206,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 294.243,
+        "fileSize": 11921206,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t01",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-01 - 黑色信封 (2015 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/黒い封筒(2015%20Live)(黑色信封Black%20Envelope).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 294.243,
+            "fileSize": 11921206,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 294.243,
+            "fileSize": 11921206,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t02",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "春末的南方城市 (2015 Live)",
+      "discNumber": 2,
+      "trackNumber": 2,
+      "sequenceNumber": 12,
+      "duration": 250.697,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/晩春の南方都市(2015%20Live)(春末的南方城市A%20southern%20city%20in%20a%20late%20spring%20day).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-02 - 春末的南方城市 (2015 Live).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 250.697,
+        "fileSize": 10177625,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t02",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-02 - 春末的南方城市 (2015 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/晩春の南方都市(2015%20Live)(春末的南方城市A%20southern%20city%20in%20a%20late%20spring%20day).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 250.697,
+            "fileSize": 10177625,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 250.697,
+            "fileSize": 10177625,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 250.697,
+        "fileSize": 10177625,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t02",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-02 - 春末的南方城市 (2015 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/晩春の南方都市(2015%20Live)(春末的南方城市A%20southern%20city%20in%20a%20late%20spring%20day).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 250.697,
+            "fileSize": 10177625,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 250.697,
+            "fileSize": 10177625,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t03",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "和你在一起 (2016 Live)",
+      "discNumber": 2,
+      "trackNumber": 3,
+      "sequenceNumber": 13,
+      "duration": 282.54,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/君と(2015%20Live)(和你在一起Be%20with%20you).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-03 - 和你在一起 (2016 Live).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 282.54,
+        "fileSize": 11452626,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t03",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-03 - 和你在一起 (2016 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/君と(2015%20Live)(和你在一起Be%20with%20you).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 282.54,
+            "fileSize": 11452626,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 282.54,
+            "fileSize": 11452626,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 282.54,
+        "fileSize": 11452626,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t03",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-03 - 和你在一起 (2016 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/君と(2015%20Live)(和你在一起Be%20with%20you).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 282.54,
+            "fileSize": 11452626,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 282.54,
+            "fileSize": 11452626,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t04",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "苍井空 (2015 Live)",
+      "discNumber": 2,
+      "trackNumber": 4,
+      "sequenceNumber": 14,
+      "duration": 310.596,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/青い空(2015%20Live)(苍井空Blue%20sky).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-04 - 苍井空 (2015 Live).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 310.596,
+        "fileSize": 12575964,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t04",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-04 - 苍井空 (2015 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/青い空(2015%20Live)(苍井空Blue%20sky).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 310.596,
+            "fileSize": 12575964,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 310.596,
+            "fileSize": 12575964,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 310.596,
+        "fileSize": 12575964,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t04",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-04 - 苍井空 (2015 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/青い空(2015%20Live)(苍井空Blue%20sky).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 310.596,
+            "fileSize": 12575964,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 310.596,
+            "fileSize": 12575964,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t05",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "天空之城 (2018 Live)",
+      "discNumber": 2,
+      "trackNumber": 5,
+      "sequenceNumber": 15,
+      "duration": 294.296,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/天空の城(2017%20Live)(天空之城Sky%20city).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-05 - 天空之城 (2018 Live).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 294.296,
+        "fileSize": 11923298,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t05",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-05 - 天空之城 (2018 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/天空の城(2017%20Live)(天空之城Sky%20city).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 294.296,
+            "fileSize": 11923298,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 294.296,
+            "fileSize": 11923298,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 294.296,
+        "fileSize": 11923298,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t05",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-05 - 天空之城 (2018 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/天空の城(2017%20Live)(天空之城Sky%20city).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 294.296,
+            "fileSize": 11923298,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 294.296,
+            "fileSize": 11923298,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t06",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "墙上的向日葵 (2015 Live)",
+      "discNumber": 2,
+      "trackNumber": 6,
+      "sequenceNumber": 16,
+      "duration": 470.7,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/壁のヒマワリ(2014%20Live)(墙上的向日葵Sunflower%20on%20the%20wall).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-06 - 墙上的向日葵 (2015 Live).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 470.7,
+        "fileSize": 18986555,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t06",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-06 - 墙上的向日葵 (2015 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/壁のヒマワリ(2014%20Live)(墙上的向日葵Sunflower%20on%20the%20wall).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 470.7,
+            "fileSize": 18986555,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 470.7,
+            "fileSize": 18986555,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 470.7,
+        "fileSize": 18986555,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t06",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-06 - 墙上的向日葵 (2015 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/壁のヒマワリ(2014%20Live)(墙上的向日葵Sunflower%20on%20the%20wall).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 470.7,
+            "fileSize": 18986555,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 470.7,
+            "fileSize": 18986555,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t07",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "关于郑州的记忆 (2018 Live)",
+      "discNumber": 2,
+      "trackNumber": 7,
+      "sequenceNumber": 17,
+      "duration": 363.154,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/关于郑州的记忆%20(相信未来版)Memory%20about%20Zhengzhou.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-07 - 关于郑州的记忆 (2018 Live).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 363.154,
+        "fileSize": 14680410,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t07",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-07 - 关于郑州的记忆 (2018 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/关于郑州的记忆%20(相信未来版)Memory%20about%20Zhengzhou.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 363.154,
+            "fileSize": 14680410,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 363.154,
+            "fileSize": 14680410,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 363.154,
+        "fileSize": 14680410,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t07",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-07 - 关于郑州的记忆 (2018 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/关于郑州的记忆%20(相信未来版)Memory%20about%20Zhengzhou.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 363.154,
+            "fileSize": 14680410,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 363.154,
+            "fileSize": 14680410,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t08",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "山阴路的夏天 (2014 Live)",
+      "discNumber": 2,
+      "trackNumber": 8,
+      "sequenceNumber": 18,
+      "duration": 340.976,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/山陰路の夏(2014%20Live)(山阴路的夏天Nanjing%20summer%20day).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-08 - 山阴路的夏天 (2014 Live).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 340.976,
+        "fileSize": 13792403,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t08",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-08 - 山阴路的夏天 (2014 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/山陰路の夏(2014%20Live)(山阴路的夏天Nanjing%20summer%20day).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 340.976,
+            "fileSize": 13792403,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 340.976,
+            "fileSize": 13792403,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 340.976,
+        "fileSize": 13792403,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t08",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-08 - 山阴路的夏天 (2014 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/山陰路の夏(2014%20Live)(山阴路的夏天Nanjing%20summer%20day).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 340.976,
+            "fileSize": 13792403,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 340.976,
+            "fileSize": 13792403,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t09",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "杭州 (2015 Live)",
+      "discNumber": 2,
+      "trackNumber": 9,
+      "sequenceNumber": 19,
+      "duration": 250.593,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/杭州(2015%20Live)(杭州Hangzhou).mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-09 - 杭州 (2015 Live).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 250.593,
+        "fileSize": 10173432,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t09",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-09 - 杭州 (2015 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/杭州(2015%20Live)(杭州Hangzhou).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 250.593,
+            "fileSize": 10173432,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 250.593,
+            "fileSize": 10173432,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 250.593,
+        "fileSize": 10173432,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t09",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-09 - 杭州 (2015 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/杭州(2015%20Live)(杭州Hangzhou).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 250.593,
+            "fileSize": 10173432,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 250.593,
+            "fileSize": 10173432,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t10",
+      "artist": "李志",
+      "album": "Best Selection Songs 2004-2018",
+      "title": "这个世界会好吗 (2018 Live)",
+      "discNumber": 2,
+      "trackNumber": 10,
+      "sequenceNumber": 20,
+      "duration": 374.439,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/この世界に未来はあるの？(2018%20Live)(这个世界会好吗Has%20man%20a%20future.mp3",
+      "format": "MP3",
+      "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-10 - 这个世界会好吗 (2018 Live).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 374.439,
+        "fileSize": 15132259,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t10",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-10 - 这个世界会好吗 (2018 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/この世界に未来はあるの？(2018%20Live)(这个世界会好吗Has%20man%20a%20future.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 374.439,
+            "fileSize": 15132259,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 374.439,
+            "fileSize": 15132259,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 374.439,
+        "fileSize": 15132259,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t10",
+          "localPath": "collections/李志/2019 - Best Selection Songs 2004-2018/02-10 - 这个世界会好吗 (2018 Live).mp3",
+          "sourceUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/この世界に未来はあるの？(2018%20Live)(这个世界会好吗Has%20man%20a%20future.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 374.439,
+            "fileSize": 15132259,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 374.439,
+            "fileSize": 15132259,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc"
+  ],
+  "notes": [],
+  "metadataStatus": "provisional",
+  "editions": [],
+  "selectedEdition": {
+    "id": "7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc",
+    "title": "Best Selection Songs 2004~2018",
+    "date": "2019",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2019",
+      "source": "https://musicbrainz.org/release/7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc"
+    },
+    {
+      "date": "2019-04-01",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2020 - 李志 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）.png",
+    "width": 1920,
+    "height": 1920,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2020 - 李志 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）.png"
+  },
+  "trackCount": 20,
+  "tracklistStatus": "edition-listed"
+}

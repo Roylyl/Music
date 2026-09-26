@@ -1,0 +1,42 @@
+{
+  "id": "l2d2fgELk8I",
+  "title": "李志《2010我们也爱南京跨年音乐会》",
+  "webpage_url": "https://www.youtube.com/watch?v=l2d2fgELk8I",
+  "channel": "LIBRAINBOW",
+  "channel_url": "https://www.youtube.com/channel/UCPPZIZ-BmqCcTRMw9ZRQxKQ",
+  "upload_date": "20200313",
+  "duration": 1851,
+  "acodec": "mp3",
+  "asr": 44100,
+  "abr": 320,
+  "audio_channels": 2,
+  "chapters": null,
+  "license": null,
+  "rightsStatus": "unverified-third-party",
+  "lossless": false,
+  "sourceStatus": "available",
+  "localFiles": [
+    "live/李志/2011 - 我们也爱南京/full-concert.mp3"
+  ],
+  "coverage": "excerpt",
+  "note": "仅1851秒视频节选，不是4CD+4DVD完整套装。",
+  "audioProperties": {
+    "codec": "MP3",
+    "sampleRate": 44100,
+    "channels": 2,
+    "bitDepth": null,
+    "duration": 1850.88,
+    "fileSize": 74114643,
+    "bitRate": 320000
+  },
+  "suspected_transcode": null,
+  "sourceAudioProperties": {
+    "codec": "OggOpus",
+    "sampleRate": 48000,
+    "channels": 2,
+    "bitDepth": null,
+    "duration": 1850.861,
+    "fileSize": 31723758,
+    "bitRate": null
+  }
+}

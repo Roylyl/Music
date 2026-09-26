@@ -1,0 +1,298 @@
+{
+  "releases": [
+    {
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "country": "CN",
+      "quality": "normal",
+      "title": "这个世界会好吗",
+      "cover-art-archive": {
+        "back": false,
+        "artwork": true,
+        "front": true,
+        "count": 1,
+        "darkened": false
+      },
+      "disambiguation": "",
+      "release-events": [
+        {
+          "date": "2006-11-20",
+          "area": {
+            "disambiguation": "",
+            "type-id": null,
+            "name": "China",
+            "type": null,
+            "sort-name": "China",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "iso-3166-1-codes": [
+              "CN"
+            ]
+          }
+        }
+      ],
+      "id": "083e1542-8767-4a92-8465-bc3fb233b8b9",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "status": "Official",
+      "barcode": "9787881016306",
+      "media": [
+        {
+          "id": "23d14f67-5c58-3b91-a8d7-84ef903153f0",
+          "position": 1,
+          "title": "",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 10,
+          "format": "CD"
+        }
+      ],
+      "packaging": null,
+      "packaging-id": null,
+      "date": "2006-11-20",
+      "asin": null
+    },
+    {
+      "id": "1ae6c936-f1bc-47f1-8c1c-0e7277da2652",
+      "release-events": [
+        {
+          "area": {
+            "sort-name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type-id": null,
+            "name": "[Worldwide]",
+            "type": null,
+            "disambiguation": ""
+          },
+          "date": "2011"
+        }
+      ],
+      "status": "Official",
+      "barcode": "9555150725323",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "title": "這個世界會好嗎",
+      "quality": "normal",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "front": true,
+        "artwork": true,
+        "back": false
+      },
+      "country": "XW",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "disambiguation": "",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "asin": null,
+      "date": "2011",
+      "media": [
+        {
+          "id": "339ca15b-82f1-3b39-82c5-0a5bbac280da",
+          "position": 1,
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "track-count": 8,
+          "format": "Digital Media"
+        }
+      ]
+    },
+    {
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "asin": null,
+      "date": "",
+      "media": [
+        {
+          "id": "40e7af12-1dcd-3286-9a1c-bbc211b11258",
+          "position": 1,
+          "title": "",
+          "track-count": 7,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media"
+        }
+      ],
+      "id": "64f80c4d-f289-45b8-8f20-a4391b74b5cc",
+      "release-events": [
+        {
+          "area": {
+            "sort-name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type-id": null,
+            "name": "[Worldwide]",
+            "type": null,
+            "disambiguation": ""
+          },
+          "date": ""
+        }
+      ],
+      "status": "Official",
+      "barcode": "9555150725323",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "front": true,
+        "artwork": true,
+        "back": false
+      },
+      "quality": "normal",
+      "title": "这个世界会好吗",
+      "country": "XW",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "disambiguation": ""
+    },
+    {
+      "id": "7213aaad-bb52-4588-95a9-ce888667cddc",
+      "release-events": [
+        {
+          "date": "2011",
+          "area": {
+            "name": "Hong Kong",
+            "type": null,
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+            "sort-name": "Hong Kong",
+            "disambiguation": "",
+            "iso-3166-2-codes": [
+              "CN-91"
+            ]
+          }
+        },
+        {
+          "date": "2011",
+          "area": {
+            "iso-3166-2-codes": [
+              "CN-92"
+            ],
+            "disambiguation": "",
+            "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+            "sort-name": "Macao",
+            "iso-3166-1-codes": [
+              "MO"
+            ],
+            "type-id": null,
+            "name": "Macao",
+            "type": null
+          }
+        },
+        {
+          "date": "2011",
+          "area": {
+            "disambiguation": "",
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "name": "Taiwan",
+            "type": null,
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "sort-name": "Taiwan"
+          }
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "status": "Official",
+      "barcode": "9555150725323",
+      "title": "這個世界會好嗎",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "artwork": true,
+        "front": true,
+        "back": false
+      },
+      "quality": "normal",
+      "text-representation": {
+        "script": "Hant",
+        "language": "zho"
+      },
+      "country": "HK",
+      "disambiguation": "",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "date": "2011",
+      "asin": null,
+      "media": [
+        {
+          "id": "9bf3a554-ce48-3c0f-938c-3fd2d513dbba",
+          "title": "",
+          "position": 1,
+          "track-count": 7,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "track-count": 7,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "id": "6c1a8f5e-8b99-3664-80b8-e25ae7ccec94",
+          "title": "",
+          "position": 1
+        }
+      ],
+      "asin": null,
+      "date": "2020-10-22",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "disambiguation": "",
+      "title": "这个世界会好吗",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "front": true,
+        "artwork": true,
+        "back": false
+      },
+      "quality": "normal",
+      "country": "XW",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "barcode": "",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "id": "c54c6a71-6b7c-43f6-9f80-298fdc107c03",
+      "release-events": [
+        {
+          "date": "2020-10-22",
+          "area": {
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "sort-name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "type": null,
+            "name": "[Worldwide]",
+            "type-id": null
+          }
+        }
+      ]
+    }
+  ],
+  "release-count": 5,
+  "release-offset": 0
+}

@@ -1,0 +1,196 @@
+{
+  "releases": [
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "id": "38d58d47-5f00-4f4b-95aa-f499cdba365b",
+      "status": "Official",
+      "date": "2010",
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "artwork": true,
+        "front": true,
+        "count": 1
+      },
+      "release-events": [
+        {
+          "date": "2010",
+          "area": {
+            "type-id": null,
+            "iso-3166-2-codes": [
+              "CN-91"
+            ],
+            "sort-name": "Hong Kong",
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "disambiguation": "",
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+            "type": null,
+            "name": "Hong Kong"
+          }
+        },
+        {
+          "date": "2010",
+          "area": {
+            "iso-3166-1-codes": [
+              "MO"
+            ],
+            "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+            "disambiguation": "",
+            "sort-name": "Macao",
+            "iso-3166-2-codes": [
+              "CN-92"
+            ],
+            "type-id": null,
+            "name": "Macao",
+            "type": null
+          }
+        },
+        {
+          "area": {
+            "sort-name": "Taiwan",
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "type-id": null,
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "name": "Taiwan",
+            "type": null
+          },
+          "date": "2010"
+        }
+      ],
+      "barcode": "9787798608441",
+      "title": "你好，鄭州",
+      "text-representation": {
+        "script": "Hant",
+        "language": "zho"
+      },
+      "asin": null,
+      "country": "HK",
+      "disambiguation": "",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "quality": "normal",
+      "media": [
+        {
+          "format": "Digital Media",
+          "position": 1,
+          "id": "1475ce16-2117-3d6b-874f-a626e8734948",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": "",
+          "track-count": 10
+        }
+      ],
+      "packaging": "None"
+    },
+    {
+      "media": [
+        {
+          "id": "5cac0639-7e69-361e-98eb-be1ffa918853",
+          "position": 1,
+          "format": "Digital Media",
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "track-count": 10
+        }
+      ],
+      "quality": "normal",
+      "packaging": "None",
+      "asin": null,
+      "country": "XW",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "title": "你好，鄭州",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "disambiguation": "",
+      "barcode": "9787798608441",
+      "release-events": [
+        {
+          "date": "",
+          "area": {
+            "type": null,
+            "name": "[Worldwide]",
+            "type-id": null,
+            "sort-name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "XW"
+            ]
+          }
+        }
+      ],
+      "date": "",
+      "cover-art-archive": {
+        "front": true,
+        "count": 1,
+        "artwork": true,
+        "back": false,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "id": "4769a4f8-0336-4373-a3ec-42f90bc9ceea",
+      "status": "Official"
+    },
+    {
+      "disambiguation": "",
+      "packaging-id": null,
+      "asin": null,
+      "country": "CN",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hans"
+      },
+      "title": "你好，郑州",
+      "packaging": null,
+      "media": [
+        {
+          "id": "64d17fbf-ded7-3c16-9ee6-df83c121b907",
+          "position": 1,
+          "format": "CD",
+          "title": "",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 10
+        }
+      ],
+      "quality": "normal",
+      "status": "Official",
+      "id": "7c06b92a-0542-4a6b-9fcb-75f8104079f5",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "release-events": [
+        {
+          "area": {
+            "name": "China",
+            "type": null,
+            "sort-name": "China",
+            "type-id": null,
+            "disambiguation": "",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "iso-3166-1-codes": [
+              "CN"
+            ]
+          },
+          "date": "2010-09-01"
+        }
+      ],
+      "barcode": "9787798608441",
+      "date": "2010-09-01",
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "front": true,
+        "count": 1,
+        "artwork": true
+      }
+    }
+  ],
+  "release-count": 3,
+  "release-offset": 0
+}

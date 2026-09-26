@@ -1,0 +1,25 @@
+{
+  "sourceUrl": "https://drive.google.com/file/d/12l8CsNTVLvIc8npGvQOloLE4op2GHgE5/view?usp=drivesdk",
+  "rightsStatus": "unverified-third-party",
+  "originalPath": "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.full-source.mp3",
+  "selectedTrackPath": "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.mp3",
+  "cutAtSeconds": 240,
+  "cutBasis": "First audible program ends at about 238 seconds; independent 320 kb/s MP3 reference lasts 240.039 seconds and opening 20-second waveform correlation is 0.9766 with 0.013-second offset. PCM frames 0 through 240 seconds copied without resampling or lossy conversion.",
+  "remainingProgramStatus": "unidentified",
+  "audibleRangesSeconds": [
+    [
+      0,
+      238
+    ],
+    [
+      349,
+      626
+    ],
+    [
+      630,
+      877
+    ]
+  ],
+  "note": "Extended source is preserved separately; remaining material is not attributed to a track without listening verification.",
+  "conversionNote": "按用户要求仅保留MP3 320kbps版本；早期切分说明描述源文件处理历史。"
+}

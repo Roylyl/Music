@@ -1,0 +1,536 @@
+{
+  "date": "2016",
+  "cover-art-archive": {
+    "darkened": false,
+    "back": false,
+    "count": 1,
+    "front": true,
+    "artwork": true
+  },
+  "barcode": "9555150725262",
+  "release-events": [
+    {
+      "date": "2016",
+      "area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "disambiguation": "",
+        "iso-3166-1-codes": [
+          "HK"
+        ],
+        "sort-name": "Hong Kong",
+        "iso-3166-2-codes": [
+          "CN-91"
+        ],
+        "type-id": null,
+        "type": null,
+        "name": "Hong Kong"
+      }
+    },
+    {
+      "area": {
+        "name": "Macao",
+        "type": null,
+        "iso-3166-1-codes": [
+          "MO"
+        ],
+        "disambiguation": "",
+        "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+        "sort-name": "Macao",
+        "type-id": null,
+        "iso-3166-2-codes": [
+          "CN-92"
+        ]
+      },
+      "date": "2016"
+    },
+    {
+      "date": "2016",
+      "area": {
+        "name": "Taiwan",
+        "type": null,
+        "sort-name": "Taiwan",
+        "type-id": null,
+        "iso-3166-2-codes": [
+          "CN-71"
+        ],
+        "disambiguation": "",
+        "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+        "iso-3166-1-codes": [
+          "TW"
+        ]
+      }
+    }
+  ],
+  "release-group": {
+    "first-release-date": "2016-10-18",
+    "secondary-type-ids": [],
+    "title": "8",
+    "primary-type": "Album",
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "artist-credit": [
+      {
+        "name": "李志",
+        "joinphrase": "",
+        "artist": {
+          "sort-name": "Li, Zhi",
+          "country": "CN",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "disambiguation": "",
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+          "name": "李志",
+          "type": "Person"
+        }
+      }
+    ],
+    "disambiguation": "",
+    "id": "4522784e-170d-4a92-95a0-b09c44d21596",
+    "secondary-types": []
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "status": "Official",
+  "id": "d8a57b50-282e-4f93-8f39-7023c4c63f2c",
+  "quality": "normal",
+  "media": [
+    {
+      "format": "Digital Media",
+      "position": 1,
+      "id": "e715d0d3-1ae5-3306-8927-51c775b5691c",
+      "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+      "title": "",
+      "track-offset": 0,
+      "tracks": [
+        {
+          "number": "1",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type": "Person"
+              }
+            }
+          ],
+          "position": 1,
+          "id": "1a4fb3b7-34ef-42f7-99b8-f70d06b3deb6",
+          "title": "歌聲與微笑",
+          "length": 190404,
+          "recording": {
+            "length": 190403,
+            "title": "歌声与微笑",
+            "disambiguation": "",
+            "id": "b979352d-0340-4bdb-8a4f-e63f9db3193f",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "name": "李志",
+                  "type": "Person"
+                }
+              }
+            ],
+            "first-release-date": "2016-10-18",
+            "video": false
+          }
+        },
+        {
+          "recording": {
+            "first-release-date": "2016-10-18",
+            "video": false,
+            "length": 155202,
+            "title": "蜗牛与黄鹂鸟",
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "type": "Person"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "id": "d9910dae-f158-448d-9bd1-bd3a0d859640",
+            "disambiguation": ""
+          },
+          "length": 155202,
+          "title": "蝸牛與黃鸝鳥",
+          "id": "47f2640b-26e6-4e41-a9c0-5a504b15ebdd",
+          "position": 2,
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "type": "Person",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": ""
+              }
+            }
+          ],
+          "number": "2"
+        },
+        {
+          "title": "蘭花草",
+          "recording": {
+            "video": false,
+            "first-release-date": "2016-10-18",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "name": "李志",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                }
+              }
+            ],
+            "id": "db180348-b7ae-422c-95dc-a4c0c5b803a4",
+            "disambiguation": "",
+            "title": "兰花草",
+            "length": 164025
+          },
+          "length": 164026,
+          "position": 3,
+          "id": "c6b29ea1-f4ed-439c-b1a9-59edde10b407",
+          "artist-credit": [
+            {
+              "artist": {
+                "type": "Person",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "number": "3"
+        },
+        {
+          "title": "數鴨子",
+          "recording": {
+            "first-release-date": "2016-10-18",
+            "video": false,
+            "length": 135418,
+            "title": "数鸭子",
+            "id": "1a176fda-c649-4855-9498-4615c938afc1",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "name": "李志"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ]
+          },
+          "length": 135419,
+          "id": "505560ce-6242-48de-bc41-2028b7738466",
+          "position": 4,
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "sort-name": "Li, Zhi",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type": "Person"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "number": "4"
+        },
+        {
+          "length": 141805,
+          "recording": {
+            "length": 141804,
+            "title": "朋友越多越快乐",
+            "id": "e3474572-e3c9-4975-92e9-79027439aebc",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "type": "Person",
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "first-release-date": "2016-10-18",
+            "video": false
+          },
+          "title": "朋友越多越快樂",
+          "number": "5",
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "name": "李志",
+                "type": "Person"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "position": 5,
+          "id": "df9bfe27-e3af-4220-afa0-7e3745aa1e5d"
+        },
+        {
+          "length": 263593,
+          "recording": {
+            "first-release-date": "2016-10-18",
+            "video": false,
+            "disambiguation": "",
+            "id": "33a5cf30-8b8c-495f-8ca5-fba84bfa9ebf",
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "name": "李志",
+                  "type": "Person"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "length": 263592,
+            "title": "Hey Jude"
+          },
+          "title": "Hey Jude",
+          "number": "6",
+          "artist-credit": [
+            {
+              "artist": {
+                "type": "Person",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "position": 6,
+          "id": "3f3a6d04-b9ff-44a2-ad10-55f3024251f7"
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "type": "Person",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "number": "7",
+          "position": 7,
+          "id": "6f26e22d-2b65-46d9-969c-00b1b0dd4978",
+          "title": "采蘑菇的小姑娘",
+          "length": 132704,
+          "recording": {
+            "length": 132703,
+            "title": "采蘑菇的小姑娘",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "type": "Person",
+                  "name": "李志"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "id": "185f804f-5290-44e1-9d41-a4cde2bd51ff",
+            "first-release-date": "2016-10-18",
+            "video": false
+          }
+        },
+        {
+          "id": "b5eef1f7-9c80-4a5c-a70a-a10fefd7d4a6",
+          "position": 8,
+          "artist-credit": [
+            {
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "name": "李志"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "number": "8",
+          "title": "小螺號",
+          "recording": {
+            "length": 211394,
+            "title": "小螺号",
+            "id": "59bc463a-5f61-492a-a656-e921ece33403",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "name": "李志",
+                  "type": "Person"
+                }
+              }
+            ],
+            "first-release-date": "2016-10-18",
+            "video": false
+          },
+          "length": 211394
+        },
+        {
+          "position": 9,
+          "id": "4b1f1374-8c90-4f38-8437-091657aa97e7",
+          "number": "9",
+          "artist-credit": [
+            {
+              "artist": {
+                "type": "Person",
+                "name": "李志",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "sort-name": "Li, Zhi"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "first-release-date": "2016-10-18",
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "李志",
+                  "type": "Person",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": ""
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "disambiguation": "",
+            "id": "10078f0e-1611-486d-ac9f-6118f2182099",
+            "length": 202427,
+            "title": "送别"
+          },
+          "length": 202428,
+          "title": "送別"
+        }
+      ],
+      "track-count": 9
+    }
+  ],
+  "packaging": "None",
+  "title": "捌",
+  "text-representation": {
+    "language": "zho",
+    "script": "Hant"
+  },
+  "asin": null,
+  "country": "HK",
+  "artist-credit": [
+    {
+      "artist": {
+        "name": "李志",
+        "type": "Person",
+        "sort-name": "Li, Zhi",
+        "country": "CN",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "disambiguation": ""
+      },
+      "joinphrase": "",
+      "name": "李志"
+    }
+  ],
+  "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+  "disambiguation": ""
+}

@@ -1,0 +1,47 @@
+{
+  "releases": [
+    {
+      "title": "李志、電聲與管弦樂",
+      "packaging-id": null,
+      "release-events": [
+        {
+          "date": "2017",
+          "area": null
+        }
+      ],
+      "date": "2017",
+      "status": "Official",
+      "quality": "normal",
+      "cover-art-archive": {
+        "back": false,
+        "darkened": false,
+        "count": 1,
+        "front": true,
+        "artwork": true
+      },
+      "id": "a2df0227-b7ae-4408-95c8-79baf1099f39",
+      "media": [
+        {
+          "title": "",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "position": 1,
+          "id": "3e95d4e4-9ec3-3d6e-99e8-1be22ecbb97d",
+          "format": "CD",
+          "track-count": 12
+        }
+      ],
+      "country": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging": null,
+      "text-representation": {
+        "language": null,
+        "script": null
+      },
+      "barcode": null,
+      "disambiguation": "",
+      "asin": null
+    }
+  ],
+  "release-offset": 0,
+  "release-count": 1
+}

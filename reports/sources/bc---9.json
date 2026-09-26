@@ -1,0 +1,79 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/--9",
+  "title": "捌",
+  "releaseDate": "22 Oct 2020 10:00:22 GMT",
+  "current": {
+    "minimum_price": 70.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "22 Oct 2020 10:00:22 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "歌聲與微笑",
+      "track_num": 1,
+      "duration": 190.404,
+      "title_link": "/track/--54",
+      "track_id": 2385713807
+    },
+    {
+      "title": "蝸牛與黃鸝鳥",
+      "track_num": 2,
+      "duration": 155.202,
+      "title_link": "/track/--55",
+      "track_id": 2575086311
+    },
+    {
+      "title": "蘭花草",
+      "track_num": 3,
+      "duration": 164.026,
+      "title_link": "/track/--56",
+      "track_id": 3308620323
+    },
+    {
+      "title": "數鴨子",
+      "track_num": 4,
+      "duration": 135.419,
+      "title_link": "/track/--57",
+      "track_id": 3799544688
+    },
+    {
+      "title": "朋友越多越快樂",
+      "track_num": 5,
+      "duration": 141.805,
+      "title_link": "/track/--58",
+      "track_id": 1333084214
+    },
+    {
+      "title": "李志Lizhi - Hey Jude",
+      "track_num": 6,
+      "duration": 263.593,
+      "title_link": "/track/hey-jude",
+      "track_id": 2616722234
+    },
+    {
+      "title": "采蘑菇的小姑娘",
+      "track_num": 7,
+      "duration": 132.704,
+      "title_link": "/track/--59",
+      "track_id": 2613362860
+    },
+    {
+      "title": "小螺號",
+      "track_num": 8,
+      "duration": 211.394,
+      "title_link": "/track/--60",
+      "track_id": 279867622
+    },
+    {
+      "title": "送別",
+      "track_num": 9,
+      "duration": 202.428,
+      "title_link": "/track/--61",
+      "track_id": 742450130
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $70 HKD or more Send as Gift"
+}

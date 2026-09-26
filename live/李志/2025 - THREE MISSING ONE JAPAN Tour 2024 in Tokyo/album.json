@@ -1,0 +1,1809 @@
+{
+  "id": "lizhi-tokyo-2024",
+  "artist": "李志",
+  "title": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+  "releaseDate": "2025-06-13",
+  "releaseDatePrecision": "day",
+  "year": 2025,
+  "type": "live",
+  "path": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-tokyo-2024-d01-t01",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "关于郑州的记忆+董卓瑶+春末的南方城市",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 908.853,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/关于郑州的记忆+董卓瑶+春末的南方都市.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-01 - 关于郑州的记忆+董卓瑶+春末的南方城市.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 908.853,
+        "fileSize": 36433505,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t01",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-01 - 关于郑州的记忆+董卓瑶+春末的南方城市.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/关于郑州的记忆+董卓瑶+春末的南方都市.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 908.853,
+            "fileSize": 36433505,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 908.853,
+            "fileSize": 36433505,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 908.853,
+        "fileSize": 36433505,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t01",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-01 - 关于郑州的记忆+董卓瑶+春末的南方城市.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/关于郑州的记忆+董卓瑶+春末的南方都市.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 908.853,
+            "fileSize": 36433505,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 908.853,
+            "fileSize": 36433505,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d01-t02",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "苍井空",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 317.187,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/苍井空.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-02 - 苍井空.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 317.187,
+        "fileSize": 12742867,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t02",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-02 - 苍井空.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/苍井空.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 317.187,
+            "fileSize": 12742867,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 317.187,
+            "fileSize": 12742867,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 317.187,
+        "fileSize": 12742867,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t02",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-02 - 苍井空.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/苍井空.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 317.187,
+            "fileSize": 12742867,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 317.187,
+            "fileSize": 12742867,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d01-t03",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "倒影",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 297.867,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/倒影.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-03 - 倒影.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 297.867,
+        "fileSize": 11968868,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t03",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-03 - 倒影.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/倒影.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 297.867,
+            "fileSize": 11968868,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 297.867,
+            "fileSize": 11968868,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 297.867,
+        "fileSize": 11968868,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t03",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-03 - 倒影.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/倒影.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 297.867,
+            "fileSize": 11968868,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 297.867,
+            "fileSize": 11968868,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d01-t04",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "黑色信封",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 322.6,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/黑色信封.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-04 - 黑色信封.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 322.6,
+        "fileSize": 12959379,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t04",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-04 - 黑色信封.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/黑色信封.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 322.6,
+            "fileSize": 12959379,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 322.6,
+            "fileSize": 12959379,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 322.6,
+        "fileSize": 12959379,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t04",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-04 - 黑色信封.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/黑色信封.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 322.6,
+            "fileSize": 12959379,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 322.6,
+            "fileSize": 12959379,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d01-t05",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "和你在一起",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 277.933,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/和你在一起.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-05 - 和你在一起.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 277.933,
+        "fileSize": 11170819,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t05",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-05 - 和你在一起.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/和你在一起.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 277.933,
+            "fileSize": 11170819,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 277.933,
+            "fileSize": 11170819,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 277.933,
+        "fileSize": 11170819,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t05",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-05 - 和你在一起.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/和你在一起.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 277.933,
+            "fileSize": 11170819,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 277.933,
+            "fileSize": 11170819,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d01-t06",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "天空之城",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 229.187,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/天空之城.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-06 - 天空之城.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 229.187,
+        "fileSize": 9219088,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t06",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-06 - 天空之城.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/天空之城.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 229.187,
+            "fileSize": 9219088,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 229.187,
+            "fileSize": 9219088,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 229.187,
+        "fileSize": 9219088,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t06",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-06 - 天空之城.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/天空之城.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 229.187,
+            "fileSize": 9219088,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 229.187,
+            "fileSize": 9219088,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d01-t07",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "鸵鸟+墙上的向日葵+鼠说",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 1446.027,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/鸵鸟+墙上的向日葵+鼠说.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-07 - 鸵鸟+墙上的向日葵+鼠说.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 1446.027,
+        "fileSize": 57941214,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t07",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-07 - 鸵鸟+墙上的向日葵+鼠说.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/鸵鸟+墙上的向日葵+鼠说.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 1446.027,
+            "fileSize": 57941214,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 1446.027,
+            "fileSize": 57941214,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 1446.027,
+        "fileSize": 57941214,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t07",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-07 - 鸵鸟+墙上的向日葵+鼠说.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/鸵鸟+墙上的向日葵+鼠说.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 1446.027,
+            "fileSize": 57941214,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 1446.027,
+            "fileSize": 57941214,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d01-t08",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "这个世界会好吗",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 317.347,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/这个世界会好吗.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-08 - 这个世界会好吗.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 317.347,
+        "fileSize": 12749151,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t08",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-08 - 这个世界会好吗.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/这个世界会好吗.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 317.347,
+            "fileSize": 12749151,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 317.347,
+            "fileSize": 12749151,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 317.347,
+        "fileSize": 12749151,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d01-t08",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-08 - 这个世界会好吗.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/这个世界会好吗.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 317.347,
+            "fileSize": 12749151,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 317.347,
+            "fileSize": 12749151,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d02-t01",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "梵高先生",
+      "discNumber": 2,
+      "trackNumber": 1,
+      "sequenceNumber": 9,
+      "duration": 318.427,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/梵高先生.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-01 - 梵高先生.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 318.427,
+        "fileSize": 12792029,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d02-t01",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-01 - 梵高先生.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/梵高先生.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 318.427,
+            "fileSize": 12792029,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 318.427,
+            "fileSize": 12792029,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 318.427,
+        "fileSize": 12792029,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d02-t01",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-01 - 梵高先生.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/梵高先生.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 318.427,
+            "fileSize": 12792029,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 318.427,
+            "fileSize": 12792029,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d02-t02",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "被禁忌的游戏+定西+一个夜晚",
+      "discNumber": 2,
+      "trackNumber": 2,
+      "sequenceNumber": 10,
+      "duration": 1116.853,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/被禁忌的游戏+定西+一个夜晚.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-02 - 被禁忌的游戏+定西+一个夜晚.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 1116.853,
+        "fileSize": 44761292,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d02-t02",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-02 - 被禁忌的游戏+定西+一个夜晚.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/被禁忌的游戏+定西+一个夜晚.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 1116.853,
+            "fileSize": 44761292,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 1116.853,
+            "fileSize": 44761292,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 1116.853,
+        "fileSize": 44761292,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d02-t02",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-02 - 被禁忌的游戏+定西+一个夜晚.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/被禁忌的游戏+定西+一个夜晚.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 1116.853,
+            "fileSize": 44761292,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 1116.853,
+            "fileSize": 44761292,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d02-t03",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "大象+门+来了+热河",
+      "discNumber": 2,
+      "trackNumber": 3,
+      "sequenceNumber": 11,
+      "duration": 1742.107,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/大象+门+来了+热河.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-03 - 大象+门+来了+热河.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 1742.107,
+        "fileSize": 69796972,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d02-t03",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-03 - 大象+门+来了+热河.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/大象+门+来了+热河.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 1742.107,
+            "fileSize": 69796972,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 1742.107,
+            "fileSize": 69796972,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 1742.107,
+        "fileSize": 69796972,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d02-t03",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-03 - 大象+门+来了+热河.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/大象+门+来了+热河.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 1742.107,
+            "fileSize": 69796972,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 1742.107,
+            "fileSize": 69796972,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d02-t04",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "寻找+忽然",
+      "discNumber": 2,
+      "trackNumber": 4,
+      "sequenceNumber": 12,
+      "duration": 484.853,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/寻找+忽然.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-04 - 寻找+忽然.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 484.853,
+        "fileSize": 19455733,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d02-t04",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-04 - 寻找+忽然.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/寻找+忽然.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 484.853,
+            "fileSize": 19455733,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 484.853,
+            "fileSize": 19455733,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 484.853,
+        "fileSize": 19455733,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d02-t04",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-04 - 寻找+忽然.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/寻找+忽然.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 484.853,
+            "fileSize": 19455733,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 484.853,
+            "fileSize": 19455733,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d02-t05",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "山阴路的夏天",
+      "discNumber": 2,
+      "trackNumber": 5,
+      "sequenceNumber": 13,
+      "duration": 381.747,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/山阴路的夏天.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-05 - 山阴路的夏天.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 381.747,
+        "fileSize": 15327398,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d02-t05",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-05 - 山阴路的夏天.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/山阴路的夏天.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 381.747,
+            "fileSize": 15327398,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 381.747,
+            "fileSize": 15327398,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 381.747,
+        "fileSize": 15327398,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d02-t05",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-05 - 山阴路的夏天.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/山阴路的夏天.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 381.747,
+            "fileSize": 15327398,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 381.747,
+            "fileSize": 15327398,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-tokyo-2024-d02-t06",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "你离开了南京，从此没有人和我说话",
+      "discNumber": 2,
+      "trackNumber": 6,
+      "sequenceNumber": 14,
+      "duration": 177.88,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/你离开了南京从此没人和我说话.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-06 - 你离开了南京，从此没有人和我说话.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 177.88,
+        "fileSize": 7164880,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-tokyo-2024-d02-t06",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-06 - 你离开了南京，从此没有人和我说话.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/你离开了南京从此没人和我说话.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 177.88,
+            "fileSize": 7164880,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 177.88,
+            "fileSize": 7164880,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 177.88,
+        "fileSize": 7164880,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-tokyo-2024-d02-t06",
+          "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-06 - 你离开了南京，从此没有人和我说话.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹东京站/你离开了南京从此没人和我说话.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 177.88,
+            "fileSize": 7164880,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 177.88,
+            "fileSize": 7164880,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://wwr.com.tw/artists/li-zhi"
+  ],
+  "notes": [],
+  "metadataStatus": "provisional",
+  "editions": [],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2025 - 李志 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo.png",
+    "width": 693,
+    "height": 675,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2025 - 李志 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo.png"
+  },
+  "trackCount": 14,
+  "tracklistStatus": "edition-listed"
+}

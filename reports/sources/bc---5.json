@@ -1,0 +1,93 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/--5",
+  "title": "我愛南京",
+  "releaseDate": "22 Oct 2020 00:00:00 GMT",
+  "current": {
+    "minimum_price": 85.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "22 Oct 2020 04:20:50 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "意味",
+      "track_num": 1,
+      "duration": 201.701,
+      "title_link": "/track/--21",
+      "track_id": 3382201867
+    },
+    {
+      "title": "蒼井空",
+      "track_num": 2,
+      "duration": 260.29,
+      "title_link": "/track/--22",
+      "track_id": 2611121502
+    },
+    {
+      "title": "李志LiZhi,老狼,萬曉利 - 結婚",
+      "track_num": 3,
+      "duration": 352.621,
+      "title_link": "/track/--23",
+      "track_id": 2611910347
+    },
+    {
+      "title": "鴕鳥",
+      "track_num": 4,
+      "duration": 267.191,
+      "title_link": "/track/--24",
+      "track_id": 2758017554
+    },
+    {
+      "title": "天空之城",
+      "track_num": 5,
+      "duration": 223.015,
+      "title_link": "/track/--25",
+      "track_id": 2985447782
+    },
+    {
+      "title": "倒影",
+      "track_num": 6,
+      "duration": 182.865,
+      "title_link": "/track/--26",
+      "track_id": 265143925
+    },
+    {
+      "title": "愛",
+      "track_num": 7,
+      "duration": 200.819,
+      "title_link": "/track/--27",
+      "track_id": 1100569895
+    },
+    {
+      "title": "家鄉",
+      "track_num": 8,
+      "duration": 343.293,
+      "title_link": "/track/--28",
+      "track_id": 2846391556
+    },
+    {
+      "title": "米店",
+      "track_num": 9,
+      "duration": 211.0,
+      "title_link": "/track/--29",
+      "track_id": 823684696
+    },
+    {
+      "title": "思念觀世音",
+      "track_num": 10,
+      "duration": 206.454,
+      "title_link": "/track/--30",
+      "track_id": 2888373234
+    },
+    {
+      "title": "再見",
+      "track_num": 11,
+      "duration": 88.8794,
+      "title_link": "/track/--31",
+      "track_id": 200918792
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $85 HKD or more Send as Gift"
+}

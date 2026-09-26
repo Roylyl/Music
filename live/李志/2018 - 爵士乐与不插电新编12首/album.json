@@ -1,0 +1,2088 @@
+{
+  "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b",
+  "artist": "李志",
+  "title": "爵士乐与不插电新编12首",
+  "releaseDate": "2018-04-16",
+  "releaseDatePrecision": "day",
+  "year": 2018,
+  "type": "live",
+  "path": "live/李志/2018 - 爵士乐与不插电新编12首",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t01",
+      "artist": "李志",
+      "album": "爵士乐与不插电新编12首",
+      "title": "看见",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 233.091,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Afc3xuOyygt9sGEG82picku69ISXbSt0/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-01 - 看见.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 1,
+          "duration": 233.045,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 233.091,
+        "fileSize": 9511496,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t01",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-01 - 看见.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Afc3xuOyygt9sGEG82picku69ISXbSt0/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 233.091,
+            "fileSize": 9511496,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 233.045,
+            "fileSize": 50209532,
+            "bitRate": 1715770
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 233.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": 24,
+        "duration": 233.045,
+        "fileSize": 50209532,
+        "bitRate": 1715770
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t01",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-01 - 看见.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Afc3xuOyygt9sGEG82picku69ISXbSt0/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 233.091,
+            "fileSize": 9511496,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 233.045,
+            "fileSize": 50209532,
+            "bitRate": 1715770
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t01",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-01 - 看见.mp3",
+          "sourceUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/看见%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 233.045,
+            "fileSize": 9511308,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t02",
+      "artist": "李志",
+      "album": "爵士乐与不插电新编12首",
+      "title": "离婚",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 277.551,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1eC0eY9oYLvyn8Z-C9dFY33b-hlD1QDt5/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-02 - 离婚.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 277.551,
+        "fileSize": 11291691,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t02",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-02 - 离婚.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1eC0eY9oYLvyn8Z-C9dFY33b-hlD1QDt5/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 277.551,
+            "fileSize": 11291691,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 277.504,
+            "fileSize": 59709434,
+            "bitRate": 1714479
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 277.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": 24,
+        "duration": 277.504,
+        "fileSize": 59709434,
+        "bitRate": 1714479
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t02",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-02 - 离婚.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1eC0eY9oYLvyn8Z-C9dFY33b-hlD1QDt5/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 277.551,
+            "fileSize": 11291691,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 277.504,
+            "fileSize": 59709434,
+            "bitRate": 1714479
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t02",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-02 - 离婚.mp3",
+          "sourceUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/离婚%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 277.504,
+            "fileSize": 11291006,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t03",
+      "artist": "李志",
+      "album": "爵士乐与不插电新编12首",
+      "title": "关于郑州的记忆",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 360.15,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1i2Nz40D3yWdBAUOvs9kbIWqEJG1t4Uwu/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-03 - 关于郑州的记忆.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-2",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 2,
+          "duration": 360.107,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 360.15,
+        "fileSize": 14598973,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t03",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-03 - 关于郑州的记忆.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1i2Nz40D3yWdBAUOvs9kbIWqEJG1t4Uwu/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 360.15,
+            "fileSize": 14598973,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 360.107,
+            "fileSize": 71896141,
+            "bitRate": 1591666
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 360.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": 24,
+        "duration": 360.107,
+        "fileSize": 71896141,
+        "bitRate": 1591666
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t03",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-03 - 关于郑州的记忆.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1i2Nz40D3yWdBAUOvs9kbIWqEJG1t4Uwu/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 360.15,
+            "fileSize": 14598973,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 360.107,
+            "fileSize": 71896141,
+            "bitRate": 1591666
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t03",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-03 - 关于郑州的记忆.mp3",
+          "sourceUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/关于郑州的记忆%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 360.107,
+            "fileSize": 14598640,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t04",
+      "artist": "李志",
+      "album": "爵士乐与不插电新编12首",
+      "title": "鸵鸟",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 237.767,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1FV2O722EW40_H_K7VTy2_TFC7byPzsxt/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-04 - 鸵鸟.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-3",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 3,
+          "duration": 237.717,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 237.767,
+        "fileSize": 9698720,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t04",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-04 - 鸵鸟.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1FV2O722EW40_H_K7VTy2_TFC7byPzsxt/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 237.767,
+            "fileSize": 9698720,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 237.717,
+            "fileSize": 53420517,
+            "bitRate": 1790002
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 237.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": 24,
+        "duration": 237.717,
+        "fileSize": 53420517,
+        "bitRate": 1790002
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t04",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-04 - 鸵鸟.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1FV2O722EW40_H_K7VTy2_TFC7byPzsxt/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 237.767,
+            "fileSize": 9698720,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 237.717,
+            "fileSize": 53420517,
+            "bitRate": 1790002
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t04",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-04 - 鸵鸟.mp3",
+          "sourceUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/鸵鸟%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 237.717,
+            "fileSize": 9697734,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t05",
+      "artist": "李志",
+      "album": "爵士乐与不插电新编12首",
+      "title": "卡夫卡",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 322.795,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Y9T4n7gu6pcDKQGSaGuZg-rtAmZqBjRV/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-05 - 卡夫卡.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-4",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 4,
+          "duration": 322.747,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 322.795,
+        "fileSize": 13103266,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t05",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-05 - 卡夫卡.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Y9T4n7gu6pcDKQGSaGuZg-rtAmZqBjRV/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 322.795,
+            "fileSize": 13103266,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 322.747,
+            "fileSize": 62005158,
+            "bitRate": 1530989
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 322.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": 24,
+        "duration": 322.747,
+        "fileSize": 62005158,
+        "bitRate": 1530989
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t05",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-05 - 卡夫卡.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Y9T4n7gu6pcDKQGSaGuZg-rtAmZqBjRV/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 322.795,
+            "fileSize": 13103266,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 322.747,
+            "fileSize": 62005158,
+            "bitRate": 1530989
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t05",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-05 - 卡夫卡.mp3",
+          "sourceUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/卡夫卡%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 322.747,
+            "fileSize": 13102418,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t06",
+      "artist": "李志",
+      "album": "爵士乐与不插电新编12首",
+      "title": "热河",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 477.753,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-06 - 热河.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-5",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 5,
+          "duration": 477.717,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 477.753,
+        "fileSize": 19307797,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t06",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-06 - 热河.mp3",
+          "sourceUrl": "",
+          "sourceFileName": "热河 (相信未来版)Re He Road.flac",
+          "provider": "OneDrive user library",
+          "rightsStatus": "user-provided-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 477.753,
+            "fileSize": 19307797,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 477.717,
+            "fileSize": 98094755,
+            "bitRate": 1638096
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "user-provided-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 477.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": 24,
+        "duration": 477.717,
+        "fileSize": 98094755,
+        "bitRate": 1638096
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t06",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-06 - 热河.mp3",
+          "sourceUrl": "",
+          "sourceFileName": "热河 (相信未来版)Re He Road.flac",
+          "provider": "OneDrive user library",
+          "rightsStatus": "user-provided-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 477.753,
+            "fileSize": 19307797,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 477.717,
+            "fileSize": 98094755,
+            "bitRate": 1638096
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t06",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-06 - 热河.mp3",
+          "sourceUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/热河%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 477.717,
+            "fileSize": 19307334,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t07",
+      "artist": "李志",
+      "album": "爵士乐与不插电新编12首",
+      "title": "翁庆年的六英镑",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 406.073,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1yRiHRIOtE9z9vzxsSo-Kn8JyB9Zq39HI/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-07 - 翁庆年的六英镑.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-6",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 6,
+          "duration": 406.028,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 406.073,
+        "fileSize": 16437740,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t07",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-07 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1yRiHRIOtE9z9vzxsSo-Kn8JyB9Zq39HI/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 406.073,
+            "fileSize": 16437740,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 406.028,
+            "fileSize": 37969301,
+            "bitRate": 743853
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 406.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 406.028,
+        "fileSize": 37969301,
+        "bitRate": 743853
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t07",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-07 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1yRiHRIOtE9z9vzxsSo-Kn8JyB9Zq39HI/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 406.073,
+            "fileSize": 16437740,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 406.028,
+            "fileSize": 37969301,
+            "bitRate": 743853
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t07",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-07 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/翁庆年的六英镑%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 406.028,
+            "fileSize": 16437739,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t08",
+      "artist": "李志",
+      "album": "爵士乐与不插电新编12首",
+      "title": "死人",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 250.253,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1lts9K_9jraPJMgMJM1GhoNHfEE2bs1zO/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-08 - 死人.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-7",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 7,
+          "duration": 250.206,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 250.206,
+        "fileSize": 10198681,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t08",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-08 - 死人.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1lts9K_9jraPJMgMJM1GhoNHfEE2bs1zO/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 250.206,
+            "fileSize": 10198681,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 250.206,
+            "fileSize": 26059811,
+            "bitRate": 826707
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 250.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 250.206,
+        "fileSize": 26059811,
+        "bitRate": 826707
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t08",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-08 - 死人.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1lts9K_9jraPJMgMJM1GhoNHfEE2bs1zO/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 250.253,
+            "fileSize": 10198681,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 250.206,
+            "fileSize": 26059811,
+            "bitRate": 826707
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t08",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-08 - 死人.mp3",
+          "sourceUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/死人%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 250.206,
+            "fileSize": 10198681,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t09",
+      "artist": "李志",
+      "album": "爵士乐与不插电新编12首",
+      "title": "爱",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 279.197,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1oLlbKkAt-GCt-1UiNG3wbP6RLRM5GCmp/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-09 - 爱.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-8",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 8,
+          "duration": 279.168,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 279.168,
+        "fileSize": 11357583,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t09",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-09 - 爱.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1oLlbKkAt-GCt-1UiNG3wbP6RLRM5GCmp/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 279.168,
+            "fileSize": 11357583,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 279.168,
+            "fileSize": 27674002,
+            "bitRate": 787151
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 279.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 279.168,
+        "fileSize": 27674002,
+        "bitRate": 787151
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t09",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-09 - 爱.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1oLlbKkAt-GCt-1UiNG3wbP6RLRM5GCmp/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 279.197,
+            "fileSize": 11357583,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 279.168,
+            "fileSize": 27674002,
+            "bitRate": 787151
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t09",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-09 - 爱.mp3",
+          "sourceUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/爱%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 279.168,
+            "fileSize": 11357583,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t10",
+      "artist": "李志",
+      "album": "爵士乐与不插电新编12首",
+      "title": "董卓瑶",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 309.734,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1vyPYzurTXMPhur_jY4wWOYyRo1VErAXE/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-10 - 董卓瑶.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2017-9",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 9,
+          "duration": 309.696,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 309.696,
+        "fileSize": 12580297,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t10",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-10 - 董卓瑶.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1vyPYzurTXMPhur_jY4wWOYyRo1VErAXE/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 309.696,
+            "fileSize": 12580297,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 309.696,
+            "fileSize": 31157911,
+            "bitRate": 799463
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 309.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 309.696,
+        "fileSize": 31157911,
+        "bitRate": 799463
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t10",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-10 - 董卓瑶.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1vyPYzurTXMPhur_jY4wWOYyRo1VErAXE/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 309.734,
+            "fileSize": 12580297,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 309.696,
+            "fileSize": 31157911,
+            "bitRate": 799463
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t10",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-10 - 董卓瑶.mp3",
+          "sourceUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/董卓瑶%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 309.696,
+            "fileSize": 12580297,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t11",
+      "artist": "李志",
+      "album": "爵士乐与不插电新编12首",
+      "title": "一个夜晚",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 328.542,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/19WvcHmJtjhAor3-0fQ6GTG7eJyI5gGLE/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-11 - 一个夜晚.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 328.504,
+        "fileSize": 13333377,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t11",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-11 - 一个夜晚.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/19WvcHmJtjhAor3-0fQ6GTG7eJyI5gGLE/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 328.504,
+            "fileSize": 13333377,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 328.504,
+            "fileSize": 36618679,
+            "bitRate": 886542
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 328.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 328.504,
+        "fileSize": 36618679,
+        "bitRate": 886542
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t11",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-11 - 一个夜晚.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/19WvcHmJtjhAor3-0fQ6GTG7eJyI5gGLE/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 328.542,
+            "fileSize": 13333377,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 328.504,
+            "fileSize": 36618679,
+            "bitRate": 886542
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t11",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-11 - 一个夜晚.mp3",
+          "sourceUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/一个夜晚%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 328.504,
+            "fileSize": 13333377,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t12",
+      "artist": "李志",
+      "album": "爵士乐与不插电新编12首",
+      "title": "鼠说",
+      "discNumber": 1,
+      "trackNumber": 12,
+      "sequenceNumber": 12,
+      "duration": 502.727,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1t0wgJTCR6el8cTwHKdPCQ84bhbw1KrpG/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-12 - 鼠说.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 502.691,
+        "fileSize": 20307721,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t12",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-12 - 鼠说.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1t0wgJTCR6el8cTwHKdPCQ84bhbw1KrpG/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 502.691,
+            "fileSize": 20307721,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 502.691,
+            "fileSize": 55623675,
+            "bitRate": 881491
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 502.0,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 502.691,
+        "fileSize": 55623675,
+        "bitRate": 881491
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t12",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-12 - 鼠说.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1t0wgJTCR6el8cTwHKdPCQ84bhbw1KrpG/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 502.727,
+            "fileSize": 20307721,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 502.691,
+            "fileSize": 55623675,
+            "bitRate": 881491
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t12",
+          "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-12 - 鼠说.mp3",
+          "sourceUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/鼠说%20(相信未来版).mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 502.691,
+            "fileSize": 20307721,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/8b283e60-70fa-46ea-a564-675db0444a8b",
+    "https://lizhilizhi.bandcamp.com/album/12"
+  ],
+  "notes": [],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "Bandcamp",
+      "url": "https://lizhilizhi.bandcamp.com/album/12",
+      "title": "爵士樂與不插電新編12首",
+      "releaseDate": "22 Oct 2020 11:12:37 GMT",
+      "trackCount": 9,
+      "tracks": [
+        {
+          "title": "看見（2017跨年版）",
+          "track_num": 1,
+          "duration": 233.045,
+          "title_link": "/track/2017",
+          "track_id": 4068638395
+        },
+        {
+          "title": "李志LiZHi - 關於鄭州的記憶（2017跨年版）",
+          "track_num": 2,
+          "duration": 360.107,
+          "title_link": "/track/2017-2",
+          "track_id": 2017239741
+        },
+        {
+          "title": "鴕鳥（2017跨年版）",
+          "track_num": 3,
+          "duration": 237.717,
+          "title_link": "/track/2017-3",
+          "track_id": 2627838858
+        },
+        {
+          "title": "卡夫卡（2017跨年版）",
+          "track_num": 4,
+          "duration": 322.747,
+          "title_link": "/track/2017-4",
+          "track_id": 3311364587
+        },
+        {
+          "title": "熱河（2017跨年版）",
+          "track_num": 5,
+          "duration": 477.717,
+          "title_link": "/track/2017-5",
+          "track_id": 3664453688
+        },
+        {
+          "title": "翁慶年的六英鎊（2017跨年版）",
+          "track_num": 6,
+          "duration": 406.028,
+          "title_link": "/track/2017-6",
+          "track_id": 3440217633
+        },
+        {
+          "title": "死人（2017跨年版）",
+          "track_num": 7,
+          "duration": 250.206,
+          "title_link": "/track/2017-7",
+          "track_id": 3309493424
+        },
+        {
+          "title": "愛（2017跨年版）",
+          "track_num": 8,
+          "duration": 279.168,
+          "title_link": "/track/2017-8",
+          "track_id": 1673434016
+        },
+        {
+          "title": "董卓瑤（2017跨年版）",
+          "track_num": 9,
+          "duration": 309.696,
+          "title_link": "/track/2017-9",
+          "track_id": 869020691
+        }
+      ],
+      "offer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $70 HKD or more Send as Gift",
+      "note": "平台上架日期，不替代原始发行日期。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "8b283e60-70fa-46ea-a564-675db0444a8b",
+    "title": "爵士乐与不插电新编12首",
+    "date": "2018",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2018",
+      "source": "https://musicbrainz.org/release/8b283e60-70fa-46ea-a564-675db0444a8b"
+    },
+    {
+      "date": "2018-04-16",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2018 - 李志 - 爵士乐与不插电新编12首.jpg",
+    "width": 3000,
+    "height": 3000,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2018 - 李志 - 爵士乐与不插电新编12首.jpg"
+  },
+  "trackCount": 12,
+  "tracklistStatus": "edition-listed"
+}

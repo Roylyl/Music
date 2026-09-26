@@ -1,0 +1,499 @@
+{
+  "media": [
+    {
+      "title": "",
+      "track-offset": 0,
+      "position": 1,
+      "id": "8e04d29d-77c4-3e06-830f-6570718879fe",
+      "format": "CD",
+      "tracks": [
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "",
+                "country": "CN",
+                "name": "李志",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              },
+              "name": "李志"
+            }
+          ],
+          "number": "1",
+          "position": 1,
+          "title": "你离开了南京，从此没有人和我说话（乐曲）",
+          "id": "4aac68ba-cfd0-41c2-87e2-09248741f63d",
+          "recording": {
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "country": "CN"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "length": 71814,
+            "title": "你离开了南京，从此没有人和我说话",
+            "first-release-date": "2005-12-01",
+            "id": "a468e668-0e31-417f-ad43-d2b95a3e987b"
+          },
+          "length": 73813
+        },
+        {
+          "number": "2",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": ""
+              },
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "id": "9f5ed994-8b80-4948-a531-573256091330",
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi",
+                  "disambiguation": "",
+                  "country": "CN"
+                },
+                "name": "李志"
+              }
+            ],
+            "disambiguation": "",
+            "title": "董卓瑶",
+            "first-release-date": "2005-12-01",
+            "length": 197787
+          },
+          "length": 199786,
+          "position": 2,
+          "title": "董卓瑶",
+          "id": "71a5847e-1da6-46c4-9b90-be5927138562"
+        },
+        {
+          "length": 248746,
+          "recording": {
+            "first-release-date": "2005-12-01",
+            "title": "春末的南方城市",
+            "length": 246747,
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "country": "CN",
+                  "name": "李志",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "id": "37350256-a506-43ea-9b53-5bd19a3187e0"
+          },
+          "id": "9bd7f1dc-5611-4c2a-8720-0089e8eeb7b6",
+          "title": "春末的南方城市",
+          "position": 3,
+          "number": "3",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN"
+              },
+              "name": "李志"
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "name": "李志"
+              }
+            }
+          ],
+          "recording": {
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "country": "CN",
+                  "disambiguation": "",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "name": "李志"
+                },
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "disambiguation": "",
+            "title": "来了",
+            "first-release-date": "2005-12-01",
+            "length": 311560,
+            "id": "8601fbc4-b37e-4bd1-b830-e29a87bff6cf"
+          },
+          "length": 313560,
+          "title": "来了",
+          "position": 4,
+          "id": "93f3bb2f-01e4-4366-b559-feefcb4a5eef"
+        },
+        {
+          "length": null,
+          "recording": {
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "title": "广场",
+            "first-release-date": "2005-12-25",
+            "length": null,
+            "id": "41b6c2ea-8711-419b-bb88-28b7b4861bdb"
+          },
+          "id": "c91d05f2-c9de-4aea-b7f3-85a0a26f563b",
+          "position": 5,
+          "title": "广场",
+          "number": "5",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "artist": {
+                "disambiguation": "",
+                "country": "CN",
+                "type": "Person",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              },
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "name": "李志",
+                "country": "CN",
+                "disambiguation": ""
+              },
+              "name": "李志"
+            }
+          ],
+          "number": "6",
+          "id": "090f414f-84eb-4f7d-b2a9-47808f8ae83c",
+          "title": "暧昧",
+          "position": 6,
+          "length": 219626,
+          "recording": {
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "name": "李志",
+                  "country": "CN",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "disambiguation": "",
+            "title": "暧昧",
+            "first-release-date": "2005-12-25",
+            "length": 219626,
+            "id": "0643d11e-e341-40b9-a5ce-d8cc64bed46f"
+          }
+        },
+        {
+          "length": 275493,
+          "recording": {
+            "length": 273494,
+            "title": "想起了他",
+            "first-release-date": "2005-12-01",
+            "disambiguation": "",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "artist": {
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "id": "504c6a47-c48f-4b89-9eb2-8e6276398fad"
+          },
+          "id": "464cb795-548e-46f3-bebc-f3a4c7767d60",
+          "title": "想起了他",
+          "position": 7,
+          "number": "7",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": ""
+              }
+            }
+          ]
+        },
+        {
+          "position": 8,
+          "title": "梵高先生",
+          "id": "ff537d1b-a9cb-4172-982c-b8a2118da791",
+          "recording": {
+            "length": 249747,
+            "first-release-date": "2005-12-01",
+            "title": "梵高先生",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": ""
+                },
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "id": "1cb44231-f4d1-49a5-b377-02563bbe279f"
+          },
+          "length": 251746,
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": ""
+              }
+            }
+          ],
+          "number": "8"
+        },
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "",
+                "country": "CN",
+                "type": "Person",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              },
+              "name": "李志"
+            }
+          ],
+          "number": "9",
+          "id": "a306d715-ea1b-4976-8455-ba5cd5b2f7e2",
+          "position": 9,
+          "title": "斜",
+          "length": 216773,
+          "recording": {
+            "id": "9aed60c5-0fdd-4fb7-8206-378576b5f8b6",
+            "title": "斜",
+            "first-release-date": "2005-12-01",
+            "length": 216760,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "type": "Person",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi",
+                  "disambiguation": "",
+                  "country": "CN"
+                }
+              }
+            ],
+            "video": false,
+            "disambiguation": ""
+          }
+        }
+      ],
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+      "track-count": 9
+    }
+  ],
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "李志",
+        "type": "Person",
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "sort-name": "Li, Zhi",
+        "disambiguation": "",
+        "country": "CN"
+      },
+      "name": "李志"
+    }
+  ],
+  "packaging": "Jewel Case",
+  "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+  "date": "2005-12-25",
+  "asin": null,
+  "text-representation": {
+    "script": "Hans",
+    "language": "zho"
+  },
+  "country": "CN",
+  "cover-art-archive": {
+    "back": false,
+    "artwork": false,
+    "front": false,
+    "count": 0,
+    "darkened": false
+  },
+  "quality": "normal",
+  "title": "梵高先生",
+  "disambiguation": "",
+  "release-events": [
+    {
+      "date": "2005-12-25",
+      "area": {
+        "disambiguation": "",
+        "name": "China",
+        "type": null,
+        "type-id": null,
+        "iso-3166-1-codes": [
+          "CN"
+        ],
+        "sort-name": "China",
+        "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0"
+      }
+    }
+  ],
+  "release-group": {
+    "secondary-type-ids": [],
+    "id": "7db4d471-88c8-4dd3-93b4-0fda16797bb4",
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "disambiguation": "",
+    "artist-credit": [
+      {
+        "name": "李志",
+        "artist": {
+          "disambiguation": "",
+          "country": "CN",
+          "name": "李志",
+          "type": "Person",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "sort-name": "Li, Zhi",
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+        },
+        "joinphrase": ""
+      }
+    ],
+    "secondary-types": [],
+    "first-release-date": "2005-12-01",
+    "title": "梵高先生",
+    "primary-type": "Album"
+  },
+  "id": "211ffdd9-238e-4c6d-858d-a38f725e0493",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "barcode": "9787798627176",
+  "status": "Official"
+}

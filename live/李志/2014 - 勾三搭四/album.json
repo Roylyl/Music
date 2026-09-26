@@ -1,0 +1,3147 @@
+{
+  "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6",
+  "artist": "李志",
+  "title": "勾三搭四",
+  "releaseDate": "2014-04-01",
+  "releaseDatePrecision": "day",
+  "year": 2014,
+  "type": "live",
+  "path": "live/李志/2014 - 勾三搭四",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t01",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "和你在一起",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 261.773,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1_WCJ_NySoh5LE0--XFsweb46YfyIvk-F/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-01 - 和你在一起.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 1,
+          "duration": 261.724,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 261.773,
+        "fileSize": 10546072,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t01",
+          "localPath": "live/李志/2014 - 勾三搭四/01-01 - 和你在一起.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1_WCJ_NySoh5LE0--XFsweb46YfyIvk-F/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 261.773,
+            "fileSize": 10546072,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 261.733,
+            "fileSize": 32232508,
+            "bitRate": 982269
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 261.733,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 261.733,
+        "fileSize": 32232508,
+        "bitRate": 982269
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t01",
+          "localPath": "live/李志/2014 - 勾三搭四/01-01 - 和你在一起.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1_WCJ_NySoh5LE0--XFsweb46YfyIvk-F/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 261.773,
+            "fileSize": 10546072,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 261.733,
+            "fileSize": 32232508,
+            "bitRate": 982269
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t02",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "墙上的向日葵",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 445.832,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1iI6auXmE2s1DuftOsvV8jgPNVnS3zJxs/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-02 - 墙上的向日葵.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-2",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 2,
+          "duration": 445.792,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 445.832,
+        "fileSize": 17915787,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t02",
+          "localPath": "live/李志/2014 - 勾三搭四/01-02 - 墙上的向日葵.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1iI6auXmE2s1DuftOsvV8jgPNVnS3zJxs/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 445.832,
+            "fileSize": 17915787,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 445.8,
+            "fileSize": 50677152,
+            "bitRate": 907363
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 445.8,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 445.8,
+        "fileSize": 50677152,
+        "bitRate": 907363
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t02",
+          "localPath": "live/李志/2014 - 勾三搭四/01-02 - 墙上的向日葵.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1iI6auXmE2s1DuftOsvV8jgPNVnS3zJxs/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 445.832,
+            "fileSize": 17915787,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 445.8,
+            "fileSize": 50677152,
+            "bitRate": 907363
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t03",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "铅笔",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 244.245,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/10nAk_W0y-5holpjxWwvJg5cV3zv_nv_o/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-03 - 铅笔.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-3",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 3,
+          "duration": 244.203,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 244.245,
+        "fileSize": 9844238,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t03",
+          "localPath": "live/李志/2014 - 勾三搭四/01-03 - 铅笔.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/10nAk_W0y-5holpjxWwvJg5cV3zv_nv_o/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 244.245,
+            "fileSize": 9844238,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 244.213,
+            "fileSize": 19615540,
+            "bitRate": 639841
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 244.213,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 244.213,
+        "fileSize": 19615540,
+        "bitRate": 639841
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t03",
+          "localPath": "live/李志/2014 - 勾三搭四/01-03 - 铅笔.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/10nAk_W0y-5holpjxWwvJg5cV3zv_nv_o/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 244.245,
+            "fileSize": 9844238,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 244.213,
+            "fileSize": 19615540,
+            "bitRate": 639841
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t04",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "下雨",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 286.589,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Yk_W_VXGMkzRL4s3Ks7GDwZ8WGY8gpOU/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-04 - 下雨.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 286.589,
+        "fileSize": 11539711,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t04",
+          "localPath": "live/李志/2014 - 勾三搭四/01-04 - 下雨.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Yk_W_VXGMkzRL4s3Ks7GDwZ8WGY8gpOU/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 286.589,
+            "fileSize": 11539711,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 286.56,
+            "fileSize": 27606205,
+            "bitRate": 768144
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 286.56,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 286.56,
+        "fileSize": 27606205,
+        "bitRate": 768144
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t04",
+          "localPath": "live/李志/2014 - 勾三搭四/01-04 - 下雨.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Yk_W_VXGMkzRL4s3Ks7GDwZ8WGY8gpOU/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 286.589,
+            "fileSize": 11539711,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 286.56,
+            "fileSize": 27606205,
+            "bitRate": 768144
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t05",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "你的早晨&天空之城&暧昧",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 547.788,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Hx4syEZkotMvFBCT4SlkGoaDTNEclemF/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-05 - 你的早晨&天空之城&暧昧.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 547.788,
+        "fileSize": 21998114,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t05",
+          "localPath": "live/李志/2014 - 勾三搭四/01-05 - 你的早晨&天空之城&暧昧.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Hx4syEZkotMvFBCT4SlkGoaDTNEclemF/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 547.788,
+            "fileSize": 21998114,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 547.76,
+            "fileSize": 66855588,
+            "bitRate": 974515
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 547.76,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 547.76,
+        "fileSize": 66855588,
+        "bitRate": 974515
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t05",
+          "localPath": "live/李志/2014 - 勾三搭四/01-05 - 你的早晨&天空之城&暧昧.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Hx4syEZkotMvFBCT4SlkGoaDTNEclemF/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 547.788,
+            "fileSize": 21998114,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 547.76,
+            "fileSize": 66855588,
+            "bitRate": 974515
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t06",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "被禁忌的游戏",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 498.599,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1M8K5lc71n_K2h9JdxL6KXV2INjEIrLJ5/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-06 - 被禁忌的游戏.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-4",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 4,
+          "duration": 498.556,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 498.599,
+        "fileSize": 20028592,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t06",
+          "localPath": "live/李志/2014 - 勾三搭四/01-06 - 被禁忌的游戏.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1M8K5lc71n_K2h9JdxL6KXV2INjEIrLJ5/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 498.599,
+            "fileSize": 20028592,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 498.56,
+            "fileSize": 49298669,
+            "bitRate": 789244
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 498.56,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 498.56,
+        "fileSize": 49298669,
+        "bitRate": 789244
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t06",
+          "localPath": "live/李志/2014 - 勾三搭四/01-06 - 被禁忌的游戏.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1M8K5lc71n_K2h9JdxL6KXV2INjEIrLJ5/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 498.599,
+            "fileSize": 20028592,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 498.56,
+            "fileSize": 49298669,
+            "bitRate": 789244
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t07",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "秋天的老狼",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 432.823,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1M30N6XN72OsZBebSpYK8SVpR4L-tNw_f/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-07 - 秋天的老狼.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-5",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 5,
+          "duration": 432.769,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 432.823,
+        "fileSize": 17394906,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t07",
+          "localPath": "live/李志/2014 - 勾三搭四/01-07 - 秋天的老狼.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1M30N6XN72OsZBebSpYK8SVpR4L-tNw_f/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 432.823,
+            "fileSize": 17394906,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 432.773,
+            "fileSize": 58744904,
+            "bitRate": 1083662
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 432.773,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 432.773,
+        "fileSize": 58744904,
+        "bitRate": 1083662
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t07",
+          "localPath": "live/李志/2014 - 勾三搭四/01-07 - 秋天的老狼.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1M30N6XN72OsZBebSpYK8SVpR4L-tNw_f/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 432.823,
+            "fileSize": 17394906,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 432.773,
+            "fileSize": 58744904,
+            "bitRate": 1083662
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t08",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "离婚",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 280.059,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1gZRR2KbGfJfUjG5HVJzSLV83O0Fuxyx7/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-08 - 离婚.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 280.059,
+        "fileSize": 11278226,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t08",
+          "localPath": "live/李志/2014 - 勾三搭四/01-08 - 离婚.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1gZRR2KbGfJfUjG5HVJzSLV83O0Fuxyx7/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 280.059,
+            "fileSize": 11278226,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 280.027,
+            "fileSize": 37878937,
+            "bitRate": 1079251
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 280.026,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 280.027,
+        "fileSize": 37878937,
+        "bitRate": 1079251
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t08",
+          "localPath": "live/李志/2014 - 勾三搭四/01-08 - 离婚.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1gZRR2KbGfJfUjG5HVJzSLV83O0Fuxyx7/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 280.059,
+            "fileSize": 11278226,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 280.027,
+            "fileSize": 37878937,
+            "bitRate": 1079251
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t09",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "门",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 398.002,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/15CM5iIx9tMPEZizKwO0v0jlwW7oHWGEi/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-09 - 门.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-6",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 6,
+          "duration": 397.962,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 398.002,
+        "fileSize": 16000656,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t09",
+          "localPath": "live/李志/2014 - 勾三搭四/01-09 - 门.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/15CM5iIx9tMPEZizKwO0v0jlwW7oHWGEi/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 398.002,
+            "fileSize": 16000656,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 397.973,
+            "fileSize": 40549530,
+            "bitRate": 813025
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 397.973,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 397.973,
+        "fileSize": 40549530,
+        "bitRate": 813025
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t09",
+          "localPath": "live/李志/2014 - 勾三搭四/01-09 - 门.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/15CM5iIx9tMPEZizKwO0v0jlwW7oHWGEi/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 398.002,
+            "fileSize": 16000656,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 397.973,
+            "fileSize": 40549530,
+            "bitRate": 813025
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t10",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "斜",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 202.397,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1QmVkl9gA1iyMXpqUjFFts5yGbKzSHdpq/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-10 - 斜.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-7",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 7,
+          "duration": 202.339,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 202.397,
+        "fileSize": 8168637,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t10",
+          "localPath": "live/李志/2014 - 勾三搭四/01-10 - 斜.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1QmVkl9gA1iyMXpqUjFFts5yGbKzSHdpq/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 202.397,
+            "fileSize": 8168637,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 202.347,
+            "fileSize": 18854514,
+            "bitRate": 742170
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 202.346,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 202.347,
+        "fileSize": 18854514,
+        "bitRate": 742170
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t10",
+          "localPath": "live/李志/2014 - 勾三搭四/01-10 - 斜.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1QmVkl9gA1iyMXpqUjFFts5yGbKzSHdpq/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 202.397,
+            "fileSize": 8168637,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 202.347,
+            "fileSize": 18854514,
+            "bitRate": 742170
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t11",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "春末的南方城市",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 277.002,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Da74ZTxK0yXt3EgX7iET639g6WY7KrhL/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-11 - 春末的南方城市.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-8",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 8,
+          "duration": 276.968,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 277.002,
+        "fileSize": 11155863,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t11",
+          "localPath": "live/李志/2014 - 勾三搭四/01-11 - 春末的南方城市.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Da74ZTxK0yXt3EgX7iET639g6WY7KrhL/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 277.002,
+            "fileSize": 11155863,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 276.973,
+            "fileSize": 31526162,
+            "bitRate": 907840
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 276.973,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 276.973,
+        "fileSize": 31526162,
+        "bitRate": 907840
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t11",
+          "localPath": "live/李志/2014 - 勾三搭四/01-11 - 春末的南方城市.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Da74ZTxK0yXt3EgX7iET639g6WY7KrhL/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 277.002,
+            "fileSize": 11155863,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 276.973,
+            "fileSize": 31526162,
+            "bitRate": 907840
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t12",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "黑色信封",
+      "discNumber": 1,
+      "trackNumber": 12,
+      "sequenceNumber": 12,
+      "duration": 327.262,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Rg6R_qKd4RDKAuLCclsFyheBcc5qQA7p/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-12 - 黑色信封.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-9",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 9,
+          "duration": 327.205,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 327.262,
+        "fileSize": 13168250,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t12",
+          "localPath": "live/李志/2014 - 勾三搭四/01-12 - 黑色信封.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Rg6R_qKd4RDKAuLCclsFyheBcc5qQA7p/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 327.262,
+            "fileSize": 13168250,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 327.213,
+            "fileSize": 34967470,
+            "bitRate": 852503
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 327.213,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 327.213,
+        "fileSize": 34967470,
+        "bitRate": 852503
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t12",
+          "localPath": "live/李志/2014 - 勾三搭四/01-12 - 黑色信封.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Rg6R_qKd4RDKAuLCclsFyheBcc5qQA7p/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 327.262,
+            "fileSize": 13168250,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 327.213,
+            "fileSize": 34967470,
+            "bitRate": 852503
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t13",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "1990年的春天",
+      "discNumber": 1,
+      "trackNumber": 13,
+      "sequenceNumber": 13,
+      "duration": 330.136,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1pj4MZSNUpERpNDxv5hPcOxZe1G-jWc__/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-13 - 1990年的春天.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 330.136,
+        "fileSize": 13283312,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t13",
+          "localPath": "live/李志/2014 - 勾三搭四/01-13 - 1990年的春天.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1pj4MZSNUpERpNDxv5hPcOxZe1G-jWc__/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 330.136,
+            "fileSize": 13283312,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 330.107,
+            "fileSize": 41690725,
+            "bitRate": 1007804
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 330.106,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 330.107,
+        "fileSize": 41690725,
+        "bitRate": 1007804
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t13",
+          "localPath": "live/李志/2014 - 勾三搭四/01-13 - 1990年的春天.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1pj4MZSNUpERpNDxv5hPcOxZe1G-jWc__/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 330.136,
+            "fileSize": 13283312,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 330.107,
+            "fileSize": 41690725,
+            "bitRate": 1007804
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t14",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "意味",
+      "discNumber": 1,
+      "trackNumber": 14,
+      "sequenceNumber": 14,
+      "duration": 329.352,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1_Sm-SUExRd-0nNDE8whRNYDnCYxH4E4g/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-14 - 意味.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-10",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 10,
+          "duration": 329.301,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 329.352,
+        "fileSize": 13251922,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t14",
+          "localPath": "live/李志/2014 - 勾三搭四/01-14 - 意味.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1_Sm-SUExRd-0nNDE8whRNYDnCYxH4E4g/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 329.352,
+            "fileSize": 13251922,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 329.307,
+            "fileSize": 38797113,
+            "bitRate": 940027
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 329.306,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 329.307,
+        "fileSize": 38797113,
+        "bitRate": 940027
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t14",
+          "localPath": "live/李志/2014 - 勾三搭四/01-14 - 意味.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1_Sm-SUExRd-0nNDE8whRNYDnCYxH4E4g/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 329.352,
+            "fileSize": 13251922,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 329.307,
+            "fileSize": 38797113,
+            "bitRate": 940027
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t15",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "翁庆年的六英镑",
+      "discNumber": 1,
+      "trackNumber": 15,
+      "sequenceNumber": 15,
+      "duration": 269.976,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Sv0WfrlsnsQREV7ENZdwb8ENoHzdT-on/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-15 - 翁庆年的六英镑.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-11",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 11,
+          "duration": 269.931,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 269.976,
+        "fileSize": 10874504,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t15",
+          "localPath": "live/李志/2014 - 勾三搭四/01-15 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Sv0WfrlsnsQREV7ENZdwb8ENoHzdT-on/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 269.976,
+            "fileSize": 10874504,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 269.933,
+            "fileSize": 27976089,
+            "bitRate": 826409
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 269.933,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 269.933,
+        "fileSize": 27976089,
+        "bitRate": 826409
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t15",
+          "localPath": "live/李志/2014 - 勾三搭四/01-15 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Sv0WfrlsnsQREV7ENZdwb8ENoHzdT-on/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 269.976,
+            "fileSize": 10874504,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 269.933,
+            "fileSize": 27976089,
+            "bitRate": 826409
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t16",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "来了",
+      "discNumber": 1,
+      "trackNumber": 16,
+      "sequenceNumber": 16,
+      "duration": 428.669,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1_X5YkgkH1TXbuVu8emelOyi2eNk8XBUM/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-16 - 来了.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-12",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 12,
+          "duration": 428.636,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 428.669,
+        "fileSize": 17228596,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t16",
+          "localPath": "live/李志/2014 - 勾三搭四/01-16 - 来了.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1_X5YkgkH1TXbuVu8emelOyi2eNk8XBUM/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 428.669,
+            "fileSize": 17228596,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 428.64,
+            "fileSize": 45289903,
+            "bitRate": 843242
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 428.64,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 428.64,
+        "fileSize": 45289903,
+        "bitRate": 843242
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t16",
+          "localPath": "live/李志/2014 - 勾三搭四/01-16 - 来了.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1_X5YkgkH1TXbuVu8emelOyi2eNk8XBUM/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 428.669,
+            "fileSize": 17228596,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 428.64,
+            "fileSize": 45289903,
+            "bitRate": 843242
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t17",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "妈妈",
+      "discNumber": 1,
+      "trackNumber": 17,
+      "sequenceNumber": 17,
+      "duration": 253.649,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1kFnsPhIEYKnWgQrAtgdp4faByrjh-J8U/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-17 - 妈妈.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-13",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 13,
+          "duration": 253.611,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 253.649,
+        "fileSize": 10220780,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t17",
+          "localPath": "live/李志/2014 - 勾三搭四/01-17 - 妈妈.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1kFnsPhIEYKnWgQrAtgdp4faByrjh-J8U/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 253.649,
+            "fileSize": 10220780,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 253.613,
+            "fileSize": 21056236,
+            "bitRate": 661526
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 253.613,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 253.613,
+        "fileSize": 21056236,
+        "bitRate": 661526
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t17",
+          "localPath": "live/李志/2014 - 勾三搭四/01-17 - 妈妈.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1kFnsPhIEYKnWgQrAtgdp4faByrjh-J8U/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 253.649,
+            "fileSize": 10220780,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 253.613,
+            "fileSize": 21056236,
+            "bitRate": 661526
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t18",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "董卓瑶",
+      "discNumber": 1,
+      "trackNumber": 18,
+      "sequenceNumber": 18,
+      "duration": 305.032,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1cQUf9vzi_YHRtRvmMj5elzUW0xuhdOmM/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-18 - 董卓瑶.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-14",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 14,
+          "duration": 304.982,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 305.032,
+        "fileSize": 12278151,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t18",
+          "localPath": "live/李志/2014 - 勾三搭四/01-18 - 董卓瑶.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1cQUf9vzi_YHRtRvmMj5elzUW0xuhdOmM/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 305.032,
+            "fileSize": 12278151,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 304.987,
+            "fileSize": 32295813,
+            "bitRate": 844622
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 304.986,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 304.987,
+        "fileSize": 32295813,
+        "bitRate": 844622
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t18",
+          "localPath": "live/李志/2014 - 勾三搭四/01-18 - 董卓瑶.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1cQUf9vzi_YHRtRvmMj5elzUW0xuhdOmM/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 305.032,
+            "fileSize": 12278151,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 304.987,
+            "fileSize": 32295813,
+            "bitRate": 844622
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t19",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "这个世界会好吗",
+      "discNumber": 1,
+      "trackNumber": 19,
+      "sequenceNumber": 19,
+      "duration": 303.778,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-19 - 这个世界会好吗.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 303.778,
+        "fileSize": 12227954,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t19",
+          "localPath": "live/李志/2014 - 勾三搭四/01-19 - 这个世界会好吗.mp3",
+          "sourceUrl": "",
+          "sourceFileName": "李志 - 这个世界会好吗.flac",
+          "provider": "OneDrive user library",
+          "rightsStatus": "user-provided-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 303.778,
+            "fileSize": 12227954,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 303.747,
+            "fileSize": 29682999,
+            "bitRate": 779323
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "user-provided-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 303.746,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 303.747,
+        "fileSize": 29682999,
+        "bitRate": 779323
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t19",
+          "localPath": "live/李志/2014 - 勾三搭四/01-19 - 这个世界会好吗.mp3",
+          "sourceUrl": "",
+          "sourceFileName": "李志 - 这个世界会好吗.flac",
+          "provider": "OneDrive user library",
+          "rightsStatus": "user-provided-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 303.778,
+            "fileSize": 12227954,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 303.747,
+            "fileSize": 29682999,
+            "bitRate": 779323
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t20",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "杭州&我们不能失去信仰",
+      "discNumber": 1,
+      "trackNumber": 20,
+      "sequenceNumber": 20,
+      "duration": 542.72,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1M1hcmtechtwrOYczdfTvNzfqdtbDFNTY/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-20 - 杭州&我们不能失去信仰.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 542.72,
+        "fileSize": 21795201,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t20",
+          "localPath": "live/李志/2014 - 勾三搭四/01-20 - 杭州&我们不能失去信仰.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1M1hcmtechtwrOYczdfTvNzfqdtbDFNTY/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 542.72,
+            "fileSize": 21795201,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 542.693,
+            "fileSize": 71490146,
+            "bitRate": 1051864
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 542.693,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 542.693,
+        "fileSize": 71490146,
+        "bitRate": 1051864
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t20",
+          "localPath": "live/李志/2014 - 勾三搭四/01-20 - 杭州&我们不能失去信仰.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1M1hcmtechtwrOYczdfTvNzfqdtbDFNTY/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 542.72,
+            "fileSize": 21795201,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 542.693,
+            "fileSize": 71490146,
+            "bitRate": 1051864
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t21",
+      "artist": "李志",
+      "album": "勾三搭四",
+      "title": "山阴路的夏天",
+      "discNumber": 1,
+      "trackNumber": 21,
+      "sequenceNumber": 21,
+      "duration": 337.998,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Y5KRimVD41y6x1Lz-8lyn2YWuNrVobGd/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2014 - 勾三搭四/01-21 - 山阴路的夏天.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2013-15",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--7",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 15,
+          "duration": 337.952,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 337.998,
+        "fileSize": 13598137,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t21",
+          "localPath": "live/李志/2014 - 勾三搭四/01-21 - 山阴路的夏天.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Y5KRimVD41y6x1Lz-8lyn2YWuNrVobGd/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 337.998,
+            "fileSize": 13598137,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 337.96,
+            "fileSize": 36695614,
+            "bitRate": 866262
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 337.96,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 337.96,
+        "fileSize": 36695614,
+        "bitRate": 866262
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t21",
+          "localPath": "live/李志/2014 - 勾三搭四/01-21 - 山阴路的夏天.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Y5KRimVD41y6x1Lz-8lyn2YWuNrVobGd/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 337.998,
+            "fileSize": 13598137,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 337.96,
+            "fileSize": 36695614,
+            "bitRate": 866262
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/1442643e-a76d-4bcf-b2f5-9fbddc1b05c6",
+    "https://lizhilizhi.bandcamp.com/album/--7"
+  ],
+  "notes": [],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "Bandcamp",
+      "url": "https://lizhilizhi.bandcamp.com/album/--7",
+      "title": "勾三搭四",
+      "releaseDate": "22 Oct 2020 09:01:37 GMT",
+      "trackCount": 15,
+      "tracks": [
+        {
+          "title": "和你在一起（2013跨年版）",
+          "track_num": 1,
+          "duration": 261.724,
+          "title_link": "/track/2013",
+          "track_id": 541073583
+        },
+        {
+          "title": "牆上的向日葵（2013跨年版）",
+          "track_num": 2,
+          "duration": 445.792,
+          "title_link": "/track/2013-2",
+          "track_id": 3093524039
+        },
+        {
+          "title": "鉛筆（2013跨年版）",
+          "track_num": 3,
+          "duration": 244.203,
+          "title_link": "/track/2013-3",
+          "track_id": 172756660
+        },
+        {
+          "title": "被禁忌的遊戲（2013跨年版）",
+          "track_num": 4,
+          "duration": 498.556,
+          "title_link": "/track/2013-4",
+          "track_id": 3422370374
+        },
+        {
+          "title": "秋天的老狼（2013跨年版）",
+          "track_num": 5,
+          "duration": 432.769,
+          "title_link": "/track/2013-5",
+          "track_id": 2447201289
+        },
+        {
+          "title": "門（2013跨年版）",
+          "track_num": 6,
+          "duration": 397.962,
+          "title_link": "/track/2013-6",
+          "track_id": 3041100776
+        },
+        {
+          "title": "斜（2013跨年版）",
+          "track_num": 7,
+          "duration": 202.339,
+          "title_link": "/track/2013-7",
+          "track_id": 2783254016
+        },
+        {
+          "title": "春末的南方城市（2013跨年版）",
+          "track_num": 8,
+          "duration": 276.968,
+          "title_link": "/track/2013-8",
+          "track_id": 482005593
+        },
+        {
+          "title": "黑色信封（2013跨年版）",
+          "track_num": 9,
+          "duration": 327.205,
+          "title_link": "/track/2013-9",
+          "track_id": 451554568
+        },
+        {
+          "title": "意味（2013跨年版）",
+          "track_num": 10,
+          "duration": 329.301,
+          "title_link": "/track/2013-10",
+          "track_id": 2988509411
+        },
+        {
+          "title": "翁慶年的六英鎊（2013跨年版）",
+          "track_num": 11,
+          "duration": 269.931,
+          "title_link": "/track/2013-11",
+          "track_id": 1093233895
+        },
+        {
+          "title": "來了（2013跨年版）",
+          "track_num": 12,
+          "duration": 428.636,
+          "title_link": "/track/2013-12",
+          "track_id": 1448812204
+        },
+        {
+          "title": "媽媽（2013跨年版）",
+          "track_num": 13,
+          "duration": 253.611,
+          "title_link": "/track/2013-13",
+          "track_id": 3376235159
+        },
+        {
+          "title": "董卓瑤（2013跨年版）",
+          "track_num": 14,
+          "duration": 304.982,
+          "title_link": "/track/2013-14",
+          "track_id": 2235443099
+        },
+        {
+          "title": "山陰路的夏天（2013跨年版）",
+          "track_num": 15,
+          "duration": 337.952,
+          "title_link": "/track/2013-15",
+          "track_id": 2909171684
+        }
+      ],
+      "offer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $116 HKD or more Send as Gift",
+      "note": "平台上架日期，不替代原始发行日期。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "1442643e-a76d-4bcf-b2f5-9fbddc1b05c6",
+    "title": "勾三搭四 (2013 Live)",
+    "date": "2014-01-01",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2014-01-01",
+      "source": "https://musicbrainz.org/release/1442643e-a76d-4bcf-b2f5-9fbddc1b05c6"
+    },
+    {
+      "date": "2014-04-01",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2014 - 李志 - 勾三搭四.jpg",
+    "width": 3000,
+    "height": 3000,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2014 - 李志 - 勾三搭四.jpg"
+  },
+  "trackCount": 21,
+  "tracklistStatus": "edition-listed"
+}

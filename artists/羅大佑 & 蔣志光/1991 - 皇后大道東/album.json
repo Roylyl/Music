@@ -1,0 +1,158 @@
+{
+  "id": "other-羅大佑-and-蔣志光-1991-皇后大道東",
+  "artist": "羅大佑 & 蔣志光",
+  "title": "皇后大道東",
+  "releaseDate": "1991-01-23",
+  "releaseDatePrecision": "day",
+  "year": 1991,
+  "type": "compilation",
+  "path": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "Apple Music artwork",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/ee/2b/1aee2b13-b9af-ee0a-a75d-f485d46f8390/cover.jpg/1200x1200bb.jpg",
+    "width": 1200,
+    "height": 1200,
+    "lowResolution": false,
+    "originalPath": "covers/originals/1991 - 皇后大道東 - 羅大佑 & 蔣志光.jpg"
+  },
+  "catalogUrl": "https://musicbrainz.org/release/12fa7029-5b41-4381-876d-e6c02fa59fe3",
+  "tracklistCompleteness": "partial",
+  "notes": "仅导入用户指定曲目；专辑其余曲目尚未编目。",
+  "tracks": [
+    {
+      "id": "other-羅大佑-and-蔣志光-1991-皇后大道東-d01-t01",
+      "artist": "羅大佑 & 蔣志光",
+      "album": "皇后大道東",
+      "title": "皇后大道東",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 247.745,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東/01-01 - 皇后大道東.mp3",
+      "sources": [
+        {
+          "provider": "release-catalog",
+          "url": "https://musicbrainz.org/release/12fa7029-5b41-4381-876d-e6c02fa59fe3",
+          "status": "reference"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 247.745,
+        "fileSize": 10184884,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "album-track-match; master-unverified",
+      "assets": [
+        {
+          "trackId": "other-羅大佑-and-蔣志光-1991-皇后大道東-d01-t01",
+          "localPath": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東/01-01 - 皇后大道東.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 247.745,
+            "fileSize": 10184884,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false,
+          "qualityAudit": "not-applicable-lossy",
+          "sourceFileName": "皇后大道东.MP3",
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 247.719,
+            "fileSize": 4231587,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceFileName": "皇后大道东.MP3",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 247.719,
+        "fileSize": 4231587,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "other-羅大佑-and-蔣志光-1991-皇后大道東-d01-t01",
+          "localPath": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東/01-01 - 皇后大道東.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 247.745,
+            "fileSize": 10184884,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "sourceFileName": "皇后大道东.MP3",
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 247.719,
+            "fileSize": 4231587,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ]
+}

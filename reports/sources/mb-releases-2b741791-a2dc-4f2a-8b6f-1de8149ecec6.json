@@ -1,0 +1,65 @@
+{
+  "releases": [
+    {
+      "disambiguation": "",
+      "asin": null,
+      "country": "JP",
+      "packaging": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "language": "zho",
+        "script": "Qaaa"
+      },
+      "barcode": "4582561391668",
+      "status": "Official",
+      "quality": "normal",
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "count": 1,
+        "artwork": true,
+        "front": true
+      },
+      "id": "30817cce-0960-44cd-b570-d39bcd8c8de5",
+      "media": [
+        {
+          "title": "はスタジオ録音音源",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "position": 1,
+          "format": "CD",
+          "id": "b98666d3-b12d-3ce6-8014-6bea5966e570",
+          "track-count": 12
+        },
+        {
+          "title": "は同曲のライヴ音源",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 12,
+          "position": 2,
+          "format": "CD",
+          "id": "cae09642-444e-391f-a0d3-bb1d1e871165"
+        }
+      ],
+      "title": "Best Selection Songs 2004~2018 (Volume.2)",
+      "packaging-id": null,
+      "release-events": [
+        {
+          "date": "2020-05-27",
+          "area": {
+            "type": null,
+            "sort-name": "Japan",
+            "type-id": null,
+            "name": "Japan",
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "date": "2020-05-27"
+    }
+  ],
+  "release-offset": 0,
+  "release-count": 1
+}

@@ -1,0 +1,1614 @@
+{
+  "id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b",
+  "artist": "李志",
+  "title": "你好，郑州",
+  "releaseDate": "2010-09-01",
+  "releaseDatePrecision": "day",
+  "year": 2010,
+  "type": "studio",
+  "path": "artists/李志/2010 - 你好，郑州",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t01",
+      "artist": "李志",
+      "album": "你好，郑州",
+      "title": "墙上的向日葵",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 291.762,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/你好%20郑州/墙上的向日葵.mp3",
+      "format": "MP3",
+      "localPath": "artists/李志/2010 - 你好，郑州/01-01 - 墙上的向日葵.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--32",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--6",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 1,
+          "duration": 296.147,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 291.762,
+        "fileSize": 11741178,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t01",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-01 - 墙上的向日葵.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/墙上的向日葵.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 291.762,
+            "fileSize": 11741178,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 291.762,
+            "fileSize": 11741178,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 296.147,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 291.762,
+        "fileSize": 11741178,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t01",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-01 - 墙上的向日葵.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/墙上的向日葵.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 291.762,
+            "fileSize": 11741178,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 291.762,
+            "fileSize": 11741178,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t02",
+      "artist": "李志",
+      "album": "你好，郑州",
+      "title": "铅笔",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 276.611,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1BUIf4Oclp9DVhJgz_GImulmgzEM5Eo7B/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2010 - 你好，郑州/01-02 - 铅笔.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 276.611,
+        "fileSize": 11134523,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t02",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-02 - 铅笔.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1BUIf4Oclp9DVhJgz_GImulmgzEM5Eo7B/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 276.611,
+            "fileSize": 11134523,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 276.573,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 276.573,
+            "fileSize": 22909810,
+            "bitRate": 660336
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 274.627,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 276.573,
+        "fileSize": 22909810,
+        "bitRate": 660336
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t02",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-02 - 铅笔.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1BUIf4Oclp9DVhJgz_GImulmgzEM5Eo7B/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 276.611,
+            "fileSize": 11134523,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 276.573,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 276.573,
+            "fileSize": 22909810,
+            "bitRate": 660336
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t03",
+      "artist": "李志",
+      "album": "你好，郑州",
+      "title": "关于郑州的记忆",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 227.605,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/李志/2010 - 你好，郑州/01-03 - 关于郑州的记忆.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--34",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--6",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 3,
+          "duration": 228.147,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 227.605,
+        "fileSize": 9172345,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t03",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-03 - 关于郑州的记忆.mp3",
+          "sourceUrl": "",
+          "sourceFileName": "李志 – 关于郑州的记忆.flac",
+          "provider": "OneDrive user library",
+          "rightsStatus": "user-provided-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 227.605,
+            "fileSize": 9172345,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 227.573,
+            "fileSize": 20899881,
+            "bitRate": 731927
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "user-provided-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 228.147,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 227.573,
+        "fileSize": 20899881,
+        "bitRate": 731927
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t03",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-03 - 关于郑州的记忆.mp3",
+          "sourceUrl": "",
+          "sourceFileName": "李志 – 关于郑州的记忆.flac",
+          "provider": "OneDrive user library",
+          "rightsStatus": "user-provided-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 227.605,
+            "fileSize": 9172345,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 227.573,
+            "fileSize": 20899881,
+            "bitRate": 731927
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t03",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-03 - 关于郑州的记忆.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/关于郑州的记忆.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 227.605,
+            "fileSize": 9172345,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t04",
+      "artist": "李志",
+      "album": "你好，郑州",
+      "title": "忽然",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 126.041,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/你好%20郑州/忽然.mp3",
+      "format": "MP3",
+      "localPath": "artists/李志/2010 - 你好，郑州/01-04 - 忽然.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--35",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--6",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 4,
+          "duration": 126.853,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 126.041,
+        "fileSize": 5105708,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t04",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-04 - 忽然.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/忽然.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 126.041,
+            "fileSize": 5105708,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 126.041,
+            "fileSize": 5105708,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 126.853,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 126.041,
+        "fileSize": 5105708,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t04",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-04 - 忽然.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/忽然.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 126.041,
+            "fileSize": 5105708,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 126.041,
+            "fileSize": 5105708,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t05",
+      "artist": "李志",
+      "album": "你好，郑州",
+      "title": "秋天的老狼",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 238.89,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/你好%20郑州/秋天的老狼.mp3",
+      "format": "MP3",
+      "localPath": "artists/李志/2010 - 你好，郑州/01-05 - 秋天的老狼.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--36",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--6",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 5,
+          "duration": 236.293,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 238.89,
+        "fileSize": 9624187,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t05",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-05 - 秋天的老狼.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/秋天的老狼.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 238.89,
+            "fileSize": 9624187,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 238.89,
+            "fileSize": 9624187,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 236.293,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 238.89,
+        "fileSize": 9624187,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t05",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-05 - 秋天的老狼.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/秋天的老狼.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 238.89,
+            "fileSize": 9624187,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 238.89,
+            "fileSize": 9624187,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t06",
+      "artist": "李志",
+      "album": "你好，郑州",
+      "title": "带亲",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 223.869,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/你好%20郑州/带亲.mp3",
+      "format": "MP3",
+      "localPath": "artists/李志/2010 - 你好，郑州/01-06 - 带亲.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--37",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--6",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 6,
+          "duration": 222.107,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 223.869,
+        "fileSize": 9022764,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t06",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-06 - 带亲.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/带亲.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 223.869,
+            "fileSize": 9022764,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 223.869,
+            "fileSize": 9022764,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 222.107,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 223.869,
+        "fileSize": 9022764,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t06",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-06 - 带亲.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/带亲.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 223.869,
+            "fileSize": 9022764,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 223.869,
+            "fileSize": 9022764,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t07",
+      "artist": "李志",
+      "album": "你好，郑州",
+      "title": "她",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 249.548,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/李志/2010 - 你好，郑州/01-07 - 她.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--38",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--6",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 7,
+          "duration": 247.467,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 249.548,
+        "fileSize": 10050924,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t07",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-07 - 她.mp3",
+          "sourceUrl": "",
+          "sourceFileName": "她.flac",
+          "provider": "OneDrive user library",
+          "rightsStatus": "user-provided-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 249.548,
+            "fileSize": 10050924,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 249.52,
+            "fileSize": 30931929,
+            "bitRate": 981300
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "user-provided-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 247.467,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 249.52,
+        "fileSize": 30931929,
+        "bitRate": 981300
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t07",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-07 - 她.mp3",
+          "sourceUrl": "",
+          "sourceFileName": "她.flac",
+          "provider": "OneDrive user library",
+          "rightsStatus": "user-provided-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 249.548,
+            "fileSize": 10050924,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 249.52,
+            "fileSize": 30931929,
+            "bitRate": 981300
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        },
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t07",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-07 - 她.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/她.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 249.548,
+            "fileSize": 10050924,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t08",
+      "artist": "李志",
+      "album": "你好，郑州",
+      "title": "路",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 141.296,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/你好%20郑州/路（李志、邵夷贝）.mp3",
+      "format": "MP3",
+      "localPath": "artists/李志/2010 - 你好，郑州/01-08 - 路.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--39",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--6",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 8,
+          "duration": 143.347,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 141.296,
+        "fileSize": 5716537,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t08",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-08 - 路.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/路（李志、邵夷贝）.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 141.296,
+            "fileSize": 5716537,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 141.296,
+            "fileSize": 5716537,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 143.347,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 141.296,
+        "fileSize": 5716537,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t08",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-08 - 路.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/路（李志、邵夷贝）.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 141.296,
+            "fileSize": 5716537,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 141.296,
+            "fileSize": 5716537,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t09",
+      "artist": "李志",
+      "album": "你好，郑州",
+      "title": "夜",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 275.435,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/你好%20郑州/夜.mp3",
+      "format": "MP3",
+      "localPath": "artists/李志/2010 - 你好，郑州/01-09 - 夜.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--40",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--6",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 9,
+          "duration": 274.813,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 275.435,
+        "fileSize": 11087454,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t09",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-09 - 夜.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/夜.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 275.435,
+            "fileSize": 11087454,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 275.435,
+            "fileSize": 11087454,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 274.813,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 275.435,
+        "fileSize": 11087454,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t09",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-09 - 夜.mp3",
+          "sourceUrl": "https://st.nj1701.com/你好%20郑州/夜.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 275.435,
+            "fileSize": 11087454,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 275.435,
+            "fileSize": 11087454,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t10",
+      "artist": "李志",
+      "album": "你好，郑州",
+      "title": "铅笔 (吉松浩版)",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 276.611,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1BUIf4Oclp9DVhJgz_GImulmgzEM5Eo7B/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2010 - 你好，郑州/01-10 - 铅笔 (吉松浩版).mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 276.611,
+        "fileSize": 11134539,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t10",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-10 - 铅笔 (吉松浩版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1BUIf4Oclp9DVhJgz_GImulmgzEM5Eo7B/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 276.611,
+            "fileSize": 11134539,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 276.573,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 276.573,
+            "fileSize": 22909826,
+            "bitRate": 660336
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 276.573,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 276.573,
+        "fileSize": 22909826,
+        "bitRate": 660336
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t10",
+          "localPath": "artists/李志/2010 - 你好，郑州/01-10 - 铅笔 (吉松浩版).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1BUIf4Oclp9DVhJgz_GImulmgzEM5Eo7B/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 276.611,
+            "fileSize": 11134539,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 276.573,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 276.573,
+            "fileSize": 22909826,
+            "bitRate": 660336
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/38d58d47-5f00-4f4b-95aa-f499cdba365b",
+    "https://lizhilizhi.bandcamp.com/album/--6"
+  ],
+  "notes": [],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "Bandcamp",
+      "url": "https://lizhilizhi.bandcamp.com/album/--6",
+      "title": "你好,鄭州",
+      "releaseDate": "22 Oct 2020 07:32:32 GMT",
+      "trackCount": 10,
+      "tracks": [
+        {
+          "title": "牆上的向日葵",
+          "track_num": 1,
+          "duration": 296.147,
+          "title_link": "/track/--32",
+          "track_id": 1401633415
+        },
+        {
+          "title": "鉛筆",
+          "track_num": 2,
+          "duration": 274.627,
+          "title_link": "/track/--33",
+          "track_id": 2527345062
+        },
+        {
+          "title": "關於鄭州的記憶",
+          "track_num": 3,
+          "duration": 228.147,
+          "title_link": "/track/--34",
+          "track_id": 3368473605
+        },
+        {
+          "title": "忽然",
+          "track_num": 4,
+          "duration": 126.853,
+          "title_link": "/track/--35",
+          "track_id": 2907424247
+        },
+        {
+          "title": "秋天的老狼",
+          "track_num": 5,
+          "duration": 236.293,
+          "title_link": "/track/--36",
+          "track_id": 874539734
+        },
+        {
+          "title": "帶親",
+          "track_num": 6,
+          "duration": 222.107,
+          "title_link": "/track/--37",
+          "track_id": 1356244021
+        },
+        {
+          "title": "她",
+          "track_num": 7,
+          "duration": 247.467,
+          "title_link": "/track/--38",
+          "track_id": 615980612
+        },
+        {
+          "title": "路",
+          "track_num": 8,
+          "duration": 143.347,
+          "title_link": "/track/--39",
+          "track_id": 3083753926
+        },
+        {
+          "title": "夜",
+          "track_num": 9,
+          "duration": 274.813,
+          "title_link": "/track/--40",
+          "track_id": 3498936726
+        },
+        {
+          "title": "鉛筆（吉松浩版）",
+          "track_num": 10,
+          "duration": 276.573,
+          "title_link": "/track/--41",
+          "track_id": 3775511428
+        }
+      ],
+      "offer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $78 HKD or more Send as Gift",
+      "note": "平台上架日期，不替代原始发行日期。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "38d58d47-5f00-4f4b-95aa-f499cdba365b",
+    "title": "你好，鄭州",
+    "date": "2010",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2010",
+      "source": "https://musicbrainz.org/release/38d58d47-5f00-4f4b-95aa-f499cdba365b"
+    },
+    {
+      "date": "2010-09-01",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2010 - 李志 - 你好，郑州.jpg",
+    "width": 3000,
+    "height": 3000,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2010 - 李志 - 你好，郑州.jpg"
+  },
+  "trackCount": 10,
+  "tracklistStatus": "edition-listed"
+}

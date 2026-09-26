@@ -1,0 +1,261 @@
+{
+  "release-count": 5,
+  "releases": [
+    {
+      "media": [
+        {
+          "position": 1,
+          "track-count": 16,
+          "format": "Digital Media",
+          "title": "",
+          "id": "2b4bfc88-3d7f-3797-8bb8-396b4bb5e04d",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "asin": null,
+      "release-events": [
+        {
+          "area": {
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "sort-name": "[Worldwide]",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "name": "[Worldwide]",
+            "disambiguation": "",
+            "type": null
+          },
+          "date": "2009-01-22"
+        }
+      ],
+      "barcode": "",
+      "title": "工体东路没有人",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "cover-art-archive": {
+        "artwork": true,
+        "back": false,
+        "front": true,
+        "count": 1,
+        "darkened": false
+      },
+      "country": "XW",
+      "quality": "normal",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "date": "2009-01-22",
+      "status": "Official",
+      "packaging": "None",
+      "id": "200dad30-e066-4956-bc59-88f98524563d"
+    },
+    {
+      "asin": null,
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "ea6b3240-c268-373f-bedd-41886ee669b1",
+          "title": "",
+          "track-count": 16,
+          "format": "CD",
+          "position": 1
+        }
+      ],
+      "disambiguation": "",
+      "title": "工体东路没有人",
+      "barcode": "",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "disambiguation": "",
+            "sort-name": "China",
+            "name": "China",
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "type-id": null,
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0"
+          },
+          "date": "2009"
+        }
+      ],
+      "text-representation": {
+        "language": "zho",
+        "script": "Hans"
+      },
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "count": 1,
+        "darkened": false
+      },
+      "quality": "normal",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "CN",
+      "status": "Official",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "date": "2009",
+      "id": "25820615-0cdf-42e1-b24f-13ac2926a069",
+      "packaging": "Jewel Case"
+    },
+    {
+      "media": [
+        {
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": "",
+          "id": "6c834210-0f59-398f-a7fc-b9caba66b36b",
+          "position": 1,
+          "track-count": 11,
+          "format": "Digital Media"
+        }
+      ],
+      "asin": null,
+      "release-events": [
+        {
+          "date": "",
+          "area": {
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type-id": null,
+            "sort-name": "[Worldwide]",
+            "disambiguation": "",
+            "type": null
+          }
+        }
+      ],
+      "barcode": "9555150725316",
+      "title": "工體東路沒有人",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Hant",
+        "language": "zho"
+      },
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "count": 1,
+        "darkened": false
+      },
+      "country": "XW",
+      "quality": "normal",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status": "Official",
+      "packaging": "None",
+      "id": "421bc80e-044e-48b4-8e6f-90de8a79bdff"
+    },
+    {
+      "quality": "normal",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "XW",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "artwork": true,
+        "back": false,
+        "front": true
+      },
+      "id": "80284133-8ed6-4373-a678-71d3235f84b5",
+      "packaging": "None",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "date": "",
+      "status": "Official",
+      "barcode": "9555150725316",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "type": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "name": "[Worldwide]",
+            "type-id": null,
+            "sort-name": "[Worldwide]"
+          },
+          "date": ""
+        }
+      ],
+      "disambiguation": "",
+      "title": "工體東路沒有人",
+      "media": [
+        {
+          "track-count": 11,
+          "format": "Digital Media",
+          "position": 1,
+          "title": "",
+          "id": "288ed8dc-dc24-3313-8244-6301cf9ae9e0",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "asin": null,
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      }
+    },
+    {
+      "media": [
+        {
+          "position": 1,
+          "track-count": 12,
+          "format": "Digital Media",
+          "id": "47da3fa7-f9de-391d-a6c8-835c02477c7d",
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "asin": null,
+      "release-events": [
+        {
+          "date": "",
+          "area": {
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "name": "[Worldwide]",
+            "sort-name": "[Worldwide]",
+            "disambiguation": "",
+            "type": null
+          }
+        }
+      ],
+      "barcode": "9555150725316",
+      "title": "工體東路沒有人",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Qaaa",
+        "language": "zho"
+      },
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "back": false,
+        "front": true,
+        "artwork": true
+      },
+      "country": "XW",
+      "quality": "normal",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "date": "",
+      "status": "Official",
+      "packaging": "None",
+      "id": "b0592bd1-29e6-449b-85d6-3f68657481ca"
+    }
+  ],
+  "release-offset": 0
+}

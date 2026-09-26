@@ -1,0 +1,386 @@
+{
+  "release-offset": 0,
+  "release-count": 6,
+  "releases": [
+    {
+      "media": [
+        {
+          "track-count": 9,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "id": "fb169f61-04a0-3310-8f24-ab67cb90d9f8",
+          "position": 1,
+          "title": ""
+        }
+      ],
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "date": "2016-01-09",
+      "asin": null,
+      "title": "The Forbidden Game",
+      "quality": "normal",
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": false,
+        "darkened": false,
+        "count": 1
+      },
+      "text-representation": {
+        "script": "Qaaa",
+        "language": "mul"
+      },
+      "country": "XW",
+      "disambiguation": "Bandcamp release",
+      "id": "044a5308-f857-4a5e-b03f-4bb14ae14620",
+      "release-events": [
+        {
+          "date": "2016-01-09",
+          "area": {
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "sort-name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "type": null,
+            "name": "[Worldwide]",
+            "type-id": null
+          }
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "status": "Official",
+      "barcode": ""
+    },
+    {
+      "disambiguation": "",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "artwork": true,
+        "front": true,
+        "back": false
+      },
+      "title": "被禁忌的游戏",
+      "quality": "normal",
+      "country": "CN",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hans"
+      },
+      "status": "Official",
+      "barcode": "9787880890785",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "id": "425b9dd4-407b-4a66-89ab-d0aa88ab4405",
+      "release-events": [
+        {
+          "date": "2013",
+          "area": {
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "sort-name": "China",
+            "type": null,
+            "name": "China",
+            "type-id": null,
+            "disambiguation": ""
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": "779ec7d4-51aa-30a6-828f-0f1a8ecf5967",
+          "title": "",
+          "position": 1,
+          "track-count": 8,
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD"
+        }
+      ],
+      "asin": null,
+      "date": "2013",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case"
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "status": "Official",
+      "barcode": "9787798627183",
+      "release-events": [
+        {
+          "date": "2006",
+          "area": {
+            "iso-3166-2-codes": [
+              "CN-91"
+            ],
+            "disambiguation": "",
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+            "sort-name": "Hong Kong",
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "type-id": null,
+            "name": "Hong Kong",
+            "type": null
+          }
+        },
+        {
+          "area": {
+            "sort-name": "Macao",
+            "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+            "iso-3166-1-codes": [
+              "MO"
+            ],
+            "type-id": null,
+            "type": null,
+            "name": "Macao",
+            "iso-3166-2-codes": [
+              "CN-92"
+            ],
+            "disambiguation": ""
+          },
+          "date": "2006"
+        },
+        {
+          "date": "2006",
+          "area": {
+            "disambiguation": "",
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "type": null,
+            "name": "Taiwan",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "sort-name": "Taiwan",
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5"
+          }
+        }
+      ],
+      "id": "474e9a70-24ba-4632-9e01-957500e90ffb",
+      "disambiguation": "",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "country": "HK",
+      "cover-art-archive": {
+        "back": false,
+        "front": true,
+        "artwork": true,
+        "count": 1,
+        "darkened": false
+      },
+      "quality": "normal",
+      "title": "被禁忌的遊戲",
+      "date": "2006",
+      "asin": null,
+      "packaging": "None",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "media": [
+        {
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "track-count": 6,
+          "position": 1,
+          "title": "",
+          "id": "73561b6b-ea81-300a-938a-5bf86058dd11"
+        }
+      ]
+    },
+    {
+      "asin": null,
+      "date": "2004-11-30",
+      "packaging": "Digipak",
+      "packaging-id": "8f931351-d2e2-310f-afc6-37b89ddba246",
+      "media": [
+        {
+          "position": 1,
+          "title": "",
+          "id": "f9a7ba05-ddfe-32e5-ac97-9a17e1f4673a",
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 9
+        }
+      ],
+      "status": "Official",
+      "barcode": "9787798627183",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "type-id": null,
+            "type": null,
+            "name": "China",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "sort-name": "China",
+            "iso-3166-1-codes": [
+              "CN"
+            ]
+          },
+          "date": "2004-11-30"
+        }
+      ],
+      "id": "758a394c-126c-487f-bca1-31ff28467d13",
+      "disambiguation": "",
+      "country": "CN",
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "cover-art-archive": {
+        "back": false,
+        "artwork": true,
+        "front": true,
+        "count": 1,
+        "darkened": false
+      },
+      "quality": "normal",
+      "title": "被禁忌的游戏"
+    },
+    {
+      "release-events": [
+        {
+          "area": {
+            "name": "[Worldwide]",
+            "type": null,
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "sort-name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "disambiguation": ""
+          },
+          "date": "2020-10-21"
+        }
+      ],
+      "id": "d3ee5529-c588-4fac-8c9e-35465c447d26",
+      "barcode": "9787798627183",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "XW",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "cover-art-archive": {
+        "back": false,
+        "front": true,
+        "artwork": true,
+        "count": 1,
+        "darkened": false
+      },
+      "quality": "normal",
+      "title": "被禁忌的遊戲",
+      "disambiguation": "",
+      "packaging": "None",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "asin": null,
+      "date": "2020-10-21",
+      "media": [
+        {
+          "id": "ba186ace-2fe4-378f-8ed2-2203f29e0cd4",
+          "position": 1,
+          "title": "",
+          "track-count": 6,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media"
+        }
+      ]
+    },
+    {
+      "date": "2006",
+      "asin": null,
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "media": [
+        {
+          "format": "Digital Media",
+          "track-count": 8,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": "",
+          "position": 1,
+          "id": "bab2083d-9f87-34b2-a5a7-9070142298b6"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "barcode": "9787798627183",
+      "status": "Official",
+      "id": "eac4e10b-3073-4ab3-b045-e6be4347b223",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+            "sort-name": "Hong Kong",
+            "name": "Hong Kong",
+            "type": null,
+            "type-id": null,
+            "disambiguation": "",
+            "iso-3166-2-codes": [
+              "CN-91"
+            ]
+          },
+          "date": "2006"
+        },
+        {
+          "date": "2006",
+          "area": {
+            "sort-name": "Macao",
+            "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+            "iso-3166-1-codes": [
+              "MO"
+            ],
+            "type-id": null,
+            "type": null,
+            "name": "Macao",
+            "iso-3166-2-codes": [
+              "CN-92"
+            ],
+            "disambiguation": ""
+          }
+        },
+        {
+          "area": {
+            "disambiguation": "",
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "type": null,
+            "name": "Taiwan",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "sort-name": "Taiwan"
+          },
+          "date": "2006"
+        }
+      ],
+      "disambiguation": "",
+      "title": "被禁忌的遊戲",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "back": false,
+        "front": true,
+        "artwork": true
+      },
+      "quality": "normal",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "country": "HK"
+    }
+  ]
+}

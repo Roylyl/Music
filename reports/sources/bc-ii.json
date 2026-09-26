@@ -1,0 +1,72 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/ii",
+  "title": "李志、電聲與管弦樂II",
+  "releaseDate": "23 Oct 2020 02:51:04 GMT",
+  "current": {
+    "minimum_price": 56.0,
+    "set_price": 62.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "23 Oct 2020 02:51:04 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "相信未來序曲（2017跨年版）",
+      "track_num": 1,
+      "duration": 306.443,
+      "title_link": "/track/2017-10",
+      "track_id": 4289149452
+    },
+    {
+      "title": "一頭偶像（2017跨年版）",
+      "track_num": 2,
+      "duration": 289.397,
+      "title_link": "/track/2017-11",
+      "track_id": 646575013
+    },
+    {
+      "title": "你好明天（2017跨年版）",
+      "track_num": 3,
+      "duration": 307.221,
+      "title_link": "/track/2017-12",
+      "track_id": 557147356
+    },
+    {
+      "title": "尋找（2017跨年版）",
+      "track_num": 4,
+      "duration": 259.611,
+      "title_link": "/track/2017-13",
+      "track_id": 4134481531
+    },
+    {
+      "title": "山陰路的夏天（2017跨年版）",
+      "track_num": 5,
+      "duration": 289.051,
+      "title_link": "/track/2017-14",
+      "track_id": 362995466
+    },
+    {
+      "title": "哦吼（2017跨年版）",
+      "track_num": 6,
+      "duration": 324.794,
+      "title_link": "/track/2017-15",
+      "track_id": 4065006424
+    },
+    {
+      "title": "天空之城（2017跨年版）",
+      "track_num": 7,
+      "duration": 291.253,
+      "title_link": "/track/2017-16",
+      "track_id": 2415237845
+    },
+    {
+      "title": "家鄉（2017跨年版）",
+      "track_num": 8,
+      "duration": 425.835,
+      "title_link": "/track/2017-17",
+      "track_id": 4152940881
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $62 HKD Send as Gift"
+}

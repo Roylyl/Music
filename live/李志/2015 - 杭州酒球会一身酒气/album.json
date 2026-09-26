@@ -1,0 +1,3252 @@
+{
+  "id": "lizhi-hangzhou-2015",
+  "artist": "李志",
+  "title": "杭州酒球会一身酒气",
+  "releaseDate": null,
+  "releaseDatePrecision": "unknown",
+  "year": 2015,
+  "eventDate": "2015-08-07",
+  "type": "concert",
+  "path": "live/李志/2015 - 杭州酒球会一身酒气",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-hangzhou-2015-d01-t01",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "墙上的向日葵",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 421.068,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/墙上的向日葵.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-01 - 墙上的向日葵.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=1",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 421.068,
+        "fileSize": 16898775,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t01",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-01 - 墙上的向日葵.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/墙上的向日葵.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 421.068,
+            "fileSize": 16898775,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 421.042,
+            "fileSize": 6781998,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 421.042,
+        "fileSize": 6781998,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t01",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-01 - 墙上的向日葵.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/墙上的向日葵.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 421.068,
+            "fileSize": 16898775,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 421.042,
+            "fileSize": 6781998,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t02",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "铅笔",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 364.617,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/铅笔.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-02 - 铅笔.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=2",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 364.617,
+        "fileSize": 14638484,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t02",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-02 - 铅笔.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/铅笔.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 364.617,
+            "fileSize": 14638484,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 364.591,
+            "fileSize": 5877876,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 364.591,
+        "fileSize": 5877876,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t02",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-02 - 铅笔.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/铅笔.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 364.617,
+            "fileSize": 14638484,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 364.591,
+            "fileSize": 5877876,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t03",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "黑色信封",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 294.87,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/黑色信封.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-03 - 黑色信封.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=3",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 294.87,
+        "fileSize": 11845821,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t03",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-03 - 黑色信封.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/黑色信封.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 294.87,
+            "fileSize": 11845821,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 294.844,
+            "fileSize": 4760813,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 294.844,
+        "fileSize": 4760813,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t03",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-03 - 黑色信封.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/黑色信封.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 294.87,
+            "fileSize": 11845821,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 294.844,
+            "fileSize": 4760813,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t04",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "苍井空",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 310.073,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/苍井空.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-04 - 苍井空.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=4",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 310.073,
+        "fileSize": 12454558,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t04",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-04 - 苍井空.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/苍井空.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 310.073,
+            "fileSize": 12454558,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 310.047,
+            "fileSize": 5004308,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 310.047,
+        "fileSize": 5004308,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t04",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-04 - 苍井空.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/苍井空.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 310.073,
+            "fileSize": 12454558,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 310.047,
+            "fileSize": 5004308,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t05",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "定西",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 296.725,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/定西.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-05 - 定西.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=5",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 296.725,
+        "fileSize": 11920080,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t05",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-05 - 定西.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/定西.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 296.725,
+            "fileSize": 11920080,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 296.699,
+            "fileSize": 4790514,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 296.699,
+        "fileSize": 4790514,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t05",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-05 - 定西.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/定西.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 296.725,
+            "fileSize": 11920080,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 296.699,
+            "fileSize": 4790514,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t06",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "大象",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 317.962,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/大象.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-06 - 大象.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=6",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 317.962,
+        "fileSize": 12770431,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t06",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-06 - 大象.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/大象.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 317.962,
+            "fileSize": 12770431,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 317.936,
+            "fileSize": 5130656,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 317.936,
+        "fileSize": 5130656,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t06",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-06 - 大象.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/大象.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 317.962,
+            "fileSize": 12770431,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 317.936,
+            "fileSize": 5130656,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t07",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "1990年的春天",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 336.065,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/1990年的春天.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-07 - 1990年的春天.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=7",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 336.065,
+        "fileSize": 13495281,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t07",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-07 - 1990年的春天.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/1990年的春天.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 336.065,
+            "fileSize": 13495281,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 336.039,
+            "fileSize": 5420603,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 336.039,
+        "fileSize": 5420603,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t07",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-07 - 1990年的春天.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/1990年的春天.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 336.065,
+            "fileSize": 13495281,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 336.039,
+            "fileSize": 5420603,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t08",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "这个世界会好吗",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 323.5,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/这个世界会好吗.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-08 - 这个世界会好吗.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=8",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 323.5,
+        "fileSize": 12992181,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t08",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-08 - 这个世界会好吗.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/这个世界会好吗.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 323.5,
+            "fileSize": 12992181,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 323.474,
+            "fileSize": 5219361,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 323.474,
+        "fileSize": 5219361,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t08",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-08 - 这个世界会好吗.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/这个世界会好吗.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 323.5,
+            "fileSize": 12992181,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 323.474,
+            "fileSize": 5219361,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t09",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "董卓瑶",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 279.798,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/董卓瑶.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-09 - 董卓瑶.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=9",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 279.798,
+        "fileSize": 11242310,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t09",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-09 - 董卓瑶.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/董卓瑶.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 279.798,
+            "fileSize": 11242310,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 279.771,
+            "fileSize": 4519408,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 279.771,
+        "fileSize": 4519408,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t09",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-09 - 董卓瑶.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/董卓瑶.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 279.798,
+            "fileSize": 11242310,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 279.771,
+            "fileSize": 4519408,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t10",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "妈妈",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 296.046,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/妈妈.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-10 - 妈妈.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=10",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 296.046,
+        "fileSize": 11892886,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t10",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-10 - 妈妈.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/妈妈.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 296.046,
+            "fileSize": 11892886,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 296.02,
+            "fileSize": 4779639,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 296.02,
+        "fileSize": 4779639,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t10",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-10 - 妈妈.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/妈妈.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 296.046,
+            "fileSize": 11892886,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 296.02,
+            "fileSize": 4779639,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t11",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "寻找",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 202.214,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/寻找.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-11 - 寻找.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=11",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 202.214,
+        "fileSize": 8135860,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t11",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-11 - 寻找.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/寻找.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 202.214,
+            "fileSize": 8135860,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 202.188,
+            "fileSize": 3276828,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 202.188,
+        "fileSize": 3276828,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t11",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-11 - 寻找.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/寻找.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 202.214,
+            "fileSize": 8135860,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 202.188,
+            "fileSize": 3276828,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t12",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "他们",
+      "discNumber": 1,
+      "trackNumber": 12,
+      "sequenceNumber": 12,
+      "duration": 362.684,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/他们.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-12 - 他们.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=12",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 362.684,
+        "fileSize": 14561087,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t12",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-12 - 他们.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/他们.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 362.684,
+            "fileSize": 14561087,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 362.658,
+            "fileSize": 5846918,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 362.658,
+        "fileSize": 5846918,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t12",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-12 - 他们.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/他们.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 362.684,
+            "fileSize": 14561087,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 362.658,
+            "fileSize": 5846918,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t13",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "和你在一起",
+      "discNumber": 1,
+      "trackNumber": 13,
+      "sequenceNumber": 13,
+      "duration": 276.793,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/和你在一起.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-13 - 和你在一起.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=13",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 276.793,
+        "fileSize": 11122032,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t13",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-13 - 和你在一起.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/和你在一起.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 276.793,
+            "fileSize": 11122032,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 276.767,
+            "fileSize": 4471300,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 276.767,
+        "fileSize": 4471300,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t13",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-13 - 和你在一起.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/和你在一起.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 276.793,
+            "fileSize": 11122032,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 276.767,
+            "fileSize": 4471300,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t14",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "门",
+      "discNumber": 1,
+      "trackNumber": 14,
+      "sequenceNumber": 14,
+      "duration": 616.438,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/门.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-14 - 门.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=14",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 616.438,
+        "fileSize": 24721374,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t14",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-14 - 门.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/门.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 616.438,
+            "fileSize": 24721374,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 616.411,
+            "fileSize": 9911033,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 616.411,
+        "fileSize": 9911033,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t14",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-14 - 门.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/门.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 616.438,
+            "fileSize": 24721374,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 616.411,
+            "fileSize": 9911033,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t15",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "结婚",
+      "discNumber": 1,
+      "trackNumber": 15,
+      "sequenceNumber": 15,
+      "duration": 311.04,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/结婚.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-15 - 结婚.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=15",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 311.04,
+        "fileSize": 12493258,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t15",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-15 - 结婚.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/结婚.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 311.04,
+            "fileSize": 12493258,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 311.014,
+            "fileSize": 5019787,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 311.014,
+        "fileSize": 5019787,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t15",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-15 - 结婚.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/结婚.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 311.04,
+            "fileSize": 12493258,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 311.014,
+            "fileSize": 5019787,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t16",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "春末的南方城市",
+      "discNumber": 1,
+      "trackNumber": 16,
+      "sequenceNumber": 16,
+      "duration": 259.579,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/春末的南方城市.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-16 - 春末的南方城市.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=16",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 259.579,
+        "fileSize": 10432761,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t16",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-16 - 春末的南方城市.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/春末的南方城市.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 259.579,
+            "fileSize": 10432761,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 259.553,
+            "fileSize": 4195594,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 259.553,
+        "fileSize": 4195594,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t16",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-16 - 春末的南方城市.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/春末的南方城市.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 259.579,
+            "fileSize": 10432761,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 259.553,
+            "fileSize": 4195594,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t17",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "关于郑州的记忆",
+      "discNumber": 1,
+      "trackNumber": 17,
+      "sequenceNumber": 17,
+      "duration": 245.577,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/关于郑州的记忆.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-17 - 关于郑州的记忆.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=17",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 245.577,
+        "fileSize": 9872135,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t17",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-17 - 关于郑州的记忆.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/关于郑州的记忆.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 245.577,
+            "fileSize": 9872135,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 245.551,
+            "fileSize": 3971344,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 245.551,
+        "fileSize": 3971344,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t17",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-17 - 关于郑州的记忆.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/关于郑州的记忆.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 245.577,
+            "fileSize": 9872135,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 245.551,
+            "fileSize": 3971344,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t18",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "热河",
+      "discNumber": 1,
+      "trackNumber": 18,
+      "sequenceNumber": 18,
+      "duration": 481.907,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/热河.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-18 - 热河.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=18",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 481.907,
+        "fileSize": 19334770,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t18",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-18 - 热河.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/热河.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 481.907,
+            "fileSize": 19334770,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 481.881,
+            "fileSize": 7756392,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 481.881,
+        "fileSize": 7756392,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t18",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-18 - 热河.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/热河.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 481.907,
+            "fileSize": 19334770,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 481.881,
+            "fileSize": 7756392,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t19",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "下雨",
+      "discNumber": 1,
+      "trackNumber": 19,
+      "sequenceNumber": 19,
+      "duration": 338.965,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/下雨.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-19 - 下雨.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=19",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 338.965,
+        "fileSize": 13611371,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t19",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-19 - 下雨.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/下雨.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 338.965,
+            "fileSize": 13611371,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 338.939,
+            "fileSize": 5467033,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 338.939,
+        "fileSize": 5467033,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t19",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-19 - 下雨.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/下雨.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 338.965,
+            "fileSize": 13611371,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 338.939,
+            "fileSize": 5467033,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t20",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "杭州_倒影_天空之城",
+      "discNumber": 1,
+      "trackNumber": 20,
+      "sequenceNumber": 20,
+      "duration": 675.892,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/杭州_倒影_天空之城.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-20 - 杭州_倒影_天空之城.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=20",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 675.892,
+        "fileSize": 27101957,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t20",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-20 - 杭州_倒影_天空之城.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/杭州_倒影_天空之城.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 675.892,
+            "fileSize": 27101957,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 675.866,
+            "fileSize": 10863277,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 675.866,
+        "fileSize": 10863277,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t20",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-20 - 杭州_倒影_天空之城.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/杭州_倒影_天空之城.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 675.892,
+            "fileSize": 27101957,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 675.866,
+            "fileSize": 10863277,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t21",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "来了",
+      "discNumber": 1,
+      "trackNumber": 21,
+      "sequenceNumber": 21,
+      "duration": 332.147,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/来了.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-21 - 来了.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=21",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 332.147,
+        "fileSize": 13338379,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t21",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-21 - 来了.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/来了.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 332.147,
+            "fileSize": 13338379,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 332.121,
+            "fileSize": 5357836,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 332.121,
+        "fileSize": 5357836,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t21",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-21 - 来了.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/来了.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 332.147,
+            "fileSize": 13338379,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 332.121,
+            "fileSize": 5357836,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t22",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "山阴路的夏天",
+      "discNumber": 1,
+      "trackNumber": 22,
+      "sequenceNumber": 22,
+      "duration": 332.617,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/山阴路的夏天.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-22 - 山阴路的夏天.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=22",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 332.617,
+        "fileSize": 13357214,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t22",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-22 - 山阴路的夏天.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/山阴路的夏天.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 332.617,
+            "fileSize": 13357214,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 332.591,
+            "fileSize": 5365375,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 332.591,
+        "fileSize": 5365375,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t22",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-22 - 山阴路的夏天.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/山阴路的夏天.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 332.617,
+            "fileSize": 13357214,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 332.591,
+            "fileSize": 5365375,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t23",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "千年等一回",
+      "discNumber": 1,
+      "trackNumber": 23,
+      "sequenceNumber": 23,
+      "duration": 242.704,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/千年等一回.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-23 - 千年等一回.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=23",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 242.704,
+        "fileSize": 9757078,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t23",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-23 - 千年等一回.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/千年等一回.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 242.704,
+            "fileSize": 9757078,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 242.678,
+            "fileSize": 3925319,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 242.678,
+        "fileSize": 3925319,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t23",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-23 - 千年等一回.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/千年等一回.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 242.704,
+            "fileSize": 9757078,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 242.678,
+            "fileSize": 3925319,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-hangzhou-2015-d01-t24",
+      "artist": "李志",
+      "album": "杭州酒球会一身酒气",
+      "title": "虎口脱险",
+      "discNumber": 1,
+      "trackNumber": 24,
+      "sequenceNumber": 24,
+      "duration": 285.544,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/虎口脱险.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-24 - 虎口脱险.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=24",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 1,
+        "duration": 285.544,
+        "fileSize": 11472421,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t24",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-24 - 虎口脱险.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/虎口脱险.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 1,
+            "duration": 285.544,
+            "fileSize": 11472421,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 285.518,
+            "fileSize": 4611454,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 1,
+        "bitDepth": null,
+        "duration": 285.518,
+        "fileSize": 4611454,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-hangzhou-2015-d01-t24",
+          "localPath": "live/李志/2015 - 杭州酒球会一身酒气/01-24 - 虎口脱险.mp3",
+          "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/虎口脱险.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 285.544,
+            "fileSize": 11472421,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 1,
+            "bitDepth": null,
+            "duration": 285.518,
+            "fileSize": 4611454,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://www.lizhinb.com/gequ/?oa_album=55&oa_song=1",
+    "https://www.youtube.com/watch?v=2QA5TbRMjx4"
+  ],
+  "notes": [
+    "2015年8月7日杭州酒球会“一身酒气”演出；8月8日亦有演出，歌迷站分轨属于哪场尚待核。",
+    "歌迷站整理的独立分轨录音；正式发行未确认。"
+  ],
+  "metadataStatus": "provisional",
+  "editions": [],
+  "officialReleaseConfirmed": false,
+  "tracklistStatus": "third-party-listed",
+  "trackCount": 24,
+  "coverSource": {
+    "provider": "lizhinb.com",
+    "url": "https://st.nj1701.com/杭州酒球会一身酒气/封面.jpg",
+    "width": 300,
+    "height": 300,
+    "lowResolution": true,
+    "originalPath": "covers/originals/2015 - 杭州酒球会一身酒气 - 杭州酒球会一身酒气.jpg"
+  }
+}

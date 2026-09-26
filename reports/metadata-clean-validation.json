@@ -1,0 +1,15 @@
+{
+  "valid": true,
+  "audioFilesChecked": 504,
+  "albumCoverFilesChecked": 90,
+  "errors": [],
+  "checks": [
+    "metadata whitelist",
+    "catalog field equality",
+    "single decodable front cover matching album",
+    "no MP3 ID3v1 or APEv2",
+    "unchanged duration sample rate channels bit depth",
+    "all physical audio covered"
+  ],
+  "hashesComputed": false
+}

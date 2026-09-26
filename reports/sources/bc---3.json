@@ -1,0 +1,65 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/--3",
+  "title": "这个世界会好吗",
+  "releaseDate": "22 Oct 2020 00:00:00 GMT",
+  "current": {
+    "minimum_price": 56.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "22 Oct 2020 03:10:40 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "李志LiZhi - 媽媽",
+      "track_num": 1,
+      "duration": 244.107,
+      "title_link": "/track/--14",
+      "track_id": 13042796
+    },
+    {
+      "title": "李志LiZhi - 喀納斯",
+      "track_num": 2,
+      "duration": 320.0,
+      "title_link": "/track/--15",
+      "track_id": 278772199
+    },
+    {
+      "title": "李志LiZhi - 和你在一起",
+      "track_num": 3,
+      "duration": 251.933,
+      "title_link": "/track/--16",
+      "track_id": 3815106632
+    },
+    {
+      "title": "李志LiZhi - 翁慶年的六英鎊",
+      "track_num": 4,
+      "duration": 256.48,
+      "title_link": "/track/--17",
+      "track_id": 3961875065
+    },
+    {
+      "title": "李志LiZhi - 我們不能失去信仰",
+      "track_num": 5,
+      "duration": 251.907,
+      "title_link": "/track/--18",
+      "track_id": 1063781425
+    },
+    {
+      "title": "李志LiZhi - 海的女兒",
+      "track_num": 6,
+      "duration": 210.92,
+      "title_link": "/track/--19",
+      "track_id": 1153945285
+    },
+    {
+      "title": "李志LiZhi - 交河",
+      "track_num": 7,
+      "duration": 218.427,
+      "title_link": "/track/--20",
+      "track_id": 3782285991
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $56 HKD or more Send as Gift"
+}

@@ -1,0 +1,65 @@
+{
+  "releases": [
+    {
+      "id": "f441c560-c866-410a-a53e-432f3e69b809",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2021-09",
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "artwork": true,
+        "front": true,
+        "count": 1
+      },
+      "barcode": "4582561394454",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "disambiguation": "",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "sort-name": "Japan",
+            "type-id": null,
+            "type": null,
+            "name": "Japan"
+          },
+          "date": "2021-09"
+        }
+      ],
+      "packaging-id": null,
+      "disambiguation": "",
+      "title": "Best Selection Songs 2004~2018 (Volume.3)",
+      "text-representation": {
+        "language": "zho",
+        "script": null
+      },
+      "asin": null,
+      "country": "JP",
+      "packaging": null,
+      "quality": "normal",
+      "media": [
+        {
+          "id": "f9b0fe99-fce5-372d-affa-dcc70d6f6707",
+          "position": 1,
+          "format": "CD",
+          "title": "Studio Recording",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 10
+        },
+        {
+          "track-count": 10,
+          "format": "CD",
+          "id": "0689f041-a16f-3a8c-815f-275a5b5afc9d",
+          "position": 2,
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": "Live Recording"
+        }
+      ]
+    }
+  ],
+  "release-count": 1,
+  "release-offset": 0
+}

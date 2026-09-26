@@ -1,0 +1,196 @@
+{
+  "releases": [
+    {
+      "text-representation": {
+        "script": "Hant",
+        "language": "zho"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status": "Official",
+      "country": "HK",
+      "disambiguation": "",
+      "title": "F",
+      "cover-art-archive": {
+        "darkened": false,
+        "artwork": true,
+        "front": true,
+        "back": false,
+        "count": 1
+      },
+      "asin": null,
+      "packaging": "None",
+      "barcode": "9787883255154",
+      "quality": "normal",
+      "media": [
+        {
+          "format": "Digital Media",
+          "position": 1,
+          "id": "48316d60-34f2-33b1-9825-f1087b8d43d6",
+          "track-count": 6,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": ""
+        }
+      ],
+      "date": "2014",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "name": "Hong Kong",
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+            "type-id": null,
+            "sort-name": "Hong Kong",
+            "type": null,
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "iso-3166-2-codes": [
+              "CN-91"
+            ]
+          },
+          "date": "2014"
+        },
+        {
+          "date": "2014",
+          "area": {
+            "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+            "name": "Macao",
+            "disambiguation": "",
+            "type-id": null,
+            "iso-3166-2-codes": [
+              "CN-92"
+            ],
+            "iso-3166-1-codes": [
+              "MO"
+            ],
+            "type": null,
+            "sort-name": "Macao"
+          }
+        },
+        {
+          "area": {
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "type": null,
+            "sort-name": "Taiwan",
+            "type-id": null,
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "name": "Taiwan",
+            "disambiguation": ""
+          },
+          "date": "2014"
+        }
+      ],
+      "id": "2f865ee3-be9c-48f6-b03f-2c257222fdbd"
+    },
+    {
+      "title": "F",
+      "cover-art-archive": {
+        "darkened": false,
+        "artwork": true,
+        "front": true,
+        "count": 1,
+        "back": false
+      },
+      "asin": null,
+      "barcode": "9787883255154",
+      "packaging": null,
+      "quality": "normal",
+      "media": [
+        {
+          "position": 1,
+          "format": "CD",
+          "id": "114a44d3-47b7-3b0c-9118-aa72d03b22d7",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 9,
+          "title": ""
+        }
+      ],
+      "release-events": [
+        {
+          "date": "2011",
+          "area": {
+            "name": "China",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "disambiguation": "",
+            "sort-name": "China",
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "type": null,
+            "type-id": null
+          }
+        }
+      ],
+      "date": "2011",
+      "id": "3a52b24e-1c71-4e2d-91b2-b90e13b91617",
+      "text-representation": {
+        "script": "Hant",
+        "language": "zho"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": null,
+      "status": "Official",
+      "country": "CN",
+      "disambiguation": ""
+    },
+    {
+      "media": [
+        {
+          "format": "Digital Media",
+          "position": 1,
+          "id": "6b90a720-0453-3722-ac2a-e94ccd974f43",
+          "title": "",
+          "track-count": 8,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "release-events": [
+        {
+          "date": "2014",
+          "area": {
+            "name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "disambiguation": "",
+            "type-id": null,
+            "sort-name": "[Worldwide]",
+            "type": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ]
+          }
+        }
+      ],
+      "date": "2014",
+      "id": "94c492e3-1e3b-4184-9f0b-423c6e0dd8e2",
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "count": 1,
+        "darkened": false,
+        "artwork": true
+      },
+      "title": "F",
+      "asin": null,
+      "barcode": "9787883255154",
+      "packaging": "None",
+      "quality": "normal",
+      "country": "XW",
+      "disambiguation": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status": "Official"
+    }
+  ],
+  "release-count": 3,
+  "release-offset": 0
+}

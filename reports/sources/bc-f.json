@@ -1,0 +1,58 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/f",
+  "title": "F",
+  "releaseDate": "22 Oct 2020 07:45:24 GMT",
+  "current": {
+    "minimum_price": 46.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "22 Oct 2020 07:45:24 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "尋找",
+      "track_num": 1,
+      "duration": 225.048,
+      "title_link": "/track/--42",
+      "track_id": 248543145
+    },
+    {
+      "title": "盡頭",
+      "track_num": 2,
+      "duration": 274.135,
+      "title_link": "/track/--43",
+      "track_id": 528246002
+    },
+    {
+      "title": "門",
+      "track_num": 3,
+      "duration": 386.756,
+      "title_link": "/track/--44",
+      "track_id": 3489890907
+    },
+    {
+      "title": "山陰路的夏天",
+      "track_num": 4,
+      "duration": 278.024,
+      "title_link": "/track/--45",
+      "track_id": 741703977
+    },
+    {
+      "title": "你的早晨",
+      "track_num": 5,
+      "duration": 247.641,
+      "title_link": "/track/--46",
+      "track_id": 749816384
+    },
+    {
+      "title": "日",
+      "track_num": 6,
+      "duration": 162.727,
+      "title_link": "/track/--47",
+      "track_id": 4096141215
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $46 HKD or more Send as Gift"
+}

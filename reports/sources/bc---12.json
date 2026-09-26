@@ -1,0 +1,93 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/--12",
+  "title": "李志、電聲與管弦",
+  "releaseDate": "22 Oct 2020 10:37:05 GMT",
+  "current": {
+    "minimum_price": 85.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "22 Oct 2020 10:37:05 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "序曲（2016跨年版）",
+      "track_num": 1,
+      "duration": 289.756,
+      "title_link": "/track/2016",
+      "track_id": 3968928188
+    },
+    {
+      "title": "盡頭（2016跨年版）",
+      "track_num": 2,
+      "duration": 258.539,
+      "title_link": "/track/2016-2",
+      "track_id": 1970003249
+    },
+    {
+      "title": "定西（2016跨年版）",
+      "track_num": 3,
+      "duration": 363.733,
+      "title_link": "/track/2016-3",
+      "track_id": 2869667253
+    },
+    {
+      "title": "春末的南方城市（2016跨年版）",
+      "track_num": 4,
+      "duration": 256.821,
+      "title_link": "/track/2016-4",
+      "track_id": 2687386964
+    },
+    {
+      "title": "黑色信封（2016跨年版）",
+      "track_num": 5,
+      "duration": 333.952,
+      "title_link": "/track/2016-5",
+      "track_id": 1392795165
+    },
+    {
+      "title": "鉛筆（2016跨年版）",
+      "track_num": 6,
+      "duration": 312.432,
+      "title_link": "/track/2016-6",
+      "track_id": 2978608118
+    },
+    {
+      "title": "和你在一起（2016跨年版）",
+      "track_num": 7,
+      "duration": 259.605,
+      "title_link": "/track/2016-7",
+      "track_id": 2262581727
+    },
+    {
+      "title": "牆上的向日葵（2016跨年版）",
+      "track_num": 8,
+      "duration": 465.045,
+      "title_link": "/track/2016-8",
+      "track_id": 3238374741
+    },
+    {
+      "title": "大象（2016跨年版）",
+      "track_num": 9,
+      "duration": 409.515,
+      "title_link": "/track/2016-9",
+      "track_id": 3096928633
+    },
+    {
+      "title": "門（2016跨年版）",
+      "track_num": 10,
+      "duration": 402.581,
+      "title_link": "/track/2016-10",
+      "track_id": 1423578009
+    },
+    {
+      "title": "回答（2016跨年版）",
+      "track_num": 11,
+      "duration": 378.379,
+      "title_link": "/track/2016-11",
+      "track_id": 4194997729
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $85 HKD or more Send as Gift"
+}

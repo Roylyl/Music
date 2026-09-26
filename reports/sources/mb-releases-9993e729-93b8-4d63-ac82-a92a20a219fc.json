@@ -1,0 +1,124 @@
+{
+  "release-offset": 0,
+  "release-count": 2,
+  "releases": [
+    {
+      "status": null,
+      "id": "3b74afcd-54db-497b-98a5-fc62acbdf1db",
+      "status-id": null,
+      "release-events": [
+        {
+          "area": {
+            "sort-name": "Japan",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "disambiguation": "",
+            "name": "Japan",
+            "type": null
+          },
+          "date": "2019"
+        }
+      ],
+      "barcode": "4582237844740",
+      "date": "2019",
+      "cover-art-archive": {
+        "back": false,
+        "front": true,
+        "artwork": true,
+        "count": 1,
+        "darkened": false
+      },
+      "disambiguation": "",
+      "packaging-id": null,
+      "country": "JP",
+      "asin": null,
+      "text-representation": {
+        "language": "zho",
+        "script": null
+      },
+      "title": "Best Selection Songs 2004-2018\" 〜ママ、この世界に未来はあるの〜",
+      "packaging": null,
+      "media": [
+        {
+          "format": "CD",
+          "id": "28f4b143-8beb-3640-beaf-77e9f12ee50d",
+          "position": 1,
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": "",
+          "track-count": 10
+        },
+        {
+          "track-count": 10,
+          "id": "a4b4c838-2aae-3919-90f2-88a7f6a6424a",
+          "position": 2,
+          "format": "CD",
+          "title": "",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "quality": "normal"
+    },
+    {
+      "packaging-id": null,
+      "disambiguation": "",
+      "title": "Best Selection Songs 2004~2018",
+      "text-representation": {
+        "script": "Qaaa",
+        "language": "mul"
+      },
+      "asin": null,
+      "country": "JP",
+      "packaging": null,
+      "quality": "normal",
+      "media": [
+        {
+          "format": "CD",
+          "position": 1,
+          "id": "1a05479c-3e2b-340e-96da-4a9b904c95f8",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": "Studio Recording",
+          "track-count": 10
+        },
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": "Live Recording",
+          "format": "CD",
+          "position": 2,
+          "id": "c96b5f15-7fc7-338c-a926-eef8941fab93",
+          "track-count": 10
+        }
+      ],
+      "status": "Official",
+      "id": "7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2019",
+      "cover-art-archive": {
+        "count": 0,
+        "front": false,
+        "artwork": false,
+        "back": false,
+        "darkened": false
+      },
+      "barcode": "4582237844740",
+      "release-events": [
+        {
+          "area": {
+            "type-id": null,
+            "sort-name": "Japan",
+            "disambiguation": "",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "type": null,
+            "name": "Japan"
+          },
+          "date": "2019"
+        }
+      ]
+    }
+  ]
+}

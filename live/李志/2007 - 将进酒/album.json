@@ -1,0 +1,2565 @@
+{
+  "id": "lizhi-jiangjinjiu",
+  "artist": "李志",
+  "title": "将进酒",
+  "releaseDate": "2007-11-11",
+  "releaseDatePrecision": "day",
+  "year": 2007,
+  "type": "concert",
+  "path": "live/李志/2007 - 将进酒",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-jiangjinjiu-d01-t01",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "将进酒",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 304.039,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-01 - 将进酒.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 304.039,
+        "fileSize": 12198178,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t01",
+          "localPath": "live/李志/2007 - 将进酒/01-01 - 将进酒.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 1,
+            "end": 305,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 304.039,
+            "fileSize": 12198178,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 304.001,
+            "fileSize": 4998446,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 1,
+              "end": 305,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 1,
+        "end": 305,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 304.001,
+        "fileSize": 4998446,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t01",
+          "localPath": "live/李志/2007 - 将进酒/01-01 - 将进酒.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 1,
+            "end": 305,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 304.039,
+            "fileSize": 12198178,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 304.001,
+            "fileSize": 4998446,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 1,
+              "end": 305,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 1,
+          "end": 305,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t02",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "黑色信封",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 295.027,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-02 - 黑色信封.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 295.027,
+        "fileSize": 11837330,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t02",
+          "localPath": "live/李志/2007 - 将进酒/01-02 - 黑色信封.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 305,
+            "end": 600,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 295.027,
+            "fileSize": 11837330,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 295.001,
+            "fileSize": 4727076,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 305,
+              "end": 600,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 305,
+        "end": 600,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 295.001,
+        "fileSize": 4727076,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t02",
+          "localPath": "live/李志/2007 - 将进酒/01-02 - 黑色信封.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 305,
+            "end": 600,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 295.027,
+            "fileSize": 11837330,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 295.001,
+            "fileSize": 4727076,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 305,
+              "end": 600,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 305,
+          "end": 600,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t03",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "来了",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 342.047,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-03 - 来了.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 342.047,
+        "fileSize": 13720022,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t03",
+          "localPath": "live/李志/2007 - 将进酒/01-03 - 来了.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 600,
+            "end": 942,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 342.047,
+            "fileSize": 13720022,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 342.001,
+            "fileSize": 5551897,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 600,
+              "end": 942,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 600,
+        "end": 942,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 342.001,
+        "fileSize": 5551897,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t03",
+          "localPath": "live/李志/2007 - 将进酒/01-03 - 来了.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 600,
+            "end": 942,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 342.047,
+            "fileSize": 13720022,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 342.001,
+            "fileSize": 5551897,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 600,
+              "end": 942,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 600,
+          "end": 942,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t04",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "喀纳斯",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 270.028,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-04 - 喀纳斯.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 270.028,
+        "fileSize": 10836361,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t04",
+          "localPath": "live/李志/2007 - 将进酒/01-04 - 喀纳斯.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 942,
+            "end": 1212,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 270.028,
+            "fileSize": 10836361,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 270.001,
+            "fileSize": 4149088,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 942,
+              "end": 1212,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 942,
+        "end": 1212,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 270.001,
+        "fileSize": 4149088,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t04",
+          "localPath": "live/李志/2007 - 将进酒/01-04 - 喀纳斯.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 942,
+            "end": 1212,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 270.028,
+            "fileSize": 10836361,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 270.001,
+            "fileSize": 4149088,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 942,
+              "end": 1212,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 942,
+          "end": 1212,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t05",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "被禁忌的游戏",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 261.042,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-05 - 被禁忌的游戏.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 261.042,
+        "fileSize": 10476562,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t05",
+          "localPath": "live/李志/2007 - 将进酒/01-05 - 被禁忌的游戏.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 1212,
+            "end": 1473,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 261.042,
+            "fileSize": 10476562,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 261.001,
+            "fileSize": 4101587,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 1212,
+              "end": 1473,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 1212,
+        "end": 1473,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 261.001,
+        "fileSize": 4101587,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t05",
+          "localPath": "live/李志/2007 - 将进酒/01-05 - 被禁忌的游戏.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 1212,
+            "end": 1473,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 261.042,
+            "fileSize": 10476562,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 261.001,
+            "fileSize": 4101587,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 1212,
+              "end": 1473,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 1212,
+          "end": 1473,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t06",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "梵高先生",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 307.043,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-06 - 梵高先生.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 307.043,
+        "fileSize": 12318463,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t06",
+          "localPath": "live/李志/2007 - 将进酒/01-06 - 梵高先生.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 1473,
+            "end": 1780,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 307.043,
+            "fileSize": 12318463,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 307.001,
+            "fileSize": 4802436,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 1473,
+              "end": 1780,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 1473,
+        "end": 1780,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 307.001,
+        "fileSize": 4802436,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t06",
+          "localPath": "live/李志/2007 - 将进酒/01-06 - 梵高先生.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 1473,
+            "end": 1780,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 307.043,
+            "fileSize": 12318463,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 307.001,
+            "fileSize": 4802436,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 1473,
+              "end": 1780,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 1473,
+          "end": 1780,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t07",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "斜",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 218.044,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-07 - 斜.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 218.044,
+        "fileSize": 8754930,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t07",
+          "localPath": "live/李志/2007 - 将进酒/01-07 - 斜.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 1780,
+            "end": 1998,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 218.044,
+            "fileSize": 8754930,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 218.001,
+            "fileSize": 3755371,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 1780,
+              "end": 1998,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 1780,
+        "end": 1998,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 218.001,
+        "fileSize": 3755371,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t07",
+          "localPath": "live/李志/2007 - 将进酒/01-07 - 斜.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 1780,
+            "end": 1998,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 218.044,
+            "fileSize": 8754930,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 218.001,
+            "fileSize": 3755371,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 1780,
+              "end": 1998,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 1780,
+          "end": 1998,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t08",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "阿兰",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 177.032,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-08 - 阿兰.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 177.032,
+        "fileSize": 7112802,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t08",
+          "localPath": "live/李志/2007 - 将进酒/01-08 - 阿兰.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 1998,
+            "end": 2175,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 177.032,
+            "fileSize": 7112802,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 177.001,
+            "fileSize": 3037358,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 1998,
+              "end": 2175,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 1998,
+        "end": 2175,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 177.001,
+        "fileSize": 3037358,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t08",
+          "localPath": "live/李志/2007 - 将进酒/01-08 - 阿兰.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 1998,
+            "end": 2175,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 177.032,
+            "fileSize": 7112802,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 177.001,
+            "fileSize": 3037358,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 1998,
+              "end": 2175,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 1998,
+          "end": 2175,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t09",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "想起了她",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 255.033,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-09 - 想起了她.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 255.033,
+        "fileSize": 10235991,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t09",
+          "localPath": "live/李志/2007 - 将进酒/01-09 - 想起了她.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 2175,
+            "end": 2430,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 255.033,
+            "fileSize": 10235991,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 255.001,
+            "fileSize": 4128590,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 2175,
+              "end": 2430,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 2175,
+        "end": 2430,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 255.001,
+        "fileSize": 4128590,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t09",
+          "localPath": "live/李志/2007 - 将进酒/01-09 - 想起了她.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 2175,
+            "end": 2430,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 255.033,
+            "fileSize": 10235991,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 255.001,
+            "fileSize": 4128590,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 2175,
+              "end": 2430,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 2175,
+          "end": 2430,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t10",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "春末的南方城市",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 220.029,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-10 - 春末的南方城市.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 220.029,
+        "fileSize": 8834436,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t10",
+          "localPath": "live/李志/2007 - 将进酒/01-10 - 春末的南方城市.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 2430,
+            "end": 2650,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 220.029,
+            "fileSize": 8834436,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 220.001,
+            "fileSize": 3650761,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 2430,
+              "end": 2650,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 2430,
+        "end": 2650,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 220.001,
+        "fileSize": 3650761,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t10",
+          "localPath": "live/李志/2007 - 将进酒/01-10 - 春末的南方城市.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 2430,
+            "end": 2650,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 220.029,
+            "fileSize": 8834436,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 220.001,
+            "fileSize": 3650761,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 2430,
+              "end": 2650,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 2430,
+          "end": 2650,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t11",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "董卓瑶",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 620.042,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-11 - 董卓瑶.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 620.042,
+        "fileSize": 24850951,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t11",
+          "localPath": "live/李志/2007 - 将进酒/01-11 - 董卓瑶.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 2650,
+            "end": 3270,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 620.042,
+            "fileSize": 24850951,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 620.001,
+            "fileSize": 9669494,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 2650,
+              "end": 3270,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 2650,
+        "end": 3270,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 620.001,
+        "fileSize": 9669494,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t11",
+          "localPath": "live/李志/2007 - 将进酒/01-11 - 董卓瑶.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 2650,
+            "end": 3270,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 620.042,
+            "fileSize": 24850951,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 620.001,
+            "fileSize": 9669494,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 2650,
+              "end": 3270,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 2650,
+          "end": 3270,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t12",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "人民不需要自由",
+      "discNumber": 1,
+      "trackNumber": 12,
+      "sequenceNumber": 12,
+      "duration": null,
+      "durationSource": "",
+      "sourceStatus": "missing",
+      "sourceUrl": "",
+      "format": "",
+      "localPath": "",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": null,
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": []
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t13",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "翁庆年的六英镑",
+      "discNumber": 1,
+      "trackNumber": 13,
+      "sequenceNumber": 13,
+      "duration": 270.028,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-13 - 翁庆年的六英镑.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 270.028,
+        "fileSize": 10836371,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t13",
+          "localPath": "live/李志/2007 - 将进酒/01-13 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 3270,
+            "end": 3540,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 270.028,
+            "fileSize": 10836371,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 270.001,
+            "fileSize": 4364800,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 3270,
+              "end": 3540,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 3270,
+        "end": 3540,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 270.001,
+        "fileSize": 4364800,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t13",
+          "localPath": "live/李志/2007 - 将进酒/01-13 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 3270,
+            "end": 3540,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 270.028,
+            "fileSize": 10836371,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 270.001,
+            "fileSize": 4364800,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 3270,
+              "end": 3540,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 3270,
+          "end": 3540,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t14",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "和你在一起",
+      "discNumber": 1,
+      "trackNumber": 14,
+      "sequenceNumber": 14,
+      "duration": 260.049,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-14 - 和你在一起.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 260.049,
+        "fileSize": 10436817,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t14",
+          "localPath": "live/李志/2007 - 将进酒/01-14 - 和你在一起.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 3540,
+            "end": 3800,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 260.049,
+            "fileSize": 10436817,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 260.001,
+            "fileSize": 4380545,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 3540,
+              "end": 3800,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 3540,
+        "end": 3800,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 260.001,
+        "fileSize": 4380545,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t14",
+          "localPath": "live/李志/2007 - 将进酒/01-14 - 和你在一起.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 3540,
+            "end": 3800,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 260.049,
+            "fileSize": 10436817,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 260.001,
+            "fileSize": 4380545,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 3540,
+              "end": 3800,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 3540,
+          "end": 3800,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t15",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "这个世界会好吗",
+      "discNumber": 1,
+      "trackNumber": 15,
+      "sequenceNumber": 15,
+      "duration": 260.049,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-15 - 这个世界会好吗.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 260.049,
+        "fileSize": 10436821,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t15",
+          "localPath": "live/李志/2007 - 将进酒/01-15 - 这个世界会好吗.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 3800,
+            "end": 4060,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 260.049,
+            "fileSize": 10436821,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 260.001,
+            "fileSize": 4283979,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 3800,
+              "end": 4060,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 3800,
+        "end": 4060,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 260.001,
+        "fileSize": 4283979,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t15",
+          "localPath": "live/李志/2007 - 将进酒/01-15 - 这个世界会好吗.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 3800,
+            "end": 4060,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 260.049,
+            "fileSize": 10436821,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 260.001,
+            "fileSize": 4283979,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 3800,
+              "end": 4060,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 3800,
+          "end": 4060,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    },
+    {
+      "id": "lizhi-jiangjinjiu-d01-t16",
+      "artist": "李志",
+      "album": "将进酒",
+      "title": "Wish You Were Here",
+      "discNumber": 1,
+      "trackNumber": 16,
+      "sequenceNumber": 16,
+      "duration": 423.027,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "format": "MP3",
+      "localPath": "live/李志/2007 - 将进酒/01-16 - Wish You Were Here.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 423.027,
+        "fileSize": 16962480,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t16",
+          "localPath": "live/李志/2007 - 将进酒/01-16 - Wish You Were Here.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 4060,
+            "end": 4483,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 423.027,
+            "fileSize": 16962480,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 423.001,
+            "fileSize": 6765479,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 4060,
+              "end": 4483,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "segment": {
+        "start": 4060,
+        "end": 4483,
+        "boundarySource": "video uploader chapters",
+        "boundaryVerifiedByListening": false
+      },
+      "versionReviewReason": "分段时间来自视频上传者章节，尚未逐首试听核对边界。",
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 423.001,
+        "fileSize": 6765479,
+        "bitRate": null
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-jiangjinjiu-d01-t16",
+          "localPath": "live/李志/2007 - 将进酒/01-16 - Wish You Were Here.mp3",
+          "sourceUrl": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+          "provider": "YouTube",
+          "status": "downloaded",
+          "rightsStatus": "unverified-third-party",
+          "suspected_transcode": null,
+          "segment": {
+            "start": 4060,
+            "end": 4483,
+            "boundarySource": "video uploader chapters",
+            "boundaryVerifiedByListening": false
+          },
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 423.027,
+            "fileSize": 16962480,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "OggOpus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 423.001,
+            "fileSize": 6765479,
+            "bitRate": null
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": {
+              "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+              "start": 4060,
+              "end": 4483,
+              "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+            }
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": {
+          "recording": "live/李志/2007 - 将进酒/full-concert.opus",
+          "start": 4060,
+          "end": 4483,
+          "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
+        }
+      }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://www.shopmsdn.com/detail-%E6%9D%8E%E5%BF%97%3A%E5%B0%86%E8%BF%9B%E9%85%92%28%E6%BC%94%E5%94%B1%E4%BC%9ALIVE%29%282DVD%29-504.html"
+  ],
+  "notes": [
+    "主DVD16轨已录入；赠碟的迷笛演出与采访分轨待核。第三方商品页有曲名笔误，已保留说明。"
+  ],
+  "metadataStatus": "provisional",
+  "editions": [],
+  "officialReleaseConfirmed": true,
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2007 - 李志 - 将进酒.jpg",
+    "width": 370,
+    "height": 370,
+    "lowResolution": true,
+    "originalPath": "covers/originals/2007 - 李志 - 将进酒.jpg"
+  },
+  "trackCount": 16,
+  "tracklistStatus": "partial",
+  "fullRecordings": [
+    {
+      "id": "FIAUwNoSexM",
+      "title": "李志2007北京星光现场 将进酒演唱会",
+      "webpage_url": "https://www.youtube.com/watch?v=FIAUwNoSexM",
+      "channel": "Wurong Weng",
+      "channel_url": "https://www.youtube.com/channel/UClwcc9w6FLGiN93a22IdMdA",
+      "upload_date": "20170816",
+      "duration": 4483,
+      "acodec": "mp3",
+      "asr": 44100,
+      "abr": 320,
+      "audio_channels": 2,
+      "chapters": [
+        {
+          "start_time": 0,
+          "end_time": 1,
+          "title": "<Untitled Chapter 1>"
+        },
+        {
+          "start_time": 1,
+          "title": "将进酒",
+          "end_time": 305
+        },
+        {
+          "start_time": 305,
+          "title": "黑色信封",
+          "end_time": 600
+        },
+        {
+          "start_time": 600,
+          "title": "来了",
+          "end_time": 942
+        },
+        {
+          "start_time": 942,
+          "title": "喀纳斯",
+          "end_time": 1212
+        },
+        {
+          "start_time": 1212,
+          "title": "被禁忌的游戏",
+          "end_time": 1473
+        },
+        {
+          "start_time": 1473,
+          "title": "梵高先生",
+          "end_time": 1780
+        },
+        {
+          "start_time": 1780,
+          "title": "斜",
+          "end_time": 1998
+        },
+        {
+          "start_time": 1998,
+          "title": "阿兰",
+          "end_time": 2175
+        },
+        {
+          "start_time": 2175,
+          "title": "想起了他",
+          "end_time": 2430
+        },
+        {
+          "start_time": 2430,
+          "title": "春末的南方城市",
+          "end_time": 2650
+        },
+        {
+          "start_time": 2650,
+          "title": "董卓瑶",
+          "end_time": 3270
+        },
+        {
+          "start_time": 3270,
+          "title": "翁庆年的六英镑",
+          "end_time": 3540
+        },
+        {
+          "start_time": 3540,
+          "title": "和你在一起",
+          "end_time": 3800
+        },
+        {
+          "start_time": 3800,
+          "title": "这个世界会好吗",
+          "end_time": 4060
+        },
+        {
+          "start_time": 4060,
+          "title": "Wish You Were Here",
+          "end_time": 4483
+        }
+      ],
+      "license": null,
+      "rightsStatus": "unverified-third-party",
+      "lossless": false,
+      "sourceStatus": "available",
+      "localFiles": [
+        "live/李志/2007 - 将进酒/full-concert.mp3"
+      ],
+      "coverage": "uploader-full-show-claim",
+      "note": "全场与章节完整性依据上传者描述，尚未逐首试听确认。",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 4483.239,
+        "fileSize": 179533324,
+        "bitRate": 320000
+      },
+      "suspected_transcode": null,
+      "sourceAudioProperties": {
+        "codec": "OggOpus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 4483.201,
+        "fileSize": 70342550,
+        "bitRate": null
+      }
+    }
+  ]
+}

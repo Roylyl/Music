@@ -1,0 +1,65 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/--11",
+  "title": "在每一條傷心的應天大街上",
+  "releaseDate": "22 Oct 2020 10:21:18 GMT",
+  "current": {
+    "minimum_price": 54.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "22 Oct 2020 10:21:18 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "李志LiZhi - 在每一條傷心的應天大街上",
+      "track_num": 1,
+      "duration": 429.688,
+      "title_link": "/track/--62",
+      "track_id": 1877972459
+    },
+    {
+      "title": "李志LiZhi - 一頭偶像",
+      "track_num": 2,
+      "duration": 222.594,
+      "title_link": "/track/--63",
+      "track_id": 1497444482
+    },
+    {
+      "title": "李志LiZhi - 克蘭河",
+      "track_num": 3,
+      "duration": 360.375,
+      "title_link": "/track/--64",
+      "track_id": 2639763556
+    },
+    {
+      "title": "李志LiZhi - 死人",
+      "track_num": 4,
+      "duration": 289.438,
+      "title_link": "/track/--65",
+      "track_id": 1058527341
+    },
+    {
+      "title": "李志LiZhi - 哦吼",
+      "track_num": 5,
+      "duration": 243.656,
+      "title_link": "/track/--66",
+      "track_id": 4252958137
+    },
+    {
+      "title": "李志LiZhi - 彩色派對",
+      "track_num": 6,
+      "duration": 208.906,
+      "title_link": "/track/--67",
+      "track_id": 804351992
+    },
+    {
+      "title": "李志LiZhi - 你好明天",
+      "track_num": 7,
+      "duration": 267.469,
+      "title_link": "/track/--68",
+      "track_id": 3402508464
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $54 HKD or more Send as Gift"
+}

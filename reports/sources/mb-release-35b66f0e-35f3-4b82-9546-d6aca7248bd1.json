@@ -1,0 +1,495 @@
+{
+  "media": [
+    {
+      "id": "a0d3095e-b9a0-3087-af2f-7a15d0e338fc",
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+      "format": "CD",
+      "tracks": [
+        {
+          "number": "1",
+          "id": "ab52a2a2-3740-47af-b679-cebd64931876",
+          "length": 306503,
+          "title": "相信未來序曲 (2017跨年版)",
+          "recording": {
+            "id": "deebf92c-a8b3-4a72-a580-b153ce8345b3",
+            "length": 306503,
+            "first-release-date": "2018",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "disambiguation": "",
+            "title": "相信未來序曲（2017跨年版）"
+          },
+          "position": 1,
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "disambiguation": "",
+                "country": "CN",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "type": "Person"
+              }
+            }
+          ]
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "disambiguation": ""
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "position": 2,
+          "title": "一頭偶像 (2017跨年版)",
+          "recording": {
+            "first-release-date": "2018",
+            "id": "31bf7336-b504-4b75-9205-dcc4539c901b",
+            "length": 289397,
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "disambiguation": "",
+                  "country": "CN",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                }
+              }
+            ],
+            "title": "一頭偶像（2017跨年版）",
+            "video": false
+          },
+          "length": 289459,
+          "id": "a701246d-2bfc-4865-9cfa-8d15d66bd97a",
+          "number": "2"
+        },
+        {
+          "number": "3",
+          "length": 307269,
+          "id": "22f5e80b-f421-494c-a4c6-cde84fbf9c33",
+          "position": 3,
+          "recording": {
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "type": "Person"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "",
+            "title": "你好明天（2017跨年版）",
+            "video": false,
+            "first-release-date": "2018",
+            "id": "883678fa-f570-445b-b237-6750a2705f47",
+            "length": 307221
+          },
+          "title": "你好明天 (2017跨年版)",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "type": "Person",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN",
+                "sort-name": "Li, Zhi"
+              }
+            }
+          ]
+        },
+        {
+          "length": null,
+          "id": "0ed44093-8cde-40cc-b9b0-6309d5b0bbeb",
+          "number": "4",
+          "artist-credit": [
+            {
+              "artist": {
+                "type": "Person",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN",
+                "sort-name": "Li, Zhi"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "position": 4,
+          "title": "尋找 (2017跨年版)",
+          "recording": {
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "sort-name": "Li, Zhi"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "title": "尋找（2017跨年版）",
+            "id": "dfa5bea5-8548-43b5-bddc-f1c5eada4c2d",
+            "length": 259000,
+            "first-release-date": "2018"
+          }
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "name": "李志",
+                "type": "Person",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "disambiguation": "",
+                "country": "CN",
+                "sort-name": "Li, Zhi"
+              }
+            }
+          ],
+          "recording": {
+            "video": false,
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "sort-name": "Li, Zhi"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "title": "山陰路的夏天（2017跨年版）",
+            "id": "6201e000-0586-48c4-b58a-c0add4556323",
+            "length": 289051,
+            "first-release-date": "2018"
+          },
+          "title": "山陰路的夏天 (2017跨年版)",
+          "position": 5,
+          "number": "5",
+          "id": "a6e78825-32af-4549-95a1-84eb74a98bcb",
+          "length": 289111
+        },
+        {
+          "number": "6",
+          "length": 324847,
+          "id": "96cc149b-0eff-429d-8a96-293ab7f513b3",
+          "position": 6,
+          "title": "哦吼 (2017跨年版)",
+          "recording": {
+            "length": 324847,
+            "id": "f553877c-59ac-420a-b101-e7487e4d9221",
+            "first-release-date": "2018",
+            "video": false,
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "sort-name": "Li, Zhi"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "title": "哦吼（2017跨年版）"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "name": "李志",
+                "type": "Person",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi"
+              }
+            }
+          ],
+          "title": "天空之城 (2017跨年版)",
+          "recording": {
+            "first-release-date": "2018",
+            "length": 291253,
+            "id": "9aa3b050-ad6f-4e8a-8562-c132c583b93b",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "CN",
+                  "disambiguation": "",
+                  "sort-name": "Li, Zhi",
+                  "name": "李志",
+                  "type": "Person",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "title": "天空之城（2017跨年版）",
+            "video": false
+          },
+          "position": 7,
+          "number": "7",
+          "id": "b4878573-6e47-4a34-afb2-44d735088720",
+          "length": 291317
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "disambiguation": ""
+              }
+            }
+          ],
+          "recording": {
+            "first-release-date": "2018",
+            "length": 425900,
+            "id": "b6fa4885-766d-47a5-8217-b1865d75ec69",
+            "title": "家鄉（2017跨年版）",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "disambiguation": "",
+                  "country": "CN"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "video": false
+          },
+          "title": "家鄉 (2017跨年版)",
+          "position": 8,
+          "id": "5e87f6d2-8c19-433b-9f3f-d445a2062f18",
+          "length": 425900,
+          "number": "8"
+        }
+      ],
+      "position": 1,
+      "title": "",
+      "track-count": 8,
+      "track-offset": 0
+    }
+  ],
+  "disambiguation": "",
+  "title": "李志、電聲與管弦樂II",
+  "quality": "normal",
+  "id": "35b66f0e-35f3-4b82-9546-d6aca7248bd1",
+  "release-events": [
+    {
+      "area": {
+        "type": null,
+        "name": "Hong Kong",
+        "type-id": null,
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "iso-3166-2-codes": [
+          "CN-91"
+        ],
+        "disambiguation": "",
+        "iso-3166-1-codes": [
+          "HK"
+        ],
+        "sort-name": "Hong Kong"
+      },
+      "date": "2018"
+    },
+    {
+      "area": {
+        "sort-name": "Macao",
+        "iso-3166-1-codes": [
+          "MO"
+        ],
+        "iso-3166-2-codes": [
+          "CN-92"
+        ],
+        "disambiguation": "",
+        "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+        "type-id": null,
+        "name": "Macao",
+        "type": null
+      },
+      "date": "2018"
+    },
+    {
+      "date": "2018",
+      "area": {
+        "iso-3166-1-codes": [
+          "TW"
+        ],
+        "disambiguation": "",
+        "iso-3166-2-codes": [
+          "CN-71"
+        ],
+        "sort-name": "Taiwan",
+        "name": "Taiwan",
+        "type": null,
+        "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+        "type-id": null
+      }
+    }
+  ],
+  "barcode": null,
+  "text-representation": {
+    "script": "Hant",
+    "language": "zho"
+  },
+  "asin": null,
+  "release-group": {
+    "artist-credit": [
+      {
+        "name": "李志",
+        "joinphrase": "",
+        "artist": {
+          "country": "CN",
+          "disambiguation": "",
+          "sort-name": "Li, Zhi",
+          "type": "Person",
+          "name": "李志",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+        }
+      }
+    ],
+    "disambiguation": "",
+    "primary-type": "Album",
+    "title": "李志、电声与管弦乐II",
+    "secondary-types": [
+      "Live"
+    ],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "id": "fbc3a716-3193-46de-aa99-2326cf7f7431",
+    "first-release-date": "2018",
+    "secondary-type-ids": [
+      "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+    ]
+  },
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "name": "李志",
+      "artist": {
+        "name": "李志",
+        "type": "Person",
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "CN",
+        "sort-name": "Li, Zhi"
+      }
+    }
+  ],
+  "date": "2018",
+  "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+  "country": "HK",
+  "status": "Official",
+  "packaging": "None",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "cover-art-archive": {
+    "darkened": false,
+    "count": 1,
+    "front": true,
+    "back": false,
+    "artwork": true
+  }
+}

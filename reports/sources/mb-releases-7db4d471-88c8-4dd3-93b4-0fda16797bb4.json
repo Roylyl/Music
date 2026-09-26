@@ -1,0 +1,298 @@
+{
+  "release-count": 5,
+  "release-offset": 0,
+  "releases": [
+    {
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "country": "CN",
+      "quality": "normal",
+      "title": "梵高先生",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 0,
+        "front": false,
+        "artwork": false,
+        "back": false
+      },
+      "disambiguation": "",
+      "release-events": [
+        {
+          "date": "2005-12-25",
+          "area": {
+            "disambiguation": "",
+            "type-id": null,
+            "name": "China",
+            "type": null,
+            "sort-name": "China",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "iso-3166-1-codes": [
+              "CN"
+            ]
+          }
+        }
+      ],
+      "id": "211ffdd9-238e-4c6d-858d-a38f725e0493",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "status": "Official",
+      "barcode": "9787798627176",
+      "media": [
+        {
+          "track-count": 9,
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "id": "8e04d29d-77c4-3e06-830f-6570718879fe",
+          "title": "",
+          "position": 1
+        }
+      ],
+      "packaging": "Jewel Case",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "date": "2005-12-25",
+      "asin": null
+    },
+    {
+      "asin": null,
+      "date": "2013-06-30",
+      "packaging": "None",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "media": [
+        {
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "track-count": 9,
+          "format": "Digital Media",
+          "id": "c3b94d4f-5952-37f2-a3b3-db52f451cd1c",
+          "title": "",
+          "position": 1
+        }
+      ],
+      "status": "Official",
+      "barcode": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "release-events": [
+        {
+          "date": "2013-06-30",
+          "area": {
+            "disambiguation": "",
+            "name": "[Worldwide]",
+            "type": null,
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "sort-name": "[Worldwide]"
+          }
+        }
+      ],
+      "id": "974c6009-22c0-48dd-81d4-00f2ec94ca44",
+      "disambiguation": "Bandcamp release",
+      "country": "XW",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "title": "Mr. Van Gogh",
+      "quality": "normal",
+      "cover-art-archive": {
+        "back": false,
+        "front": false,
+        "artwork": false,
+        "count": 0,
+        "darkened": false
+      }
+    },
+    {
+      "barcode": "9787880891157",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "id": "9d5c6429-eed7-46c2-b896-b7e6a6211f0c",
+      "release-events": [
+        {
+          "area": {
+            "sort-name": "China",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "type-id": null,
+            "type": null,
+            "name": "China",
+            "disambiguation": ""
+          },
+          "date": "2007-02-28"
+        }
+      ],
+      "disambiguation": "",
+      "quality": "normal",
+      "cover-art-archive": {
+        "artwork": true,
+        "front": true,
+        "back": false,
+        "darkened": false,
+        "count": 1
+      },
+      "title": "梵高先生",
+      "country": "CN",
+      "text-representation": {
+        "language": "cmn",
+        "script": "Hans"
+      },
+      "asin": null,
+      "date": "2007-02-28",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "packaging": "Cardboard/Paper Sleeve",
+      "media": [
+        {
+          "title": "",
+          "position": 1,
+          "id": "24df765c-00f6-3ef0-90cd-9c3b4d9b3acb",
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 8
+        }
+      ]
+    },
+    {
+      "asin": null,
+      "date": "2005-12-01",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "media": [
+        {
+          "format": "Digital Media",
+          "track-count": 7,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": "",
+          "position": 1,
+          "id": "ba42bcd5-0a8b-3ffb-a5a8-c01e609a1e2c"
+        }
+      ],
+      "barcode": "9787798627176",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "id": "a9ab3dae-4db8-47aa-a3cc-7dbf1c9d2479",
+      "release-events": [
+        {
+          "date": "2005-12-01",
+          "area": {
+            "name": "Hong Kong",
+            "type": null,
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+            "sort-name": "Hong Kong",
+            "disambiguation": "",
+            "iso-3166-2-codes": [
+              "CN-91"
+            ]
+          }
+        },
+        {
+          "date": "2005-12-01",
+          "area": {
+            "type-id": null,
+            "name": "Macao",
+            "type": null,
+            "sort-name": "Macao",
+            "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+            "iso-3166-1-codes": [
+              "MO"
+            ],
+            "iso-3166-2-codes": [
+              "CN-92"
+            ],
+            "disambiguation": ""
+          }
+        },
+        {
+          "date": "2005-12-01",
+          "area": {
+            "disambiguation": "",
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "sort-name": "Taiwan",
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "type": null,
+            "name": "Taiwan",
+            "type-id": null
+          }
+        }
+      ],
+      "disambiguation": "",
+      "title": "梵高先生",
+      "quality": "normal",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "back": false,
+        "front": true,
+        "artwork": true
+      },
+      "country": "HK",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      }
+    },
+    {
+      "date": "2020-10-21",
+      "asin": null,
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "media": [
+        {
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "track-count": 7,
+          "title": "",
+          "position": 1,
+          "id": "9aebe2d0-4445-3ccf-8fc7-1dd80c66e124"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "status": "Official",
+      "barcode": "9787798627176",
+      "id": "b0b8b6c3-0276-4b62-bf59-66be258b250e",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "sort-name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type-id": null,
+            "name": "[Worldwide]",
+            "type": null
+          },
+          "date": "2020-10-21"
+        }
+      ],
+      "disambiguation": "",
+      "quality": "normal",
+      "title": "梵高先生",
+      "cover-art-archive": {
+        "back": false,
+        "front": true,
+        "artwork": true,
+        "count": 1,
+        "darkened": false
+      },
+      "text-representation": {
+        "script": "Hant",
+        "language": "zho"
+      },
+      "country": "XW"
+    }
+  ]
+}

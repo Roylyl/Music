@@ -1,0 +1,57 @@
+{
+  "release-offset": 0,
+  "releases": [
+    {
+      "date": "2015-01-01",
+      "cover-art-archive": {
+        "darkened": false,
+        "front": true,
+        "artwork": true,
+        "count": 1,
+        "back": false
+      },
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "name": "China",
+            "type-id": null,
+            "sort-name": "China",
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "disambiguation": ""
+          },
+          "date": "2015-01-01"
+        }
+      ],
+      "barcode": null,
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "id": "8d7610e1-9ecd-417f-a261-66cf2a0d615a",
+      "status": "Bootleg",
+      "quality": "normal",
+      "media": [
+        {
+          "format": "Digital Media",
+          "id": "54086295-a504-3f5d-8a03-01abc30ef301",
+          "position": 1,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": "",
+          "track-count": 31
+        }
+      ],
+      "packaging": null,
+      "title": "i/O (2014 Live) 完整版录音",
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "asin": null,
+      "country": "CN",
+      "disambiguation": "",
+      "packaging-id": null
+    }
+  ],
+  "release-count": 1
+}

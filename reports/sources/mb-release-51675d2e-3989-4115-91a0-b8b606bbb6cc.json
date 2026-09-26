@@ -1,0 +1,458 @@
+{
+  "id": "51675d2e-3989-4115-91a0-b8b606bbb6cc",
+  "date": "2020-10-22",
+  "release-events": [
+    {
+      "area": {
+        "type-id": null,
+        "type": null,
+        "iso-3166-1-codes": [
+          "XW"
+        ],
+        "sort-name": "[Worldwide]",
+        "disambiguation": "",
+        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+        "name": "[Worldwide]"
+      },
+      "date": "2020-10-22"
+    }
+  ],
+  "media": [
+    {
+      "track-offset": 0,
+      "track-count": 8,
+      "id": "04311c42-27f6-3e90-8c04-78ff80338306",
+      "tracks": [
+        {
+          "number": "1",
+          "title": "看見（2015看見版）",
+          "length": 140039,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "disambiguation": "",
+                "country": "CN"
+              }
+            }
+          ],
+          "position": 1,
+          "recording": {
+            "title": "看見（2015看見版）",
+            "first-release-date": "2020-10-22",
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "",
+            "video": false,
+            "length": 140039,
+            "id": "1ea31b31-9119-4d6d-97e0-2b4961a95e33"
+          },
+          "id": "50dff0cc-c73a-4c76-9eed-e9b456970b19"
+        },
+        {
+          "title": "黑色信封（2015看見版）",
+          "number": "2",
+          "position": 2,
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "country": "CN"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "length": 292269,
+          "recording": {
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": ""
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "disambiguation": "",
+            "length": 292269,
+            "id": "e5befd3d-d342-44c8-86b3-ec705a1da395",
+            "title": "黑色信封（2015看見版）",
+            "first-release-date": "2020-10-22"
+          },
+          "id": "5c365c98-cfd2-4134-8ec8-88bf075bf67a"
+        },
+        {
+          "length": 307617,
+          "position": 3,
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "number": "3",
+          "title": "蒼井空（2015看見版）",
+          "id": "86a6b0f8-98a8-4088-9f06-1deba7412117",
+          "recording": {
+            "length": 307617,
+            "id": "551f8894-1894-42b7-82ec-7e725824c2a1",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "country": "CN",
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "first-release-date": "2020-10-22",
+            "title": "蒼井空（2015看見版）"
+          }
+        },
+        {
+          "id": "3d0b2af6-b189-4bde-9702-6e4c25102a10",
+          "recording": {
+            "first-release-date": "2020-10-22",
+            "title": "春末的南方城市（2015看見版）",
+            "length": 247710,
+            "id": "8ad0bd27-1f4b-47df-9f7f-eec71edaf730",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "video": false,
+            "disambiguation": ""
+          },
+          "length": 247710,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person"
+              }
+            }
+          ],
+          "position": 4,
+          "number": "4",
+          "title": "春末的南方城市（2015看見版）"
+        },
+        {
+          "id": "e5fbb06b-36cd-480c-9e4c-c3d6186ebb1b",
+          "recording": {
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "video": false,
+            "length": 124714,
+            "id": "4381087a-ac54-447f-824e-4501ac90ffd4",
+            "title": "你離開了南京 從此沒有人和我說話（2015看見版）",
+            "first-release-date": "2020-10-22"
+          },
+          "length": 124714,
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "CN",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "disambiguation": "",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "position": 5,
+          "number": "5",
+          "title": "你離開了南京 從此沒有人和我說話（2015看見版）"
+        },
+        {
+          "number": "7",
+          "title": "熱河（2015看見版）",
+          "length": 484554,
+          "position": 6,
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "length": 484554,
+            "id": "c12ab137-b08e-49d3-82c4-8ca9f3fa0354",
+            "title": "熱河（2015看見版）",
+            "first-release-date": "2020-10-22"
+          },
+          "id": "b41dce9f-09e0-47f5-a502-7e2fb43d8f9e"
+        },
+        {
+          "number": "8",
+          "title": "董卓瑤（2015看見版）",
+          "length": 278941,
+          "position": 7,
+          "artist-credit": [
+            {
+              "artist": {
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "title": "董卓瑤（2015看見版）",
+            "first-release-date": "2020-10-22",
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "",
+            "length": 278941,
+            "id": "8d0fa7a1-2947-4d95-888d-b55e28ab3a19"
+          },
+          "id": "e550e5c4-822d-4448-a527-3b2ce6f4d9aa"
+        },
+        {
+          "recording": {
+            "first-release-date": "2020-10-22",
+            "title": "梵高先生（2015看見版）",
+            "length": 166696,
+            "id": "a4c320ed-ef23-4ecb-8a0f-1b69007f70b3",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "CN",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "video": false
+          },
+          "id": "4cab4f59-bedc-4b84-bf03-59062948fe77",
+          "title": "梵高先生（2015看見版）",
+          "number": "10",
+          "position": 8,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN"
+              }
+            }
+          ],
+          "length": 166696
+        }
+      ],
+      "title": "",
+      "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+      "format": "Digital Media",
+      "position": 1
+    }
+  ],
+  "quality": "normal",
+  "artist-credit": [
+    {
+      "name": "李志",
+      "joinphrase": "",
+      "artist": {
+        "sort-name": "Li, Zhi",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "CN",
+        "disambiguation": "",
+        "name": "李志",
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+      }
+    }
+  ],
+  "packaging": "None",
+  "barcode": "9555150725286",
+  "asin": null,
+  "title": "看見",
+  "cover-art-archive": {
+    "count": 1,
+    "back": false,
+    "front": true,
+    "artwork": true,
+    "darkened": false
+  },
+  "disambiguation": "",
+  "release-group": {
+    "artist-credit": [
+      {
+        "joinphrase": "",
+        "name": "李志",
+        "artist": {
+          "sort-name": "Li, Zhi",
+          "type": "Person",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "country": "CN",
+          "disambiguation": "",
+          "name": "李志",
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+        }
+      }
+    ],
+    "first-release-date": "2020-10-22",
+    "title": "看見",
+    "secondary-types": [
+      "Live"
+    ],
+    "id": "342db479-567f-40ce-9457-83ef00ac8ba2",
+    "disambiguation": "",
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "secondary-type-ids": [
+      "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+    ],
+    "primary-type": "Album"
+  },
+  "country": "XW",
+  "status": "Official",
+  "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+  "text-representation": {
+    "language": "zho",
+    "script": "Hant"
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+}

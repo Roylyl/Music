@@ -1,0 +1,701 @@
+[
+  {
+    "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t04",
+    "album": "这个世界会好吗",
+    "title": "我们不能失去信仰",
+    "localPath": "artists/李志/2006 - 这个世界会好吗/01-04 - 我们不能失去信仰.wav",
+    "source": {
+      "album": "这个世界会好吗",
+      "title": "我们不能失去信仰——献给刘艺",
+      "fileName": "我们不能失去信仰——献给刘艺.wav",
+      "url": "https://drive.google.com/file/d/1WPcz03i8nOpiLX4m7j-CUDvKcktvbBD6/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1WPcz03i8nOpiLX4m7j-CUDvKcktvbBD6",
+      "extension": ".wav",
+      "size": 44436380
+    },
+    "alternatives": [
+      {
+        "album": "这个世界会好吗",
+        "title": "我们不能失去信仰—献给刘艺",
+        "fileName": "我们不能失去信仰—献给刘艺.mp3",
+        "url": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E6%88%91%E4%BB%AC%E4%B8%8D%E8%83%BD%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%B0%E2%80%94%E7%8C%AE%E7%BB%99%E5%88%98%E8%89%BA.mp3",
+        "provider": "GitHub lvboda/lizhi-mp3",
+        "extension": ".mp3",
+        "size": 10322646
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t10",
+    "album": "这个世界会好吗",
+    "title": "人民不需要自由",
+    "localPath": "artists/李志/2006 - 这个世界会好吗/01-10 - 人民不需要自由.mp3",
+    "source": {
+      "album": "这个世界会好吗",
+      "title": "人民不需要自由",
+      "fileName": "人民不需要自由.mp3",
+      "url": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BA%BA%E6%B0%91%E4%B8%8D%E9%9C%80%E8%A6%81%E8%87%AA%E7%94%B1.mp3",
+      "provider": "GitHub lvboda/lizhi-mp3",
+      "extension": ".mp3",
+      "size": 11258907
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-jincheng-lanzhou-d01-t01",
+    "album": "金城兰州",
+    "title": "金城兰州",
+    "localPath": "artists/李志/2018 - 金城兰州/01-01 - 金城兰州.mp3",
+    "source": {
+      "album": "金城兰州",
+      "title": "金城兰州",
+      "fileName": "金城兰州.mp3",
+      "url": "https://st.nj1701.com/金城兰州/金城兰州.mp3",
+      "downloadUrl": "https://st.nj1701.com/金城兰州/金城兰州.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=66&oa_song=1",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t01",
+    "album": "叁缺壹吉隆坡站",
+    "title": "开场+黑色信封",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-01 - 开场+黑色信封.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "开场+黑色信封",
+      "fileName": "01开场+黑色信封.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/01开场+黑色信封.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/01开场+黑色信封.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=1",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t02",
+    "album": "叁缺壹吉隆坡站",
+    "title": "定西",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-02 - 定西.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "定西",
+      "fileName": "02定西.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/02定西.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/02定西.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=2",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t03",
+    "album": "叁缺壹吉隆坡站",
+    "title": "春末的南方城市",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-03 - 春末的南方城市.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "春末的南方城市",
+      "fileName": "03春末的南方城市.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/03春末的南方城市.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/03春末的南方城市.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=3",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t04",
+    "album": "叁缺壹吉隆坡站",
+    "title": "逼言逼语",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-04 - 逼言逼语.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "逼言逼语",
+      "fileName": "04逼言逼语.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=4",
+      "extension": ".mp3"
+    },
+    "alternatives": [
+      {
+        "album": "叁缺壹吉隆坡站",
+        "title": "逼言逼语",
+        "fileName": "10逼言逼语.MP3",
+        "url": "https://st.nj1701.com/叁缺壹吉隆坡站/10逼言逼语.MP3",
+        "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/10逼言逼语.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=10",
+        "extension": ".mp3"
+      },
+      {
+        "album": "叁缺壹吉隆坡站",
+        "title": "逼言逼语",
+        "fileName": "25逼言逼语.MP3",
+        "url": "https://st.nj1701.com/叁缺壹吉隆坡站/25逼言逼语.MP3",
+        "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/25逼言逼语.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=25",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t05",
+    "album": "叁缺壹吉隆坡站",
+    "title": "天空之城",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-05 - 天空之城.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "天空之城",
+      "fileName": "05天空之城.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/05天空之城.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/05天空之城.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=5",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t06",
+    "album": "叁缺壹吉隆坡站",
+    "title": "关于郑州的记忆",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-06 - 关于郑州的记忆.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "关于郑州的记忆",
+      "fileName": "06关于郑州的记忆.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/06关于郑州的记忆.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/06关于郑州的记忆.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=6",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t07",
+    "album": "叁缺壹吉隆坡站",
+    "title": "苍井空",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-07 - 苍井空.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "苍井空",
+      "fileName": "07苍井空.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/07苍井空.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/07苍井空.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=7",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t08",
+    "album": "叁缺壹吉隆坡站",
+    "title": "秋天的老狼",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-08 - 秋天的老狼.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "秋天的老狼",
+      "fileName": "08秋天的老狼.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/08秋天的老狼.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/08秋天的老狼.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=8",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t09",
+    "album": "叁缺壹吉隆坡站",
+    "title": "铅笔",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-09 - 铅笔.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "铅笔",
+      "fileName": "09铅笔.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/09铅笔.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/09铅笔.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=9",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t10",
+    "album": "叁缺壹吉隆坡站",
+    "title": "逼言逼语",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-10 - 逼言逼语.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "逼言逼语",
+      "fileName": "04逼言逼语.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=4",
+      "extension": ".mp3"
+    },
+    "alternatives": [
+      {
+        "album": "叁缺壹吉隆坡站",
+        "title": "逼言逼语",
+        "fileName": "10逼言逼语.MP3",
+        "url": "https://st.nj1701.com/叁缺壹吉隆坡站/10逼言逼语.MP3",
+        "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/10逼言逼语.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=10",
+        "extension": ".mp3"
+      },
+      {
+        "album": "叁缺壹吉隆坡站",
+        "title": "逼言逼语",
+        "fileName": "25逼言逼语.MP3",
+        "url": "https://st.nj1701.com/叁缺壹吉隆坡站/25逼言逼语.MP3",
+        "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/25逼言逼语.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=25",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t11",
+    "album": "叁缺壹吉隆坡站",
+    "title": "鸵鸟+墙上的向日葵",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-11 - 鸵鸟+墙上的向日葵.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "鸵鸟+墙上的向日葵",
+      "fileName": "11鸵鸟+墙上的向日葵.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/11鸵鸟+墙上的向日葵.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/11鸵鸟+墙上的向日葵.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=11",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t12",
+    "album": "叁缺壹吉隆坡站",
+    "title": "翁庆年的六英镑",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-12 - 翁庆年的六英镑.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "翁庆年的六英镑",
+      "fileName": "12翁庆年的六英镑.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/12翁庆年的六英镑.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/12翁庆年的六英镑.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=12",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t13",
+    "album": "叁缺壹吉隆坡站",
+    "title": "能不能帮个忙",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-13 - 能不能帮个忙.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "能不能帮个忙",
+      "fileName": "13能不能帮个忙.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/13能不能帮个忙.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/13能不能帮个忙.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=13",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t14",
+    "album": "叁缺壹吉隆坡站",
+    "title": "你，来替我做个梦 万晓利",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-14 - 你，来替我做个梦 万晓利.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "你，来替我做个梦 万晓利",
+      "fileName": "14你，来替我做个梦%20万晓利.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/14你，来替我做个梦%20万晓利.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/14你，来替我做个梦%20万晓利.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=14",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t15",
+    "album": "叁缺壹吉隆坡站",
+    "title": "米店 张玮玮",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-15 - 米店 张玮玮.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "米店 张玮玮",
+      "fileName": "15米店%20张玮玮.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/15米店%20张玮玮.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/15米店%20张玮玮.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=15",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t16",
+    "album": "叁缺壹吉隆坡站",
+    "title": "生日快乐",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-16 - 生日快乐.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "生日快乐",
+      "fileName": "16生日快乐.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/16生日快乐.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/16生日快乐.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=16",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t17",
+    "album": "叁缺壹吉隆坡站",
+    "title": "和你在一起",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-17 - 和你在一起.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "和你在一起",
+      "fileName": "17和你在一起.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/17和你在一起.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/17和你在一起.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=17",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t18",
+    "album": "叁缺壹吉隆坡站",
+    "title": "杭州",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-18 - 杭州.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "杭州",
+      "fileName": "18杭州.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/18杭州.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/18杭州.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=18",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t19",
+    "album": "叁缺壹吉隆坡站",
+    "title": "董卓瑶",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-19 - 董卓瑶.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "董卓瑶",
+      "fileName": "19董卓瑶.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/19董卓瑶.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/19董卓瑶.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=19",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t20",
+    "album": "叁缺壹吉隆坡站",
+    "title": "南京越来越远",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-20 - 南京越来越远.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "南京越来越远",
+      "fileName": "20南京越来越远.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/20南京越来越远.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/20南京越来越远.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=20",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t21",
+    "album": "叁缺壹吉隆坡站",
+    "title": "梵高先生",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-21 - 梵高先生.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "梵高先生",
+      "fileName": "21梵高先生.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/21梵高先生.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/21梵高先生.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=21",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t22",
+    "album": "叁缺壹吉隆坡站",
+    "title": "这个世界会好吗",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-22 - 这个世界会好吗.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "这个世界会好吗",
+      "fileName": "22这个世界会好吗.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/22这个世界会好吗.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/22这个世界会好吗.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=22",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t23",
+    "album": "叁缺壹吉隆坡站",
+    "title": "倒影",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-23 - 倒影.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "倒影",
+      "fileName": "23倒影.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/23倒影.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/23倒影.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=23",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t24",
+    "album": "叁缺壹吉隆坡站",
+    "title": "下雨",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-24 - 下雨.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "下雨",
+      "fileName": "24下雨.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/24下雨.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/24下雨.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=24",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t25",
+    "album": "叁缺壹吉隆坡站",
+    "title": "逼言逼语",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-25 - 逼言逼语.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "逼言逼语",
+      "fileName": "04逼言逼语.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=4",
+      "extension": ".mp3"
+    },
+    "alternatives": [
+      {
+        "album": "叁缺壹吉隆坡站",
+        "title": "逼言逼语",
+        "fileName": "10逼言逼语.MP3",
+        "url": "https://st.nj1701.com/叁缺壹吉隆坡站/10逼言逼语.MP3",
+        "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/10逼言逼语.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=10",
+        "extension": ".mp3"
+      },
+      {
+        "album": "叁缺壹吉隆坡站",
+        "title": "逼言逼语",
+        "fileName": "25逼言逼语.MP3",
+        "url": "https://st.nj1701.com/叁缺壹吉隆坡站/25逼言逼语.MP3",
+        "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/25逼言逼语.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=25",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t26",
+    "album": "叁缺壹吉隆坡站",
+    "title": "被禁忌的游戏+来了+忽然",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-26 - 被禁忌的游戏+来了+忽然.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "被禁忌的游戏+来了+忽然",
+      "fileName": "26被禁忌的游戏+来了+忽然.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/26被禁忌的游戏+来了+忽然.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/26被禁忌的游戏+来了+忽然.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=26",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t27",
+    "album": "叁缺壹吉隆坡站",
+    "title": "热河",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-27 - 热河.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "热河",
+      "fileName": "27热河.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/27热河.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/27热河.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=27",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t28",
+    "album": "叁缺壹吉隆坡站",
+    "title": "山阴路的夏天",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-28 - 山阴路的夏天.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "山阴路的夏天",
+      "fileName": "28山阴路的夏天.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/28山阴路的夏天.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/28山阴路的夏天.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=28",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t29",
+    "album": "叁缺壹吉隆坡站",
+    "title": "鼠说",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-29 - 鼠说.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "鼠说",
+      "fileName": "29鼠说.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/29鼠说.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/29鼠说.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=29",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-kuala-lumpur-2025-d01-t30",
+    "album": "叁缺壹吉隆坡站",
+    "title": "结尾团队介绍",
+    "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-30 - 结尾团队介绍.mp3",
+    "source": {
+      "album": "叁缺壹吉隆坡站",
+      "title": "结尾团队介绍",
+      "fileName": "30结尾团队介绍.MP3",
+      "url": "https://st.nj1701.com/叁缺壹吉隆坡站/30结尾团队介绍.MP3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/30结尾团队介绍.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=30",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  }
+]

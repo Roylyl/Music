@@ -1,0 +1,58 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/-",
+  "title": "被禁忌的遊戲",
+  "releaseDate": "21 Oct 2020 00:00:00 GMT",
+  "current": {
+    "minimum_price": 56.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "21 Oct 2020 09:38:54 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "李志LiZhi - 黑色信封",
+      "track_num": 1,
+      "duration": 287.267,
+      "title_link": "/track/-",
+      "track_id": 2859188521
+    },
+    {
+      "title": "李志LiZhi - 阿蘭",
+      "track_num": 2,
+      "duration": 166.093,
+      "title_link": "/track/--2",
+      "track_id": 2263651429
+    },
+    {
+      "title": "李志LiZhi - 卡夫卡",
+      "track_num": 3,
+      "duration": 176.88,
+      "title_link": "/track/--3",
+      "track_id": 4121063468
+    },
+    {
+      "title": "李志LiZhi - 被禁忌的遊戲",
+      "track_num": 4,
+      "duration": 377.827,
+      "title_link": "/track/--4",
+      "track_id": 3864012076
+    },
+    {
+      "title": "李志LiZhi - 羅莊的冬天",
+      "track_num": 5,
+      "duration": 410.893,
+      "title_link": "/track/--5",
+      "track_id": 3080733789
+    },
+    {
+      "title": "紅色氣球",
+      "track_num": 6,
+      "duration": 173.36,
+      "title_link": "/track/--6",
+      "track_id": 2250310961
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $56 HKD or more Send as Gift"
+}

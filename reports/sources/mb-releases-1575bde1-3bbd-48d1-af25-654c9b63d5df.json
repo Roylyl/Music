@@ -1,0 +1,210 @@
+{
+  "release-offset": 0,
+  "release-count": 4,
+  "releases": [
+    {
+      "country": "CN",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": null,
+      "status": "Official",
+      "media": [
+        {
+          "track-count": 22,
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "position": 1,
+          "format": "Digital Media",
+          "id": "98909e2a-428c-3524-b5cd-f550b8a3fadd"
+        }
+      ],
+      "release-events": [
+        {
+          "date": "2019-01-01",
+          "area": {
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "type": null,
+            "sort-name": "China",
+            "type-id": null,
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "name": "China",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "date": "2019-01-01",
+      "id": "2faf828e-04f3-4410-9a84-e88c547ffdda",
+      "title": "洗心革面 (2018 Live)",
+      "cover-art-archive": {
+        "front": true,
+        "count": 1,
+        "back": false,
+        "darkened": false,
+        "artwork": true
+      },
+      "asin": null,
+      "packaging": null,
+      "barcode": null,
+      "quality": "normal"
+    },
+    {
+      "disambiguation": "",
+      "country": "CN",
+      "status": "Official",
+      "packaging-id": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "id": "46c5e5b4-84a7-40d5-bed9-7383ae6202ca",
+      "release-events": [
+        {
+          "date": "2013-01-01",
+          "area": {
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "name": "China",
+            "disambiguation": "",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "type": null,
+            "sort-name": "China"
+          }
+        }
+      ],
+      "date": "2013-01-01",
+      "media": [
+        {
+          "position": 1,
+          "format": "Digital Media",
+          "id": "30184d3a-49ee-316e-8b0e-82c73368fe22",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "track-count": 17,
+          "title": ""
+        }
+      ],
+      "quality": "normal",
+      "barcode": null,
+      "packaging": null,
+      "asin": null,
+      "cover-art-archive": {
+        "artwork": true,
+        "darkened": false,
+        "back": false,
+        "count": 1,
+        "front": true
+      },
+      "title": "108个关键词 (2012 Live)"
+    },
+    {
+      "disambiguation": "",
+      "country": "CN",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "packaging-id": null,
+      "release-events": [
+        {
+          "date": "2015",
+          "area": {
+            "disambiguation": "",
+            "name": "China",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "type-id": null,
+            "sort-name": "China",
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "type": null
+          }
+        }
+      ],
+      "date": "2015",
+      "id": "b96bb42d-4730-4824-ba3a-f3f91144ad59",
+      "media": [
+        {
+          "format": "Digital Media",
+          "position": 1,
+          "id": "57befbc4-4dec-319c-bf54-2351f3e37e66",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "track-count": 10,
+          "title": ""
+        }
+      ],
+      "barcode": null,
+      "packaging": null,
+      "quality": "normal",
+      "cover-art-archive": {
+        "artwork": true,
+        "darkened": false,
+        "count": 1,
+        "back": false,
+        "front": true
+      },
+      "title": "看见 (2015 Live)",
+      "asin": null
+    },
+    {
+      "packaging-id": null,
+      "text-representation": {
+        "language": "zho",
+        "script": "Hans"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "status": "Official",
+      "country": "CN",
+      "disambiguation": "",
+      "asin": null,
+      "title": "i/O (2014 Live)",
+      "cover-art-archive": {
+        "front": true,
+        "count": 1,
+        "back": false,
+        "darkened": false,
+        "artwork": true
+      },
+      "quality": "normal",
+      "barcode": null,
+      "packaging": null,
+      "media": [
+        {
+          "title": "",
+          "track-count": 11,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "6cc24842-efe8-3d7a-8e08-c54abacb5ba7",
+          "format": "Digital Media",
+          "position": 1
+        }
+      ],
+      "id": "e2e384f9-3ee9-4548-82cd-bdbed17fb690",
+      "release-events": [
+        {
+          "date": "2015-01-01",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "sort-name": "China",
+            "type-id": null,
+            "disambiguation": "",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "name": "China"
+          }
+        }
+      ],
+      "date": "2015-01-01"
+    }
+  ]
+}

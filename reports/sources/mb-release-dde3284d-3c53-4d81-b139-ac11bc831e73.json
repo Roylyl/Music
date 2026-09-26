@@ -1,0 +1,457 @@
+{
+  "disambiguation": "",
+  "release-group": {
+    "title": "在每一条伤心的应天大街上",
+    "first-release-date": "2016-12",
+    "artist-credit": [
+      {
+        "artist": {
+          "country": "CN",
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+          "name": "李志",
+          "disambiguation": "",
+          "type": "Person",
+          "sort-name": "Li, Zhi",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        "name": "李志",
+        "joinphrase": ""
+      }
+    ],
+    "secondary-type-ids": [],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "primary-type": "Album",
+    "disambiguation": "",
+    "id": "57cc39fc-b00a-4f73-b21f-408346bdf78c",
+    "secondary-types": []
+  },
+  "country": "TW",
+  "status": "Official",
+  "text-representation": {
+    "language": "zho",
+    "script": "Hant"
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+  "release-events": [
+    {
+      "date": "2016-12",
+      "area": {
+        "disambiguation": "",
+        "name": "Taiwan",
+        "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+        "sort-name": "Taiwan",
+        "type": null,
+        "iso-3166-1-codes": [
+          "TW"
+        ],
+        "iso-3166-2-codes": [
+          "CN-71"
+        ],
+        "type-id": null
+      }
+    }
+  ],
+  "date": "2016-12",
+  "id": "dde3284d-3c53-4d81-b139-ac11bc831e73",
+  "media": [
+    {
+      "title": "",
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+      "tracks": [
+        {
+          "id": "c98e1b4a-03dc-4e43-a5af-9d34f0345f3a",
+          "recording": {
+            "length": 429688,
+            "id": "53e88d2a-c2e5-48a3-a141-adfc03f6d702",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": "",
+                  "country": "CN"
+                }
+              }
+            ],
+            "video": false,
+            "first-release-date": "2016-12",
+            "title": "在每一条伤心的应天大街上"
+          },
+          "artist-credit": [
+            {
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": ""
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "position": 1,
+          "length": null,
+          "title": "在每一条伤心的应天大街上",
+          "number": "1"
+        },
+        {
+          "length": null,
+          "position": 2,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN"
+              }
+            }
+          ],
+          "number": "2",
+          "title": "一头偶像",
+          "id": "99960283-10db-4128-b996-1e43bbc596e1",
+          "recording": {
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": ""
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "",
+            "length": 222594,
+            "id": "7a3c0671-88fc-4795-b53e-3a9709ad9f39",
+            "title": "一头偶像",
+            "first-release-date": "2016-12"
+          }
+        },
+        {
+          "length": null,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              }
+            }
+          ],
+          "position": 3,
+          "number": "3",
+          "title": "克兰河",
+          "id": "7e615279-c5eb-4cac-96c8-599eb98008fd",
+          "recording": {
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "CN",
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "disambiguation": "",
+            "id": "e5f65404-bc88-4541-8b16-d038eb6df54b",
+            "length": 360375,
+            "title": "克兰河",
+            "first-release-date": "2016-12"
+          }
+        },
+        {
+          "length": null,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              }
+            }
+          ],
+          "position": 4,
+          "number": "4",
+          "title": "死人",
+          "id": "4c297f8b-1d57-4cf5-9464-6128ffa1b58e",
+          "recording": {
+            "title": "死人",
+            "first-release-date": "2016-12",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "id": "bf312f8d-fc3e-4c8f-8be6-1b0f35127d74",
+            "length": 289438
+          }
+        },
+        {
+          "length": null,
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "country": "CN"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "position": 5,
+          "number": "5",
+          "title": "一个夜晚",
+          "id": "3884d837-9d1b-49b6-9b77-ea07d3be2966",
+          "recording": {
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "disambiguation": "",
+            "id": "927aa933-d52d-439e-96d4-c1c650003484",
+            "length": null,
+            "title": "一个夜晚",
+            "first-release-date": "2016-12"
+          }
+        },
+        {
+          "recording": {
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": ""
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "id": "37e412a6-a17b-4e0a-b57c-ee2bbd64660c",
+            "length": 243656,
+            "title": "哦吼",
+            "first-release-date": "2016-12"
+          },
+          "id": "17b0af1a-eb27-470d-9c59-8b18b9fef07f",
+          "number": "6",
+          "title": "哦吼",
+          "length": null,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志"
+              }
+            }
+          ],
+          "position": 6
+        },
+        {
+          "recording": {
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "country": "CN",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                }
+              }
+            ],
+            "video": false,
+            "disambiguation": "",
+            "length": 208906,
+            "id": "d5792542-0c99-45cd-bbbb-e5896e289925",
+            "title": "彩色派对",
+            "first-release-date": "2016-12"
+          },
+          "id": "a2fb4814-fc7b-4807-ace6-638fd835eb87",
+          "number": "7",
+          "title": "彩色派对",
+          "length": null,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": ""
+              }
+            }
+          ],
+          "position": 7
+        },
+        {
+          "title": "你好明天",
+          "number": "8",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "disambiguation": ""
+              }
+            }
+          ],
+          "position": 8,
+          "length": null,
+          "recording": {
+            "length": 267469,
+            "id": "36179996-55d8-4be8-95ed-423a79bfc23c",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person"
+                }
+              }
+            ],
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "2016-12",
+            "title": "你好明天"
+          },
+          "id": "c877a2ab-6193-425f-bb8d-7dffb0cc88cc"
+        }
+      ],
+      "position": 1,
+      "format": "CD",
+      "track-offset": 0,
+      "track-count": 8,
+      "id": "c2888d5e-f670-33c0-b750-20705375b979"
+    }
+  ],
+  "artist-credit": [
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Li, Zhi",
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "name": "李志",
+        "disambiguation": "",
+        "country": "CN"
+      },
+      "joinphrase": "",
+      "name": "李志"
+    }
+  ],
+  "packaging": "Jewel Case",
+  "barcode": "4713012740647",
+  "quality": "normal",
+  "title": "在每一条伤心的应天大街上",
+  "cover-art-archive": {
+    "darkened": false,
+    "artwork": true,
+    "front": true,
+    "count": 1,
+    "back": false
+  },
+  "asin": null
+}

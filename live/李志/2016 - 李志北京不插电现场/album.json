@@ -1,0 +1,1836 @@
+{
+  "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a",
+  "artist": "李志",
+  "title": "李志北京不插电现场",
+  "releaseDate": "2016-08-11",
+  "releaseDatePrecision": "day",
+  "year": 2016,
+  "type": "live",
+  "path": "live/李志/2016 - 李志北京不插电现场",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t01",
+      "artist": "李志",
+      "album": "李志北京不插电现场",
+      "title": "黑色信封 (2016 unplugged)",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 280.242,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1X6xEg6LDIUiFx9XTJAxQ6qbhH76yGD7U/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 李志北京不插电现场/01-01 - 黑色信封 (2016 unplugged).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-12",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--13",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 1,
+          "duration": 280.208,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 280.242,
+        "fileSize": 11302690,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t01",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-01 - 黑色信封 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1X6xEg6LDIUiFx9XTJAxQ6qbhH76yGD7U/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 280.242,
+            "fileSize": 11302690,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 280.208,
+            "fileSize": 31966072,
+            "bitRate": 909221
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 280.207,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 280.208,
+        "fileSize": 31966072,
+        "bitRate": 909221
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t01",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-01 - 黑色信封 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1X6xEg6LDIUiFx9XTJAxQ6qbhH76yGD7U/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 280.242,
+            "fileSize": 11302690,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 280.208,
+            "fileSize": 31966072,
+            "bitRate": 909221
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t02",
+      "artist": "李志",
+      "album": "李志北京不插电现场",
+      "title": "鸵鸟 (2016 unplugged)",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 259.056,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1RgpaRB_gXJ83lT6xE8IvngYne29TDTee/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 李志北京不插电现场/01-02 - 鸵鸟 (2016 unplugged).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-13",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--13",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 2,
+          "duration": 259.012,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 259.056,
+        "fileSize": 10454427,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t02",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-02 - 鸵鸟 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1RgpaRB_gXJ83lT6xE8IvngYne29TDTee/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 259.056,
+            "fileSize": 10454427,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 259.012,
+            "fileSize": 27947163,
+            "bitRate": 859497
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 259.011,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 259.012,
+        "fileSize": 27947163,
+        "bitRate": 859497
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t02",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-02 - 鸵鸟 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1RgpaRB_gXJ83lT6xE8IvngYne29TDTee/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 259.056,
+            "fileSize": 10454427,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 259.012,
+            "fileSize": 27947163,
+            "bitRate": 859497
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t03",
+      "artist": "李志",
+      "album": "李志北京不插电现场",
+      "title": "大象 (2016 unplugged)",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 340.715,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1XEOXdnYcDuaFGUmnXTTSVu04ubRj419A/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 李志北京不插电现场/01-03 - 大象 (2016 unplugged).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-14",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--13",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 3,
+          "duration": 340.667,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 340.715,
+        "fileSize": 13724044,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t03",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-03 - 大象 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1XEOXdnYcDuaFGUmnXTTSVu04ubRj419A/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 340.715,
+            "fileSize": 13724044,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 340.667,
+            "fileSize": 38388258,
+            "bitRate": 898673
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 340.667,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 340.667,
+        "fileSize": 38388258,
+        "bitRate": 898673
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t03",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-03 - 大象 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1XEOXdnYcDuaFGUmnXTTSVu04ubRj419A/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 340.715,
+            "fileSize": 13724044,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 340.667,
+            "fileSize": 38388258,
+            "bitRate": 898673
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t04",
+      "artist": "李志",
+      "album": "李志北京不插电现场",
+      "title": "定西 (2016 unplugged)",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 473.966,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1VsLKn9F2OLRSuwD1ZxfBBXptbnrONnEY/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 李志北京不插电现场/01-04 - 定西 (2016 unplugged).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-15",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--13",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 4,
+          "duration": 473.933,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 473.966,
+        "fileSize": 19059398,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t04",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-04 - 定西 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1VsLKn9F2OLRSuwD1ZxfBBXptbnrONnEY/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 473.966,
+            "fileSize": 19059398,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 473.933,
+            "fileSize": 52844443,
+            "bitRate": 889995
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 473.932,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 473.933,
+        "fileSize": 52844443,
+        "bitRate": 889995
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t04",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-04 - 定西 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1VsLKn9F2OLRSuwD1ZxfBBXptbnrONnEY/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 473.966,
+            "fileSize": 19059398,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 473.933,
+            "fileSize": 52844443,
+            "bitRate": 889995
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t05",
+      "artist": "李志",
+      "album": "李志北京不插电现场",
+      "title": "这个世界会好吗 (2016 unplugged)",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 273.711,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1yCkN60GYAvheaxFNeqmDw7JfvCB5mpfE/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 李志北京不插电现场/01-05 - 这个世界会好吗 (2016 unplugged).mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 273.711,
+        "fileSize": 11041210,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t05",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-05 - 这个世界会好吗 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1yCkN60GYAvheaxFNeqmDw7JfvCB5mpfE/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 273.711,
+            "fileSize": 11041210,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 273.681,
+            "fileSize": 31677830,
+            "bitRate": 922479
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 273.68,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 273.681,
+        "fileSize": 31677830,
+        "bitRate": 922479
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t05",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-05 - 这个世界会好吗 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1yCkN60GYAvheaxFNeqmDw7JfvCB5mpfE/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 273.711,
+            "fileSize": 11041210,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 273.681,
+            "fileSize": 31677830,
+            "bitRate": 922479
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t06",
+      "artist": "李志",
+      "album": "李志北京不插电现场",
+      "title": "结婚 (2016 unplugged)",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 420.989,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/结婚.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 李志北京不插电现场/01-06 - 结婚 (2016 unplugged).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-16",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--13",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 5,
+          "duration": 420.96,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 420.989,
+        "fileSize": 16938226,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t06",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-06 - 结婚 (2016 unplugged).mp3",
+          "sourceUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/结婚.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 420.989,
+            "fileSize": 16938226,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 420.989,
+            "fileSize": 16938226,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 420.96,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 420.989,
+        "fileSize": 16938226,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t06",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-06 - 结婚 (2016 unplugged).mp3",
+          "sourceUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/结婚.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 420.989,
+            "fileSize": 16938226,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 420.989,
+            "fileSize": 16938226,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t07",
+      "artist": "李志",
+      "album": "李志北京不插电现场",
+      "title": "关于郑州的记忆 (2016 unplugged)",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 287.399,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/17Ls9XYRCTRrmKuF_y6GKHSdj7DB7Gifq/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 李志北京不插电现场/01-07 - 关于郑州的记忆 (2016 unplugged).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-17",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--13",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 6,
+          "duration": 287.349,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 287.399,
+        "fileSize": 11589285,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t07",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-07 - 关于郑州的记忆 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/17Ls9XYRCTRrmKuF_y6GKHSdj7DB7Gifq/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 287.399,
+            "fileSize": 11589285,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 287.349,
+            "fileSize": 27019478,
+            "bitRate": 748909
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 287.348,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 287.349,
+        "fileSize": 27019478,
+        "bitRate": 748909
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t07",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-07 - 关于郑州的记忆 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/17Ls9XYRCTRrmKuF_y6GKHSdj7DB7Gifq/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 287.399,
+            "fileSize": 11589285,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 287.349,
+            "fileSize": 27019478,
+            "bitRate": 748909
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t08",
+      "artist": "李志",
+      "album": "李志北京不插电现场",
+      "title": "杭州 (2016 unplugged)",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 222.433,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1qN36yoECQUXka3pp0Sqi6a6jEG5SlItC/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 李志北京不插电现场/01-08 - 杭州 (2016 unplugged).mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 222.433,
+        "fileSize": 8988015,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t08",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-08 - 杭州 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1qN36yoECQUXka3pp0Sqi6a6jEG5SlItC/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 222.433,
+            "fileSize": 8988015,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 222.401,
+            "fileSize": 25163877,
+            "bitRate": 900868
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 222.4,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 222.401,
+        "fileSize": 25163877,
+        "bitRate": 900868
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t08",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-08 - 杭州 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1qN36yoECQUXka3pp0Sqi6a6jEG5SlItC/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 222.433,
+            "fileSize": 8988015,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 222.401,
+            "fileSize": 25163877,
+            "bitRate": 900868
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t09",
+      "artist": "李志",
+      "album": "李志北京不插电现场",
+      "title": "热河 (2016 unplugged)",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 364.722,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/热河.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 李志北京不插电现场/01-09 - 热河 (2016 unplugged).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-18",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--13",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 7,
+          "duration": 364.684,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 364.722,
+        "fileSize": 14685265,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t09",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-09 - 热河 (2016 unplugged).mp3",
+          "sourceUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/热河.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 364.722,
+            "fileSize": 14685265,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 364.722,
+            "fileSize": 14685265,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 364.684,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 364.722,
+        "fileSize": 14685265,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t09",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-09 - 热河 (2016 unplugged).mp3",
+          "sourceUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/热河.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 364.722,
+            "fileSize": 14685265,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 364.722,
+            "fileSize": 14685265,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t10",
+      "artist": "李志",
+      "album": "李志北京不插电现场",
+      "title": "春末的南方城市 (2016 unplugged)",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 404.506,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Y6xkrnNqJ7Qeckvu9XWjAPTdS6ykbZZZ/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 李志北京不插电现场/01-10 - 春末的南方城市 (2016 unplugged).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-19",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--13",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 8,
+          "duration": 404.475,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 404.506,
+        "fileSize": 16278248,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t10",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-10 - 春末的南方城市 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Y6xkrnNqJ7Qeckvu9XWjAPTdS6ykbZZZ/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 404.506,
+            "fileSize": 16278248,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 404.475,
+            "fileSize": 51830453,
+            "bitRate": 1022771
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 404.475,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 404.475,
+        "fileSize": 51830453,
+        "bitRate": 1022771
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t10",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-10 - 春末的南方城市 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Y6xkrnNqJ7Qeckvu9XWjAPTdS6ykbZZZ/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 404.506,
+            "fileSize": 16278248,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 404.475,
+            "fileSize": 51830453,
+            "bitRate": 1022771
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t11",
+      "artist": "李志",
+      "album": "李志北京不插电现场",
+      "title": "鼠说 (2016 unplugged)",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 485.094,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1MAexiGpZtcyCjKZxkInbZQhhlahEpWHP/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 李志北京不插电现场/01-11 - 鼠说 (2016 unplugged).mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 485.094,
+        "fileSize": 19504972,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t11",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-11 - 鼠说 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1MAexiGpZtcyCjKZxkInbZQhhlahEpWHP/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 485.094,
+            "fileSize": 19504972,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 485.064,
+            "fileSize": 57384310,
+            "bitRate": 944446
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 485.063,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 485.064,
+        "fileSize": 57384310,
+        "bitRate": 944446
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t11",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-11 - 鼠说 (2016 unplugged).mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1MAexiGpZtcyCjKZxkInbZQhhlahEpWHP/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 485.094,
+            "fileSize": 19504972,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 485.064,
+            "fileSize": 57384310,
+            "bitRate": 944446
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t12",
+      "artist": "李志",
+      "album": "李志北京不插电现场",
+      "title": "山阴路的夏天 (2016 unplugged)",
+      "discNumber": 1,
+      "trackNumber": 12,
+      "sequenceNumber": 12,
+      "duration": 343.458,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/山阴路的夏天.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2016 - 李志北京不插电现场/01-12 - 山阴路的夏天 (2016 unplugged).mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-20",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--13",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 9,
+          "duration": 404.475,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 343.458,
+        "fileSize": 13833878,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t12",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-12 - 山阴路的夏天 (2016 unplugged).mp3",
+          "sourceUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/山阴路的夏天.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 343.458,
+            "fileSize": 13833878,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 343.458,
+            "fileSize": 13833878,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 343.418,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 343.458,
+        "fileSize": 13833878,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t12",
+          "localPath": "live/李志/2016 - 李志北京不插电现场/01-12 - 山阴路的夏天 (2016 unplugged).mp3",
+          "sourceUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/山阴路的夏天.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 343.458,
+            "fileSize": 13833878,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 343.458,
+            "fileSize": 13833878,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/dfca4787-fa3a-442c-9fd7-877145bc471a",
+    "https://lizhilizhi.bandcamp.com/album/--13"
+  ],
+  "notes": [],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "Bandcamp",
+      "url": "https://lizhilizhi.bandcamp.com/album/--13",
+      "title": "北京不插電現場",
+      "releaseDate": "22 Oct 2020 10:59:09 GMT",
+      "trackCount": 9,
+      "tracks": [
+        {
+          "title": "黑色信封（2016不插電版）",
+          "track_num": 1,
+          "duration": 280.208,
+          "title_link": "/track/2016-12",
+          "track_id": 2912032789
+        },
+        {
+          "title": "鴕鳥（2016不插電版）",
+          "track_num": 2,
+          "duration": 259.012,
+          "title_link": "/track/2016-13",
+          "track_id": 2920774674
+        },
+        {
+          "title": "大象（2016不插電版）",
+          "track_num": 3,
+          "duration": 340.667,
+          "title_link": "/track/2016-14",
+          "track_id": 34522948
+        },
+        {
+          "title": "定西（2016不插電版）",
+          "track_num": 4,
+          "duration": 473.933,
+          "title_link": "/track/2016-15",
+          "track_id": 758601188
+        },
+        {
+          "title": "結婚（2016不插電版）",
+          "track_num": 5,
+          "duration": 420.96,
+          "title_link": "/track/2016-16",
+          "track_id": 4108239983
+        },
+        {
+          "title": "關於鄭州的記憶（2016不插電版）",
+          "track_num": 6,
+          "duration": 287.349,
+          "title_link": "/track/2016-17",
+          "track_id": 1617632944
+        },
+        {
+          "title": "熱河（2016不插電版）",
+          "track_num": 7,
+          "duration": 364.684,
+          "title_link": "/track/2016-18",
+          "track_id": 183120037
+        },
+        {
+          "title": "春末的南方城市（2016不插電版）",
+          "track_num": 8,
+          "duration": 404.475,
+          "title_link": "/track/2016-19",
+          "track_id": 2130327614
+        },
+        {
+          "title": "山陰路的夏天（2016不插電版）",
+          "track_num": 9,
+          "duration": 404.475,
+          "title_link": "/track/2016-20",
+          "track_id": 3717202298
+        }
+      ],
+      "offer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $70 HKD or more Send as Gift",
+      "note": "平台上架日期，不替代原始发行日期。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "dfca4787-fa3a-442c-9fd7-877145bc471a",
+    "title": "李志北京不插电现场",
+    "date": "2016",
+    "status": null
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2016",
+      "source": "https://musicbrainz.org/release/dfca4787-fa3a-442c-9fd7-877145bc471a"
+    },
+    {
+      "date": "2016-08-11",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2016 - 李志 - 李志北京不插电现场.jpg",
+    "width": 3000,
+    "height": 3000,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2016 - 李志 - 李志北京不插电现场.jpg"
+  },
+  "trackCount": 12,
+  "tracklistStatus": "edition-listed"
+}

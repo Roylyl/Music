@@ -1,0 +1,57 @@
+{
+  "releases": [
+    {
+      "barcode": null,
+      "text-representation": {
+        "language": null,
+        "script": null
+      },
+      "country": "CN",
+      "status-id": null,
+      "packaging": null,
+      "asin": null,
+      "disambiguation": "",
+      "release-events": [
+        {
+          "date": "2016",
+          "area": {
+            "sort-name": "China",
+            "type-id": null,
+            "name": "China",
+            "type": null,
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "date": "2016",
+      "title": "李志北京不插电现场",
+      "packaging-id": null,
+      "id": "dfca4787-fa3a-442c-9fd7-877145bc471a",
+      "media": [
+        {
+          "position": 1,
+          "id": "ec3992e4-9e39-3169-9936-740eb8ef3bdf",
+          "format": "CD",
+          "track-count": 12,
+          "title": "",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "cover-art-archive": {
+        "count": 0,
+        "back": false,
+        "darkened": false,
+        "front": false,
+        "artwork": false
+      },
+      "status": null,
+      "quality": "low"
+    }
+  ],
+  "release-offset": 0,
+  "release-count": 1
+}

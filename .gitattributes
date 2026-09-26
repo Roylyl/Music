@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Preserve original audio/image bytes.
+*.flac -text
+*.wav -text
+*.m4a -text
+*.mp3 -text
+*.opus -text
+*.webm -text
+*.jpg -text
+*.webp -text

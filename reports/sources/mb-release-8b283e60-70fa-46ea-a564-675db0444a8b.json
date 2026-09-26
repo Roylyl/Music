@@ -1,0 +1,638 @@
+{
+  "release-group": {
+    "artist-credit": [
+      {
+        "name": "李志",
+        "joinphrase": "",
+        "artist": {
+          "sort-name": "Li, Zhi",
+          "type": "Person",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "country": "CN",
+          "disambiguation": "",
+          "name": "李志",
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+        }
+      }
+    ],
+    "first-release-date": "2018",
+    "title": "爵士乐与不插电新编12首",
+    "id": "ea4e9241-0926-4cf1-b412-f9d42b7b1342",
+    "secondary-types": [
+      "Live"
+    ],
+    "disambiguation": "",
+    "secondary-type-ids": [
+      "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+    ],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "primary-type": "Album"
+  },
+  "disambiguation": "",
+  "country": "CN",
+  "status": "Official",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "text-representation": {
+    "language": "zho",
+    "script": "Hans"
+  },
+  "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+  "date": "2018",
+  "release-events": [
+    {
+      "date": "2018",
+      "area": {
+        "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+        "name": "China",
+        "disambiguation": "",
+        "type-id": null,
+        "type": null,
+        "iso-3166-1-codes": [
+          "CN"
+        ],
+        "sort-name": "China"
+      }
+    }
+  ],
+  "id": "8b283e60-70fa-46ea-a564-675db0444a8b",
+  "media": [
+    {
+      "position": 1,
+      "format": "CD",
+      "title": "",
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+      "tracks": [
+        {
+          "id": "e81f0581-2041-464a-9126-25cbb7c3e9fc",
+          "recording": {
+            "first-release-date": "2018",
+            "title": "看见",
+            "length": 233000,
+            "id": "dda14bda-c1c8-47a2-af45-d2a91da12639",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                }
+              }
+            ],
+            "disambiguation": ""
+          },
+          "length": 233000,
+          "position": 1,
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              }
+            }
+          ],
+          "number": "1",
+          "title": "看见"
+        },
+        {
+          "title": "离婚",
+          "number": "2",
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "position": 2,
+          "length": 277000,
+          "recording": {
+            "length": 277000,
+            "id": "032b244c-e430-483f-adba-5e8403147d99",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "country": "CN"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "video": false,
+            "first-release-date": "2018",
+            "title": "离婚"
+          },
+          "id": "96a6efe4-1eb4-4cec-8e25-affd17909e66"
+        },
+        {
+          "length": 360000,
+          "artist-credit": [
+            {
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": ""
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "position": 3,
+          "number": "3",
+          "title": "关于郑州的记忆",
+          "id": "c45cbab1-2721-46d9-9613-12e0a31c11c9",
+          "recording": {
+            "title": "关于郑州的记忆",
+            "first-release-date": "2018",
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "",
+            "length": 360000,
+            "id": "f9a74e18-bf67-4d23-a7af-a672b2afba61"
+          }
+        },
+        {
+          "recording": {
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person"
+                }
+              }
+            ],
+            "video": false,
+            "disambiguation": "",
+            "id": "73cb943a-3470-4c5c-b174-74f860c32e96",
+            "length": 237000,
+            "title": "鸵鸟",
+            "first-release-date": "2018"
+          },
+          "id": "4f08cf30-c0b3-4ce8-b264-2dcd2cbe3bd9",
+          "title": "鸵鸟",
+          "number": "4",
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "CN",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "position": 4,
+          "length": 237000
+        },
+        {
+          "artist-credit": [
+            {
+              "artist": {
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "position": 5,
+          "length": 322000,
+          "title": "卡夫卡",
+          "number": "5",
+          "id": "995c74a3-d068-41e2-85e8-4d492eb1b864",
+          "recording": {
+            "length": 322000,
+            "id": "43f125ec-fd81-4f17-9042-48443c3480bd",
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "2018",
+            "title": "卡夫卡"
+          }
+        },
+        {
+          "recording": {
+            "id": "3bcec751-5bea-4f0c-9e4d-322b82141403",
+            "length": 477000,
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "CN",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": "",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "first-release-date": "2018",
+            "title": "热河"
+          },
+          "id": "68c888ff-cb55-4dd3-9b17-5a90abe9a914",
+          "number": "6",
+          "title": "热河",
+          "length": 477000,
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "disambiguation": "",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "sort-name": "Li, Zhi"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "position": 6
+        },
+        {
+          "title": "翁庆年的六英镑",
+          "number": "7",
+          "position": 7,
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "country": "CN"
+              }
+            }
+          ],
+          "length": 406000,
+          "recording": {
+            "length": 406000,
+            "id": "ee2e1779-c5d3-41aa-b3f4-0410e3238d8f",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": ""
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "first-release-date": "2018",
+            "title": "翁庆年的六英镑"
+          },
+          "id": "40147f81-ee11-4032-ada5-01b31d9d4843"
+        },
+        {
+          "title": "死人",
+          "number": "8",
+          "position": 8,
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "country": "CN"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "length": 250000,
+          "recording": {
+            "first-release-date": "2018",
+            "title": "死人",
+            "id": "d2ec3ff0-dc80-43ec-adc5-85ab4d6f4665",
+            "length": 250000,
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "disambiguation": ""
+          },
+          "id": "6982d924-5fd1-475d-8b74-085c5f793d5a"
+        },
+        {
+          "id": "30e69627-63cb-474e-9893-050bf06c757e",
+          "recording": {
+            "title": "爱",
+            "first-release-date": "2018",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "country": "CN",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": "",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                }
+              }
+            ],
+            "video": false,
+            "length": 279000,
+            "id": "fbcdeb61-b92c-442c-812c-8ba8af54d83d"
+          },
+          "position": 9,
+          "artist-credit": [
+            {
+              "artist": {
+                "country": "CN",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "length": 279000,
+          "title": "爱",
+          "number": "9"
+        },
+        {
+          "title": "董卓瑶",
+          "number": "10",
+          "position": 10,
+          "artist-credit": [
+            {
+              "artist": {
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "sort-name": "Li, Zhi"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "length": 309000,
+          "recording": {
+            "first-release-date": "2018",
+            "title": "董卓瑶",
+            "id": "89afa1b4-fa40-4804-a5a7-648ff2604aa6",
+            "length": 309000,
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "country": "CN"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": ""
+          },
+          "id": "1ffa3296-e2c7-4f98-9ee5-e912107d0623"
+        },
+        {
+          "id": "d794b25a-e8d2-419d-afdd-b1b4928a44e3",
+          "recording": {
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "country": "CN",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": "",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                }
+              }
+            ],
+            "video": false,
+            "id": "57192f73-ed84-4858-a027-f802a637ca99",
+            "length": 328000,
+            "title": "一个夜晚",
+            "first-release-date": "2018"
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "disambiguation": ""
+              }
+            }
+          ],
+          "position": 11,
+          "length": 328000,
+          "title": "一个夜晚",
+          "number": "11"
+        },
+        {
+          "recording": {
+            "title": "鼠说",
+            "first-release-date": "2018",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志"
+                }
+              }
+            ],
+            "video": false,
+            "length": 502000,
+            "id": "e3e78162-77fd-44e9-9a56-57c42191e412"
+          },
+          "id": "8688f999-5bd9-4231-a26a-979dc226b932",
+          "number": "12",
+          "title": "鼠说",
+          "length": 502000,
+          "position": 12,
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "disambiguation": "",
+                "country": "CN"
+              }
+            }
+          ]
+        }
+      ],
+      "id": "282e9679-d9ac-3f6d-863b-24ac378cb9cc",
+      "track-offset": 0,
+      "track-count": 12
+    }
+  ],
+  "packaging": "Jewel Case",
+  "barcode": "9787883306955",
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "name": "李志",
+      "artist": {
+        "disambiguation": "",
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "name": "李志",
+        "country": "CN",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Li, Zhi"
+      }
+    }
+  ],
+  "quality": "normal",
+  "cover-art-archive": {
+    "front": true,
+    "count": 1,
+    "back": false,
+    "darkened": false,
+    "artwork": true
+  },
+  "title": "爵士乐与不插电新编12首",
+  "asin": null
+}

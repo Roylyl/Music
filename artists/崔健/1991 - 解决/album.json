@@ -1,0 +1,160 @@
+{
+  "id": "other-崔健-1991-解决",
+  "artist": "崔健",
+  "title": "解决",
+  "releaseDate": "1991-02",
+  "releaseDatePrecision": "month",
+  "year": 1991,
+  "type": "studio",
+  "path": "artists/崔健/1991 - 解决",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "Artrockstore",
+    "url": "https://artrockstore.com/cdn/shop/files/R-5335236-1390835475-8858_1024x1024.jpg?v=1696137493",
+    "width": 600,
+    "height": 600,
+    "lowResolution": false,
+    "originalPath": "covers/originals/1991 - 解决 - 崔健.jpg"
+  },
+  "catalogUrl": "https://www.bmcritic.com/album/u26sk8",
+  "tracklistCompleteness": "partial",
+  "notes": "仅导入用户指定曲目；专辑其余曲目尚未编目。",
+  "tracks": [
+    {
+      "id": "other-崔健-1991-解决-d01-t03",
+      "artist": "崔健",
+      "album": "解决",
+      "title": "一块红布",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 280.738,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/崔健/1991 - 解决/01-03 - 一块红布.mp3",
+      "sources": [
+        {
+          "provider": "release-catalog",
+          "url": "https://www.bmcritic.com/album/u26sk8",
+          "status": "reference"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 280.738,
+        "fileSize": 11329571,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "album-track-match; master-unverified",
+      "assets": [
+        {
+          "trackId": "other-崔健-1991-解决-d01-t03",
+          "localPath": "artists/崔健/1991 - 解决/01-03 - 一块红布.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 280.738,
+            "fileSize": 11329571,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "redistributionAllowed": false,
+          "qualityAudit": "not-applicable-lossy",
+          "sourceFileName": "崔健 – 一块红布.flac",
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 280.707,
+            "fileSize": 33077955,
+            "bitRate": 939259
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "versionReviewReason": "本地音频约281秒，所查《解决》曲目资料约371秒；版本未确认。",
+      "qualityAudit": "not-applicable-lossy",
+      "sourceFileName": "崔健 – 一块红布.flac",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 280.707,
+        "fileSize": 33077955,
+        "bitRate": 939259
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "other-崔健-1991-解决-d01-t03",
+          "localPath": "artists/崔健/1991 - 解决/01-03 - 一块红布.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 280.738,
+            "fileSize": 11329571,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "redistributionAllowed": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "sourceFileName": "崔健 – 一块红布.flac",
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 280.707,
+            "fileSize": 33077955,
+            "bitRate": 939259
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "versionReviewReason": "本地音频约281秒，所查《解决》曲目资料约371秒；版本未确认。"
+}

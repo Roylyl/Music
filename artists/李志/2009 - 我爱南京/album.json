@@ -1,0 +1,2409 @@
+{
+  "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad",
+  "artist": "李志",
+  "title": "我爱南京",
+  "releaseDate": "2009-10-16",
+  "releaseDatePrecision": "day",
+  "year": 2009,
+  "type": "studio",
+  "path": "artists/李志/2009 - 我爱南京",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t01",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "意味",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 201.744,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1TX8PHD5J3cwl-NfUjFxG-_Oq8b9wqXeC/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/01-01 - 意味.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--21",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--5",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 1,
+          "duration": 201.701,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 201.744,
+        "fileSize": 8130740,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t01",
+          "localPath": "artists/李志/2009 - 我爱南京/01-01 - 意味.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1TX8PHD5J3cwl-NfUjFxG-_Oq8b9wqXeC/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 201.744,
+            "fileSize": 8130740,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 201.701,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 201.701,
+            "fileSize": 15457193,
+            "bitRate": 610398
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 201.753,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 201.701,
+        "fileSize": 15457193,
+        "bitRate": 610398
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t01",
+          "localPath": "artists/李志/2009 - 我爱南京/01-01 - 意味.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1TX8PHD5J3cwl-NfUjFxG-_Oq8b9wqXeC/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 201.744,
+            "fileSize": 8130740,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 201.701,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 201.701,
+            "fileSize": 15457193,
+            "bitRate": 610398
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t02",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "苍井空",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 260.336,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1hfRef2f2wMqK51Bew_5EWeQyvaJ3UvHz/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/01-02 - 苍井空.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--22",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--5",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 2,
+          "duration": 260.29,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 260.336,
+        "fileSize": 10476792,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t02",
+          "localPath": "artists/李志/2009 - 我爱南京/01-02 - 苍井空.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1hfRef2f2wMqK51Bew_5EWeQyvaJ3UvHz/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 260.336,
+            "fileSize": 10476792,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 260.29,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 260.29,
+            "fileSize": 29345196,
+            "bitRate": 899423
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 260.34,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 260.29,
+        "fileSize": 29345196,
+        "bitRate": 899423
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t02",
+          "localPath": "artists/李志/2009 - 我爱南京/01-02 - 苍井空.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1hfRef2f2wMqK51Bew_5EWeQyvaJ3UvHz/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 260.336,
+            "fileSize": 10476792,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 260.29,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 260.29,
+            "fileSize": 29345196,
+            "bitRate": 899423
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t03",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "结婚",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 352.653,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1WUaVzPvk3iVxzkCoT5O_KDJejMsjXurx/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/01-03 - 结婚.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 352.653,
+        "fileSize": 14173152,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t03",
+          "localPath": "artists/李志/2009 - 我爱南京/01-03 - 结婚.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1WUaVzPvk3iVxzkCoT5O_KDJejMsjXurx/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 352.653,
+            "fileSize": 14173152,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 352.621,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 352.621,
+            "fileSize": 30742075,
+            "bitRate": 695577
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 352.647,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 352.621,
+        "fileSize": 30742075,
+        "bitRate": 695577
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t03",
+          "localPath": "artists/李志/2009 - 我爱南京/01-03 - 结婚.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1WUaVzPvk3iVxzkCoT5O_KDJejMsjXurx/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 352.653,
+            "fileSize": 14173152,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 352.621,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 352.621,
+            "fileSize": 30742075,
+            "bitRate": 695577
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t04",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "鸵鸟",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 267.233,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1iqgTifghwAOYcFT2rzZbqbC_M8VMddWA/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/01-04 - 鸵鸟.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--24",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--5",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 4,
+          "duration": 267.191,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 267.233,
+        "fileSize": 10752919,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t04",
+          "localPath": "artists/李志/2009 - 我爱南京/01-04 - 鸵鸟.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1iqgTifghwAOYcFT2rzZbqbC_M8VMddWA/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 267.233,
+            "fileSize": 10752919,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 267.191,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 267.191,
+            "fileSize": 30254691,
+            "bitRate": 903396
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 267.235,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 267.191,
+        "fileSize": 30254691,
+        "bitRate": 903396
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t04",
+          "localPath": "artists/李志/2009 - 我爱南京/01-04 - 鸵鸟.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1iqgTifghwAOYcFT2rzZbqbC_M8VMddWA/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 267.233,
+            "fileSize": 10752919,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 267.191,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 267.191,
+            "fileSize": 30254691,
+            "bitRate": 903396
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t05",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "天空之城",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 223.06,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1PCYuLPsf1gZk1bW84pu8gC285PFHs-1e/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/01-05 - 天空之城.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--25",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--5",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 5,
+          "duration": 223.015,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 223.06,
+        "fileSize": 8984233,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t05",
+          "localPath": "artists/李志/2009 - 我爱南京/01-05 - 天空之城.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1PCYuLPsf1gZk1bW84pu8gC285PFHs-1e/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 223.06,
+            "fileSize": 8984233,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 223.015,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 223.015,
+            "fileSize": 22330365,
+            "bitRate": 798369
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 223.067,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 223.015,
+        "fileSize": 22330365,
+        "bitRate": 798369
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t05",
+          "localPath": "artists/李志/2009 - 我爱南京/01-05 - 天空之城.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1PCYuLPsf1gZk1bW84pu8gC285PFHs-1e/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 223.06,
+            "fileSize": 8984233,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 223.015,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 223.015,
+            "fileSize": 22330365,
+            "bitRate": 798369
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t06",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "倒影",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 182.909,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1bt4-Ejf7tO38B3nh5MCZnVNBKcQmCbuz/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/01-06 - 倒影.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--26",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--5",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 6,
+          "duration": 182.865,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 182.909,
+        "fileSize": 7376615,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t06",
+          "localPath": "artists/李志/2009 - 我爱南京/01-06 - 倒影.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1bt4-Ejf7tO38B3nh5MCZnVNBKcQmCbuz/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 182.909,
+            "fileSize": 7376615,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 182.865,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 182.865,
+            "fileSize": 22765051,
+            "bitRate": 992659
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 182.92,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 182.865,
+        "fileSize": 22765051,
+        "bitRate": 992659
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t06",
+          "localPath": "artists/李志/2009 - 我爱南京/01-06 - 倒影.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1bt4-Ejf7tO38B3nh5MCZnVNBKcQmCbuz/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 182.909,
+            "fileSize": 7376615,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 182.865,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 182.865,
+            "fileSize": 22765051,
+            "bitRate": 992659
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t07",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "爱",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 200.856,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1WxQir_fMYgJGIfsxiPAIfRwF74gOYv4b/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/01-07 - 爱.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--27",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--5",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 7,
+          "duration": 200.819,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 200.856,
+        "fileSize": 8095176,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t07",
+          "localPath": "artists/李志/2009 - 我爱南京/01-07 - 爱.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1WxQir_fMYgJGIfsxiPAIfRwF74gOYv4b/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 200.856,
+            "fileSize": 8095176,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 200.819,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 200.819,
+            "fileSize": 19671094,
+            "bitRate": 780781
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 200.865,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 200.819,
+        "fileSize": 19671094,
+        "bitRate": 780781
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t07",
+          "localPath": "artists/李志/2009 - 我爱南京/01-07 - 爱.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1WxQir_fMYgJGIfsxiPAIfRwF74gOYv4b/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 200.856,
+            "fileSize": 8095176,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 200.819,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 200.819,
+            "fileSize": 19671094,
+            "bitRate": 780781
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t08",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "家乡",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 343.327,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/18nbHfVhJqRRppNgChrgcIGoE1I8g-AsU/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/01-08 - 家乡.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--28",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--5",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 8,
+          "duration": 343.293,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 343.327,
+        "fileSize": 13799750,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t08",
+          "localPath": "artists/李志/2009 - 我爱南京/01-08 - 家乡.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/18nbHfVhJqRRppNgChrgcIGoE1I8g-AsU/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 343.327,
+            "fileSize": 13799750,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 343.293,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 343.293,
+            "fileSize": 31830455,
+            "bitRate": 739814
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 343.323,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 343.293,
+        "fileSize": 31830455,
+        "bitRate": 739814
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t08",
+          "localPath": "artists/李志/2009 - 我爱南京/01-08 - 家乡.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/18nbHfVhJqRRppNgChrgcIGoE1I8g-AsU/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 343.327,
+            "fileSize": 13799750,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 343.293,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 343.293,
+            "fileSize": 31830455,
+            "bitRate": 739814
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t09",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "1990年的春天",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 269.531,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Bknk7ckWAmBbwDp9cPc6gC1Wk6Y6Ep6q/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/01-09 - 1990年的春天.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 269.531,
+        "fileSize": 10844974,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t09",
+          "localPath": "artists/李志/2009 - 我爱南京/01-09 - 1990年的春天.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Bknk7ckWAmBbwDp9cPc6gC1Wk6Y6Ep6q/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 269.531,
+            "fileSize": 10844974,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 269.492,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 269.492,
+            "fileSize": 29961765,
+            "bitRate": 886998
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 269.534,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 269.492,
+        "fileSize": 29961765,
+        "bitRate": 886998
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t09",
+          "localPath": "artists/李志/2009 - 我爱南京/01-09 - 1990年的春天.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Bknk7ckWAmBbwDp9cPc6gC1Wk6Y6Ep6q/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 269.531,
+            "fileSize": 10844974,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 269.492,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 269.492,
+            "fileSize": 29961765,
+            "bitRate": 886998
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t01",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "冬妮娅",
+      "discNumber": 2,
+      "trackNumber": 1,
+      "sequenceNumber": 10,
+      "duration": 232.464,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Bj47qTLtvPsElL_8sF-L9a7lAGPnEPRH/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/02-01 - 冬妮娅.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 232.464,
+        "fileSize": 9360771,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t01",
+          "localPath": "artists/李志/2009 - 我爱南京/02-01 - 冬妮娅.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Bj47qTLtvPsElL_8sF-L9a7lAGPnEPRH/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 232.464,
+            "fileSize": 9360771,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 232.413,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 232.413,
+            "fileSize": 24487841,
+            "bitRate": 840277
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 232.47,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 232.413,
+        "fileSize": 24487841,
+        "bitRate": 840277
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t01",
+          "localPath": "artists/李志/2009 - 我爱南京/02-01 - 冬妮娅.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Bj47qTLtvPsElL_8sF-L9a7lAGPnEPRH/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 232.464,
+            "fileSize": 9360771,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 232.413,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 232.413,
+            "fileSize": 24487841,
+            "bitRate": 840277
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t02",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "听妈妈讲那过去的事情",
+      "discNumber": 2,
+      "trackNumber": 2,
+      "sequenceNumber": 11,
+      "duration": 169.744,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1sZKWY57wPgg6Cx2kKuMU4GDKu5emZZKQ/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/02-02 - 听妈妈讲那过去的事情.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 169.744,
+        "fileSize": 6849476,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t02",
+          "localPath": "artists/李志/2009 - 我爱南京/02-02 - 听妈妈讲那过去的事情.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1sZKWY57wPgg6Cx2kKuMU4GDKu5emZZKQ/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 169.744,
+            "fileSize": 6849476,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 169.693,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 169.693,
+            "fileSize": 19050569,
+            "bitRate": 894768
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 169.756,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 169.693,
+        "fileSize": 19050569,
+        "bitRate": 894768
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t02",
+          "localPath": "artists/李志/2009 - 我爱南京/02-02 - 听妈妈讲那过去的事情.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1sZKWY57wPgg6Cx2kKuMU4GDKu5emZZKQ/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 169.744,
+            "fileSize": 6849476,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 169.693,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 169.693,
+            "fileSize": 19050569,
+            "bitRate": 894768
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t03",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "美丽的梭罗河",
+      "discNumber": 2,
+      "trackNumber": 3,
+      "sequenceNumber": 12,
+      "duration": 149.368,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1ypt3E8EixtA4pASXsRmyZXhTbqraVqWH/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/02-03 - 美丽的梭罗河.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 149.368,
+        "fileSize": 6033632,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t03",
+          "localPath": "artists/李志/2009 - 我爱南京/02-03 - 美丽的梭罗河.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1ypt3E8EixtA4pASXsRmyZXhTbqraVqWH/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 149.368,
+            "fileSize": 6033632,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 149.339,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 149.339,
+            "fileSize": 15623971,
+            "bitRate": 833345
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 149.382,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 149.339,
+        "fileSize": 15623971,
+        "bitRate": 833345
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t03",
+          "localPath": "artists/李志/2009 - 我爱南京/02-03 - 美丽的梭罗河.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1ypt3E8EixtA4pASXsRmyZXhTbqraVqWH/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 149.368,
+            "fileSize": 6033632,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 149.339,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 149.339,
+            "fileSize": 15623971,
+            "bitRate": 833345
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t04",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "米店",
+      "discNumber": 2,
+      "trackNumber": 4,
+      "sequenceNumber": 13,
+      "duration": 211.043,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1PyJ9I1MclLbQIEi9r9jCVMG-EWMAZXeh/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/02-04 - 米店.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--29",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--5",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 9,
+          "duration": 211.0,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 211.043,
+        "fileSize": 8503095,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t04",
+          "localPath": "artists/李志/2009 - 我爱南京/02-04 - 米店.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1PyJ9I1MclLbQIEi9r9jCVMG-EWMAZXeh/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 211.043,
+            "fileSize": 8503095,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 211.0,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 211.0,
+            "fileSize": 22036523,
+            "bitRate": 832702
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 211.051,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 211.0,
+        "fileSize": 22036523,
+        "bitRate": 832702
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t04",
+          "localPath": "artists/李志/2009 - 我爱南京/02-04 - 米店.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1PyJ9I1MclLbQIEi9r9jCVMG-EWMAZXeh/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 211.043,
+            "fileSize": 8503095,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 211.0,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 211.0,
+            "fileSize": 22036523,
+            "bitRate": 832702
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t05",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "思念观世音",
+      "discNumber": 2,
+      "trackNumber": 5,
+      "sequenceNumber": 14,
+      "duration": 206.498,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%80%9D%E5%BF%B5%E8%A7%82%E4%B8%96%E9%9F%B3.mp3",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/02-05 - 思念观世音.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--30",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--5",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 10,
+          "duration": 206.454,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 206.498,
+        "fileSize": 8321107,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t05",
+          "localPath": "artists/李志/2009 - 我爱南京/02-05 - 思念观世音.mp3",
+          "sourceUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%80%9D%E5%BF%B5%E8%A7%82%E4%B8%96%E9%9F%B3.mp3",
+          "provider": "GitHub lvboda/lizhi-mp3",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 206.498,
+            "fileSize": 8321107,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 206.498,
+            "fileSize": 8321107,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 206.507,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 206.498,
+        "fileSize": 8321107,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t05",
+          "localPath": "artists/李志/2009 - 我爱南京/02-05 - 思念观世音.mp3",
+          "sourceUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%80%9D%E5%BF%B5%E8%A7%82%E4%B8%96%E9%9F%B3.mp3",
+          "provider": "GitHub lvboda/lizhi-mp3",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 206.498,
+            "fileSize": 8321107,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 206.498,
+            "fileSize": 8321107,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t06",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "在那遥远的地方",
+      "discNumber": 2,
+      "trackNumber": 6,
+      "sequenceNumber": 15,
+      "duration": 171.833,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1lBS3CG4v4yf-zU8_wflurHS4mZDrTmuG/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/02-06 - 在那遥远的地方.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 171.833,
+        "fileSize": 6933145,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t06",
+          "localPath": "artists/李志/2009 - 我爱南京/02-06 - 在那遥远的地方.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1lBS3CG4v4yf-zU8_wflurHS4mZDrTmuG/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 171.833,
+            "fileSize": 6933145,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 171.801,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 171.801,
+            "fileSize": 19055013,
+            "bitRate": 883997
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 171.846,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 171.801,
+        "fileSize": 19055013,
+        "bitRate": 883997
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t06",
+          "localPath": "artists/李志/2009 - 我爱南京/02-06 - 在那遥远的地方.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1lBS3CG4v4yf-zU8_wflurHS4mZDrTmuG/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 171.833,
+            "fileSize": 6933145,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 171.801,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 171.801,
+            "fileSize": 19055013,
+            "bitRate": 883997
+          }
+        }
+      ]
+    },
+    {
+      "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t07",
+      "artist": "李志",
+      "album": "我爱南京",
+      "title": "再见",
+      "discNumber": 2,
+      "trackNumber": 7,
+      "sequenceNumber": 16,
+      "duration": 88.921,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1bBLSQlpvpYLelTGHAyaoJVEu3gpTBuwj/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "artists/李志/2009 - 我爱南京/02-07 - 再见.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/--31",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--5",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 11,
+          "duration": 88.8794,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 88.921,
+        "fileSize": 3613312,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t07",
+          "localPath": "artists/李志/2009 - 我爱南京/02-07 - 再见.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1bBLSQlpvpYLelTGHAyaoJVEu3gpTBuwj/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 88.921,
+            "fileSize": 3613312,
+            "bitRate": 320000
+          },
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 88.879,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 88.879,
+            "fileSize": 8252193,
+            "bitRate": 737354
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 88.941,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 88.879,
+        "fileSize": 8252193,
+        "bitRate": 737354
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t07",
+          "localPath": "artists/李志/2009 - 我爱南京/02-07 - 再见.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1bBLSQlpvpYLelTGHAyaoJVEu3gpTBuwj/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "suspected_transcode": false,
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 88.921,
+            "fileSize": 3613312,
+            "bitRate": 320000
+          },
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 88.879,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 88.879,
+            "fileSize": 8252193,
+            "bitRate": 737354
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/355106ea-2263-4983-b24a-42d225d222ad",
+    "https://lizhilizhi.bandcamp.com/album/--5"
+  ],
+  "notes": [],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "Bandcamp",
+      "url": "https://lizhilizhi.bandcamp.com/album/--5",
+      "title": "我愛南京",
+      "releaseDate": "22 Oct 2020 00:00:00 GMT",
+      "trackCount": 11,
+      "tracks": [
+        {
+          "title": "意味",
+          "track_num": 1,
+          "duration": 201.701,
+          "title_link": "/track/--21",
+          "track_id": 3382201867
+        },
+        {
+          "title": "蒼井空",
+          "track_num": 2,
+          "duration": 260.29,
+          "title_link": "/track/--22",
+          "track_id": 2611121502
+        },
+        {
+          "title": "李志LiZhi,老狼,萬曉利 - 結婚",
+          "track_num": 3,
+          "duration": 352.621,
+          "title_link": "/track/--23",
+          "track_id": 2611910347
+        },
+        {
+          "title": "鴕鳥",
+          "track_num": 4,
+          "duration": 267.191,
+          "title_link": "/track/--24",
+          "track_id": 2758017554
+        },
+        {
+          "title": "天空之城",
+          "track_num": 5,
+          "duration": 223.015,
+          "title_link": "/track/--25",
+          "track_id": 2985447782
+        },
+        {
+          "title": "倒影",
+          "track_num": 6,
+          "duration": 182.865,
+          "title_link": "/track/--26",
+          "track_id": 265143925
+        },
+        {
+          "title": "愛",
+          "track_num": 7,
+          "duration": 200.819,
+          "title_link": "/track/--27",
+          "track_id": 1100569895
+        },
+        {
+          "title": "家鄉",
+          "track_num": 8,
+          "duration": 343.293,
+          "title_link": "/track/--28",
+          "track_id": 2846391556
+        },
+        {
+          "title": "米店",
+          "track_num": 9,
+          "duration": 211.0,
+          "title_link": "/track/--29",
+          "track_id": 823684696
+        },
+        {
+          "title": "思念觀世音",
+          "track_num": 10,
+          "duration": 206.454,
+          "title_link": "/track/--30",
+          "track_id": 2888373234
+        },
+        {
+          "title": "再見",
+          "track_num": 11,
+          "duration": 88.8794,
+          "title_link": "/track/--31",
+          "track_id": 200918792
+        }
+      ],
+      "offer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $85 HKD or more Send as Gift",
+      "note": "平台上架日期，不替代原始发行日期。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "355106ea-2263-4983-b24a-42d225d222ad",
+    "title": "我爱南京",
+    "date": "2009-10-16",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2009-10-16",
+      "source": "https://musicbrainz.org/release/355106ea-2263-4983-b24a-42d225d222ad"
+    },
+    {
+      "date": "2009-10-16",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2009 - 李志 - 我爱南京.jpg",
+    "width": 3000,
+    "height": 3000,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2009 - 李志 - 我爱南京.jpg"
+  },
+  "trackCount": 16,
+  "tracklistStatus": "edition-listed"
+}

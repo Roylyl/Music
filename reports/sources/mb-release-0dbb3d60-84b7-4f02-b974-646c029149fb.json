@@ -1,0 +1,508 @@
+{
+  "cover-art-archive": {
+    "front": true,
+    "back": false,
+    "artwork": true,
+    "darkened": false,
+    "count": 1
+  },
+  "quality": "normal",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "country": "HK",
+  "date": "2016",
+  "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+  "status": "Official",
+  "id": "0dbb3d60-84b7-4f02-b974-646c029149fb",
+  "packaging": "None",
+  "media": [
+    {
+      "id": "f7d8fcd8-2b2f-3f7a-8484-920df7b7d244",
+      "title": "",
+      "track-count": 8,
+      "position": 1,
+      "format": "Digital Media",
+      "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+      "track-offset": 0,
+      "tracks": [
+        {
+          "recording": {
+            "title": "你的早晨（2015跨年版）",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "country": "CN"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "2016",
+            "video": false,
+            "id": "d8dc6b6d-e7f5-42de-8b87-5050fdf057fb",
+            "length": 339968
+          },
+          "number": "1",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "type": "Person",
+                "disambiguation": "",
+                "country": "CN",
+                "sort-name": "Li, Zhi",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              },
+              "name": "李志"
+            }
+          ],
+          "id": "b143bf51-f65e-4e41-9600-2e3e45611dfb",
+          "title": "你的早晨（2015跨年版）",
+          "position": 1,
+          "length": 340033
+        },
+        {
+          "number": "2",
+          "artist-credit": [
+            {
+              "joinphrase": " feat. ",
+              "name": "李志",
+              "artist": {
+                "type": "Person",
+                "country": "CN",
+                "disambiguation": "",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              }
+            },
+            {
+              "joinphrase": "",
+              "name": "丁薇",
+              "artist": {
+                "disambiguation": "",
+                "country": "CN",
+                "type": "Person",
+                "id": "4e682bab-d7a4-4871-ac11-438d4bb665fc",
+                "sort-name": "Ding, Wei",
+                "name": "丁薇",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              }
+            }
+          ],
+          "recording": {
+            "length": 273280,
+            "id": "f4e29879-8098-4157-a22f-0b50b6a5a47e",
+            "video": false,
+            "disambiguation": "",
+            "title": "普希金（2015跨年版）",
+            "first-release-date": "2016",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type": "Person"
+                },
+                "joinphrase": ""
+              }
+            ]
+          },
+          "position": 2,
+          "length": 273345,
+          "id": "7931d9d1-7f8c-4b5a-91e7-c2a8e2d57a70",
+          "title": "普希金（2015跨年版）"
+        },
+        {
+          "length": 276665,
+          "position": 3,
+          "title": "卡夫卡（2015跨年版）",
+          "id": "ccd6c7d4-9ca5-4285-8b5c-922413e67092",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "disambiguation": "",
+                "type": "Person"
+              },
+              "name": "李志"
+            }
+          ],
+          "number": "3",
+          "recording": {
+            "id": "357c32e8-b1b6-41de-a6e6-b34832dc330a",
+            "video": false,
+            "length": 276603,
+            "disambiguation": "",
+            "title": "卡夫卡（2015跨年版）",
+            "first-release-date": "2016",
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "type": "Person"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ]
+          }
+        },
+        {
+          "recording": {
+            "disambiguation": "",
+            "title": "和你在一起（2015跨年版）",
+            "first-release-date": "2016",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "country": "CN",
+                  "disambiguation": ""
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "id": "8a2dc9f8-2ff5-4504-acc6-a7979c9238c4",
+            "video": false,
+            "length": 280021
+          },
+          "number": "4",
+          "artist-credit": [
+            {
+              "artist": {
+                "disambiguation": "",
+                "country": "CN",
+                "type": "Person",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "id": "578ae455-cd3c-43f5-b8a8-b6417c1fc2cb",
+          "title": "和你在一起（2015跨年版）",
+          "position": 4,
+          "length": 280079
+        },
+        {
+          "length": 266565,
+          "position": 5,
+          "title": "忽然（2015跨年版）",
+          "id": "7fc05552-42a0-4595-9beb-3620f16fd3ec",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "country": "CN",
+                "disambiguation": ""
+              }
+            }
+          ],
+          "number": "5",
+          "recording": {
+            "length": 266496,
+            "id": "db657244-d300-43ad-b7ab-3f2f057063be",
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "type": "Person"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "2016",
+            "disambiguation": "",
+            "title": "忽然（2015跨年版）"
+          }
+        },
+        {
+          "recording": {
+            "video": false,
+            "id": "b632fd31-5852-422e-901c-ea346d58e12c",
+            "length": 265190,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "disambiguation": "",
+                  "type": "Person"
+                },
+                "name": "李志"
+              }
+            ],
+            "first-release-date": "2016",
+            "title": "定西（2015跨年版）",
+            "disambiguation": ""
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "disambiguation": "",
+                "type": "Person"
+              },
+              "name": "李志"
+            }
+          ],
+          "number": "6",
+          "title": "定西（2015跨年版）",
+          "id": "fef5ce54-ec6c-49eb-9516-4f8ff91a3003",
+          "length": 265241,
+          "position": 6
+        },
+        {
+          "recording": {
+            "length": 405243,
+            "id": "6fadccce-c52a-42b8-8293-2533f9118dc4",
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "李志",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "country": "CN"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "2016",
+            "disambiguation": "",
+            "title": "牆上的向日葵（2015跨年版）"
+          },
+          "number": "8",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "name": "李志",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "disambiguation": "",
+                "country": "CN"
+              },
+              "name": "李志"
+            }
+          ],
+          "id": "510a5dc5-a16f-4b56-a1f6-ace6d8ff4b71",
+          "title": "牆上的向日葵（2015跨年版）",
+          "position": 7,
+          "length": 405304
+        },
+        {
+          "number": "9",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "disambiguation": "",
+                "type": "Person"
+              }
+            }
+          ],
+          "recording": {
+            "title": "盡頭（2015跨年版）",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi",
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type": "Person"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "2016",
+            "length": 206128,
+            "video": false,
+            "id": "d17b62bf-0c53-425a-8c53-b1adbb385699"
+          },
+          "position": 8,
+          "length": 206193,
+          "id": "ccf04f17-7a9a-4429-8c56-8c1c0719246a",
+          "title": "盡頭（2015跨年版）"
+        }
+      ]
+    }
+  ],
+  "artist-credit": [
+    {
+      "name": "李志",
+      "artist": {
+        "disambiguation": "",
+        "country": "CN",
+        "type": "Person",
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "sort-name": "Li, Zhi",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "李志"
+      },
+      "joinphrase": ""
+    }
+  ],
+  "asin": null,
+  "barcode": "9555150725255",
+  "release-events": [
+    {
+      "date": "2016",
+      "area": {
+        "sort-name": "Hong Kong",
+        "iso-3166-2-codes": [
+          "CN-91"
+        ],
+        "type-id": null,
+        "iso-3166-1-codes": [
+          "HK"
+        ],
+        "name": "Hong Kong",
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": null,
+        "disambiguation": ""
+      }
+    },
+    {
+      "area": {
+        "type-id": null,
+        "iso-3166-1-codes": [
+          "MO"
+        ],
+        "name": "Macao",
+        "sort-name": "Macao",
+        "iso-3166-2-codes": [
+          "CN-92"
+        ],
+        "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+        "type": null,
+        "disambiguation": ""
+      },
+      "date": "2016"
+    },
+    {
+      "area": {
+        "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+        "iso-3166-1-codes": [
+          "TW"
+        ],
+        "name": "Taiwan",
+        "type-id": null,
+        "sort-name": "Taiwan",
+        "iso-3166-2-codes": [
+          "CN-71"
+        ],
+        "disambiguation": "",
+        "type": null
+      },
+      "date": "2016"
+    }
+  ],
+  "disambiguation": "",
+  "title": "動靜",
+  "text-representation": {
+    "language": "zho",
+    "script": "Hant"
+  },
+  "release-group": {
+    "id": "69a04640-d2e8-45fc-8bfa-d2a6952e31dd",
+    "secondary-type-ids": [
+      "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+    ],
+    "disambiguation": "",
+    "title": "動靜",
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "secondary-types": [
+      "Live"
+    ],
+    "artist-credit": [
+      {
+        "name": "李志",
+        "artist": {
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "name": "李志",
+          "sort-name": "Li, Zhi",
+          "country": "CN",
+          "disambiguation": "",
+          "type": "Person"
+        },
+        "joinphrase": ""
+      }
+    ],
+    "first-release-date": "2016-01-01",
+    "primary-type": "Album"
+  }
+}

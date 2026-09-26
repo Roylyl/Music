@@ -1,0 +1,544 @@
+{
+  "disambiguation": "",
+  "asin": null,
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "packaging": null,
+  "country": "CN",
+  "barcode": "9787881016306",
+  "text-representation": {
+    "language": "zho",
+    "script": "Hans"
+  },
+  "cover-art-archive": {
+    "artwork": true,
+    "front": true,
+    "darkened": false,
+    "back": false,
+    "count": 1
+  },
+  "quality": "normal",
+  "status": "Official",
+  "media": [
+    {
+      "tracks": [
+        {
+          "id": "944402d8-0337-4e55-9fb0-194c4c43d69b",
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "type": "Person",
+                "name": "李志",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "position": 1,
+          "number": "1",
+          "title": "妈妈",
+          "recording": {
+            "id": "ea5b1b1b-c0c4-4511-8463-f3bebdef2055",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": ""
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "first-release-date": "2006-11-20",
+            "video": false,
+            "title": "妈妈",
+            "length": 244107
+          },
+          "length": null
+        },
+        {
+          "position": 2,
+          "id": "218f53e0-0372-4ee8-b209-3189364efa40",
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "李志"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "number": "2",
+          "recording": {
+            "video": false,
+            "first-release-date": "2006-11-20",
+            "id": "6c726060-05f3-4e58-90ee-57817d998c86",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": "",
+                  "type": "Person",
+                  "name": "李志",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "title": "喀纳斯",
+            "length": 320000
+          },
+          "title": "喀纳斯",
+          "length": null
+        },
+        {
+          "number": "3",
+          "position": 3,
+          "artist-credit": [
+            {
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "name": "李志",
+                "type": "Person",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "id": "bf0afe42-c3de-4bfb-9e17-96045a216c64",
+          "length": null,
+          "title": "和你在一起",
+          "recording": {
+            "length": 251933,
+            "title": "和你在一起",
+            "first-release-date": "2006-11-20",
+            "video": false,
+            "id": "929b6131-d577-4854-9b63-703f6bbeaa5a",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": ""
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ]
+          }
+        },
+        {
+          "recording": {
+            "length": 251907,
+            "title": "我们不能失去信仰",
+            "id": "ecdfb61c-bc55-43b0-9a35-62c8f827b578",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "name": "李志",
+                  "type": "Person"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "first-release-date": "2006-11-20",
+            "video": false
+          },
+          "title": "我们不能失去信仰",
+          "length": null,
+          "id": "4d6c86c5-77c2-40b9-aa55-0471a7be813f",
+          "artist-credit": [
+            {
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "name": "李志",
+                "type": "Person",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": ""
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "position": 4,
+          "number": "4"
+        },
+        {
+          "recording": {
+            "length": 256480,
+            "title": "翁庆年的六英镑",
+            "first-release-date": "2006-11-20",
+            "video": false,
+            "id": "3ab77a69-67ce-45f7-bfb1-c5efe9fb6734",
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "李志",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "type": "Person",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": ""
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "disambiguation": ""
+          },
+          "title": "翁庆年的六英镑",
+          "length": null,
+          "position": 5,
+          "id": "8ada2ca9-4f97-4854-b66f-10ca7ed8c7cb",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "name": "李志",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              }
+            }
+          ],
+          "number": "5"
+        },
+        {
+          "title": "他们",
+          "recording": {
+            "video": false,
+            "first-release-date": "2006-11-20",
+            "id": "b4aa8924-d77a-4e98-bee4-ef8abcd77d7d",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "李志",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": ""
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "length": null,
+            "title": "他们"
+          },
+          "length": null,
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "sort-name": "Li, Zhi",
+                "name": "李志",
+                "type": "Person"
+              }
+            }
+          ],
+          "id": "ae53a49e-5cda-4a05-905a-19a6b1423b24",
+          "position": 6,
+          "number": "6"
+        },
+        {
+          "position": 7,
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "name": "李志",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "id": "46bdf69d-e4da-4a3d-b1d7-0345b814b991",
+          "number": "7",
+          "recording": {
+            "disambiguation": "",
+            "id": "5ad0edac-ad52-4bd8-8b62-5bdb94d04925",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "name": "李志",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "first-release-date": "2006-11-20",
+            "title": "海的女儿",
+            "length": 210920
+          },
+          "title": "海的女儿",
+          "length": null
+        },
+        {
+          "position": 8,
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "name": "李志",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "type": "Person",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              }
+            }
+          ],
+          "id": "c9debbd9-7abe-4d50-a8ad-86c4260e945e",
+          "number": "8",
+          "title": "交河（乐曲）",
+          "recording": {
+            "length": 218427,
+            "title": "交河（乐曲）",
+            "first-release-date": "2006-11-20",
+            "video": false,
+            "id": "f4af7713-65a1-4386-9846-59e268a4dce2",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "name": "李志",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ]
+          },
+          "length": null
+        },
+        {
+          "title": "这个世界会好吗",
+          "recording": {
+            "first-release-date": "2006-11-20",
+            "video": false,
+            "disambiguation": "",
+            "id": "5b78f3a5-38b0-4199-a547-a97a343f3ece",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": ""
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "length": 240000,
+            "title": "这个世界会好吗"
+          },
+          "length": null,
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "disambiguation": "",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "sort-name": "Li, Zhi",
+                "name": "李志",
+                "type": "Person"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "id": "4939177a-09f5-4ff4-9fcd-bc526c6a2c68",
+          "position": 9,
+          "number": "9"
+        },
+        {
+          "number": "10",
+          "id": "14a76672-2c03-495f-a25a-4bdea2850320",
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "type": "Person",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "name": "李志"
+              }
+            }
+          ],
+          "position": 10,
+          "length": null,
+          "title": "人民不需要自由",
+          "recording": {
+            "title": "人民不需要自由",
+            "length": null,
+            "id": "affc53bf-794c-4fb1-b1ed-7f3425578672",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "name": "李志",
+                  "type": "Person"
+                },
+                "name": "李志",
+                "joinphrase": ""
+              }
+            ],
+            "first-release-date": "2006-11-20",
+            "video": false
+          }
+        }
+      ],
+      "title": "",
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+      "track-count": 10,
+      "track-offset": 0,
+      "position": 1,
+      "id": "23d14f67-5c58-3b91-a8d7-84ef903153f0",
+      "format": "CD"
+    }
+  ],
+  "id": "083e1542-8767-4a92-8465-bc3fb233b8b9",
+  "artist-credit": [
+    {
+      "artist": {
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Li, Zhi",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "CN",
+        "name": "李志"
+      },
+      "name": "李志",
+      "joinphrase": ""
+    }
+  ],
+  "release-events": [
+    {
+      "area": {
+        "iso-3166-1-codes": [
+          "CN"
+        ],
+        "disambiguation": "",
+        "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+        "type": null,
+        "type-id": null,
+        "sort-name": "China",
+        "name": "China"
+      },
+      "date": "2006-11-20"
+    }
+  ],
+  "date": "2006-11-20",
+  "packaging-id": null,
+  "release-group": {
+    "id": "a6c427b3-78d5-4537-95f1-5e5bc80c2c9c",
+    "disambiguation": "",
+    "artist-credit": [
+      {
+        "artist": {
+          "disambiguation": "",
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+          "type": "Person",
+          "name": "李志",
+          "sort-name": "Li, Zhi",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "country": "CN"
+        },
+        "joinphrase": "",
+        "name": "李志"
+      }
+    ],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "first-release-date": "2006-11-20",
+    "primary-type": "Album",
+    "secondary-types": [],
+    "title": "这个世界会好吗",
+    "secondary-type-ids": []
+  },
+  "title": "这个世界会好吗"
+}

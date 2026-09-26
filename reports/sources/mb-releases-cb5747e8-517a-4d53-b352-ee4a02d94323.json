@@ -1,0 +1,108 @@
+{
+  "releases": [
+    {
+      "media": [
+        {
+          "track-count": 6,
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "b2ccf82c-87cf-3c61-9691-95f34e6cc990",
+          "position": 1,
+          "format": "Digital Media"
+        }
+      ],
+      "id": "07cb3427-dc88-473d-bd2a-77e2114d40e4",
+      "date": "2020-10-22",
+      "release-events": [
+        {
+          "date": "2020-10-22",
+          "area": {
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type": null,
+            "sort-name": "[Worldwide]",
+            "type-id": null,
+            "disambiguation": "",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]"
+          }
+        }
+      ],
+      "asin": null,
+      "cover-art-archive": {
+        "artwork": true,
+        "darkened": false,
+        "count": 1,
+        "back": false,
+        "front": true
+      },
+      "title": "1701",
+      "quality": "normal",
+      "packaging": "None",
+      "barcode": "9787883257196",
+      "country": "XW",
+      "disambiguation": "",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "script": "Hant",
+        "language": "zho"
+      },
+      "status": "Official"
+    },
+    {
+      "disambiguation": "",
+      "country": "CN",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "packaging-id": null,
+      "date": "2014",
+      "release-events": [
+        {
+          "date": "2014",
+          "area": {
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "name": "China",
+            "disambiguation": "",
+            "type-id": null,
+            "type": null,
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "sort-name": "China"
+          }
+        }
+      ],
+      "id": "bfe30cec-4119-41e4-9961-338356921a3c",
+      "media": [
+        {
+          "id": "47d18f0c-8daf-3cf4-98be-29189a755768",
+          "format": "CD",
+          "position": 1,
+          "track-count": 8,
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": ""
+        }
+      ],
+      "packaging": null,
+      "barcode": "9787883257196",
+      "quality": "normal",
+      "cover-art-archive": {
+        "artwork": true,
+        "darkened": false,
+        "count": 1,
+        "back": false,
+        "front": true
+      },
+      "title": "1701",
+      "asin": null
+    }
+  ],
+  "release-count": 2,
+  "release-offset": 0
+}

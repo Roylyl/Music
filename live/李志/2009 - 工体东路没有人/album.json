@@ -1,0 +1,2379 @@
+{
+  "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d",
+  "artist": "李志",
+  "title": "工体东路没有人",
+  "releaseDate": "2009-01-22",
+  "releaseDatePrecision": "day",
+  "year": 2009,
+  "type": "live",
+  "path": "live/李志/2009 - 工体东路没有人",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t01",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "被禁忌的游戏",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 330.736,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1EDUuIhZveMoFwxtdyP8KrZ0cNGR7TwkK/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-01 - 被禁忌的游戏.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2009",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--4",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 1,
+          "duration": 330.667,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 330.736,
+        "fileSize": 13342594,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t01",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-01 - 被禁忌的游戏.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1EDUuIhZveMoFwxtdyP8KrZ0cNGR7TwkK/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 330.736,
+            "fileSize": 13342594,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 330.745,
+            "fileSize": 11513728,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 330.667,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 330.745,
+        "fileSize": 11513728,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t01",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-01 - 被禁忌的游戏.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1EDUuIhZveMoFwxtdyP8KrZ0cNGR7TwkK/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 330.736,
+            "fileSize": 13342594,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 330.745,
+            "fileSize": 11513728,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t02",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "和你在一起",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 231.131,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1gu_ux13yBKGCtAoCx0NyGyWFIxLz6R-2/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-02 - 和你在一起.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2009-2",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--4",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 2,
+          "duration": 231.064,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 231.131,
+        "fileSize": 9354412,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t02",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-02 - 和你在一起.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1gu_ux13yBKGCtAoCx0NyGyWFIxLz6R-2/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 231.131,
+            "fileSize": 9354412,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 231.131,
+            "fileSize": 8204066,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 231.064,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 231.131,
+        "fileSize": 8204066,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t02",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-02 - 和你在一起.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1gu_ux13yBKGCtAoCx0NyGyWFIxLz6R-2/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 231.131,
+            "fileSize": 9354412,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 231.131,
+            "fileSize": 8204066,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t03",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "来了",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 323.448,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1gRWPEiGcwoeiuKAt1moSMRqn7CJy0X8k/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-03 - 来了.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2009-3",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--4",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 3,
+          "duration": 323.38,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 323.448,
+        "fileSize": 13050768,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t03",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-03 - 来了.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1gRWPEiGcwoeiuKAt1moSMRqn7CJy0X8k/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 323.448,
+            "fileSize": 13050768,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 323.454,
+            "fileSize": 11260302,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 323.38,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 323.454,
+        "fileSize": 11260302,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t03",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-03 - 来了.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1gRWPEiGcwoeiuKAt1moSMRqn7CJy0X8k/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 323.448,
+            "fileSize": 13050768,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 323.454,
+            "fileSize": 11260302,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t04",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "卡夫卡",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 204.356,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1PmtDkjjjY0JgwloWcniSWLGR89CVwOuP/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-04 - 卡夫卡.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2009-4",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--4",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 4,
+          "duration": 204.275,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 204.356,
+        "fileSize": 8282316,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t04",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-04 - 卡夫卡.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1PmtDkjjjY0JgwloWcniSWLGR89CVwOuP/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 204.356,
+            "fileSize": 8282316,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 204.359,
+            "fileSize": 7315788,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 204.275,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 204.359,
+        "fileSize": 7315788,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t04",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-04 - 卡夫卡.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1PmtDkjjjY0JgwloWcniSWLGR89CVwOuP/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 204.356,
+            "fileSize": 8282316,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 204.359,
+            "fileSize": 7315788,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t05",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "黑色信封",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 289.019,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1UGwDxkYeQP4iB1IBJm5zcQfe7qyyDyAr/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-05 - 黑色信封.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2009-5",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--4",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 5,
+          "duration": 288.947,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 289.019,
+        "fileSize": 11672219,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t05",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-05 - 黑色信封.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1UGwDxkYeQP4iB1IBJm5zcQfe7qyyDyAr/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 289.019,
+            "fileSize": 11672219,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 289.019,
+            "fileSize": 10120978,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 288.947,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 289.019,
+        "fileSize": 10120978,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t05",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-05 - 黑色信封.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1UGwDxkYeQP4iB1IBJm5zcQfe7qyyDyAr/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 289.019,
+            "fileSize": 11672219,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 289.019,
+            "fileSize": 10120978,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t06",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "阿兰",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 215.51,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1O_QmulBkqdxS2GDBb-ejAqe-93N7J32v/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-06 - 阿兰.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2009-6",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--4",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 6,
+          "duration": 215.429,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 215.51,
+        "fileSize": 8728932,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t06",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-06 - 阿兰.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1O_QmulBkqdxS2GDBb-ejAqe-93N7J32v/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 215.51,
+            "fileSize": 8728932,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 215.528,
+            "fileSize": 7672326,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 215.429,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 215.528,
+        "fileSize": 7672326,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t06",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-06 - 阿兰.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1O_QmulBkqdxS2GDBb-ejAqe-93N7J32v/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 215.51,
+            "fileSize": 8728932,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 215.528,
+            "fileSize": 7672326,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t07",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "春末的南方城市",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 200.725,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1H5uqtkvbMq3ddUCIJqbe-FvbPAPYXMEe/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-07 - 春末的南方城市.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2009-7",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--4",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 7,
+          "duration": 200.637,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 200.725,
+        "fileSize": 8136939,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t07",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-07 - 春末的南方城市.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1H5uqtkvbMq3ddUCIJqbe-FvbPAPYXMEe/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 200.725,
+            "fileSize": 8136939,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 200.737,
+            "fileSize": 7200983,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 200.637,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 200.737,
+        "fileSize": 7200983,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t07",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-07 - 春末的南方城市.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1H5uqtkvbMq3ddUCIJqbe-FvbPAPYXMEe/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 200.725,
+            "fileSize": 8136939,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 200.737,
+            "fileSize": 7200983,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t08",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "他们",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 257.593,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1zDquZP19IlEwfH-cn72OShW5KHmiIp07/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-08 - 他们.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 257.593,
+        "fileSize": 10413945,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t08",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-08 - 他们.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1zDquZP19IlEwfH-cn72OShW5KHmiIp07/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 257.593,
+            "fileSize": 10413945,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 257.602,
+            "fileSize": 9076546,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 257.602,
+        "fileSize": 9076546,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t08",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-08 - 他们.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1zDquZP19IlEwfH-cn72OShW5KHmiIp07/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 257.593,
+            "fileSize": 10413945,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 257.602,
+            "fileSize": 9076546,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t09",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "暧昧",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 194.403,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1u_v1GE7gYb6m_I1zCQLd6IqGIeY2BQEF/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-09 - 暧昧.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 194.403,
+        "fileSize": 7883810,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t09",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-09 - 暧昧.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1u_v1GE7gYb6m_I1zCQLd6IqGIeY2BQEF/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 194.403,
+            "fileSize": 7883810,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 194.421,
+            "fileSize": 6986766,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 194.421,
+        "fileSize": 6986766,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t09",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-09 - 暧昧.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1u_v1GE7gYb6m_I1zCQLd6IqGIeY2BQEF/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 194.403,
+            "fileSize": 7883810,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 194.421,
+            "fileSize": 6986766,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t10",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "九月",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 265.012,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/工体东路没有人/September%20(九月)%20%5BLive%5D.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-10 - 九月.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2009-8",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--4",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 8,
+          "duration": 264.928,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 265.012,
+        "fileSize": 10710995,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t10",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-10 - 九月.mp3",
+          "sourceUrl": "https://st.nj1701.com/工体东路没有人/September%20(九月)%20%5BLive%5D.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 265.012,
+            "fileSize": 10710995,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 265.012,
+            "fileSize": 10710995,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 264.928,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 265.012,
+        "fileSize": 10710995,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t10",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-10 - 九月.mp3",
+          "sourceUrl": "https://st.nj1701.com/工体东路没有人/September%20(九月)%20%5BLive%5D.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 265.012,
+            "fileSize": 10710995,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 265.012,
+            "fileSize": 10710995,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "kept-existing-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "kept-existing-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t11",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "这个世界会好么",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 256.784,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1odclc-KeHjpsLelMOoTBcdfcLlc1deu_/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-11 - 这个世界会好么.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 256.784,
+        "fileSize": 10381534,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t11",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-11 - 这个世界会好么.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1odclc-KeHjpsLelMOoTBcdfcLlc1deu_/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 256.784,
+            "fileSize": 10381534,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 256.789,
+            "fileSize": 9053709,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 256.789,
+        "fileSize": 9053709,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t11",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-11 - 这个世界会好么.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1odclc-KeHjpsLelMOoTBcdfcLlc1deu_/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 256.784,
+            "fileSize": 10381534,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 256.789,
+            "fileSize": 9053709,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t12",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "红色气球",
+      "discNumber": 1,
+      "trackNumber": 12,
+      "sequenceNumber": 12,
+      "duration": 221.127,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1GGRiAydObm3IFEdVUjhztZwQ4Ku0ou12/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-12 - 红色气球.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2009-9",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--4",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 9,
+          "duration": 221.056,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 221.127,
+        "fileSize": 8953816,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t12",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-12 - 红色气球.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1GGRiAydObm3IFEdVUjhztZwQ4Ku0ou12/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 221.127,
+            "fileSize": 8953816,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 221.124,
+            "fileSize": 7868814,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 221.056,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 221.124,
+        "fileSize": 7868814,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t12",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-12 - 红色气球.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1GGRiAydObm3IFEdVUjhztZwQ4Ku0ou12/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 221.127,
+            "fileSize": 8953816,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 221.124,
+            "fileSize": 7868814,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t13",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "月亮代表我的心",
+      "discNumber": 1,
+      "trackNumber": 13,
+      "sequenceNumber": 13,
+      "duration": 109.636,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1So9hXGJDb_8Ck6Ntg5zJG9J4feE_c1H7/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-13 - 月亮代表我的心.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 109.636,
+        "fileSize": 4489737,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t13",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-13 - 月亮代表我的心.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1So9hXGJDb_8Ck6Ntg5zJG9J4feE_c1H7/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 109.636,
+            "fileSize": 4489737,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 109.645,
+            "fileSize": 4214546,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 109.645,
+        "fileSize": 4214546,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t13",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-13 - 月亮代表我的心.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1So9hXGJDb_8Ck6Ntg5zJG9J4feE_c1H7/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 109.636,
+            "fileSize": 4489737,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 109.645,
+            "fileSize": 4214546,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t14",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "董卓瑶",
+      "discNumber": 1,
+      "trackNumber": 14,
+      "sequenceNumber": 14,
+      "duration": 199.471,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1kGv3Ho6BL9OZLywh-KDgP-BMSXEBotER/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-14 - 董卓瑶.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2009-10",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--4",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 10,
+          "duration": 199.383,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 199.471,
+        "fileSize": 8086726,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t14",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-14 - 董卓瑶.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1kGv3Ho6BL9OZLywh-KDgP-BMSXEBotER/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 199.471,
+            "fileSize": 8086726,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 199.483,
+            "fileSize": 7148926,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 199.383,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 199.483,
+        "fileSize": 7148926,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t14",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-14 - 董卓瑶.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1kGv3Ho6BL9OZLywh-KDgP-BMSXEBotER/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 199.471,
+            "fileSize": 8086726,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 199.483,
+            "fileSize": 7148926,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t15",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "青春",
+      "discNumber": 1,
+      "trackNumber": 15,
+      "sequenceNumber": 15,
+      "duration": 143.595,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1ujg56_SMdMMcwDWdgeGXAfe7DYdlGYyf/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-15 - 青春.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 143.595,
+        "fileSize": 5849453,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t15",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-15 - 青春.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1ujg56_SMdMMcwDWdgeGXAfe7DYdlGYyf/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 143.595,
+            "fileSize": 5849453,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 143.592,
+            "fileSize": 5288413,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 143.592,
+        "fileSize": 5288413,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t15",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-15 - 青春.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1ujg56_SMdMMcwDWdgeGXAfe7DYdlGYyf/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 143.595,
+            "fileSize": 5849453,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 143.592,
+            "fileSize": 5288413,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t16",
+      "artist": "李志",
+      "album": "工体东路没有人",
+      "title": "想起了他",
+      "discNumber": 1,
+      "trackNumber": 16,
+      "sequenceNumber": 16,
+      "duration": 775.732,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1LYu5sBwgHrf4OUw_HiWmo9pb46VA-8um/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 工体东路没有人/01-16 - 想起了他.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 775.732,
+        "fileSize": 31160228,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t16",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-16 - 想起了他.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1LYu5sBwgHrf4OUw_HiWmo9pb46VA-8um/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 775.732,
+            "fileSize": 31160228,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 775.732,
+            "fileSize": 26105172,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 775.732,
+        "fileSize": 26105172,
+        "bitRate": 256000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t16",
+          "localPath": "live/李志/2009 - 工体东路没有人/01-16 - 想起了他.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1LYu5sBwgHrf4OUw_HiWmo9pb46VA-8um/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 775.732,
+            "fileSize": 31160228,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 775.732,
+            "fileSize": 26105172,
+            "bitRate": 256000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/200dad30-e066-4956-bc59-88f98524563d",
+    "https://lizhilizhi.bandcamp.com/album/--4"
+  ],
+  "notes": [],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "Bandcamp",
+      "url": "https://lizhilizhi.bandcamp.com/album/--4",
+      "title": "工體東路沒有人",
+      "releaseDate": "22 Oct 2020 07:33:15 GMT",
+      "trackCount": 11,
+      "tracks": [
+        {
+          "title": "被禁忌的遊戲（2009工體版）",
+          "track_num": 1,
+          "duration": 330.667,
+          "title_link": "/track/2009",
+          "track_id": 1782486652
+        },
+        {
+          "title": "和你在一起（2009工體版）",
+          "track_num": 2,
+          "duration": 231.064,
+          "title_link": "/track/2009-2",
+          "track_id": 2673948494
+        },
+        {
+          "title": "來了（2009工體版）",
+          "track_num": 3,
+          "duration": 323.38,
+          "title_link": "/track/2009-3",
+          "track_id": 3776895185
+        },
+        {
+          "title": "卡夫卡（2009工體版）",
+          "track_num": 4,
+          "duration": 204.275,
+          "title_link": "/track/2009-4",
+          "track_id": 2856349758
+        },
+        {
+          "title": "黑色信封（2009工體版）",
+          "track_num": 5,
+          "duration": 288.947,
+          "title_link": "/track/2009-5",
+          "track_id": 1442862372
+        },
+        {
+          "title": "阿蘭（2009工體版）",
+          "track_num": 6,
+          "duration": 215.429,
+          "title_link": "/track/2009-6",
+          "track_id": 2984968147
+        },
+        {
+          "title": "春末的南方城市（2009工體版）",
+          "track_num": 7,
+          "duration": 200.637,
+          "title_link": "/track/2009-7",
+          "track_id": 144835917
+        },
+        {
+          "title": "九月（2009工體版）",
+          "track_num": 8,
+          "duration": 264.928,
+          "title_link": "/track/2009-8",
+          "track_id": 451603102
+        },
+        {
+          "title": "紅色氣球（2009工體版）",
+          "track_num": 9,
+          "duration": 221.056,
+          "title_link": "/track/2009-9",
+          "track_id": 2454799699
+        },
+        {
+          "title": "董卓瑤（2009工體版）",
+          "track_num": 10,
+          "duration": 199.383,
+          "title_link": "/track/2009-10",
+          "track_id": 1128162857
+        },
+        {
+          "title": "想起了她（2009工體版）",
+          "track_num": 11,
+          "duration": 246.0,
+          "title_link": "/track/2009-11",
+          "track_id": 1639599126
+        }
+      ],
+      "offer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $85 HKD or more Send as Gift",
+      "note": "平台上架日期，不替代原始发行日期。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "200dad30-e066-4956-bc59-88f98524563d",
+    "title": "工体东路没有人",
+    "date": "2009-01-22",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2009-01-22",
+      "source": "https://musicbrainz.org/release/200dad30-e066-4956-bc59-88f98524563d"
+    },
+    {
+      "date": "2009-01-22",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2009 - 李志 - 工体东路没有人.jpg",
+    "width": 3000,
+    "height": 3000,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2009 - 李志 - 工体东路没有人.jpg"
+  },
+  "trackCount": 16,
+  "tracklistStatus": "edition-listed"
+}

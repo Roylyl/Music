@@ -1,0 +1,902 @@
+[
+  {
+    "title": "真的見証",
+    "releaseDate": "1989",
+    "type": "studio",
+    "albumPath": "artists/Beyond/1989 - 真的見証",
+    "coverJpg": "artists/Beyond/1989 - 真的見証/cover.jpg",
+    "coverWebp": "artists/Beyond/1989 - 真的見証/cover.webp",
+    "jpgPixels": [
+      1014,
+      1027
+    ],
+    "webpPixels": [
+      987,
+      1000
+    ],
+    "provider": "Apple Music artwork",
+    "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f1/6e/ab/f16eabbb-55aa-25a1-a2fb-8b934948ef23/00602517137325.rgb.jpg/1200x1200bb.jpg",
+    "originalPath": "covers/originals/1989 - 真的見証 - Beyond.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "皇后大道東",
+    "releaseDate": "1991-01-23",
+    "type": "compilation",
+    "albumPath": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東",
+    "coverJpg": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東/cover.jpg",
+    "coverWebp": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東/cover.webp",
+    "jpgPixels": [
+      1200,
+      1200
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "Apple Music artwork",
+    "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/ee/2b/1aee2b13-b9af-ee0a-a75d-f485d46f8390/cover.jpg/1200x1200bb.jpg",
+    "originalPath": "covers/originals/1991 - 皇后大道東 - 羅大佑 & 蔣志光.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "解决",
+    "releaseDate": "1991-02",
+    "type": "studio",
+    "albumPath": "artists/崔健/1991 - 解决",
+    "coverJpg": "artists/崔健/1991 - 解决/cover.jpg",
+    "coverWebp": "artists/崔健/1991 - 解决/cover.webp",
+    "jpgPixels": [
+      600,
+      600
+    ],
+    "webpPixels": [
+      600,
+      600
+    ],
+    "provider": "Artrockstore",
+    "sourceUrl": "https://artrockstore.com/cdn/shop/files/R-5335236-1390835475-8858_1024x1024.jpg?v=1696137493",
+    "originalPath": "covers/originals/1991 - 解决 - 崔健.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "繼續革命",
+    "releaseDate": "1992-08",
+    "type": "studio",
+    "albumPath": "artists/Beyond/1992 - 繼續革命",
+    "coverJpg": "artists/Beyond/1992 - 繼續革命/cover.jpg",
+    "coverWebp": "artists/Beyond/1992 - 繼續革命/cover.webp",
+    "jpgPixels": [
+      1194,
+      1200
+    ],
+    "webpPixels": [
+      995,
+      1000
+    ],
+    "provider": "Apple Music artwork",
+    "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/a9/c8/21a9c8f3-eecf-9829-bdbc-d5ab20f514e5/mzi.zjalonbm.jpg/1200x1200bb.jpg",
+    "originalPath": "covers/originals/1992 - 繼續革命 - Beyond.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "光輝歲月-二十周年精選",
+    "releaseDate": "2003",
+    "type": "compilation",
+    "albumPath": "artists/Beyond/2003 - 光輝歲月-二十周年精選",
+    "coverJpg": "artists/Beyond/2003 - 光輝歲月-二十周年精選/cover.jpg",
+    "coverWebp": "artists/Beyond/2003 - 光輝歲月-二十周年精選/cover.webp",
+    "jpgPixels": [
+      1200,
+      1200
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "Apple Music artwork",
+    "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/7c/6e/9e7c6ef4-c1c6-f49f-7639-ac85d096b2b1/19UMGIM62501.rgb.jpg/1200x1200bb.jpg",
+    "originalPath": "covers/originals/2003 - 光輝歲月-二十周年精選 - Beyond.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "被禁忌的游戏",
+    "releaseDate": "2004",
+    "type": "studio",
+    "albumPath": "artists/李志/2004 - 被禁忌的游戏",
+    "coverJpg": "artists/李志/2004 - 被禁忌的游戏/cover.jpg",
+    "coverWebp": "artists/李志/2004 - 被禁忌的游戏/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2004 - 李志 - 被禁忌的游戏.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "梵高先生",
+    "releaseDate": "2005-12-25",
+    "type": "studio",
+    "albumPath": "artists/李志/2005 - 梵高先生",
+    "coverJpg": "artists/李志/2005 - 梵高先生/cover.jpg",
+    "coverWebp": "artists/李志/2005 - 梵高先生/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2005 - 李志 - 梵高先生.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "这个世界会好吗",
+    "releaseDate": "2006-11-20",
+    "type": "studio",
+    "albumPath": "artists/李志/2006 - 这个世界会好吗",
+    "coverJpg": "artists/李志/2006 - 这个世界会好吗/cover.jpg",
+    "coverWebp": "artists/李志/2006 - 这个世界会好吗/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2006 - 李志 - 这个世界会好吗.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "将进酒",
+    "releaseDate": "2007-11-11",
+    "type": "concert",
+    "albumPath": "live/李志/2007 - 将进酒",
+    "coverJpg": "live/李志/2007 - 将进酒/cover.jpg",
+    "coverWebp": "live/李志/2007 - 将进酒/cover.webp",
+    "jpgPixels": [
+      370,
+      370
+    ],
+    "webpPixels": [
+      370,
+      370
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2007 - 李志 - 将进酒.jpg",
+    "lowResolution": true
+  },
+  {
+    "title": "Goomusic Collection 2004-2008",
+    "releaseDate": "2008-04-02",
+    "type": "compilation",
+    "albumPath": "artists/何韻詩/2008 - Goomusic Collection 2004-2008",
+    "coverJpg": "artists/何韻詩/2008 - Goomusic Collection 2004-2008/cover.jpg",
+    "coverWebp": "artists/何韻詩/2008 - Goomusic Collection 2004-2008/cover.webp",
+    "jpgPixels": [
+      1200,
+      1200
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "Apple Music artwork",
+    "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/36/23/02/362302e8-8977-e813-b3aa-1007c9f1df97/825646270798.jpg/1200x1200bb.jpg",
+    "originalPath": "covers/originals/2008 - Goomusic Collection 2004-2008 - 何韻詩.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "工体东路没有人",
+    "releaseDate": "2009-01-22",
+    "type": "live",
+    "albumPath": "live/李志/2009 - 工体东路没有人",
+    "coverJpg": "live/李志/2009 - 工体东路没有人/cover.jpg",
+    "coverWebp": "live/李志/2009 - 工体东路没有人/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2009 - 李志 - 工体东路没有人.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "我爱南京",
+    "releaseDate": "2009-10-16",
+    "type": "studio",
+    "albumPath": "artists/李志/2009 - 我爱南京",
+    "coverJpg": "artists/李志/2009 - 我爱南京/cover.jpg",
+    "coverWebp": "artists/李志/2009 - 我爱南京/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2009 - 李志 - 我爱南京.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "二零零九年十月十六日事件",
+    "releaseDate": "2010-01-30",
+    "type": "live",
+    "albumPath": "live/李志/2010 - 二零零九年十月十六日事件",
+    "coverJpg": "live/李志/2010 - 二零零九年十月十六日事件/cover.jpg",
+    "coverWebp": "live/李志/2010 - 二零零九年十月十六日事件/cover.webp",
+    "jpgPixels": [
+      1200,
+      1200
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2010 - 李志 - 二零零九年十月十六日事件.png",
+    "lowResolution": false
+  },
+  {
+    "title": "你好，郑州",
+    "releaseDate": "2010-09-01",
+    "type": "studio",
+    "albumPath": "artists/李志/2010 - 你好，郑州",
+    "coverJpg": "artists/李志/2010 - 你好，郑州/cover.jpg",
+    "coverWebp": "artists/李志/2010 - 你好，郑州/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2010 - 李志 - 你好，郑州.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "Stranger Under My Skin",
+    "releaseDate": "2011-02-22",
+    "type": "ep",
+    "albumPath": "artists/陳奕迅/2011 - Stranger Under My Skin",
+    "coverJpg": "artists/陳奕迅/2011 - Stranger Under My Skin/cover.jpg",
+    "coverWebp": "artists/陳奕迅/2011 - Stranger Under My Skin/cover.webp",
+    "jpgPixels": [
+      900,
+      903
+    ],
+    "webpPixels": [
+      900,
+      903
+    ],
+    "provider": "Apple Music artwork",
+    "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/c8/cb/f3c8cb79-da10-eed6-4c9e-03bb8e5f40fc/00602488996495.rgb.jpg/1200x1200bb.jpg",
+    "originalPath": "covers/originals/2011 - Stranger Under My Skin - 陳奕迅.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "我们也爱南京",
+    "releaseDate": "2011-09-18",
+    "type": "concert",
+    "albumPath": "live/李志/2011 - 我们也爱南京",
+    "coverJpg": "live/李志/2011 - 我们也爱南京/cover.jpg",
+    "coverWebp": "live/李志/2011 - 我们也爱南京/cover.webp",
+    "jpgPixels": [
+      115,
+      160
+    ],
+    "webpPixels": [
+      115,
+      160
+    ],
+    "provider": "Douban",
+    "sourceUrl": "https://img3.doubanio.com/view/subject/m/public/s6978572.jpg",
+    "originalPath": null,
+    "lowResolution": true
+  },
+  {
+    "title": "F",
+    "releaseDate": "2011-09-28",
+    "type": "studio",
+    "albumPath": "artists/李志/2011 - F",
+    "coverJpg": "artists/李志/2011 - F/cover.jpg",
+    "coverWebp": "artists/李志/2011 - F/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2011 - 李志 - F.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "IMAGINE",
+    "releaseDate": "2012",
+    "type": "live",
+    "albumPath": "live/李志/2012 - IMAGINE",
+    "coverJpg": "live/李志/2012 - IMAGINE/cover.jpg",
+    "coverWebp": "live/李志/2012 - IMAGINE/cover.webp",
+    "jpgPixels": [
+      1200,
+      1200
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2012 - 李志 - IMAGINE.png",
+    "lowResolution": false
+  },
+  {
+    "title": "Kimberley首張同名專輯",
+    "releaseDate": "2012-04-27",
+    "type": "studio",
+    "albumPath": "artists/陳芳語/2012 - Kimberley首張同名專輯",
+    "coverJpg": "artists/陳芳語/2012 - Kimberley首張同名專輯/cover.jpg",
+    "coverWebp": "artists/陳芳語/2012 - Kimberley首張同名專輯/cover.webp",
+    "jpgPixels": [
+      600,
+      600
+    ],
+    "webpPixels": [
+      600,
+      600
+    ],
+    "provider": "Apple Music artwork",
+    "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/51/7e/00/517e0095-7515-9a15-ebaf-92bec4ee4b72/886443414112.jpg/1200x1200bb.jpg",
+    "originalPath": "covers/originals/2012 - Kimberley首張同名專輯 - 陳芳語.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "108个关键词",
+    "releaseDate": "2013",
+    "type": "live",
+    "albumPath": "live/李志/2013 - 108个关键词",
+    "coverJpg": "live/李志/2013 - 108个关键词/cover.jpg",
+    "coverWebp": "live/李志/2013 - 108个关键词/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2013 - 李志 - 108个关键词.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "Paul Wong Collection",
+    "releaseDate": "2013",
+    "type": "compilation",
+    "albumPath": "artists/黃貫中/2013 - Paul Wong Collection",
+    "coverJpg": "artists/黃貫中/2013 - Paul Wong Collection/cover.jpg",
+    "coverWebp": "artists/黃貫中/2013 - Paul Wong Collection/cover.webp",
+    "jpgPixels": [
+      1200,
+      1200
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "Apple Music artwork",
+    "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/e3/dc/aee3dce0-8565-282d-83d7-92bc6afed082/825646440443.jpg/1200x1200bb.jpg",
+    "originalPath": "covers/originals/2013 - Paul Wong Collection - 黃貫中.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "勾三搭四",
+    "releaseDate": "2014-04-01",
+    "type": "live",
+    "albumPath": "live/李志/2014 - 勾三搭四",
+    "coverJpg": "live/李志/2014 - 勾三搭四/cover.jpg",
+    "coverWebp": "live/李志/2014 - 勾三搭四/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2014 - 李志 - 勾三搭四.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "1701",
+    "releaseDate": "2014-11-13",
+    "type": "studio",
+    "albumPath": "artists/李志/2014 - 1701",
+    "coverJpg": "artists/李志/2014 - 1701/cover.jpg",
+    "coverWebp": "artists/李志/2014 - 1701/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2014 - 李志 - 1701.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "i／O",
+    "releaseDate": "2015-01-21",
+    "type": "live",
+    "albumPath": "live/李志/2015 - i／O",
+    "coverJpg": "live/李志/2015 - i／O/cover.jpg",
+    "coverWebp": "live/李志/2015 - i／O/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2015 - 李志 - i／O.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "这个世界会好吗（2015版本）",
+    "releaseDate": "2015-04-13",
+    "type": "single",
+    "albumPath": "artists/李志/2015 - 这个世界会好吗（2015版本）",
+    "coverJpg": "artists/李志/2015 - 这个世界会好吗（2015版本）/cover.jpg",
+    "coverWebp": "artists/李志/2015 - 这个世界会好吗（2015版本）/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2006 - 李志 - 这个世界会好吗.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "看见",
+    "releaseDate": "2015-06-27",
+    "type": "live",
+    "albumPath": "live/李志/2015 - 看见",
+    "coverJpg": "live/李志/2015 - 看见/cover.jpg",
+    "coverWebp": "live/李志/2015 - 看见/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2015 - 李志 - 看见.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "动静",
+    "releaseDate": "2016-03-14",
+    "type": "live",
+    "albumPath": "live/李志/2016 - 动静",
+    "coverJpg": "live/李志/2016 - 动静/cover.jpg",
+    "coverWebp": "live/李志/2016 - 动静/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2016 - 李志 - 动静.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "李志北京不插电现场",
+    "releaseDate": "2016-08-11",
+    "type": "live",
+    "albumPath": "live/李志/2016 - 李志北京不插电现场",
+    "coverJpg": "live/李志/2016 - 李志北京不插电现场/cover.jpg",
+    "coverWebp": "live/李志/2016 - 李志北京不插电现场/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2016 - 李志 - 李志北京不插电现场.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "8",
+    "releaseDate": "2016-10-18",
+    "type": "studio",
+    "albumPath": "artists/李志/2016 - 8",
+    "coverJpg": "artists/李志/2016 - 8/cover.jpg",
+    "coverWebp": "artists/李志/2016 - 8/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2016 - 李志 - 捌.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "在每一条伤心的应天大街上",
+    "releaseDate": "2016-11-20",
+    "type": "studio",
+    "albumPath": "artists/李志/2016 - 在每一条伤心的应天大街上",
+    "coverJpg": "artists/李志/2016 - 在每一条伤心的应天大街上/cover.jpg",
+    "coverWebp": "artists/李志/2016 - 在每一条伤心的应天大街上/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2016 - 李志 - 在每一条伤心的应天大街上.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "李志、电声与管弦乐",
+    "releaseDate": "2017-05-16",
+    "type": "live",
+    "albumPath": "live/李志/2017 - 李志、电声与管弦乐",
+    "coverJpg": "live/李志/2017 - 李志、电声与管弦乐/cover.jpg",
+    "coverWebp": "live/李志/2017 - 李志、电声与管弦乐/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2017 - 李志 - 李志、电声与管弦乐.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "爵士乐与不插电新编12首",
+    "releaseDate": "2018-04-16",
+    "type": "live",
+    "albumPath": "live/李志/2018 - 爵士乐与不插电新编12首",
+    "coverJpg": "live/李志/2018 - 爵士乐与不插电新编12首/cover.jpg",
+    "coverWebp": "live/李志/2018 - 爵士乐与不插电新编12首/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2018 - 李志 - 爵士乐与不插电新编12首.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "李志、电声与管弦乐II",
+    "releaseDate": "2018-05-16",
+    "type": "live",
+    "albumPath": "live/李志/2018 - 李志、电声与管弦乐II",
+    "coverJpg": "live/李志/2018 - 李志、电声与管弦乐II/cover.jpg",
+    "coverWebp": "live/李志/2018 - 李志、电声与管弦乐II/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2018 - 李志 - 李志、电声与管弦乐II.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "金城兰州",
+    "releaseDate": "2018-08",
+    "type": "single",
+    "albumPath": "artists/李志/2018 - 金城兰州",
+    "coverJpg": "artists/李志/2018 - 金城兰州/cover.jpg",
+    "coverWebp": "artists/李志/2018 - 金城兰州/cover.webp",
+    "jpgPixels": [
+      300,
+      300
+    ],
+    "webpPixels": [
+      300,
+      300
+    ],
+    "provider": "lizhinb.com",
+    "sourceUrl": "https://st.nj1701.com/金城兰州/封面.jpg",
+    "originalPath": "covers/originals/2018 - 金城兰州 - 金城兰州.jpg",
+    "lowResolution": true
+  },
+  {
+    "title": "Best Selection Songs 2004-2018",
+    "releaseDate": "2019-04-01",
+    "type": "compilation",
+    "albumPath": "collections/李志/2019 - Best Selection Songs 2004-2018",
+    "coverJpg": "collections/李志/2019 - Best Selection Songs 2004-2018/cover.jpg",
+    "coverWebp": "collections/李志/2019 - Best Selection Songs 2004-2018/cover.webp",
+    "jpgPixels": [
+      1920,
+      1920
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2020 - 李志 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）.png",
+    "lowResolution": false
+  },
+  {
+    "title": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+    "releaseDate": "2020-05-27",
+    "type": "compilation",
+    "albumPath": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+    "coverJpg": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/cover.jpg",
+    "coverWebp": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/cover.webp",
+    "jpgPixels": [
+      1920,
+      1920
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2020 - 李志 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）.png",
+    "lowResolution": false
+  },
+  {
+    "title": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "releaseDate": "2021-11-12",
+    "type": "compilation",
+    "albumPath": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "coverJpg": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/cover.jpg",
+    "coverWebp": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/cover.webp",
+    "jpgPixels": [
+      1920,
+      1920
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2020 - 李志 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）.png",
+    "lowResolution": false
+  },
+  {
+    "title": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+    "releaseDate": "2025-06-13",
+    "type": "live",
+    "albumPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+    "coverJpg": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/cover.jpg",
+    "coverWebp": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/cover.webp",
+    "jpgPixels": [
+      693,
+      675
+    ],
+    "webpPixels": [
+      693,
+      675
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2025 - 李志 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo.png",
+    "lowResolution": false
+  },
+  {
+    "title": "i／O - 完整版录音",
+    "releaseDate": null,
+    "type": "concert",
+    "albumPath": "live/李志/2015 - i／O - 完整版录音",
+    "coverJpg": "live/李志/2015 - i／O - 完整版录音/cover.jpg",
+    "coverWebp": "live/李志/2015 - i／O - 完整版录音/cover.webp",
+    "jpgPixels": [
+      3000,
+      3000
+    ],
+    "webpPixels": [
+      1000,
+      1000
+    ],
+    "provider": "OneDrive",
+    "sourceUrl": null,
+    "originalPath": "covers/originals/2015 - 李志 - i／O.jpg",
+    "lowResolution": false
+  },
+  {
+    "title": "义乌隔壁酒吧",
+    "releaseDate": null,
+    "type": "concert",
+    "albumPath": "live/李志/2009 - 义乌隔壁酒吧",
+    "coverJpg": "live/李志/2009 - 义乌隔壁酒吧/cover.jpg",
+    "coverWebp": "live/李志/2009 - 义乌隔壁酒吧/cover.webp",
+    "jpgPixels": [
+      358,
+      358
+    ],
+    "webpPixels": [
+      358,
+      358
+    ],
+    "provider": "lizhinb.com",
+    "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/封面.jpg",
+    "originalPath": "covers/originals/2009 - 义乌隔壁酒吧 - 义乌隔壁酒吧.jpg",
+    "lowResolution": true
+  },
+  {
+    "title": "叁缺壹吉隆坡站",
+    "releaseDate": null,
+    "type": "concert",
+    "albumPath": "live/李志/2025 - 叁缺壹吉隆坡站",
+    "coverJpg": "live/李志/2025 - 叁缺壹吉隆坡站/cover.jpg",
+    "coverWebp": "live/李志/2025 - 叁缺壹吉隆坡站/cover.webp",
+    "jpgPixels": [
+      300,
+      300
+    ],
+    "webpPixels": [
+      300,
+      300
+    ],
+    "provider": "lizhinb.com",
+    "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/封面.jpg",
+    "originalPath": "covers/originals/2025 - 叁缺壹吉隆坡站 - 叁缺壹吉隆坡站.jpg",
+    "lowResolution": true
+  },
+  {
+    "title": "挺 不插电巡演 郑州站",
+    "releaseDate": null,
+    "type": "concert",
+    "albumPath": "live/李志/2014 - 挺 不插电巡演 郑州站",
+    "coverJpg": "live/李志/2014 - 挺 不插电巡演 郑州站/cover.jpg",
+    "coverWebp": "live/李志/2014 - 挺 不插电巡演 郑州站/cover.webp",
+    "jpgPixels": [
+      300,
+      300
+    ],
+    "webpPixels": [
+      300,
+      300
+    ],
+    "provider": "lizhinb.com",
+    "sourceUrl": "https://st.nj1701.com/挺%20不插电巡演%20郑州站/封面.jpg",
+    "originalPath": null,
+    "lowResolution": true
+  },
+  {
+    "title": "杭州酒球会一身酒气",
+    "releaseDate": null,
+    "type": "concert",
+    "albumPath": "live/李志/2015 - 杭州酒球会一身酒气",
+    "coverJpg": "live/李志/2015 - 杭州酒球会一身酒气/cover.jpg",
+    "coverWebp": "live/李志/2015 - 杭州酒球会一身酒气/cover.webp",
+    "jpgPixels": [
+      300,
+      300
+    ],
+    "webpPixels": [
+      300,
+      300
+    ],
+    "provider": "lizhinb.com",
+    "sourceUrl": "https://st.nj1701.com/杭州酒球会一身酒气/封面.jpg",
+    "originalPath": "covers/originals/2015 - 杭州酒球会一身酒气 - 杭州酒球会一身酒气.jpg",
+    "lowResolution": true
+  },
+  {
+    "title": "洗心革面 - 演唱会录音",
+    "releaseDate": null,
+    "type": "concert",
+    "albumPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音",
+    "coverJpg": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/cover.jpg",
+    "coverWebp": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/cover.webp",
+    "jpgPixels": [
+      300,
+      300
+    ],
+    "webpPixels": [
+      300,
+      300
+    ],
+    "provider": "lizhinb.com",
+    "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/封面.jpg",
+    "originalPath": null,
+    "lowResolution": true
+  },
+  {
+    "title": "洗心革面（歌迷站26轨版）",
+    "releaseDate": null,
+    "type": "special",
+    "albumPath": "live/李志/2019 - 洗心革面（歌迷站26轨版）",
+    "coverJpg": "live/李志/2019 - 洗心革面（歌迷站26轨版）/cover.jpg",
+    "coverWebp": "live/李志/2019 - 洗心革面（歌迷站26轨版）/cover.webp",
+    "jpgPixels": [
+      300,
+      300
+    ],
+    "webpPixels": [
+      300,
+      300
+    ],
+    "provider": "lizhinb.com",
+    "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/封面.jpg",
+    "originalPath": null,
+    "lowResolution": true
+  }
+]

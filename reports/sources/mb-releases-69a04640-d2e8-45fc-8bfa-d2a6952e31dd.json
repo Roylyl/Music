@@ -1,0 +1,247 @@
+{
+  "release-offset": 0,
+  "release-count": 4,
+  "releases": [
+    {
+      "barcode": "9555150725255",
+      "quality": "normal",
+      "id": "0dbb3d60-84b7-4f02-b974-646c029149fb",
+      "release-events": [
+        {
+          "area": {
+            "sort-name": "Hong Kong",
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "iso-3166-2-codes": [
+              "CN-91"
+            ],
+            "disambiguation": "",
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+            "type-id": null,
+            "name": "Hong Kong",
+            "type": null
+          },
+          "date": "2016"
+        },
+        {
+          "date": "2016",
+          "area": {
+            "sort-name": "Macao",
+            "iso-3166-1-codes": [
+              "MO"
+            ],
+            "iso-3166-2-codes": [
+              "CN-92"
+            ],
+            "disambiguation": "",
+            "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+            "type-id": null,
+            "name": "Macao",
+            "type": null
+          }
+        },
+        {
+          "area": {
+            "name": "Taiwan",
+            "type": null,
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "disambiguation": "",
+            "sort-name": "Taiwan"
+          },
+          "date": "2016"
+        }
+      ],
+      "disambiguation": "",
+      "title": "動靜",
+      "media": [
+        {
+          "position": 1,
+          "title": "",
+          "track-count": 8,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "f7d8fcd8-2b2f-3f7a-8484-920df7b7d244",
+          "format": "Digital Media"
+        }
+      ],
+      "status": "Official",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "country": "HK",
+      "packaging": "None",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "front": true,
+        "back": false,
+        "artwork": true
+      },
+      "date": "2016",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "asin": null
+    },
+    {
+      "date": "2016-01-01",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hans"
+      },
+      "asin": null,
+      "packaging": null,
+      "packaging-id": null,
+      "country": "CN",
+      "status": "Official",
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "count": 1,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "title": "动静（2015 Live）",
+      "media": [
+        {
+          "track-count": 11,
+          "title": "",
+          "position": 1,
+          "id": "4da0bd3f-8a52-3ea2-b806-bc857898f572",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media"
+        }
+      ],
+      "barcode": null,
+      "quality": "normal",
+      "id": "860b6bbc-fd99-42a9-94bb-0b08af0958f7",
+      "release-events": [
+        {
+          "date": "2016-01-01",
+          "area": {
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "disambiguation": "",
+            "sort-name": "China",
+            "name": "China",
+            "type": null,
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "type-id": null
+          }
+        }
+      ]
+    },
+    {
+      "date": "2020-10-22",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "asin": null,
+      "packaging": "None",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "country": "XW",
+      "status": "Official",
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": false,
+        "count": 1,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "title": "動靜",
+      "media": [
+        {
+          "track-count": 8,
+          "position": 1,
+          "title": "",
+          "format": "Digital Media",
+          "id": "a943870e-95c9-3778-a6b7-3465d3e45032",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "barcode": "",
+      "quality": "normal",
+      "id": "8ecf3019-9ef1-406b-baf2-bcb978973e28",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "disambiguation": "",
+            "sort-name": "[Worldwide]",
+            "name": "[Worldwide]",
+            "type": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "type-id": null
+          },
+          "date": "2020-10-22"
+        }
+      ]
+    },
+    {
+      "disambiguation": "",
+      "title": "動靜",
+      "media": [
+        {
+          "id": "ba46e2f2-f1f6-3c76-a323-1d033455a853",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "title": "",
+          "position": 1,
+          "track-count": 8
+        }
+      ],
+      "barcode": "9555150725255",
+      "quality": "normal",
+      "id": "a81768fd-683c-457a-b9ab-f62e1f4a434e",
+      "release-events": [
+        {
+          "area": {
+            "name": "[Worldwide]",
+            "type": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "disambiguation": "",
+            "sort-name": "[Worldwide]"
+          },
+          "date": "2020-10-22"
+        }
+      ],
+      "date": "2020-10-22",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "asin": null,
+      "packaging": "None",
+      "status": "Official",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "country": "XW",
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": false,
+        "count": 1,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    }
+  ]
+}

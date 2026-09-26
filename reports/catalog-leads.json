@@ -1,0 +1,30 @@
+[
+  {
+    "title": "我们也爱南京",
+    "status": "partial",
+    "issue": "4CD+4DVD的完整40轨曲序、表演者与内页尚缺；已取得31分钟视频音轨，不能代表整套发行。",
+    "source": "https://music.douban.com/subject/6853203/"
+  },
+  {
+    "title": "影秋",
+    "status": "needs-research",
+    "issue": "资料称李志以陈小二参与2003年南京大学校园民谣合辑，曲目与原始内页待核。",
+    "source": "https://zh.wikipedia.org/wiki/李志"
+  },
+  {
+    "title": "宁园曲 / 風吹麥浪 / 逃离北方计划 / 日出了",
+    "status": "identity-unconfirmed",
+    "issue": "商店同名艺人串页风险；未确认属于南京音乐人李志，不自动加入。",
+    "sources": [
+      "https://music.amazon.co.jp/artists/B00JH1NC44",
+      "https://www.qobuz.com/lu-fr/interpreter/-11550046/7682637",
+      "https://music.91q.com/artist/A12304080"
+    ]
+  },
+  {
+    "title": "单专辑下载（无损）23项",
+    "status": "login-required",
+    "issue": "下载按钮要求登录；未取得公开直链，不绕过登录。",
+    "source": "https://www.lizhi334.com/xiazai/"
+  }
+]

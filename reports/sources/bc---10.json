@@ -1,0 +1,72 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/--10",
+  "title": "動靜",
+  "releaseDate": "22 Oct 2020 10:12:37 GMT",
+  "current": {
+    "minimum_price": 62.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "22 Oct 2020 10:12:37 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "你的早晨（2015跨年版）",
+      "track_num": 1,
+      "duration": 339.968,
+      "title_link": "/track/2015-9",
+      "track_id": 1824420435
+    },
+    {
+      "title": "普希金（2015跨年版）",
+      "track_num": 2,
+      "duration": 273.28,
+      "title_link": "/track/2015-10",
+      "track_id": 722409837
+    },
+    {
+      "title": "卡夫卡（2015跨年版）",
+      "track_num": 3,
+      "duration": 276.603,
+      "title_link": "/track/2015-11",
+      "track_id": 1350440412
+    },
+    {
+      "title": "和你在一起（2015跨年版）",
+      "track_num": 4,
+      "duration": 280.021,
+      "title_link": "/track/2015-12",
+      "track_id": 1236136435
+    },
+    {
+      "title": "忽然（2015跨年版）",
+      "track_num": 5,
+      "duration": 266.496,
+      "title_link": "/track/2015-13",
+      "track_id": 250723492
+    },
+    {
+      "title": "定西（2015跨年版）",
+      "track_num": 6,
+      "duration": 265.19,
+      "title_link": "/track/2015-14",
+      "track_id": 1101445991
+    },
+    {
+      "title": "牆上的向日葵（2015跨年版）",
+      "track_num": 7,
+      "duration": 405.243,
+      "title_link": "/track/2015-15",
+      "track_id": 1820273270
+    },
+    {
+      "title": "盡頭（2015跨年版）",
+      "track_num": 8,
+      "duration": 206.128,
+      "title_link": "/track/2015-16",
+      "track_id": 551812571
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $62 HKD or more Send as Gift"
+}

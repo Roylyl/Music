@@ -1,0 +1,58 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/1701",
+  "title": "1701",
+  "releaseDate": "22 Oct 2020 08:00:38 GMT",
+  "current": {
+    "minimum_price": 46.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "22 Oct 2020 08:00:38 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "大象",
+      "track_num": 1,
+      "duration": 326.592,
+      "title_link": "/track/--48",
+      "track_id": 2259058821
+    },
+    {
+      "title": "定西",
+      "track_num": 2,
+      "duration": 295.883,
+      "title_link": "/track/--49",
+      "track_id": 3633578918
+    },
+    {
+      "title": "看見",
+      "track_num": 3,
+      "duration": 253.504,
+      "title_link": "/track/--50",
+      "track_id": 2601933835
+    },
+    {
+      "title": "不多",
+      "track_num": 4,
+      "duration": 236.542,
+      "title_link": "/track/--51",
+      "track_id": 1064038020
+    },
+    {
+      "title": "熱河",
+      "track_num": 5,
+      "duration": 406.539,
+      "title_link": "/track/--52",
+      "track_id": 1146830964
+    },
+    {
+      "title": "方式",
+      "track_num": 6,
+      "duration": 245.845,
+      "title_link": "/track/--53",
+      "track_id": 3243903889
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $46 HKD or more Send as Gift"
+}

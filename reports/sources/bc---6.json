@@ -1,0 +1,86 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/--6",
+  "title": "你好,鄭州",
+  "releaseDate": "22 Oct 2020 07:32:32 GMT",
+  "current": {
+    "minimum_price": 78.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "22 Oct 2020 07:32:32 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "牆上的向日葵",
+      "track_num": 1,
+      "duration": 296.147,
+      "title_link": "/track/--32",
+      "track_id": 1401633415
+    },
+    {
+      "title": "鉛筆",
+      "track_num": 2,
+      "duration": 274.627,
+      "title_link": "/track/--33",
+      "track_id": 2527345062
+    },
+    {
+      "title": "關於鄭州的記憶",
+      "track_num": 3,
+      "duration": 228.147,
+      "title_link": "/track/--34",
+      "track_id": 3368473605
+    },
+    {
+      "title": "忽然",
+      "track_num": 4,
+      "duration": 126.853,
+      "title_link": "/track/--35",
+      "track_id": 2907424247
+    },
+    {
+      "title": "秋天的老狼",
+      "track_num": 5,
+      "duration": 236.293,
+      "title_link": "/track/--36",
+      "track_id": 874539734
+    },
+    {
+      "title": "帶親",
+      "track_num": 6,
+      "duration": 222.107,
+      "title_link": "/track/--37",
+      "track_id": 1356244021
+    },
+    {
+      "title": "她",
+      "track_num": 7,
+      "duration": 247.467,
+      "title_link": "/track/--38",
+      "track_id": 615980612
+    },
+    {
+      "title": "路",
+      "track_num": 8,
+      "duration": 143.347,
+      "title_link": "/track/--39",
+      "track_id": 3083753926
+    },
+    {
+      "title": "夜",
+      "track_num": 9,
+      "duration": 274.813,
+      "title_link": "/track/--40",
+      "track_id": 3498936726
+    },
+    {
+      "title": "鉛筆（吉松浩版）",
+      "track_num": 10,
+      "duration": 276.573,
+      "title_link": "/track/--41",
+      "track_id": 3775511428
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $78 HKD or more Send as Gift"
+}

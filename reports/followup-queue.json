@@ -1,0 +1,1222 @@
+[
+  {
+    "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t02",
+    "album": "这个世界会好吗",
+    "title": "喀纳斯",
+    "localPath": "artists/李志/2006 - 这个世界会好吗/01-02 - 喀纳斯.wav",
+    "source": {
+      "album": "这个世界会好吗",
+      "title": "卡纳斯",
+      "fileName": "卡纳斯.wav",
+      "url": "https://drive.google.com/file/d/1NdLqvvg4iPur7aouJpE_1TtPO7xju25Y/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1NdLqvvg4iPur7aouJpE_1TtPO7xju25Y",
+      "extension": ".wav",
+      "size": 56448044
+    },
+    "alternatives": [
+      {
+        "album": "这个世界会好吗",
+        "title": "喀纳斯",
+        "fileName": "喀纳斯.mp3",
+        "url": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%96%80%E7%BA%B3%E6%96%AF.mp3",
+        "provider": "GitHub lvboda/lizhi-mp3",
+        "extension": ".mp3",
+        "size": 13045586
+      },
+      {
+        "album": "这个世界会好吗",
+        "title": "喀纳斯",
+        "fileName": "喀纳斯.mp3",
+        "url": "https://st.nj1701.com/这个世界会好吗/喀纳斯.mp3",
+        "downloadUrl": "https://st.nj1701.com/这个世界会好吗/喀纳斯.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=39&oa_song=2",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t09",
+    "album": "这个世界会好吗",
+    "title": "这个世界会好吗",
+    "localPath": "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.wav",
+    "source": {
+      "album": "这个世界会好吗",
+      "title": "这个世界会好吗",
+      "fileName": "这个世界会好吗.wav",
+      "url": "https://drive.google.com/file/d/12l8CsNTVLvIc8npGvQOloLE4op2GHgE5/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "12l8CsNTVLvIc8npGvQOloLE4op2GHgE5",
+      "extension": ".wav",
+      "size": 183260828
+    },
+    "alternatives": [
+      {
+        "album": "这个世界会好吗",
+        "title": "这个世界会好吗",
+        "fileName": "这个世界会好吗.mp3",
+        "url": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97.mp3",
+        "provider": "GitHub lvboda/lizhi-mp3",
+        "extension": ".mp3",
+        "size": 9639410
+      },
+      {
+        "album": "这个世界会好吗",
+        "title": "这个世界会好吗",
+        "fileName": "这个世界会好吗.mp3",
+        "url": "https://st.nj1701.com/这个世界会好吗/这个世界会好吗.mp3",
+        "downloadUrl": "https://st.nj1701.com/这个世界会好吗/这个世界会好吗.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=39&oa_song=9",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t10",
+    "album": "工体东路没有人",
+    "title": "九月",
+    "localPath": "live/李志/2009 - 工体东路没有人/01-10 - 九月.mp3",
+    "source": {
+      "album": "工体东路没有人",
+      "title": "September (九月) [Live]",
+      "fileName": "September%20(九月)%20%5BLive%5D.mp3",
+      "url": "https://st.nj1701.com/工体东路没有人/September%20(九月)%20%5BLive%5D.mp3",
+      "downloadUrl": "https://st.nj1701.com/工体东路没有人/September%20(九月)%20%5BLive%5D.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=41&oa_song=10",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t05",
+    "album": "我爱南京",
+    "title": "思念观世音",
+    "localPath": "artists/李志/2009 - 我爱南京/02-05 - 思念观世音.mp3",
+    "source": {
+      "album": "我爱南京",
+      "title": "思念观世音",
+      "fileName": "思念观世音.mp3",
+      "url": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%80%9D%E5%BF%B5%E8%A7%82%E4%B8%96%E9%9F%B3.mp3",
+      "provider": "GitHub lvboda/lizhi-mp3",
+      "extension": ".mp3",
+      "size": 8401382
+    },
+    "alternatives": [
+      {
+        "album": "我爱南京",
+        "title": "思念观世音",
+        "fileName": "思念观世音.mp3",
+        "url": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/main/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%80%9D%E5%BF%B5%E8%A7%82%E4%B8%96%E9%9F%B3.mp3",
+        "provider": "GitHub lvboda/lizhi-mp3",
+        "extension": ".mp3",
+        "size": 8401382
+      },
+      {
+        "album": "我爱南京",
+        "title": "思念的观世音",
+        "fileName": "思念的观世音.mp3",
+        "url": "https://st.nj1701.com/我爱南京/思念的观世音.mp3",
+        "downloadUrl": "https://st.nj1701.com/我爱南京/思念的观世音.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=42&oa_song=14",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d01-t11",
+    "album": "二零零九年十月十六日事件",
+    "title": "聴妈妈讲那过去的故事 ボーカル：汤臣・李志",
+    "localPath": "live/李志/2010 - 二零零九年十月十六日事件/01-11 - 聴妈妈讲那过去的故事 ボーカル：汤臣・李志.mp3",
+    "source": {
+      "album": "二零零九年十月十六日事件",
+      "title": "听妈妈讲那过去的事情",
+      "fileName": "听妈妈讲那过去的事情.mp3",
+      "url": "https://st.nj1701.com/二零零九年十月十六日事件/听妈妈讲那过去的事情.mp3",
+      "downloadUrl": "https://st.nj1701.com/二零零九年十月十六日事件/听妈妈讲那过去的事情.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=43&oa_song=10",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-f7f7a172-a4cb-4342-af4d-eca0b8371c05-d02-t13",
+    "album": "IMAGINE",
+    "title": "1990年的春天",
+    "localPath": "live/李志/2012 - IMAGINE/02-13 - 1990年的春天.mp3",
+    "source": {
+      "album": "IMAGINE",
+      "title": "1990的春天",
+      "fileName": "1990的春天.mp3",
+      "url": "https://drive.google.com/file/d/1Ml8rMVKlD5pa35JGDM7MwW80G-5i9m28/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1Ml8rMVKlD5pa35JGDM7MwW80G-5i9m28",
+      "extension": ".mp3",
+      "size": 12416072
+    },
+    "alternatives": [
+      {
+        "album": "IMAGINE",
+        "title": "1990的春天",
+        "fileName": "1990的春天.mp3",
+        "url": "https://st.nj1701.com/Imagine%20Live/1990的春天.mp3",
+        "downloadUrl": "https://st.nj1701.com/Imagine%20Live/1990的春天.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=46&oa_song=23",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-io-2015-d01-t05",
+    "album": "i／O",
+    "title": "下雨+董卓瑶+忽然",
+    "localPath": "live/李志/2015 - i／O/01-05 - 下雨+董卓瑶+忽然.mp3",
+    "source": {
+      "album": "i／O",
+      "title": "下雨_董卓瑶_忽然 (2014i O现场版)",
+      "fileName": "下雨_董卓瑶_忽然%20(2014i%20O现场版).mp3",
+      "url": "https://st.nj1701.com/I%20O/下雨_董卓瑶_忽然%20(2014i%20O现场版).mp3",
+      "downloadUrl": "https://st.nj1701.com/I%20O/下雨_董卓瑶_忽然%20(2014i%20O现场版).zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=54&oa_song=5",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-has-man-a-future-2015-d01-t01",
+    "album": "这个世界会好吗（2015版本）",
+    "title": "这个世界会好吗（2015版本）",
+    "localPath": "artists/李志/2015 - 这个世界会好吗（2015版本）/01-01 - 这个世界会好吗（2015版本）.mp3",
+    "source": {
+      "album": "这个世界会好吗（2015版本）",
+      "title": "这个世界会好吗2015",
+      "fileName": "这个世界会好吗2015.mp3",
+      "url": "https://st.nj1701.com/这个世界会好吗2015/这个世界会好吗2015.mp3",
+      "downloadUrl": "https://st.nj1701.com/这个世界会好吗2015/这个世界会好吗2015.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=57&oa_song=1",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t01",
+    "album": "李志、电声与管弦乐",
+    "title": "序曲 - 2016跨年版",
+    "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-01 - 序曲 - 2016跨年版.wav",
+    "source": {
+      "album": "李志、电声与管弦乐",
+      "title": "01.序曲 (Live)_李志",
+      "fileName": "01.序曲 (Live)_李志.wav",
+      "url": "https://drive.google.com/file/d/1YsXcv6T9nhiiob8TL-leabISB2mfKxhU/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1YsXcv6T9nhiiob8TL-leabISB2mfKxhU",
+      "extension": ".wav",
+      "size": 51520442
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐",
+        "title": "序曲",
+        "fileName": "序曲.mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐/序曲.mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐/序曲.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=63&oa_song=1",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t02",
+    "album": "李志、电声与管弦乐",
+    "title": "杭州 - 2016跨年版",
+    "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-02 - 杭州 - 2016跨年版.wav",
+    "source": {
+      "album": "李志、电声与管弦乐",
+      "title": "02.杭州 (Live)_李志",
+      "fileName": "02.杭州 (Live)_李志.wav",
+      "url": "https://drive.google.com/file/d/1R57lNKR4Zeog7pdJCWuPl5i9DLJjLRO2/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1R57lNKR4Zeog7pdJCWuPl5i9DLJjLRO2",
+      "extension": ".wav",
+      "size": 58926674
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐",
+        "title": "杭州",
+        "fileName": "杭州.mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐/杭州.mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐/杭州.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=63&oa_song=2",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t03",
+    "album": "李志、电声与管弦乐",
+    "title": "尽头 - 2016跨年版",
+    "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-03 - 尽头 - 2016跨年版.wav",
+    "source": {
+      "album": "李志、电声与管弦乐",
+      "title": "03.尽头 (Live)_李志",
+      "fileName": "03.尽头 (Live)_李志.wav",
+      "url": "https://drive.google.com/file/d/1D-vk9kqLKHWxD-vEKpMgYCH4WfZbJACG/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1D-vk9kqLKHWxD-vEKpMgYCH4WfZbJACG",
+      "extension": ".wav",
+      "size": 45970018
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐",
+        "title": "尽头",
+        "fileName": "尽头.mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐/尽头.mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐/尽头.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=63&oa_song=3",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t04",
+    "album": "李志、电声与管弦乐",
+    "title": "定西 - 2016跨年版",
+    "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-04 - 定西 - 2016跨年版.wav",
+    "source": {
+      "album": "李志、电声与管弦乐",
+      "title": "04.定西 (Live)_李志",
+      "fileName": "04.定西 (Live)_李志.wav",
+      "url": "https://drive.google.com/file/d/1GQb5W7hXJChpvwhtKQkI7siUbkfUVxBk/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1GQb5W7hXJChpvwhtKQkI7siUbkfUVxBk",
+      "extension": ".wav",
+      "size": 65598056
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐",
+        "title": "定西",
+        "fileName": "定西.mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐/定西.mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐/定西.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=63&oa_song=4",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t05",
+    "album": "李志、电声与管弦乐",
+    "title": "春末的南方城市 - 2016跨年版",
+    "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-05 - 春末的南方城市 - 2016跨年版.wav",
+    "source": {
+      "album": "李志、电声与管弦乐",
+      "title": "05.春末的南方城市 (Live)_李志",
+      "fileName": "05.春末的南方城市 (Live)_李志.wav",
+      "url": "https://drive.google.com/file/d/1P-9Bl9ZkQb2mHzVv_taBs9pjufF0vckE/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1P-9Bl9ZkQb2mHzVv_taBs9pjufF0vckE",
+      "extension": ".wav",
+      "size": 45664678
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐",
+        "title": "春末的南方城市",
+        "fileName": "春末的南方城市.mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐/春末的南方城市.mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐/春末的南方城市.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=63&oa_song=5",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t06",
+    "album": "李志、电声与管弦乐",
+    "title": "黑色信封 - 2016跨年版",
+    "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-06 - 黑色信封 - 2016跨年版.wav",
+    "source": {
+      "album": "李志、电声与管弦乐",
+      "title": "06.黑色信封 (Live)_李志",
+      "fileName": "06.黑色信封 (Live)_李志.wav",
+      "url": "https://drive.google.com/file/d/16caXoOTfiGvua7DamPjYkIzGu0F7ND_E/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "16caXoOTfiGvua7DamPjYkIzGu0F7ND_E",
+      "extension": ".wav",
+      "size": 59378482
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐",
+        "title": "黑色信封",
+        "fileName": "黑色信封.mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐/黑色信封.mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐/黑色信封.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=63&oa_song=6",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t07",
+    "album": "李志、电声与管弦乐",
+    "title": "铅笔 - 2016跨年版",
+    "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-07 - 铅笔 - 2016跨年版.wav",
+    "source": {
+      "album": "李志、电声与管弦乐",
+      "title": "07.铅笔 (Live)_李志",
+      "fileName": "07.铅笔 (Live)_李志.wav",
+      "url": "https://drive.google.com/file/d/1Evk87qjnoVToLDdAX_WNS78Vazj8mLXE/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1Evk87qjnoVToLDdAX_WNS78Vazj8mLXE",
+      "extension": ".wav",
+      "size": 55552234
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐",
+        "title": "铅笔",
+        "fileName": "铅笔.mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐/铅笔.mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐/铅笔.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=63&oa_song=7",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t08",
+    "album": "李志、电声与管弦乐",
+    "title": "和你在一起 - 2016跨年版",
+    "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-08 - 和你在一起 - 2016跨年版.wav",
+    "source": {
+      "album": "李志、电声与管弦乐",
+      "title": "08.和你在一起 (Live)_李志",
+      "fileName": "08.和你在一起 (Live)_李志.wav",
+      "url": "https://drive.google.com/file/d/1ZnZz5adCrL5T9hWXqVMSH9GW6dNpbgj2/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1ZnZz5adCrL5T9hWXqVMSH9GW6dNpbgj2",
+      "extension": ".wav",
+      "size": 46159674
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐",
+        "title": "和你在一起",
+        "fileName": "和你在一起.mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐/和你在一起.mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐/和你在一起.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=63&oa_song=8",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t09",
+    "album": "李志、电声与管弦乐",
+    "title": "墙上的向日葵 - 2016跨年版",
+    "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-09 - 墙上的向日葵 - 2016跨年版.wav",
+    "source": {
+      "album": "李志、电声与管弦乐",
+      "title": "09.墙上的向日葵 (Live)_李志",
+      "fileName": "09.墙上的向日葵 (Live)_李志.wav",
+      "url": "https://drive.google.com/file/d/1H0ADaUwV-xEH5lAMvwIH_vTR1-u738Ec/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1H0ADaUwV-xEH5lAMvwIH_vTR1-u738Ec",
+      "extension": ".wav",
+      "size": 82686834
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐",
+        "title": "墙上的向日葵",
+        "fileName": "墙上的向日葵.mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐/墙上的向日葵.mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐/墙上的向日葵.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=63&oa_song=9",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t10",
+    "album": "李志、电声与管弦乐",
+    "title": "大象 - 2016跨年版",
+    "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-10 - 大象 - 2016跨年版.wav",
+    "source": {
+      "album": "李志、电声与管弦乐",
+      "title": "10.大象 (Live)_李志",
+      "fileName": "10.大象 (Live)_李志.wav",
+      "url": "https://drive.google.com/file/d/1OEJV1DVQEZ6XNsA4yGq4oiUdofKVmww-/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1OEJV1DVQEZ6XNsA4yGq4oiUdofKVmww-",
+      "extension": ".wav",
+      "size": 72813502
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐",
+        "title": "大象",
+        "fileName": "大象.mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐/大象.mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐/大象.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=63&oa_song=10",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t11",
+    "album": "李志、电声与管弦乐",
+    "title": "门 - 2016跨年版",
+    "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-11 - 门 - 2016跨年版.wav",
+    "source": {
+      "album": "李志、电声与管弦乐",
+      "title": "11.门 (Live)_李志",
+      "fileName": "11.门 (Live)_李志.wav",
+      "url": "https://drive.google.com/file/d/1dD8uWr9Dq3K__KemRFW0PxYNmxyJ3kYr/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1dD8uWr9Dq3K__KemRFW0PxYNmxyJ3kYr",
+      "extension": ".wav",
+      "size": 72094746
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐",
+        "title": "门",
+        "fileName": "门.mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐/门.mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐/门.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=63&oa_song=11",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t12",
+    "album": "李志、电声与管弦乐",
+    "title": "回答 - 2016跨年版",
+    "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-12 - 回答 - 2016跨年版.wav",
+    "source": {
+      "album": "李志、电声与管弦乐",
+      "title": "12.回答 (Live)_李志",
+      "fileName": "12.回答 (Live)_李志.wav",
+      "url": "https://drive.google.com/file/d/1RMJTMvj-NPltj4Ay30eRrJ8Mqf_k2gHE/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1RMJTMvj-NPltj4Ay30eRrJ8Mqf_k2gHE",
+      "extension": ".wav",
+      "size": 67277530
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐",
+        "title": "回答",
+        "fileName": "回答.mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐/回答.mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐/回答.zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=63&oa_song=12",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t01",
+    "album": "爵士乐与不插电新编12首",
+    "title": "看见",
+    "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-01 - 看见.flac",
+    "source": {
+      "album": "爵士乐与不插电新编12首",
+      "title": "看见 (相信未来版)-李志",
+      "fileName": "看见 (相信未来版)-李志.flac",
+      "url": "https://drive.google.com/file/d/1Afc3xuOyygt9sGEG82picku69ISXbSt0/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1Afc3xuOyygt9sGEG82picku69ISXbSt0",
+      "extension": ".flac",
+      "size": 49990301
+    },
+    "alternatives": [
+      {
+        "album": "爵士乐与不插电新编12首",
+        "title": "看见 (相信未来版)",
+        "fileName": "看见%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/爵士乐与不插电新编12首/看见%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/看见%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=65&oa_song=1",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t02",
+    "album": "爵士乐与不插电新编12首",
+    "title": "离婚",
+    "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-02 - 离婚.flac",
+    "source": {
+      "album": "爵士乐与不插电新编12首",
+      "title": "离婚 (相信未来版)-李志",
+      "fileName": "离婚 (相信未来版)-李志.flac",
+      "url": "https://drive.google.com/file/d/1eC0eY9oYLvyn8Z-C9dFY33b-hlD1QDt5/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1eC0eY9oYLvyn8Z-C9dFY33b-hlD1QDt5",
+      "extension": ".flac",
+      "size": 59480713
+    },
+    "alternatives": [
+      {
+        "album": "爵士乐与不插电新编12首",
+        "title": "离婚 (相信未来版)",
+        "fileName": "离婚%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/爵士乐与不插电新编12首/离婚%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/离婚%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=65&oa_song=2",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t03",
+    "album": "爵士乐与不插电新编12首",
+    "title": "关于郑州的记忆",
+    "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-03 - 关于郑州的记忆.flac",
+    "source": {
+      "album": "爵士乐与不插电新编12首",
+      "title": "关于郑州的记忆 (相信未来版)-李志",
+      "fileName": "关于郑州的记忆 (相信未来版)-李志.flac",
+      "url": "https://drive.google.com/file/d/1i2Nz40D3yWdBAUOvs9kbIWqEJG1t4Uwu/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1i2Nz40D3yWdBAUOvs9kbIWqEJG1t4Uwu",
+      "extension": ".flac",
+      "size": 71655230
+    },
+    "alternatives": [
+      {
+        "album": "爵士乐与不插电新编12首",
+        "title": "关于郑州的记忆 (相信未来版)",
+        "fileName": "关于郑州的记忆%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/爵士乐与不插电新编12首/关于郑州的记忆%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/关于郑州的记忆%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=65&oa_song=3",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t04",
+    "album": "爵士乐与不插电新编12首",
+    "title": "鸵鸟",
+    "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-04 - 鸵鸟.flac",
+    "source": {
+      "album": "爵士乐与不插电新编12首",
+      "title": "鸵鸟 (相信未来版)-李志",
+      "fileName": "鸵鸟 (相信未来版)-李志.flac",
+      "url": "https://drive.google.com/file/d/1FV2O722EW40_H_K7VTy2_TFC7byPzsxt/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1FV2O722EW40_H_K7VTy2_TFC7byPzsxt",
+      "extension": ".flac",
+      "size": 53198078
+    },
+    "alternatives": [
+      {
+        "album": "爵士乐与不插电新编12首",
+        "title": "鸵鸟 (相信未来版)",
+        "fileName": "鸵鸟%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/爵士乐与不插电新编12首/鸵鸟%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/鸵鸟%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=65&oa_song=4",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t05",
+    "album": "爵士乐与不插电新编12首",
+    "title": "卡夫卡",
+    "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-05 - 卡夫卡.flac",
+    "source": {
+      "album": "爵士乐与不插电新编12首",
+      "title": "卡夫卡 (相信未来版)-李志",
+      "fileName": "卡夫卡 (相信未来版)-李志.flac",
+      "url": "https://drive.google.com/file/d/1Y9T4n7gu6pcDKQGSaGuZg-rtAmZqBjRV/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1Y9T4n7gu6pcDKQGSaGuZg-rtAmZqBjRV",
+      "extension": ".flac",
+      "size": 61774140
+    },
+    "alternatives": [
+      {
+        "album": "爵士乐与不插电新编12首",
+        "title": "卡夫卡 (相信未来版)",
+        "fileName": "卡夫卡%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/爵士乐与不插电新编12首/卡夫卡%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/卡夫卡%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=65&oa_song=5",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t07",
+    "album": "爵士乐与不插电新编12首",
+    "title": "翁庆年的六英镑",
+    "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-07 - 翁庆年的六英镑.flac",
+    "source": {
+      "album": "爵士乐与不插电新编12首",
+      "title": "翁庆年的六英镑 (相信未来版)-李志",
+      "fileName": "翁庆年的六英镑 (相信未来版)-李志.flac",
+      "url": "https://drive.google.com/file/d/1yRiHRIOtE9z9vzxsSo-Kn8JyB9Zq39HI/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1yRiHRIOtE9z9vzxsSo-Kn8JyB9Zq39HI",
+      "extension": ".flac",
+      "size": 37762239
+    },
+    "alternatives": [
+      {
+        "album": "爵士乐与不插电新编12首",
+        "title": "翁庆年的六英镑 (相信未来版)",
+        "fileName": "翁庆年的六英镑%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/爵士乐与不插电新编12首/翁庆年的六英镑%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/翁庆年的六英镑%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=65&oa_song=7",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t08",
+    "album": "爵士乐与不插电新编12首",
+    "title": "死人",
+    "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-08 - 死人.flac",
+    "source": {
+      "album": "爵士乐与不插电新编12首",
+      "title": "死人 (相信未来版)-李志",
+      "fileName": "死人 (相信未来版)-李志.flac",
+      "url": "https://drive.google.com/file/d/1lts9K_9jraPJMgMJM1GhoNHfEE2bs1zO/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1lts9K_9jraPJMgMJM1GhoNHfEE2bs1zO",
+      "extension": ".flac",
+      "size": 25864662
+    },
+    "alternatives": [
+      {
+        "album": "爵士乐与不插电新编12首",
+        "title": "死人 (相信未来版)",
+        "fileName": "死人%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/爵士乐与不插电新编12首/死人%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/死人%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=65&oa_song=8",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t09",
+    "album": "爵士乐与不插电新编12首",
+    "title": "爱",
+    "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-09 - 爱.flac",
+    "source": {
+      "album": "爵士乐与不插电新编12首",
+      "title": "爱 (相信未来版)-李志",
+      "fileName": "爱 (相信未来版)-李志.flac",
+      "url": "https://drive.google.com/file/d/1oLlbKkAt-GCt-1UiNG3wbP6RLRM5GCmp/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1oLlbKkAt-GCt-1UiNG3wbP6RLRM5GCmp",
+      "extension": ".flac",
+      "size": 27477243
+    },
+    "alternatives": [
+      {
+        "album": "爵士乐与不插电新编12首",
+        "title": "爱 (相信未来版)",
+        "fileName": "爱%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/爵士乐与不插电新编12首/爱%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/爱%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=65&oa_song=9",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t10",
+    "album": "爵士乐与不插电新编12首",
+    "title": "董卓瑶",
+    "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-10 - 董卓瑶.flac",
+    "source": {
+      "album": "爵士乐与不插电新编12首",
+      "title": "董卓瑶 (相信未来版)-李志",
+      "fileName": "董卓瑶 (相信未来版)-李志.flac",
+      "url": "https://drive.google.com/file/d/1vyPYzurTXMPhur_jY4wWOYyRo1VErAXE/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1vyPYzurTXMPhur_jY4wWOYyRo1VErAXE",
+      "extension": ".flac",
+      "size": 30957665
+    },
+    "alternatives": [
+      {
+        "album": "爵士乐与不插电新编12首",
+        "title": "董卓瑶 (相信未来版)",
+        "fileName": "董卓瑶%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/爵士乐与不插电新编12首/董卓瑶%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/董卓瑶%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=65&oa_song=10",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t11",
+    "album": "爵士乐与不插电新编12首",
+    "title": "一个夜晚",
+    "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-11 - 一个夜晚.flac",
+    "source": {
+      "album": "爵士乐与不插电新编12首",
+      "title": "一个夜晚 (相信未来版)-李志",
+      "fileName": "一个夜晚 (相信未来版)-李志.flac",
+      "url": "https://drive.google.com/file/d/19WvcHmJtjhAor3-0fQ6GTG7eJyI5gGLE/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "19WvcHmJtjhAor3-0fQ6GTG7eJyI5gGLE",
+      "extension": ".flac",
+      "size": 36412974
+    },
+    "alternatives": [
+      {
+        "album": "爵士乐与不插电新编12首",
+        "title": "一个夜晚 (相信未来版)",
+        "fileName": "一个夜晚%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/爵士乐与不插电新编12首/一个夜晚%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/一个夜晚%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=65&oa_song=11",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t12",
+    "album": "爵士乐与不插电新编12首",
+    "title": "鼠说",
+    "localPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-12 - 鼠说.flac",
+    "source": {
+      "album": "爵士乐与不插电新编12首",
+      "title": "鼠说 (相信未来版)-李志",
+      "fileName": "鼠说 (相信未来版)-李志.flac",
+      "url": "https://drive.google.com/file/d/1t0wgJTCR6el8cTwHKdPCQ84bhbw1KrpG/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1t0wgJTCR6el8cTwHKdPCQ84bhbw1KrpG",
+      "extension": ".flac",
+      "size": 55398991
+    },
+    "alternatives": [
+      {
+        "album": "爵士乐与不插电新编12首",
+        "title": "鼠说 (相信未来版)",
+        "fileName": "鼠说%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/爵士乐与不插电新编12首/鼠说%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/鼠说%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=65&oa_song=12",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t01",
+    "album": "李志、电声与管弦乐II",
+    "title": "相信未来序曲（2017跨年版）",
+    "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-01 - 相信未来序曲（2017跨年版）.flac",
+    "source": {
+      "album": "李志、电声与管弦乐II",
+      "title": "相信未来序曲 (乐曲) - 李志",
+      "fileName": "相信未来序曲 (乐曲) - 李志.flac",
+      "url": "https://drive.google.com/file/d/1WGPpYG64ge_wh_nQKJIslc0nA8xwKYPG/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1WGPpYG64ge_wh_nQKJIslc0nA8xwKYPG",
+      "extension": ".flac",
+      "size": 32681368
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐II",
+        "title": "相信未来序曲 (乐曲)",
+        "fileName": "相信未来序曲%20(乐曲).mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐II/相信未来序曲%20(乐曲).mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐II/相信未来序曲%20(乐曲).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=64&oa_song=1",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t02",
+    "album": "李志、电声与管弦乐II",
+    "title": "一头偶像（2017跨年版）",
+    "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-02 - 一头偶像（2017跨年版）.flac",
+    "source": {
+      "album": "李志、电声与管弦乐II",
+      "title": "一头偶像 (相信未来版) - 李志",
+      "fileName": "一头偶像 (相信未来版) - 李志.flac",
+      "url": "https://drive.google.com/file/d/1cCewoFRVQ-uG_3sC4_kRoOU1rTH2I2Nr/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1cCewoFRVQ-uG_3sC4_kRoOU1rTH2I2Nr",
+      "extension": ".flac",
+      "size": 35646035
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐II",
+        "title": "一头偶像 (相信未来版)",
+        "fileName": "一头偶像%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐II/一头偶像%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐II/一头偶像%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=64&oa_song=2",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t03",
+    "album": "李志、电声与管弦乐II",
+    "title": "你好明天（2017跨年版）",
+    "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-03 - 你好明天（2017跨年版）.flac",
+    "source": {
+      "album": "李志、电声与管弦乐II",
+      "title": "你好明天 (相信未来版) - 李志",
+      "fileName": "你好明天 (相信未来版) - 李志.flac",
+      "url": "https://drive.google.com/file/d/1TGAmnXNPjaMa-NKNw6upKrkvFWLO7XJm/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1TGAmnXNPjaMa-NKNw6upKrkvFWLO7XJm",
+      "extension": ".flac",
+      "size": 32598397
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐II",
+        "title": "你好明天 (相信未来版)",
+        "fileName": "你好明天%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐II/你好明天%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐II/你好明天%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=64&oa_song=3",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t04",
+    "album": "李志、电声与管弦乐II",
+    "title": "寻找（2017跨年版）",
+    "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-04 - 寻找（2017跨年版）.flac",
+    "source": {
+      "album": "李志、电声与管弦乐II",
+      "title": "寻找 (相信未来版) - 李志",
+      "fileName": "寻找 (相信未来版) - 李志.flac",
+      "url": "https://drive.google.com/file/d/15BXxWIEnUM9fUWJbiW7N193_U1QDQ2VL/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "15BXxWIEnUM9fUWJbiW7N193_U1QDQ2VL",
+      "extension": ".flac",
+      "size": 29814396
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐II",
+        "title": "寻找 (相信未来版)",
+        "fileName": "寻找%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐II/寻找%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐II/寻找%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=64&oa_song=4",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t05",
+    "album": "李志、电声与管弦乐II",
+    "title": "山阴路的夏天（2017跨年版）",
+    "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-05 - 山阴路的夏天（2017跨年版）.flac",
+    "source": {
+      "album": "李志、电声与管弦乐II",
+      "title": "山阴路的夏天 (相信未来版) - 李志",
+      "fileName": "山阴路的夏天 (相信未来版) - 李志.flac",
+      "url": "https://drive.google.com/file/d/1JrBIQBj_o7XgwMjp2y-Pa8vLxKhEB7Gf/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1JrBIQBj_o7XgwMjp2y-Pa8vLxKhEB7Gf",
+      "extension": ".flac",
+      "size": 27953720
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐II",
+        "title": "山阴路的夏天 (相信未来版)",
+        "fileName": "山阴路的夏天%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐II/山阴路的夏天%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐II/山阴路的夏天%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=64&oa_song=5",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t06",
+    "album": "李志、电声与管弦乐II",
+    "title": "哦吼（2017跨年版）",
+    "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-06 - 哦吼（2017跨年版）.flac",
+    "source": {
+      "album": "李志、电声与管弦乐II",
+      "title": "哦吼 (相信未来版) - 李志",
+      "fileName": "哦吼 (相信未来版) - 李志.flac",
+      "url": "https://drive.google.com/file/d/1lQfCHizHEf10ZlPaAZDmrXMam0sTp3MN/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1lQfCHizHEf10ZlPaAZDmrXMam0sTp3MN",
+      "extension": ".flac",
+      "size": 36624012
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐II",
+        "title": "哦吼 (相信未来版)",
+        "fileName": "哦吼%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐II/哦吼%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐II/哦吼%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=64&oa_song=6",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t07",
+    "album": "李志、电声与管弦乐II",
+    "title": "天空之城（2017跨年版）",
+    "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-07 - 天空之城（2017跨年版）.flac",
+    "source": {
+      "album": "李志、电声与管弦乐II",
+      "title": "天空之城 (相信未来版) - 李志",
+      "fileName": "天空之城 (相信未来版) - 李志.flac",
+      "url": "https://drive.google.com/file/d/1HXTuJzVEIkE9iPyRzOkMcFuBQTzcUjty/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1HXTuJzVEIkE9iPyRzOkMcFuBQTzcUjty",
+      "extension": ".flac",
+      "size": 29504013
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐II",
+        "title": "天空之城 (相信未来版)",
+        "fileName": "天空之城%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐II/天空之城%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐II/天空之城%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=64&oa_song=7",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t08",
+    "album": "李志、电声与管弦乐II",
+    "title": "家乡（2017跨年版）",
+    "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-08 - 家乡（2017跨年版）.flac",
+    "source": {
+      "album": "李志、电声与管弦乐II",
+      "title": "家乡 (相信未来版) - 李志",
+      "fileName": "家乡 (相信未来版) - 李志.flac",
+      "url": "https://drive.google.com/file/d/1rtl3s7ZveDniNNa2K1SIavCTIicGMKLb/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "1rtl3s7ZveDniNNa2K1SIavCTIicGMKLb",
+      "extension": ".flac",
+      "size": 36419195
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐II",
+        "title": "家乡 (相信未来版)",
+        "fileName": "家乡%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐II/家乡%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐II/家乡%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=64&oa_song=8",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t09",
+    "album": "李志、电声与管弦乐II",
+    "title": "这个世界会好吗（2017跨年版）",
+    "localPath": "live/李志/2018 - 李志、电声与管弦乐II/01-09 - 这个世界会好吗（2017跨年版）.flac",
+    "source": {
+      "album": "李志、电声与管弦乐II",
+      "title": "这个世界会好吗 (相信未来版) - 李志",
+      "fileName": "这个世界会好吗 (相信未来版) - 李志.flac",
+      "url": "https://drive.google.com/file/d/187eaUzscaAwR7vDnpKUqtyOsHYgo_ze6/view?usp=drivesdk",
+      "provider": "Google Drive public share",
+      "id": "187eaUzscaAwR7vDnpKUqtyOsHYgo_ze6",
+      "extension": ".flac",
+      "size": 40725097
+    },
+    "alternatives": [
+      {
+        "album": "李志、电声与管弦乐II",
+        "title": "这个世界会好吗 (相信未来版)",
+        "fileName": "这个世界会好吗%20(相信未来版).mp3",
+        "url": "https://st.nj1701.com/电声与管弦乐II/这个世界会好吗%20(相信未来版).mp3",
+        "downloadUrl": "https://st.nj1701.com/电声与管弦乐II/这个世界会好吗%20(相信未来版).zip",
+        "provider": "lizhinb.com",
+        "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=64&oa_song=9",
+        "extension": ".mp3"
+      }
+    ],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-tokyo-2024-d01-t01",
+    "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+    "title": "关于郑州的记忆+董卓瑶+春末的南方城市",
+    "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-01 - 关于郑州的记忆+董卓瑶+春末的南方城市.mp3",
+    "source": {
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "关于郑州的记忆+董卓瑶+春末的南方都市",
+      "fileName": "关于郑州的记忆+董卓瑶+春末的南方都市.mp3",
+      "url": "https://st.nj1701.com/叁缺壹东京站/关于郑州的记忆+董卓瑶+春末的南方都市.mp3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹东京站/关于郑州的记忆+董卓瑶+春末的南方都市.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=71&oa_song=1",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  },
+  {
+    "trackId": "lizhi-tokyo-2024-d02-t06",
+    "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+    "title": "你离开了南京，从此没有人和我说话",
+    "localPath": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-06 - 你离开了南京，从此没有人和我说话.mp3",
+    "source": {
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "title": "你离开了南京从此没人和我说话",
+      "fileName": "你离开了南京从此没人和我说话.mp3",
+      "url": "https://st.nj1701.com/叁缺壹东京站/你离开了南京从此没人和我说话.mp3",
+      "downloadUrl": "https://st.nj1701.com/叁缺壹东京站/你离开了南京从此没人和我说话.zip",
+      "provider": "lizhinb.com",
+      "pageUrl": "https://www.lizhinb.com/gequ/?oa_album=71&oa_song=14",
+      "extension": ".mp3"
+    },
+    "alternatives": [],
+    "rightsStatus": "unverified-third-party",
+    "status": "pending"
+  }
+]

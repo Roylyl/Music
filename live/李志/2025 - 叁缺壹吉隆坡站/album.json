@@ -1,0 +1,4055 @@
+{
+  "id": "lizhi-kuala-lumpur-2025",
+  "artist": "李志",
+  "albumArtist": "李志",
+  "title": "叁缺壹吉隆坡站",
+  "releaseDate": null,
+  "releaseDatePrecision": "unknown",
+  "year": 2025,
+  "type": "concert",
+  "path": "live/李志/2025 - 叁缺壹吉隆坡站",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t01",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "开场+黑色信封",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 438.648,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/01开场+黑色信封.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-01 - 开场+黑色信封.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=1",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 438.648,
+        "fileSize": 17601218,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t01",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-01 - 开场+黑色信封.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/01开场+黑色信封.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 438.648,
+            "fileSize": 17601218,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 438.622,
+            "fileSize": 10574156,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 438.622,
+        "fileSize": 10574156,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t01",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-01 - 开场+黑色信封.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/01开场+黑色信封.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 438.648,
+            "fileSize": 17601218,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 438.622,
+            "fileSize": 10574156,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t02",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "定西",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 464.353,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/02定西.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-02 - 定西.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=2",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 464.353,
+        "fileSize": 18630416,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t02",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-02 - 定西.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/02定西.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 464.353,
+            "fileSize": 18630416,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 464.327,
+            "fileSize": 11191670,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 464.327,
+        "fileSize": 11191670,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t02",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-02 - 定西.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/02定西.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 464.353,
+            "fileSize": 18630416,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 464.327,
+            "fileSize": 11191670,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t03",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "春末的南方城市",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 291.082,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/03春末的南方城市.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-03 - 春末的南方城市.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=3",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 291.082,
+        "fileSize": 11692687,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t03",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-03 - 春末的南方城市.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/03春末的南方城市.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 291.082,
+            "fileSize": 11692687,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 291.056,
+            "fileSize": 7029037,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 291.056,
+        "fileSize": 7029037,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t03",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-03 - 春末的南方城市.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/03春末的南方城市.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 291.082,
+            "fileSize": 11692687,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 291.056,
+            "fileSize": 7029037,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t04",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "逼言逼语",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 50.442,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-04 - 逼言逼语.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=4",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 50.442,
+        "fileSize": 2057455,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t04",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-04 - 逼言逼语.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 50.442,
+            "fileSize": 2057455,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 50.416,
+            "fileSize": 1247895,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 50.416,
+        "fileSize": 1247895,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t04",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-04 - 逼言逼语.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 50.442,
+            "fileSize": 2057455,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 50.416,
+            "fileSize": 1247895,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t05",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "天空之城",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 226.638,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/05天空之城.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-05 - 天空之城.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=5",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 226.638,
+        "fileSize": 9112339,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t05",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-05 - 天空之城.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/05天空之城.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 226.638,
+            "fileSize": 9112339,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 226.612,
+            "fileSize": 5480826,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 226.612,
+        "fileSize": 5480826,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t05",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-05 - 天空之城.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/05天空之城.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 226.638,
+            "fileSize": 9112339,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 226.612,
+            "fileSize": 5480826,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t06",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "关于郑州的记忆",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 222.041,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/06关于郑州的记忆.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-06 - 关于郑州的记忆.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=6",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 222.041,
+        "fileSize": 8928259,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t06",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-06 - 关于郑州的记忆.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/06关于郑州的记忆.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 222.041,
+            "fileSize": 8928259,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 222.015,
+            "fileSize": 5370381,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 222.015,
+        "fileSize": 5370381,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t06",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-06 - 关于郑州的记忆.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/06关于郑州的记忆.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 222.041,
+            "fileSize": 8928259,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 222.015,
+            "fileSize": 5370381,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t07",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "苍井空",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 288.026,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/07苍井空.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-07 - 苍井空.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=7",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 288.026,
+        "fileSize": 11570303,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t07",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-07 - 苍井空.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/07苍井空.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 288.026,
+            "fileSize": 11570303,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 288.0,
+            "fileSize": 6955605,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 288.0,
+        "fileSize": 6955605,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t07",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-07 - 苍井空.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/07苍井空.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 288.026,
+            "fileSize": 11570303,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 288.0,
+            "fileSize": 6955605,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t08",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "秋天的老狼",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 250.436,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/08秋天的老狼.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-08 - 秋天的老狼.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=8",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 250.436,
+        "fileSize": 10065195,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t08",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-08 - 秋天的老狼.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/08秋天的老狼.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 250.436,
+            "fileSize": 10065195,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 250.41,
+            "fileSize": 6052541,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 250.41,
+        "fileSize": 6052541,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t08",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-08 - 秋天的老狼.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/08秋天的老狼.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 250.436,
+            "fileSize": 10065195,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 250.41,
+            "fileSize": 6052541,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t09",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "铅笔",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 291.553,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/09铅笔.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-09 - 铅笔.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=9",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 291.553,
+        "fileSize": 11711504,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t09",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-09 - 铅笔.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/09铅笔.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 291.553,
+            "fileSize": 11711504,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 291.526,
+            "fileSize": 7040323,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 291.526,
+        "fileSize": 7040323,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t09",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-09 - 铅笔.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/09铅笔.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 291.553,
+            "fileSize": 11711504,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 291.526,
+            "fileSize": 7040323,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t10",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "逼言逼语",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 50.442,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-10 - 逼言逼语.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=10",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 50.442,
+        "fileSize": 2057457,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t10",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-10 - 逼言逼语.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 50.442,
+            "fileSize": 2057457,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 50.416,
+            "fileSize": 1247897,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 50.416,
+        "fileSize": 1247897,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t10",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-10 - 逼言逼语.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 50.442,
+            "fileSize": 2057457,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 50.416,
+            "fileSize": 1247897,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t11",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "鸵鸟+墙上的向日葵",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 940.748,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/11鸵鸟+墙上的向日葵.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-11 - 鸵鸟+墙上的向日葵.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=11",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 940.748,
+        "fileSize": 37705291,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t11",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-11 - 鸵鸟+墙上的向日葵.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/11鸵鸟+墙上的向日葵.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 940.748,
+            "fileSize": 37705291,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 940.722,
+            "fileSize": 22636603,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 940.722,
+        "fileSize": 22636603,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t11",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-11 - 鸵鸟+墙上的向日葵.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/11鸵鸟+墙上的向日葵.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 940.748,
+            "fileSize": 37705291,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 940.722,
+            "fileSize": 22636603,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t12",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "翁庆年的六英镑",
+      "discNumber": 1,
+      "trackNumber": 12,
+      "sequenceNumber": 12,
+      "duration": 259.788,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/12翁庆年的六英镑.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-12 - 翁庆年的六英镑.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=12",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 259.788,
+        "fileSize": 10439649,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t12",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-12 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/12翁庆年的六英镑.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 259.788,
+            "fileSize": 10439649,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 259.762,
+            "fileSize": 6277216,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 259.762,
+        "fileSize": 6277216,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t12",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-12 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/12翁庆年的六英镑.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 259.788,
+            "fileSize": 10439649,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 259.762,
+            "fileSize": 6277216,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t13",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "能不能帮个忙",
+      "discNumber": 1,
+      "trackNumber": 13,
+      "sequenceNumber": 13,
+      "duration": 117.734,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/13能不能帮个忙.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-13 - 能不能帮个忙.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=13",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 117.734,
+        "fileSize": 4751810,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t13",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-13 - 能不能帮个忙.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/13能不能帮个忙.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 117.734,
+            "fileSize": 4751810,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 117.708,
+            "fileSize": 2864511,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 117.708,
+        "fileSize": 2864511,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t13",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-13 - 能不能帮个忙.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/13能不能帮个忙.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 117.734,
+            "fileSize": 4751810,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 117.708,
+            "fileSize": 2864511,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t14",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "你，来替我做个梦 万晓利",
+      "discNumber": 1,
+      "trackNumber": 14,
+      "sequenceNumber": 14,
+      "duration": 285.571,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/14你，来替我做个梦%20万晓利.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-14 - 你，来替我做个梦 万晓利.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=14",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 285.571,
+        "fileSize": 11472004,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t14",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-14 - 你，来替我做个梦 万晓利.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/14你，来替我做个梦%20万晓利.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 285.571,
+            "fileSize": 11472004,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 285.544,
+            "fileSize": 6896633,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 285.544,
+        "fileSize": 6896633,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t14",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-14 - 你，来替我做个梦 万晓利.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/14你，来替我做个梦%20万晓利.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 285.571,
+            "fileSize": 11472004,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 285.544,
+            "fileSize": 6896633,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t15",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "米店 张玮玮",
+      "discNumber": 1,
+      "trackNumber": 15,
+      "sequenceNumber": 15,
+      "duration": 327.523,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/15米店%20张玮玮.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-15 - 米店 张玮玮.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=15",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 327.523,
+        "fileSize": 13151777,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t15",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-15 - 米店 张玮玮.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/15米店%20张玮玮.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 327.523,
+            "fileSize": 13151777,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 327.497,
+            "fileSize": 7904491,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 327.497,
+        "fileSize": 7904491,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t15",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-15 - 米店 张玮玮.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/15米店%20张玮玮.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 327.523,
+            "fileSize": 13151777,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 327.497,
+            "fileSize": 7904491,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t16",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "生日快乐",
+      "discNumber": 1,
+      "trackNumber": 16,
+      "sequenceNumber": 16,
+      "duration": 115.618,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/16生日快乐.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-16 - 生日快乐.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=16",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 115.618,
+        "fileSize": 4667084,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t16",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-16 - 生日快乐.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/16生日快乐.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 115.618,
+            "fileSize": 4667084,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 115.592,
+            "fileSize": 2813675,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 115.592,
+        "fileSize": 2813675,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t16",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-16 - 生日快乐.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/16生日快乐.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 115.618,
+            "fileSize": 4667084,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 115.592,
+            "fileSize": 2813675,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t17",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "和你在一起",
+      "discNumber": 1,
+      "trackNumber": 17,
+      "sequenceNumber": 17,
+      "duration": 257.254,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/17和你在一起.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-17 - 和你在一起.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=17",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 257.254,
+        "fileSize": 10338189,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t17",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-17 - 和你在一起.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/17和你在一起.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 257.254,
+            "fileSize": 10338189,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 257.228,
+            "fileSize": 6216338,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 257.228,
+        "fileSize": 6216338,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t17",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-17 - 和你在一起.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/17和你在一起.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 257.254,
+            "fileSize": 10338189,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 257.228,
+            "fileSize": 6216338,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t18",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "杭州",
+      "discNumber": 1,
+      "trackNumber": 18,
+      "sequenceNumber": 18,
+      "duration": 240.666,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/18杭州.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-18 - 杭州.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=18",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 240.666,
+        "fileSize": 9674008,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t18",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-18 - 杭州.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/18杭州.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 240.666,
+            "fileSize": 9674008,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 240.64,
+            "fileSize": 5817828,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 240.64,
+        "fileSize": 5817828,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t18",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-18 - 杭州.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/18杭州.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 240.666,
+            "fileSize": 9674008,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 240.64,
+            "fileSize": 5817828,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t19",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "董卓瑶",
+      "discNumber": 1,
+      "trackNumber": 19,
+      "sequenceNumber": 19,
+      "duration": 279.275,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/19董卓瑶.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-19 - 董卓瑶.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=19",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 279.275,
+        "fileSize": 11219915,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t19",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-19 - 董卓瑶.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/19董卓瑶.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 279.275,
+            "fileSize": 11219915,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 279.249,
+            "fileSize": 6745371,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 279.249,
+        "fileSize": 6745371,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t19",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-19 - 董卓瑶.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/19董卓瑶.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 279.275,
+            "fileSize": 11219915,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 279.249,
+            "fileSize": 6745371,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t20",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "南京越来越远",
+      "discNumber": 1,
+      "trackNumber": 20,
+      "sequenceNumber": 20,
+      "duration": 318.537,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/20南京越来越远.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-20 - 南京越来越远.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=20",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 318.537,
+        "fileSize": 12791972,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t20",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-20 - 南京越来越远.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/20南京越来越远.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 318.537,
+            "fileSize": 12791972,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 318.511,
+            "fileSize": 7688609,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 318.511,
+        "fileSize": 7688609,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t20",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-20 - 南京越来越远.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/20南京越来越远.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 318.537,
+            "fileSize": 12791972,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 318.511,
+            "fileSize": 7688609,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t21",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "梵高先生",
+      "discNumber": 1,
+      "trackNumber": 21,
+      "sequenceNumber": 21,
+      "duration": 324.075,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/21梵高先生.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-21 - 梵高先生.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=21",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 324.075,
+        "fileSize": 13013709,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t21",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-21 - 梵高先生.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/21梵高先生.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 324.075,
+            "fileSize": 13013709,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 324.049,
+            "fileSize": 7821649,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 324.049,
+        "fileSize": 7821649,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t21",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-21 - 梵高先生.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/21梵高先生.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 324.075,
+            "fileSize": 13013709,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 324.049,
+            "fileSize": 7821649,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t22",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "这个世界会好吗",
+      "discNumber": 1,
+      "trackNumber": 22,
+      "sequenceNumber": 22,
+      "duration": 308.376,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/22这个世界会好吗.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-22 - 这个世界会好吗.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=22",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 308.376,
+        "fileSize": 12385103,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t22",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-22 - 这个世界会好吗.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/22这个世界会好吗.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 308.376,
+            "fileSize": 12385103,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 308.349,
+            "fileSize": 7444488,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 308.349,
+        "fileSize": 7444488,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t22",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-22 - 这个世界会好吗.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/22这个世界会好吗.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 308.376,
+            "fileSize": 12385103,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 308.349,
+            "fileSize": 7444488,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t23",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "倒影",
+      "discNumber": 1,
+      "trackNumber": 23,
+      "sequenceNumber": 23,
+      "duration": 233.822,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/23倒影.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-23 - 倒影.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=23",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 233.822,
+        "fileSize": 9399971,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t23",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-23 - 倒影.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/23倒影.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 233.822,
+            "fileSize": 9399971,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 233.796,
+            "fileSize": 5653406,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 233.796,
+        "fileSize": 5653406,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t23",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-23 - 倒影.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/23倒影.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 233.822,
+            "fileSize": 9399971,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 233.796,
+            "fileSize": 5653406,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t24",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "下雨",
+      "discNumber": 1,
+      "trackNumber": 24,
+      "sequenceNumber": 24,
+      "duration": 324.807,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/24下雨.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-24 - 下雨.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=24",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 324.807,
+        "fileSize": 13042991,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t24",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-24 - 下雨.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/24下雨.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 324.807,
+            "fileSize": 13042991,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 324.78,
+            "fileSize": 7839216,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 324.78,
+        "fileSize": 7839216,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t24",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-24 - 下雨.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/24下雨.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 324.807,
+            "fileSize": 13042991,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 324.78,
+            "fileSize": 7839216,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t25",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "逼言逼语",
+      "discNumber": 1,
+      "trackNumber": 25,
+      "sequenceNumber": 25,
+      "duration": 50.442,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-25 - 逼言逼语.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=25",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 50.442,
+        "fileSize": 2057457,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t25",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-25 - 逼言逼语.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 50.442,
+            "fileSize": 2057457,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 50.416,
+            "fileSize": 1247897,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 50.416,
+        "fileSize": 1247897,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t25",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-25 - 逼言逼语.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 50.442,
+            "fileSize": 2057457,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 50.416,
+            "fileSize": 1247897,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t26",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "被禁忌的游戏+来了+忽然",
+      "discNumber": 1,
+      "trackNumber": 26,
+      "sequenceNumber": 26,
+      "duration": 1055.896,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/26被禁忌的游戏+来了+忽然.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-26 - 被禁忌的游戏+来了+忽然.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=26",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 1055.896,
+        "fileSize": 42315813,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t26",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-26 - 被禁忌的游戏+来了+忽然.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/26被禁忌的游戏+来了+忽然.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 1055.896,
+            "fileSize": 42315813,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 1055.869,
+            "fileSize": 25402918,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 1055.869,
+        "fileSize": 25402918,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t26",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-26 - 被禁忌的游戏+来了+忽然.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/26被禁忌的游戏+来了+忽然.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 1055.896,
+            "fileSize": 42315813,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 1055.869,
+            "fileSize": 25402918,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t27",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "热河",
+      "discNumber": 1,
+      "trackNumber": 27,
+      "sequenceNumber": 27,
+      "duration": 521.535,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/27热河.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-27 - 热河.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=27",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 521.535,
+        "fileSize": 20919986,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t27",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-27 - 热河.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/27热河.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 521.535,
+            "fileSize": 20919986,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 521.509,
+            "fileSize": 12565414,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 521.509,
+        "fileSize": 12565414,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t27",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-27 - 热河.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/27热河.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 521.535,
+            "fileSize": 20919986,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 521.509,
+            "fileSize": 12565414,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t28",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "山阴路的夏天",
+      "discNumber": 1,
+      "trackNumber": 28,
+      "sequenceNumber": 28,
+      "duration": 384.392,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/28山阴路的夏天.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-28 - 山阴路的夏天.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=28",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 384.392,
+        "fileSize": 15428794,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t28",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-28 - 山阴路的夏天.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/28山阴路的夏天.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 384.392,
+            "fileSize": 15428794,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 384.366,
+            "fileSize": 9270702,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 384.366,
+        "fileSize": 9270702,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t28",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-28 - 山阴路的夏天.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/28山阴路的夏天.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 384.392,
+            "fileSize": 15428794,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 384.366,
+            "fileSize": 9270702,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t29",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "鼠说",
+      "discNumber": 1,
+      "trackNumber": 29,
+      "sequenceNumber": 29,
+      "duration": 293.198,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/29鼠说.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-29 - 鼠说.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=29",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 293.198,
+        "fileSize": 11777400,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t29",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-29 - 鼠说.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/29鼠说.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 293.198,
+            "fileSize": 11777400,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 293.172,
+            "fileSize": 7079862,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 293.172,
+        "fileSize": 7079862,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t29",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-29 - 鼠说.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/29鼠说.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 293.198,
+            "fileSize": 11777400,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 293.172,
+            "fileSize": 7079862,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-kuala-lumpur-2025-d01-t30",
+      "artist": "李志",
+      "album": "叁缺壹吉隆坡站",
+      "title": "结尾团队介绍",
+      "discNumber": 1,
+      "trackNumber": 30,
+      "sequenceNumber": 30,
+      "duration": 821.917,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/30结尾团队介绍.MP3",
+      "format": "MP3",
+      "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-30 - 结尾团队介绍.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=30",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-26"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 821.917,
+        "fileSize": 32947291,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t30",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-30 - 结尾团队介绍.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/30结尾团队介绍.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 821.917,
+            "fileSize": 32947291,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 821.891,
+            "fileSize": 19781800,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 821.891,
+        "fileSize": 19781800,
+        "bitRate": 192000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-kuala-lumpur-2025-d01-t30",
+          "localPath": "live/李志/2025 - 叁缺壹吉隆坡站/01-30 - 结尾团队介绍.mp3",
+          "sourceUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/30结尾团队介绍.MP3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 821.917,
+            "fileSize": 32947291,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 821.891,
+            "fileSize": 19781800,
+            "bitRate": 192000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://www.lizhinb.com/gequ/?oa_album=72",
+    "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=1"
+  ],
+  "notes": [
+    "歌迷站30轨演出录音；2025年11月演出，具体场次和公开流通日期待核，不作为正式发行专辑。"
+  ],
+  "metadataStatus": "provisional",
+  "editions": [],
+  "officialReleaseConfirmed": false,
+  "tracklistStatus": "third-party-listed",
+  "trackCount": 30,
+  "coverSource": {
+    "provider": "lizhinb.com",
+    "url": "https://st.nj1701.com/叁缺壹吉隆坡站/封面.jpg",
+    "width": 300,
+    "height": 300,
+    "lowResolution": true,
+    "originalPath": "covers/originals/2025 - 叁缺壹吉隆坡站 - 叁缺壹吉隆坡站.jpg"
+  }
+}

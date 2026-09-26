@@ -1,0 +1,1778 @@
+{
+  "id": "lizhi-yiwu-2009",
+  "artist": "李志",
+  "title": "义乌隔壁酒吧",
+  "releaseDate": null,
+  "releaseDatePrecision": "unknown",
+  "year": 2009,
+  "eventDate": "2009-12-31",
+  "type": "concert",
+  "path": "live/李志/2009 - 义乌隔壁酒吧",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-yiwu-2009-d01-t01",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "苍井空",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 264.281,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/苍井空.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-01 - 苍井空.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=1",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 264.281,
+        "fileSize": 10598664,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t01",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-01 - 苍井空.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/苍井空.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 264.281,
+            "fileSize": 10598664,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 264.281,
+            "fileSize": 4248954,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 264.281,
+        "fileSize": 4248954,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t01",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-01 - 苍井空.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/苍井空.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 264.281,
+            "fileSize": 10598664,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 264.281,
+            "fileSize": 4248954,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-yiwu-2009-d01-t02",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "春末的南方城市",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 191.451,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/春末的南方城市.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-02 - 春末的南方城市.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=2",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 191.451,
+        "fileSize": 7682584,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t02",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-02 - 春末的南方城市.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/春末的南方城市.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 191.451,
+            "fileSize": 7682584,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 191.451,
+            "fileSize": 3082526,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 191.451,
+        "fileSize": 3082526,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t02",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-02 - 春末的南方城市.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/春末的南方城市.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 191.451,
+            "fileSize": 7682584,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 191.451,
+            "fileSize": 3082526,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-yiwu-2009-d01-t03",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "冬妮娅",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 234.736,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/冬妮娅.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-03 - 冬妮娅.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=3",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 234.736,
+        "fileSize": 9415703,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t03",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-03 - 冬妮娅.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/冬妮娅.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 234.736,
+            "fileSize": 9415703,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 234.736,
+            "fileSize": 3775770,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 234.736,
+        "fileSize": 3775770,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t03",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-03 - 冬妮娅.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/冬妮娅.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 234.736,
+            "fileSize": 9415703,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 234.736,
+            "fileSize": 3775770,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-yiwu-2009-d01-t04",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "董卓瑶",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 210.495,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/董卓瑶.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-04 - 董卓瑶.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=4",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 210.495,
+        "fileSize": 8445067,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t04",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-04 - 董卓瑶.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/董卓瑶.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 210.495,
+            "fileSize": 8445067,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 210.495,
+            "fileSize": 3387516,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 210.495,
+        "fileSize": 3387516,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t04",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-04 - 董卓瑶.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/董卓瑶.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 210.495,
+            "fileSize": 8445067,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 210.495,
+            "fileSize": 3387516,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-yiwu-2009-d01-t05",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "梵高先生",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 410.749,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/梵高先生.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-05 - 梵高先生.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=5",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 410.749,
+        "fileSize": 16463268,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t05",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-05 - 梵高先生.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/梵高先生.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 410.749,
+            "fileSize": 16463268,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 410.749,
+            "fileSize": 6594797,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 410.749,
+        "fileSize": 6594797,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t05",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-05 - 梵高先生.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/梵高先生.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 410.749,
+            "fileSize": 16463268,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 410.749,
+            "fileSize": 6594797,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-yiwu-2009-d01-t06",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "和你在一起",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 239.752,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/和你在一起.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-06 - 和你在一起.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=6",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 239.752,
+        "fileSize": 9616528,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t06",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-06 - 和你在一起.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/和你在一起.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 239.752,
+            "fileSize": 9616528,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 239.752,
+            "fileSize": 3856102,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 239.752,
+        "fileSize": 3856102,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t06",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-06 - 和你在一起.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/和你在一起.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 239.752,
+            "fileSize": 9616528,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 239.752,
+            "fileSize": 3856102,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-yiwu-2009-d01-t07",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "黑色信封",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 318.328,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/黑色信封.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-07 - 黑色信封.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=7",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 318.328,
+        "fileSize": 12762722,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t07",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-07 - 黑色信封.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/黑色信封.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 318.328,
+            "fileSize": 12762722,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 318.328,
+            "fileSize": 5114578,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 318.328,
+        "fileSize": 5114578,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t07",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-07 - 黑色信封.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/黑色信封.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 318.328,
+            "fileSize": 12762722,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 318.328,
+            "fileSize": 5114578,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-yiwu-2009-d01-t08",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "结婚",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 248.633,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/结婚.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-08 - 结婚.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=8",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 248.633,
+        "fileSize": 9972142,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t08",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-08 - 结婚.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/结婚.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 248.633,
+            "fileSize": 9972142,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 248.633,
+            "fileSize": 3998344,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 248.633,
+        "fileSize": 3998344,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t08",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-08 - 结婚.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/结婚.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 248.633,
+            "fileSize": 9972142,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 248.633,
+            "fileSize": 3998344,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-yiwu-2009-d01-t09",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "卡夫卡",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 196.206,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/卡夫卡.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-09 - 卡夫卡.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=9",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 196.206,
+        "fileSize": 7872937,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t09",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-09 - 卡夫卡.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/卡夫卡.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 196.206,
+            "fileSize": 7872937,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 196.206,
+            "fileSize": 3158663,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 196.206,
+        "fileSize": 3158663,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t09",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-09 - 卡夫卡.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/卡夫卡.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 196.206,
+            "fileSize": 7872937,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 196.206,
+            "fileSize": 3158663,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-yiwu-2009-d01-t10",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "来了",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 343.928,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/来了.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-10 - 来了.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=10",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 343.928,
+        "fileSize": 13787744,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t10",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-10 - 来了.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/来了.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 343.928,
+            "fileSize": 13787744,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 343.928,
+            "fileSize": 5524586,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 343.928,
+        "fileSize": 5524586,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t10",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-10 - 来了.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/来了.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 343.928,
+            "fileSize": 13787744,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 343.928,
+            "fileSize": 5524586,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-yiwu-2009-d01-t11",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "是否",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 374.021,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/是否.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-11 - 是否.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=11",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 374.021,
+        "fileSize": 14992670,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t11",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-11 - 是否.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/是否.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 374.021,
+            "fileSize": 14992670,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 374.021,
+            "fileSize": 6006556,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 374.021,
+        "fileSize": 6006556,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t11",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-11 - 是否.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/是否.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 374.021,
+            "fileSize": 14992670,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 374.021,
+            "fileSize": 6006556,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-yiwu-2009-d01-t12",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "翁庆年的六英镑",
+      "discNumber": 1,
+      "trackNumber": 12,
+      "sequenceNumber": 12,
+      "duration": 219.272,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/翁庆年的六英镑.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-12 - 翁庆年的六英镑.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=12",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 219.272,
+        "fileSize": 8796514,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t12",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-12 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/翁庆年的六英镑.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 219.272,
+            "fileSize": 8796514,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 219.272,
+            "fileSize": 3528100,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 219.272,
+        "fileSize": 3528100,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t12",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-12 - 翁庆年的六英镑.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/翁庆年的六英镑.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 219.272,
+            "fileSize": 8796514,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 219.272,
+            "fileSize": 3528100,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-yiwu-2009-d01-t13",
+      "artist": "李志",
+      "album": "义乌隔壁酒吧",
+      "title": "走进新时代",
+      "discNumber": 1,
+      "trackNumber": 13,
+      "sequenceNumber": 13,
+      "duration": 396.957,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/走进新时代.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-13 - 走进新时代.mp3",
+      "sources": [
+        {
+          "provider": "lizhinb.com",
+          "url": "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=13",
+          "status": "streaming-only",
+          "checkedAt": "2026-09-27"
+        }
+      ],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 396.957,
+        "fileSize": 15911014,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-fan-catalog-title",
+      "assets": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t13",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-13 - 走进新时代.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/走进新时代.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 396.957,
+            "fileSize": 15911014,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 396.957,
+            "fileSize": 6373897,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": null,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 396.957,
+        "fileSize": 6373897,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-yiwu-2009-d01-t13",
+          "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-13 - 走进新时代.mp3",
+          "sourceUrl": "https://st.nj1701.com/义乌隔壁酒吧/走进新时代.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 396.957,
+            "fileSize": 15911014,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 396.957,
+            "fileSize": 6373897,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://www.lizhinb.com/gequ/?oa_album=40&oa_song=1",
+    "https://ent.sina.com.cn/y/2009-09-24/09372711414.shtml"
+  ],
+  "notes": [
+    "2009年12月31日义乌隔壁酒吧演出。",
+    "歌迷站整理的独立分轨录音；正式发行未确认。"
+  ],
+  "metadataStatus": "provisional",
+  "editions": [],
+  "officialReleaseConfirmed": false,
+  "tracklistStatus": "third-party-listed",
+  "trackCount": 13,
+  "coverSource": {
+    "provider": "lizhinb.com",
+    "url": "https://st.nj1701.com/义乌隔壁酒吧/封面.jpg",
+    "width": 358,
+    "height": 358,
+    "lowResolution": true,
+    "originalPath": "covers/originals/2009 - 义乌隔壁酒吧 - 义乌隔壁酒吧.jpg"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/--7",
+  "title": "勾三搭四",
+  "releaseDate": "22 Oct 2020 09:01:37 GMT",
+  "current": {
+    "minimum_price": 116.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "22 Oct 2020 09:01:37 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "和你在一起（2013跨年版）",
+      "track_num": 1,
+      "duration": 261.724,
+      "title_link": "/track/2013",
+      "track_id": 541073583
+    },
+    {
+      "title": "牆上的向日葵（2013跨年版）",
+      "track_num": 2,
+      "duration": 445.792,
+      "title_link": "/track/2013-2",
+      "track_id": 3093524039
+    },
+    {
+      "title": "鉛筆（2013跨年版）",
+      "track_num": 3,
+      "duration": 244.203,
+      "title_link": "/track/2013-3",
+      "track_id": 172756660
+    },
+    {
+      "title": "被禁忌的遊戲（2013跨年版）",
+      "track_num": 4,
+      "duration": 498.556,
+      "title_link": "/track/2013-4",
+      "track_id": 3422370374
+    },
+    {
+      "title": "秋天的老狼（2013跨年版）",
+      "track_num": 5,
+      "duration": 432.769,
+      "title_link": "/track/2013-5",
+      "track_id": 2447201289
+    },
+    {
+      "title": "門（2013跨年版）",
+      "track_num": 6,
+      "duration": 397.962,
+      "title_link": "/track/2013-6",
+      "track_id": 3041100776
+    },
+    {
+      "title": "斜（2013跨年版）",
+      "track_num": 7,
+      "duration": 202.339,
+      "title_link": "/track/2013-7",
+      "track_id": 2783254016
+    },
+    {
+      "title": "春末的南方城市（2013跨年版）",
+      "track_num": 8,
+      "duration": 276.968,
+      "title_link": "/track/2013-8",
+      "track_id": 482005593
+    },
+    {
+      "title": "黑色信封（2013跨年版）",
+      "track_num": 9,
+      "duration": 327.205,
+      "title_link": "/track/2013-9",
+      "track_id": 451554568
+    },
+    {
+      "title": "意味（2013跨年版）",
+      "track_num": 10,
+      "duration": 329.301,
+      "title_link": "/track/2013-10",
+      "track_id": 2988509411
+    },
+    {
+      "title": "翁慶年的六英鎊（2013跨年版）",
+      "track_num": 11,
+      "duration": 269.931,
+      "title_link": "/track/2013-11",
+      "track_id": 1093233895
+    },
+    {
+      "title": "來了（2013跨年版）",
+      "track_num": 12,
+      "duration": 428.636,
+      "title_link": "/track/2013-12",
+      "track_id": 1448812204
+    },
+    {
+      "title": "媽媽（2013跨年版）",
+      "track_num": 13,
+      "duration": 253.611,
+      "title_link": "/track/2013-13",
+      "track_id": 3376235159
+    },
+    {
+      "title": "董卓瑤（2013跨年版）",
+      "track_num": 14,
+      "duration": 304.982,
+      "title_link": "/track/2013-14",
+      "track_id": 2235443099
+    },
+    {
+      "title": "山陰路的夏天（2013跨年版）",
+      "track_num": 15,
+      "duration": 337.952,
+      "title_link": "/track/2013-15",
+      "track_id": 2909171684
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $116 HKD or more Send as Gift"
+}

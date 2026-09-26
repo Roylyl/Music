@@ -1,0 +1,92 @@
+[
+  {
+    "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t05",
+    "localPath": "artists/李志/2009 - 我爱南京/02-05 - 思念观世音.wav",
+    "sourceUrl": "https://drive.google.com/file/d/1XgNK_vGedn5m-lgwoTj9bL03gGi3Argf/view?usp=drivesdk",
+    "provider": "Google Drive public share",
+    "rightsStatus": "unverified-third-party",
+    "checkedAt": "2026-09-26",
+    "status": "failed",
+    "error": "Downloaded file is not recognized audio"
+  },
+  {
+    "trackId": "lizhi-io-2015-d01-t03",
+    "localPath": "live/李志/2015 - i／O/01-03 - 铅笔.mp3",
+    "sourceUrl": "https://drive.google.com/file/d/1cszfJchWoHyARGPW7_FP7lhgsennDwC3/view?usp=drivesdk",
+    "provider": "Google Drive public share",
+    "rightsStatus": "unverified-third-party",
+    "checkedAt": "2026-09-26",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='drive.usercontent.google.com', port=443): Read timed out."
+  },
+  {
+    "trackId": "lizhi-io-2015-d01-t07",
+    "localPath": "live/李志/2015 - i／O/01-07 - 妈妈.mp3",
+    "sourceUrl": "https://drive.google.com/file/d/1OZqIV0R2FXcJfySPjI1ml3gCLq8awC6B/view?usp=drivesdk",
+    "provider": "Google Drive public share",
+    "rightsStatus": "unverified-third-party",
+    "checkedAt": "2026-09-26",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='drive.usercontent.google.com', port=443): Read timed out."
+  },
+  {
+    "trackId": "lizhi-io-2015-d01-t08",
+    "localPath": "live/李志/2015 - i／O/01-08 - 定西.mp3",
+    "sourceUrl": "https://drive.google.com/file/d/1HzK258dctcEURLJSdMm625J7EE97tfiQ/view?usp=drivesdk",
+    "provider": "Google Drive public share",
+    "rightsStatus": "unverified-third-party",
+    "checkedAt": "2026-09-26",
+    "status": "failed",
+    "error": "('Connection broken: IncompleteRead(1435564 bytes read, 10719011 more expected)', IncompleteRead(1435564 bytes read, 10719011 more expected))"
+  },
+  {
+    "trackId": "lizhi-has-man-a-future-2015-d01-t01",
+    "localPath": "artists/李志/2015 - 这个世界会好吗（2015版本）/01-01 - 这个世界会好吗（2015版本）.wav",
+    "sourceUrl": "https://drive.google.com/file/d/12l8CsNTVLvIc8npGvQOloLE4op2GHgE5/view?usp=drivesdk",
+    "provider": "Google Drive public share",
+    "rightsStatus": "unverified-third-party",
+    "checkedAt": "2026-09-26",
+    "status": "failed",
+    "error": "HTML response: login/confirmation page; no bypass attempted"
+  },
+  {
+    "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t05",
+    "localPath": "live/李志/2016 - 动静/01-05 - 和你在一起 (2015动静版).mp3",
+    "sourceUrl": "https://drive.google.com/file/d/11IixF_q0orwlMx_TcDq9-cxwGyE1sk1V/view?usp=drivesdk",
+    "provider": "Google Drive public share",
+    "rightsStatus": "unverified-third-party",
+    "checkedAt": "2026-09-26",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='drive.usercontent.google.com', port=443): Read timed out."
+  },
+  {
+    "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t07",
+    "localPath": "live/李志/2016 - 动静/01-07 - 定西 (2015动静版).mp3",
+    "sourceUrl": "https://drive.google.com/file/d/15o50W4iGj_xDZlAuQUpEyDkMIGILMgE6/view?usp=drivesdk",
+    "provider": "Google Drive public share",
+    "rightsStatus": "unverified-third-party",
+    "checkedAt": "2026-09-26",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='drive.usercontent.google.com', port=443): Read timed out."
+  },
+  {
+    "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t08",
+    "localPath": "live/李志/2016 - 动静/01-08 - 地方 (2015动静版).mp3",
+    "sourceUrl": "https://drive.google.com/file/d/1luDYwPvDbWN7f0aqw1ocCRfVkUM4rHcr/view?usp=drivesdk",
+    "provider": "Google Drive public share",
+    "rightsStatus": "unverified-third-party",
+    "checkedAt": "2026-09-26",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='drive.usercontent.google.com', port=443): Read timed out."
+  },
+  {
+    "trackId": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t09",
+    "localPath": "live/李志/2016 - 动静/01-09 - 这个世界会好吗 (2015动静版).mp3",
+    "sourceUrl": "https://drive.google.com/file/d/19B-MM38s11037rSmeu_354z1LGzvHg31/view?usp=drivesdk",
+    "provider": "Google Drive public share",
+    "rightsStatus": "unverified-third-party",
+    "checkedAt": "2026-09-26",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='drive.usercontent.google.com', port=443): Read timed out."
+  }
+]

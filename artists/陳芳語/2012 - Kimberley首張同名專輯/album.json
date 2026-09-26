@@ -1,0 +1,158 @@
+{
+  "id": "other-陳芳語-2012-Kimberley首張同名專輯",
+  "artist": "陳芳語",
+  "title": "Kimberley首張同名專輯",
+  "releaseDate": "2012-04-27",
+  "releaseDatePrecision": "day",
+  "year": 2012,
+  "type": "studio",
+  "path": "artists/陳芳語/2012 - Kimberley首張同名專輯",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "Apple Music artwork",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/51/7e/00/517e0095-7515-9a15-ebaf-92bec4ee4b72/886443414112.jpg/1200x1200bb.jpg",
+    "width": 600,
+    "height": 600,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2012 - Kimberley首張同名專輯 - 陳芳語.jpg"
+  },
+  "catalogUrl": "https://www.yesasia.com/global/kimberley%E9%A6%96%E5%BC%A0%E5%90%8C%E5%90%8D%E5%B0%88%E8%BC%AF/1030825546-0-0-0-zh_CN/info.html",
+  "tracklistCompleteness": "partial",
+  "notes": "仅导入用户指定曲目；专辑其余曲目尚未编目。",
+  "tracks": [
+    {
+      "id": "other-陳芳語-2012-Kimberley首張同名專輯-d01-t01",
+      "artist": "陳芳語",
+      "album": "Kimberley首張同名專輯",
+      "title": "愛你",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 209.424,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/陳芳語/2012 - Kimberley首張同名專輯/01-01 - 愛你.mp3",
+      "sources": [
+        {
+          "provider": "release-catalog",
+          "url": "https://www.yesasia.com/global/kimberley%E9%A6%96%E5%BC%A0%E5%90%8C%E5%90%8D%E5%B0%88%E8%BC%AF/1030825546-0-0-0-zh_CN/info.html",
+          "status": "reference"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 209.424,
+        "fileSize": 8455719,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "album-track-match; master-unverified",
+      "assets": [
+        {
+          "trackId": "other-陳芳語-2012-Kimberley首張同名專輯-d01-t01",
+          "localPath": "artists/陳芳語/2012 - Kimberley首張同名專輯/01-01 - 愛你.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 209.424,
+            "fileSize": 8455719,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "redistributionAllowed": false,
+          "qualityAudit": "not-applicable-lossy",
+          "sourceFileName": "陈芳语 - 爱你.flac",
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 209.374,
+            "fileSize": 34252670,
+            "bitRate": 1305941
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceFileName": "陈芳语 - 爱你.flac",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 24,
+        "duration": 209.374,
+        "fileSize": 34252670,
+        "bitRate": 1305941
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "other-陳芳語-2012-Kimberley首張同名專輯-d01-t01",
+          "localPath": "artists/陳芳語/2012 - Kimberley首張同名專輯/01-01 - 愛你.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 209.424,
+            "fileSize": 8455719,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "redistributionAllowed": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "sourceFileName": "陈芳语 - 爱你.flac",
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 209.374,
+            "fileSize": 34252670,
+            "bitRate": 1305941
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ]
+}

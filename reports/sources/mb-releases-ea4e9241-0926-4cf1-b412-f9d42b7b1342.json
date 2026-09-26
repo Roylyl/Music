@@ -1,0 +1,108 @@
+{
+  "releases": [
+    {
+      "date": "2020-10-22",
+      "asin": null,
+      "text-representation": {
+        "script": "Hant",
+        "language": "zho"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "front": true,
+        "back": false,
+        "artwork": true
+      },
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "country": "XW",
+      "status": "Official",
+      "packaging": "None",
+      "title": "爵士樂與不插電新編12首",
+      "disambiguation": "",
+      "media": [
+        {
+          "title": "",
+          "position": 1,
+          "track-count": 9,
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "4b728423-f65b-371f-86e1-78623108cca2"
+        }
+      ],
+      "barcode": "9787883306955",
+      "release-events": [
+        {
+          "date": "2020-10-22",
+          "area": {
+            "name": "[Worldwide]",
+            "type": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "disambiguation": "",
+            "sort-name": "[Worldwide]"
+          }
+        }
+      ],
+      "id": "756d9a27-e97b-4a8a-8490-8ad2742f1b1e",
+      "quality": "normal"
+    },
+    {
+      "media": [
+        {
+          "format": "CD",
+          "id": "282e9679-d9ac-3f6d-863b-24ac378cb9cc",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 12,
+          "title": "",
+          "position": 1
+        }
+      ],
+      "title": "爵士乐与不插电新编12首",
+      "disambiguation": "",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "sort-name": "China",
+            "type": null,
+            "name": "China",
+            "type-id": null,
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0"
+          },
+          "date": "2018"
+        }
+      ],
+      "id": "8b283e60-70fa-46ea-a564-675db0444a8b",
+      "quality": "normal",
+      "barcode": "9787883306955",
+      "asin": null,
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "date": "2018",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "front": true,
+        "artwork": true,
+        "back": false
+      },
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "status": "Official",
+      "country": "CN",
+      "packaging": "Jewel Case"
+    }
+  ],
+  "release-count": 2,
+  "release-offset": 0
+}

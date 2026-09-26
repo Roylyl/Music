@@ -1,0 +1,11 @@
+{
+  "valid": true,
+  "mp3Files": 504,
+  "catalogTracks": 500,
+  "independentRecordings": 4,
+  "sampleRate": 44100,
+  "bitRate": 320000,
+  "decodeCheck": "one second from middle of every file",
+  "errors": [],
+  "metadataBaseline": "post-requested-320kbps-conversion"
+}

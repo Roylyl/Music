@@ -1,0 +1,454 @@
+{
+  "media": [
+    {
+      "track-offset": 0,
+      "track-count": 8,
+      "id": "47d18f0c-8daf-3cf4-98be-29189a755768",
+      "title": "",
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+      "tracks": [
+        {
+          "number": "1",
+          "title": "大象",
+          "length": null,
+          "artist-credit": [
+            {
+              "artist": {
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "country": "CN",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "position": 1,
+          "recording": {
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "country": "CN"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "video": false,
+            "length": 326592,
+            "id": "22fff467-55f0-4e90-a9f4-9f0db434ee47",
+            "title": "大象",
+            "first-release-date": "2014"
+          },
+          "id": "8304dcac-7974-4ab7-bb8b-b6954e58b222"
+        },
+        {
+          "number": "2",
+          "title": "鼠说",
+          "length": null,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "country": "CN",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "disambiguation": "",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              }
+            }
+          ],
+          "position": 2,
+          "recording": {
+            "first-release-date": "2014",
+            "title": "鼠说",
+            "id": "ad8d6ee7-9175-4683-a981-537af3e22b31",
+            "length": null,
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "video": false
+          },
+          "id": "e9bf3fb4-9fba-4eb4-a1c7-ffb5f05a8758"
+        },
+        {
+          "length": null,
+          "position": 3,
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "country": "CN"
+              },
+              "name": "李志",
+              "joinphrase": ""
+            }
+          ],
+          "number": "3",
+          "title": "定西",
+          "id": "b5f8a71e-d6a3-479a-b702-281a9f03e404",
+          "recording": {
+            "title": "定西",
+            "first-release-date": "2014",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person"
+                }
+              }
+            ],
+            "video": false,
+            "id": "a2c0aa43-f13e-4a93-9e45-d0cd05937f0b",
+            "length": 295883
+          }
+        },
+        {
+          "number": "4",
+          "title": "看见",
+          "length": null,
+          "position": 4,
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "type": "Person",
+                "sort-name": "Li, Zhi",
+                "disambiguation": "",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "name": "李志",
+                "country": "CN"
+              },
+              "joinphrase": "",
+              "name": "李志"
+            }
+          ],
+          "recording": {
+            "title": "看见",
+            "first-release-date": "2014",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type": "Person",
+                  "sort-name": "Li, Zhi",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": ""
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "disambiguation": "",
+            "id": "fa996621-68d6-468d-b49e-b9bed839beaf",
+            "length": 253504
+          },
+          "id": "be2f097a-9be9-4381-8581-f345ffd67c18"
+        },
+        {
+          "id": "bd851604-2009-41c9-a270-e5de1bd7ab8b",
+          "recording": {
+            "length": 236542,
+            "id": "24b450cd-5db8-426c-b029-3f08f810f868",
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "name": "李志",
+                "joinphrase": "",
+                "artist": {
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "name": "李志",
+                  "disambiguation": "",
+                  "country": "CN",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "sort-name": "Li, Zhi"
+                }
+              }
+            ],
+            "video": false,
+            "first-release-date": "2014",
+            "title": "不多"
+          },
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              }
+            }
+          ],
+          "position": 5,
+          "length": null,
+          "title": "不多",
+          "number": "5"
+        },
+        {
+          "position": 6,
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              }
+            }
+          ],
+          "length": null,
+          "title": "热河",
+          "number": "6",
+          "id": "fe406b9c-d92f-4d09-9121-e6b9c18b2aa3",
+          "recording": {
+            "length": 406539,
+            "id": "2358ec77-5ee3-44ba-82b5-8ddf31256887",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "李志",
+                "artist": {
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "country": "CN",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "disambiguation": "",
+            "video": false,
+            "first-release-date": "2014",
+            "title": "热河"
+          }
+        },
+        {
+          "length": null,
+          "position": 7,
+          "artist-credit": [
+            {
+              "name": "李志",
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "country": "CN",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db"
+              }
+            }
+          ],
+          "number": "7",
+          "title": "好威武支持有希望",
+          "id": "f0f1ee65-4581-4ea7-86e9-d2fbacae7924",
+          "recording": {
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "country": "CN"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "video": false,
+            "id": "ee60b542-0180-4302-9d0f-992c191e8f44",
+            "length": null,
+            "title": "好威武支持有希望",
+            "first-release-date": "2014"
+          }
+        },
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "李志",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Li, Zhi",
+                "type": "Person",
+                "disambiguation": "",
+                "name": "李志",
+                "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                "country": "CN"
+              }
+            }
+          ],
+          "position": 8,
+          "length": null,
+          "title": "方式",
+          "number": "8",
+          "id": "d8813257-2805-40e0-9c2f-d7b4aa248e4b",
+          "recording": {
+            "title": "方式",
+            "first-release-date": "2014",
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "country": "CN",
+                  "disambiguation": "",
+                  "name": "李志",
+                  "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+                  "sort-name": "Li, Zhi",
+                  "type": "Person",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                },
+                "joinphrase": "",
+                "name": "李志"
+              }
+            ],
+            "disambiguation": "",
+            "length": 245845,
+            "id": "c20c04c4-5463-4626-86bf-03e1b461d1c2"
+          }
+        }
+      ],
+      "position": 1,
+      "format": "CD"
+    }
+  ],
+  "release-events": [
+    {
+      "date": "2014",
+      "area": {
+        "sort-name": "China",
+        "iso-3166-1-codes": [
+          "CN"
+        ],
+        "type": null,
+        "type-id": null,
+        "name": "China",
+        "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+        "disambiguation": ""
+      }
+    }
+  ],
+  "date": "2014",
+  "id": "bfe30cec-4119-41e4-9961-338356921a3c",
+  "cover-art-archive": {
+    "front": true,
+    "count": 1,
+    "back": false,
+    "darkened": false,
+    "artwork": true
+  },
+  "title": "1701",
+  "asin": null,
+  "packaging": null,
+  "barcode": "9787883257196",
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "name": "李志",
+      "artist": {
+        "sort-name": "Li, Zhi",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "CN",
+        "name": "李志",
+        "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "disambiguation": ""
+      }
+    }
+  ],
+  "quality": "normal",
+  "country": "CN",
+  "release-group": {
+    "artist-credit": [
+      {
+        "artist": {
+          "country": "CN",
+          "id": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+          "name": "李志",
+          "disambiguation": "",
+          "type": "Person",
+          "sort-name": "Li, Zhi",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        "joinphrase": "",
+        "name": "李志"
+      }
+    ],
+    "first-release-date": "2014",
+    "title": "1701",
+    "id": "cb5747e8-517a-4d53-b352-ee4a02d94323",
+    "secondary-types": [],
+    "disambiguation": "",
+    "secondary-type-ids": [],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "primary-type": "Album"
+  },
+  "disambiguation": "",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "text-representation": {
+    "script": "Hans",
+    "language": "zho"
+  },
+  "packaging-id": null,
+  "status": "Official"
+}

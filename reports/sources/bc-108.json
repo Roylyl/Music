@@ -1,0 +1,72 @@
+{
+  "url": "https://lizhilizhi.bandcamp.com/album/108",
+  "title": "108個關鍵詞",
+  "releaseDate": "22 Oct 2020 08:11:44 GMT",
+  "current": {
+    "minimum_price": 62.0,
+    "set_price": 72.0,
+    "currency": null,
+    "download_pref": 2,
+    "publish_date": "22 Oct 2020 08:11:44 GMT"
+  },
+  "labelLinked": false,
+  "tracks": [
+    {
+      "title": "阿蘭(2012跨年版)",
+      "track_num": 1,
+      "duration": 261.8,
+      "title_link": "/track/2012",
+      "track_id": 2098553513
+    },
+    {
+      "title": "盡頭(2012跨年版)",
+      "track_num": 2,
+      "duration": 287.787,
+      "title_link": "/track/2012-2",
+      "track_id": 45128750
+    },
+    {
+      "title": "倒影(2012跨年版)",
+      "track_num": 3,
+      "duration": 165.12,
+      "title_link": "/track/2012-3",
+      "track_id": 2997019024
+    },
+    {
+      "title": "牆上的向日葵(2012跨年版)",
+      "track_num": 4,
+      "duration": 528.253,
+      "title_link": "/track/2012-4",
+      "track_id": 2868476199
+    },
+    {
+      "title": "忽然(2012跨年版)",
+      "track_num": 5,
+      "duration": 193.227,
+      "title_link": "/track/2012-5",
+      "track_id": 664791267
+    },
+    {
+      "title": "董卓瑤(2012跨年版)",
+      "track_num": 6,
+      "duration": 197.387,
+      "title_link": "/track/2012-6",
+      "track_id": 2098991614
+    },
+    {
+      "title": "山陰路的夏天(2012跨年版)",
+      "track_num": 7,
+      "duration": 314.853,
+      "title_link": "/track/2012-7",
+      "track_id": 4134179925
+    },
+    {
+      "title": "來了(2012跨年版)",
+      "track_num": 8,
+      "duration": 528.147,
+      "title_link": "/track/2012-8",
+      "track_id": 1959541079
+    }
+  ],
+  "downloadOffer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $62 HKD or more Send as Gift"
+}

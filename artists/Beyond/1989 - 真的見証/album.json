@@ -1,0 +1,158 @@
+{
+  "id": "other-Beyond-1989-真的見証",
+  "artist": "Beyond",
+  "title": "真的見証",
+  "releaseDate": "1989",
+  "releaseDatePrecision": "year",
+  "year": 1989,
+  "type": "studio",
+  "path": "artists/Beyond/1989 - 真的見証",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "Apple Music artwork",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f1/6e/ab/f16eabbb-55aa-25a1-a2fb-8b934948ef23/00602517137325.rgb.jpg/1200x1200bb.jpg",
+    "width": 1014,
+    "height": 1027,
+    "lowResolution": false,
+    "originalPath": "covers/originals/1989 - 真的見証 - Beyond.jpg"
+  },
+  "catalogUrl": "https://musicbrainz.org/release/8fab0f9c-2b59-463a-9e96-f69759445fd2",
+  "tracklistCompleteness": "partial",
+  "notes": "仅导入用户指定曲目；专辑其余曲目尚未编目。",
+  "tracks": [
+    {
+      "id": "other-Beyond-1989-真的見証-d01-t01",
+      "artist": "Beyond",
+      "album": "真的見証",
+      "title": "歲月無聲",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 285.858,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.mp3",
+      "sources": [
+        {
+          "provider": "release-catalog",
+          "url": "https://musicbrainz.org/release/8fab0f9c-2b59-463a-9e96-f69759445fd2",
+          "status": "reference"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 285.858,
+        "fileSize": 11669407,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "album-track-match; master-unverified",
+      "assets": [
+        {
+          "trackId": "other-Beyond-1989-真的見証-d01-t01",
+          "localPath": "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 285.858,
+            "fileSize": 11669407,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "redistributionAllowed": false,
+          "qualityAudit": "not-applicable-lossy",
+          "sourceFileName": "Beyond - 岁月无声.flac",
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 96000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 285.832,
+            "fileSize": 119405409,
+            "bitRate": 3332411
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceFileName": "Beyond - 岁月无声.flac",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 96000,
+        "channels": 2,
+        "bitDepth": 24,
+        "duration": 285.832,
+        "fileSize": 119405409,
+        "bitRate": 3332411
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "other-Beyond-1989-真的見証-d01-t01",
+          "localPath": "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 285.858,
+            "fileSize": 11669407,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "redistributionAllowed": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "sourceFileName": "Beyond - 岁月无声.flac",
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 96000,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 285.832,
+            "fileSize": 119405409,
+            "bitRate": 3332411
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ]
+}

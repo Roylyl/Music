@@ -1,0 +1,162 @@
+{
+  "id": "other-黃貫中-2013-Paul-Wong-Collection",
+  "artist": "黃貫中",
+  "title": "Paul Wong Collection",
+  "releaseDate": "2013",
+  "releaseDatePrecision": "year",
+  "year": 2013,
+  "type": "compilation",
+  "path": "artists/黃貫中/2013 - Paul Wong Collection",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "Apple Music artwork",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/e3/dc/aee3dce0-8565-282d-83d7-92bc6afed082/825646440443.jpg/1200x1200bb.jpg",
+    "width": 1200,
+    "height": 1200,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2013 - Paul Wong Collection - 黃貫中.jpg"
+  },
+  "catalogUrl": "https://musicbrainz.org/artist/889da094-5a5b-48f0-ace4-6dd29f4ee4dc/recordings",
+  "tracklistCompleteness": "partial",
+  "notes": "仅导入用户指定曲目；专辑其余曲目尚未编目。",
+  "tracks": [
+    {
+      "id": "other-黃貫中-2013-Paul-Wong-Collection-d01-t03",
+      "artist": "黃貫中",
+      "album": "Paul Wong Collection",
+      "title": "年少無知",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 324.049,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.mp3",
+      "sources": [
+        {
+          "provider": "release-catalog",
+          "url": "https://musicbrainz.org/artist/889da094-5a5b-48f0-ace4-6dd29f4ee4dc/recordings",
+          "status": "reference"
+        }
+      ],
+      "suspected_transcode": true,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 324.049,
+        "fileSize": 12985562,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "album-track-match; master-unverified",
+      "assets": [
+        {
+          "trackId": "other-黃貫中-2013-Paul-Wong-Collection-d01-t03",
+          "localPath": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 324.049,
+            "fileSize": 12985562,
+            "bitRate": 320000
+          },
+          "suspected_transcode": true,
+          "redistributionAllowed": false,
+          "qualityAudit": "not-applicable-lossy",
+          "sourceFileName": "黄贯中 - 年少无知.wav",
+          "duration": 324.004,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 324.004,
+            "fileSize": 56540272,
+            "bitRate": 1394404
+          }
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "versionReviewReason": "本地WAV为192kHz/32bit；高采样率不代表已确认原始母带质量。",
+      "qualityAudit": "not-applicable-lossy",
+      "sourceFileName": "黄贯中 - 年少无知.wav",
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 24,
+        "duration": 324.004,
+        "fileSize": 56540272,
+        "bitRate": 1394404
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "other-黃貫中-2013-Paul-Wong-Collection-d01-t03",
+          "localPath": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.mp3",
+          "sourceUrl": "",
+          "provider": "user-provided OneDrive",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 324.049,
+            "fileSize": 12985562,
+            "bitRate": 320000
+          },
+          "suspected_transcode": true,
+          "redistributionAllowed": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "sourceFileName": "黄贯中 - 年少无知.wav",
+          "duration": 324.004,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 24,
+            "duration": 324.004,
+            "fileSize": 56540272,
+            "bitRate": 1394404
+          }
+        }
+      ]
+    }
+  ],
+  "versionReviewReason": "本地WAV为192kHz/32bit；高采样率不代表已确认原始母带质量。"
+}

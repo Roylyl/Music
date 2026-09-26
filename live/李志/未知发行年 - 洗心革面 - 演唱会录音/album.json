@@ -1,0 +1,2492 @@
+{
+  "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda",
+  "artist": "李志",
+  "title": "洗心革面 - 演唱会录音",
+  "releaseDate": null,
+  "releaseDatePrecision": "unknown",
+  "year": null,
+  "type": "concert",
+  "path": "live/李志/未知发行年 - 洗心革面 - 演唱会录音",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t01",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "一个夜晚",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 424.96,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/一个夜晚.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 424.96,
+        "fileSize": 17048868,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t01",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/一个夜晚.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 424.96,
+            "fileSize": 17048868,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 424.569,
+            "fileSize": 17032155,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 422.318,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 424.569,
+        "fileSize": 17032155,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t01",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/一个夜晚.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 424.96,
+            "fileSize": 17048868,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 424.569,
+            "fileSize": 17032155,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t02",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "你好明天+不多+杭州",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 757.499,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你好明天+不多+杭州.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 757.499,
+        "fileSize": 30363733,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t02",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你好明天+不多+杭州.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 757.499,
+            "fileSize": 30363733,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 756.822,
+            "fileSize": 30335577,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 758.371,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 756.822,
+        "fileSize": 30335577,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t02",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你好明天+不多+杭州.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 757.499,
+            "fileSize": 30363733,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 756.822,
+            "fileSize": 30335577,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t03",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "你离开了南京，从此没有人和我说话",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 185.966,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你离开了南京，从此没有人和我说话.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 185.966,
+        "fileSize": 7479560,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t03",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你离开了南京，从此没有人和我说话.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 185.966,
+            "fileSize": 7479560,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 185.78,
+            "fileSize": 7471072,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "catalogDuration": 202.976,
+      "versionReviewReason": "本地文件与所选版本曲目时长差异超过5秒或3%，需试听核对。",
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 185.78,
+        "fileSize": 7471072,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t03",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你离开了南京，从此没有人和我说话.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 185.966,
+            "fileSize": 7479560,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 185.78,
+            "fileSize": 7471072,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t04",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "倒影",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 288.287,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/倒影.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 288.287,
+        "fileSize": 11576490,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t04",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/倒影.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 288.287,
+            "fileSize": 11576490,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 288.264,
+            "fileSize": 4649641,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 293.626,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 288.264,
+        "fileSize": 4649641,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t04",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/倒影.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 288.287,
+            "fileSize": 11576490,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 288.264,
+            "fileSize": 4649641,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t05",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "关于郑州的记忆+董卓谣+春末的南方城市",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 902.3,
+      "durationSource": "https://musicbrainz.org/release/2faf828e-04f3-4410-9a84-e88c547ffdda",
+      "sourceStatus": "missing",
+      "sourceUrl": "",
+      "format": "",
+      "localPath": "",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": null,
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [],
+      "relatedEditionTracks": [
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t10",
+          "title": "关于郑州的回忆",
+          "localPath": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-10 - 关于郑州的回忆.mp3",
+          "relationship": "包含相同歌曲或对应演出段落的另一分轨版；未确认切点及母带完全一致。"
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t11",
+          "title": "董卓瑶+春末的南方城市",
+          "localPath": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-11 - 董卓瑶+春末的南方城市.mp3",
+          "relationship": "包含相同歌曲或对应演出段落的另一分轨版；未确认切点及母带完全一致。"
+        }
+      ]
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t06",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "和你在一起",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 252.264,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/和你在一起.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 252.264,
+        "fileSize": 10134141,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t06",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/和你在一起.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 252.264,
+            "fileSize": 10134141,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 252.24,
+            "fileSize": 4072687,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 256.426,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 252.24,
+        "fileSize": 4072687,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t06",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/和你在一起.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 252.264,
+            "fileSize": 10134141,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 252.24,
+            "fileSize": 4072687,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t07",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "哦吼",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 297.117,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/哦吼.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 297.117,
+        "fileSize": 11930019,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t07",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/哦吼.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 297.117,
+            "fileSize": 11930019,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 297.096,
+            "fileSize": 4791094,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": true,
+      "catalogDuration": 325.331,
+      "versionReviewReason": "本地文件与所选版本曲目时长差异超过5秒或3%，需试听核对。",
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 297.096,
+        "fileSize": 4791094,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t07",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/哦吼.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 297.117,
+            "fileSize": 11930019,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 297.096,
+            "fileSize": 4791094,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t08",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "大象",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 371.278,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/大象.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 371.278,
+        "fileSize": 14899451,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t08",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/大象.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 371.278,
+            "fileSize": 14899451,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 370.933,
+            "fileSize": 14884586,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 368.116,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 370.933,
+        "fileSize": 14884586,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t08",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/大象.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 371.278,
+            "fileSize": 14899451,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 370.933,
+            "fileSize": 14884586,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t09",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "天空之城",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 222.407,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/天空之城.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 222.407,
+        "fileSize": 8938627,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t09",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/天空之城.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 222.407,
+            "fileSize": 8938627,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 222.384,
+            "fileSize": 3594511,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 222.992,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 222.384,
+        "fileSize": 3594511,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t09",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/天空之城.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 222.407,
+            "fileSize": 8938627,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 222.384,
+            "fileSize": 3594511,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t10",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "寻找+忽然+热河",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 815.203,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/寻找+忽然+热河.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 815.203,
+        "fileSize": 32674218,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t10",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/寻找+忽然+热河.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 815.203,
+            "fileSize": 32674218,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 814.477,
+            "fileSize": 32644078,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 814.79,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 814.477,
+        "fileSize": 32644078,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t10",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/寻找+忽然+热河.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 815.203,
+            "fileSize": 32674218,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 814.477,
+            "fileSize": 32644078,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t11",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "尽头",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 252.719,
+      "durationSource": "https://musicbrainz.org/release/2faf828e-04f3-4410-9a84-e88c547ffdda",
+      "sourceStatus": "missing",
+      "sourceUrl": "",
+      "format": "",
+      "localPath": "",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": null,
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [],
+      "relatedEditionTracks": [
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t23",
+          "title": "尽头+来了",
+          "localPath": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-23 - 尽头+来了.mp3",
+          "relationship": "包含相同歌曲或对应演出段落的另一分轨版；未确认切点及母带完全一致。"
+        }
+      ]
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t12",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "山阴路的夏天",
+      "discNumber": 1,
+      "trackNumber": 12,
+      "sequenceNumber": 12,
+      "duration": 407.014,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/山阴路的夏天.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 407.014,
+        "fileSize": 16330311,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t12",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/山阴路的夏天.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 407.014,
+            "fileSize": 16330311,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 406.638,
+            "fileSize": 16314216,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 405.902,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 406.638,
+        "fileSize": 16314216,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t12",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/山阴路的夏天.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 407.014,
+            "fileSize": 16330311,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 406.638,
+            "fileSize": 16314216,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t13",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "方式",
+      "discNumber": 1,
+      "trackNumber": 13,
+      "sequenceNumber": 13,
+      "duration": 263.34,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/方式.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 263.34,
+        "fileSize": 10577617,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t13",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/方式.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 263.34,
+            "fileSize": 10577617,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 263.088,
+            "fileSize": 10566466,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 264.063,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 263.088,
+        "fileSize": 10566466,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t13",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/方式.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 263.34,
+            "fileSize": 10577617,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 263.088,
+            "fileSize": 10566466,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t14",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "来了",
+      "discNumber": 1,
+      "trackNumber": 14,
+      "sequenceNumber": 14,
+      "duration": 306.185,
+      "durationSource": "https://musicbrainz.org/release/2faf828e-04f3-4410-9a84-e88c547ffdda",
+      "sourceStatus": "missing",
+      "sourceUrl": "",
+      "format": "",
+      "localPath": "",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": null,
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [],
+      "relatedEditionTracks": [
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t23",
+          "title": "尽头+来了",
+          "localPath": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-23 - 尽头+来了.mp3",
+          "relationship": "包含相同歌曲或对应演出段落的另一分轨版；未确认切点及母带完全一致。"
+        }
+      ]
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t15",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "死人",
+      "discNumber": 1,
+      "trackNumber": 15,
+      "sequenceNumber": 15,
+      "duration": 357.538,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/死人.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 357.538,
+        "fileSize": 14349287,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t15",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/死人.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 357.538,
+            "fileSize": 14349287,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 357.205,
+            "fileSize": 14334895,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 358.825,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 357.205,
+        "fileSize": 14334895,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t15",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/死人.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 357.538,
+            "fileSize": 14349287,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 357.205,
+            "fileSize": 14334895,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t16",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "结婚",
+      "discNumber": 1,
+      "trackNumber": 16,
+      "sequenceNumber": 16,
+      "duration": 412.121,
+      "durationSource": "https://musicbrainz.org/release/2faf828e-04f3-4410-9a84-e88c547ffdda",
+      "sourceStatus": "missing",
+      "sourceUrl": "",
+      "format": "",
+      "localPath": "",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": null,
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [],
+      "relatedEditionTracks": [
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t09",
+          "title": "求婚+结婚",
+          "localPath": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-09 - 求婚+结婚.mp3",
+          "relationship": "包含相同歌曲或对应演出段落的另一分轨版；未确认切点及母带完全一致。"
+        }
+      ]
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t17",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "被禁忌的游戏",
+      "discNumber": 1,
+      "trackNumber": 17,
+      "sequenceNumber": 17,
+      "duration": 331.729,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/被禁忌的游戏.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 331.729,
+        "fileSize": 13315904,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t17",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/被禁忌的游戏.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 331.729,
+            "fileSize": 13315904,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 331.418,
+            "fileSize": 13302399,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 331.297,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 331.418,
+        "fileSize": 13302399,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t17",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/被禁忌的游戏.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 331.729,
+            "fileSize": 13315904,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 331.418,
+            "fileSize": 13302399,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t18",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "路",
+      "discNumber": 1,
+      "trackNumber": 18,
+      "sequenceNumber": 18,
+      "duration": 216.921,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/路.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 216.921,
+        "fileSize": 8718974,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t18",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/路.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 216.921,
+            "fileSize": 8718974,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 216.708,
+            "fileSize": 8709421,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 216.905,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 216.708,
+        "fileSize": 8709421,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t18",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/路.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 216.921,
+            "fileSize": 8718974,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 216.708,
+            "fileSize": 8709421,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t19",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "门",
+      "discNumber": 1,
+      "trackNumber": 19,
+      "sequenceNumber": 19,
+      "duration": 420.415,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/门.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 420.415,
+        "fileSize": 16866869,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t19",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/门.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 420.415,
+            "fileSize": 16866869,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 420.027,
+            "fileSize": 16850314,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 417.113,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 420.027,
+        "fileSize": 16850314,
+        "bitRate": 320000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t19",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/门.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 420.415,
+            "fileSize": 16866869,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 420.027,
+            "fileSize": 16850314,
+            "bitRate": 320000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t20",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "鸵鸟+墙上的向日葵+这个世界会好吗+定西",
+      "discNumber": 1,
+      "trackNumber": 20,
+      "sequenceNumber": 20,
+      "duration": 1530.595,
+      "durationSource": "https://musicbrainz.org/release/2faf828e-04f3-4410-9a84-e88c547ffdda",
+      "sourceStatus": "missing",
+      "sourceUrl": "",
+      "format": "",
+      "localPath": "",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": null,
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [],
+      "relatedEditionTracks": [
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t02",
+          "title": "鸵鸟",
+          "localPath": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-02 - 鸵鸟.mp3",
+          "relationship": "包含相同歌曲或对应演出段落的另一分轨版；未确认切点及母带完全一致。"
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t03",
+          "title": "墙上的向日葵",
+          "localPath": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-03 - 墙上的向日葵.mp3",
+          "relationship": "包含相同歌曲或对应演出段落的另一分轨版；未确认切点及母带完全一致。"
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t04",
+          "title": "这个世界会好吗",
+          "localPath": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-04 - 这个世界会好吗.mp3",
+          "relationship": "包含相同歌曲或对应演出段落的另一分轨版；未确认切点及母带完全一致。"
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t05",
+          "title": "定西",
+          "localPath": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-05 - 定西.mp3",
+          "relationship": "包含相同歌曲或对应演出段落的另一分轨版；未确认切点及母带完全一致。"
+        }
+      ]
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t21",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "黑色信封",
+      "discNumber": 1,
+      "trackNumber": 21,
+      "sequenceNumber": 21,
+      "duration": 271.02,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/黑色信封.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 271.02,
+        "fileSize": 10885128,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t21",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/黑色信封.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 271.02,
+            "fileSize": 10885128,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 271.008,
+            "fileSize": 4373275,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 274.81,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 271.008,
+        "fileSize": 4373275,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t21",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/黑色信封.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 271.02,
+            "fileSize": 10885128,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 271.008,
+            "fileSize": 4373275,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    },
+    {
+      "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t22",
+      "artist": "李志",
+      "album": "洗心革面 - 演唱会录音",
+      "title": "意味",
+      "discNumber": 1,
+      "trackNumber": 22,
+      "sequenceNumber": 22,
+      "duration": 255.451,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/意味.mp3",
+      "format": "MP3",
+      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 255.451,
+        "fileSize": 10261743,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t22",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/意味.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 255.451,
+            "fileSize": 10261743,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 255.432,
+            "fileSize": 4123806,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 261.728,
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 48000,
+        "channels": 2,
+        "bitDepth": null,
+        "duration": 255.432,
+        "fileSize": 4123806,
+        "bitRate": 128000
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t22",
+          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+          "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/意味.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 255.451,
+            "fileSize": 10261743,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 48000,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 255.432,
+            "fileSize": 4123806,
+            "bitRate": 128000
+          },
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": true,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          }
+        }
+      ],
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": true,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      }
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/2faf828e-04f3-4410-9a84-e88c547ffdda"
+  ],
+  "notes": [
+    "演出于2018-12-31至2019-01-01；尚未确认全场录音正式发行，releaseDate为空。"
+  ],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "lizhinb.com",
+      "url": "https://www.lizhinb.com/gequ/?oa_album=69&oa_song=1",
+      "trackCount": 26,
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "意味"
+        },
+        {
+          "trackNumber": 2,
+          "title": "鸵鸟"
+        },
+        {
+          "trackNumber": 3,
+          "title": "墙上的向日葵"
+        },
+        {
+          "trackNumber": 4,
+          "title": "这个世界会好吗"
+        },
+        {
+          "trackNumber": 5,
+          "title": "定西"
+        },
+        {
+          "trackNumber": 6,
+          "title": "倒影"
+        },
+        {
+          "trackNumber": 7,
+          "title": "和你在一起"
+        },
+        {
+          "trackNumber": 8,
+          "title": "天空之城"
+        },
+        {
+          "trackNumber": 9,
+          "title": "求婚+结婚"
+        },
+        {
+          "trackNumber": 10,
+          "title": "关于郑州的回忆"
+        },
+        {
+          "trackNumber": 11,
+          "title": "董卓瑶+春末的南方城市"
+        },
+        {
+          "trackNumber": 12,
+          "title": "一个夜晚"
+        },
+        {
+          "trackNumber": 13,
+          "title": "死人"
+        },
+        {
+          "trackNumber": 14,
+          "title": "路"
+        },
+        {
+          "trackNumber": 15,
+          "title": "方式"
+        },
+        {
+          "trackNumber": 16,
+          "title": "你好明天+不多+杭州"
+        },
+        {
+          "trackNumber": 17,
+          "title": "被禁忌的游戏"
+        },
+        {
+          "trackNumber": 18,
+          "title": "哦吼"
+        },
+        {
+          "trackNumber": 19,
+          "title": "黑色信封"
+        },
+        {
+          "trackNumber": 20,
+          "title": "寻找+忽然+热河"
+        },
+        {
+          "trackNumber": 21,
+          "title": "大象"
+        },
+        {
+          "trackNumber": 22,
+          "title": "门"
+        },
+        {
+          "trackNumber": 23,
+          "title": "尽头+来了"
+        },
+        {
+          "trackNumber": 24,
+          "title": "山阴路的夏天"
+        },
+        {
+          "trackNumber": 25,
+          "title": "你离开了南京，从此没有人和我说话"
+        },
+        {
+          "trackNumber": 26,
+          "title": "纯洁"
+        }
+      ],
+      "note": "歌迷站26轨，与当前MusicBrainz22轨版本不完全相同，保留独立曲序。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "2faf828e-04f3-4410-9a84-e88c547ffdda",
+    "title": "洗心革面 (2018 Live)",
+    "date": "2019-01-01",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2019-01-01",
+      "source": "https://musicbrainz.org/release/2faf828e-04f3-4410-9a84-e88c547ffdda"
+    },
+    {
+      "date": null,
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "officialReleaseConfirmed": false,
+  "trackCount": 22,
+  "tracklistStatus": "edition-listed",
+  "coverSource": {
+    "provider": "lizhinb.com",
+    "url": "https://st.nj1701.com/洗心革面%20跨年音乐会/封面.jpg",
+    "width": 300,
+    "height": 300,
+    "lowResolution": true
+  }
+}

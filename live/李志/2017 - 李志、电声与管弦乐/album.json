@@ -1,0 +1,2168 @@
+{
+  "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39",
+  "artist": "李志",
+  "title": "李志、电声与管弦乐",
+  "releaseDate": "2017-05-16",
+  "releaseDatePrecision": "day",
+  "year": 2017,
+  "type": "live",
+  "path": "live/李志/2017 - 李志、电声与管弦乐",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracks": [
+    {
+      "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t01",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐",
+      "title": "序曲 - 2016跨年版",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 289.802,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1YsXcv6T9nhiiob8TL-leabISB2mfKxhU/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-01 - 序曲 - 2016跨年版.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 1,
+          "duration": 289.756,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 289.802,
+        "fileSize": 11819562,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t01",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-01 - 序曲 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1YsXcv6T9nhiiob8TL-leabISB2mfKxhU/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 289.802,
+            "fileSize": 11819562,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 289.756,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 289.756,
+            "fileSize": 35422412,
+            "bitRate": 971086
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 289.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 289.756,
+        "fileSize": 35422412,
+        "bitRate": 971086
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t01",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-01 - 序曲 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1YsXcv6T9nhiiob8TL-leabISB2mfKxhU/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 289.802,
+            "fileSize": 11819562,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 289.756,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 289.756,
+            "fileSize": 35422412,
+            "bitRate": 971086
+          }
+        },
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t01",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-01 - 序曲 - 2016跨年版.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐/序曲.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 289.802,
+            "fileSize": 11819562,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t02",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐",
+      "title": "杭州 - 2016跨年版",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 331.442,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1R57lNKR4Zeog7pdJCWuPl5i9DLJjLRO2/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-02 - 杭州 - 2016跨年版.mp3",
+      "sources": [],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 331.442,
+        "fileSize": 13486794,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "unconfirmed",
+      "assets": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t02",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-02 - 杭州 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1R57lNKR4Zeog7pdJCWuPl5i9DLJjLRO2/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 331.442,
+            "fileSize": 13486794,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 331.411,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 331.411,
+            "fileSize": 42817044,
+            "bitRate": 1027353
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 331.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 331.411,
+        "fileSize": 42817044,
+        "bitRate": 1027353
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t02",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-02 - 杭州 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1R57lNKR4Zeog7pdJCWuPl5i9DLJjLRO2/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 331.442,
+            "fileSize": 13486794,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 331.411,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 331.411,
+            "fileSize": 42817044,
+            "bitRate": 1027353
+          }
+        },
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t02",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-02 - 杭州 - 2016跨年版.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐/杭州.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 331.442,
+            "fileSize": 13486794,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t03",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐",
+      "title": "尽头 - 2016跨年版",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 258.586,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1D-vk9kqLKHWxD-vEKpMgYCH4WfZbJACG/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-03 - 尽头 - 2016跨年版.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-2",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 2,
+          "duration": 258.539,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 258.586,
+        "fileSize": 10569659,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t03",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-03 - 尽头 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1D-vk9kqLKHWxD-vEKpMgYCH4WfZbJACG/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 258.586,
+            "fileSize": 10569659,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 258.539,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 258.539,
+            "fileSize": 29150278,
+            "bitRate": 894454
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 258.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 258.539,
+        "fileSize": 29150278,
+        "bitRate": 894454
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t03",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-03 - 尽头 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1D-vk9kqLKHWxD-vEKpMgYCH4WfZbJACG/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 258.586,
+            "fileSize": 10569659,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 258.539,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 258.539,
+            "fileSize": 29150278,
+            "bitRate": 894454
+          }
+        },
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t03",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-03 - 尽头 - 2016跨年版.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐/尽头.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 258.586,
+            "fileSize": 10569659,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t04",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐",
+      "title": "定西 - 2016跨年版",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 363.781,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1GQb5W7hXJChpvwhtKQkI7siUbkfUVxBk/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-04 - 定西 - 2016跨年版.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-3",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 3,
+          "duration": 363.733,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 363.781,
+        "fileSize": 14781672,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t04",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-04 - 定西 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1GQb5W7hXJChpvwhtKQkI7siUbkfUVxBk/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 363.781,
+            "fileSize": 14781672,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 363.733,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 363.733,
+            "fileSize": 41207085,
+            "bitRate": 900684
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 363.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 363.733,
+        "fileSize": 41207085,
+        "bitRate": 900684
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t04",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-04 - 定西 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1GQb5W7hXJChpvwhtKQkI7siUbkfUVxBk/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 363.781,
+            "fileSize": 14781672,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 363.733,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 363.733,
+            "fileSize": 41207085,
+            "bitRate": 900684
+          }
+        },
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t04",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-04 - 定西 - 2016跨年版.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐/定西.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 363.781,
+            "fileSize": 14781672,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t05",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐",
+      "title": "春末的南方城市 - 2016跨年版",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 256.862,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1P-9Bl9ZkQb2mHzVv_taBs9pjufF0vckE/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-05 - 春末的南方城市 - 2016跨年版.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-4",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 4,
+          "duration": 256.821,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 256.862,
+        "fileSize": 10500637,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t05",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-05 - 春末的南方城市 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1P-9Bl9ZkQb2mHzVv_taBs9pjufF0vckE/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 256.862,
+            "fileSize": 10500637,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 256.821,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 256.821,
+            "fileSize": 33267797,
+            "bitRate": 1028567
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 256.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 256.821,
+        "fileSize": 33267797,
+        "bitRate": 1028567
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t05",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-05 - 春末的南方城市 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1P-9Bl9ZkQb2mHzVv_taBs9pjufF0vckE/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 256.862,
+            "fileSize": 10500637,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 256.821,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 256.821,
+            "fileSize": 33267797,
+            "bitRate": 1028567
+          }
+        },
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t05",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-05 - 春末的南方城市 - 2016跨年版.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐/春末的南方城市.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 256.862,
+            "fileSize": 10500637,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t06",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐",
+      "title": "黑色信封 - 2016跨年版",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 334.002,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/16caXoOTfiGvua7DamPjYkIzGu0F7ND_E/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-06 - 黑色信封 - 2016跨年版.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-5",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 5,
+          "duration": 333.952,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 334.002,
+        "fileSize": 13589301,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t06",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-06 - 黑色信封 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/16caXoOTfiGvua7DamPjYkIzGu0F7ND_E/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 334.002,
+            "fileSize": 13589301,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 333.952,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 333.952,
+            "fileSize": 40433236,
+            "bitRate": 962487
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 333.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 333.952,
+        "fileSize": 40433236,
+        "bitRate": 962487
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t06",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-06 - 黑色信封 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/16caXoOTfiGvua7DamPjYkIzGu0F7ND_E/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 334.002,
+            "fileSize": 13589301,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 333.952,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 333.952,
+            "fileSize": 40433236,
+            "bitRate": 962487
+          }
+        },
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t06",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-06 - 黑色信封 - 2016跨年版.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐/黑色信封.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 334.002,
+            "fileSize": 13589301,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t07",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐",
+      "title": "铅笔 - 2016跨年版",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 312.477,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Evk87qjnoVToLDdAX_WNS78Vazj8mLXE/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-07 - 铅笔 - 2016跨年版.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-6",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 6,
+          "duration": 312.432,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 312.477,
+        "fileSize": 12727440,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t07",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-07 - 铅笔 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Evk87qjnoVToLDdAX_WNS78Vazj8mLXE/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 312.477,
+            "fileSize": 12727440,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 312.432,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 312.432,
+            "fileSize": 38626193,
+            "bitRate": 982558
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 312.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 312.432,
+        "fileSize": 38626193,
+        "bitRate": 982558
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t07",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-07 - 铅笔 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1Evk87qjnoVToLDdAX_WNS78Vazj8mLXE/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 312.477,
+            "fileSize": 12727440,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 312.432,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 312.432,
+            "fileSize": 38626193,
+            "bitRate": 982558
+          }
+        },
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t07",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-07 - 铅笔 - 2016跨年版.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐/铅笔.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 312.477,
+            "fileSize": 12727440,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t08",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐",
+      "title": "和你在一起 - 2016跨年版",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 259.657,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1ZnZz5adCrL5T9hWXqVMSH9GW6dNpbgj2/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-08 - 和你在一起 - 2016跨年版.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-7",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 7,
+          "duration": 259.605,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 259.657,
+        "fileSize": 10612549,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t08",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-08 - 和你在一起 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1ZnZz5adCrL5T9hWXqVMSH9GW6dNpbgj2/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 259.657,
+            "fileSize": 10612549,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 259.605,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 259.605,
+            "fileSize": 31671519,
+            "bitRate": 968395
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 259.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 259.605,
+        "fileSize": 31671519,
+        "bitRate": 968395
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t08",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-08 - 和你在一起 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1ZnZz5adCrL5T9hWXqVMSH9GW6dNpbgj2/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 259.657,
+            "fileSize": 10612549,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 259.605,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 259.605,
+            "fileSize": 31671519,
+            "bitRate": 968395
+          }
+        },
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t08",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-08 - 和你在一起 - 2016跨年版.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐/和你在一起.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 259.657,
+            "fileSize": 10612549,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t09",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐",
+      "title": "墙上的向日葵 - 2016跨年版",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 465.084,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1H0ADaUwV-xEH5lAMvwIH_vTR1-u738Ec/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-09 - 墙上的向日葵 - 2016跨年版.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-8",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 8,
+          "duration": 465.045,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 465.084,
+        "fileSize": 18837846,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t09",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-09 - 墙上的向日葵 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1H0ADaUwV-xEH5lAMvwIH_vTR1-u738Ec/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 465.084,
+            "fileSize": 18837846,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 465.045,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 465.045,
+            "fileSize": 56439254,
+            "bitRate": 966238
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 465.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 465.045,
+        "fileSize": 56439254,
+        "bitRate": 966238
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t09",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-09 - 墙上的向日葵 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1H0ADaUwV-xEH5lAMvwIH_vTR1-u738Ec/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 465.084,
+            "fileSize": 18837846,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 465.045,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 465.045,
+            "fileSize": 56439254,
+            "bitRate": 966238
+          }
+        },
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t09",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-09 - 墙上的向日葵 - 2016跨年版.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐/墙上的向日葵.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 465.084,
+            "fileSize": 18837846,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t10",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐",
+      "title": "大象 - 2016跨年版",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 409.548,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1OEJV1DVQEZ6XNsA4yGq4oiUdofKVmww-/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-10 - 大象 - 2016跨年版.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-9",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 9,
+          "duration": 409.515,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 409.548,
+        "fileSize": 16614165,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t10",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-10 - 大象 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1OEJV1DVQEZ6XNsA4yGq4oiUdofKVmww-/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 409.548,
+            "fileSize": 16614165,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 409.515,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 409.515,
+            "fileSize": 49079416,
+            "bitRate": 953628
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 409.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 409.515,
+        "fileSize": 49079416,
+        "bitRate": 953628
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t10",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-10 - 大象 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1OEJV1DVQEZ6XNsA4yGq4oiUdofKVmww-/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 409.548,
+            "fileSize": 16614165,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 409.515,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 409.515,
+            "fileSize": 49079416,
+            "bitRate": 953628
+          }
+        },
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t10",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-10 - 大象 - 2016跨年版.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐/大象.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 409.548,
+            "fileSize": 16614165,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t11",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐",
+      "title": "门 - 2016跨年版",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 402.625,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1dD8uWr9Dq3K__KemRFW0PxYNmxyJ3kYr/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-11 - 门 - 2016跨年版.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-10",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 10,
+          "duration": 402.581,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 402.625,
+        "fileSize": 16336989,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t11",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-11 - 门 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1dD8uWr9Dq3K__KemRFW0PxYNmxyJ3kYr/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 402.625,
+            "fileSize": 16336989,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 402.581,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 402.581,
+            "fileSize": 45510698,
+            "bitRate": 899206
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 402.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 402.581,
+        "fileSize": 45510698,
+        "bitRate": 899206
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t11",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-11 - 门 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1dD8uWr9Dq3K__KemRFW0PxYNmxyJ3kYr/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 402.625,
+            "fileSize": 16336989,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 402.581,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 402.581,
+            "fileSize": 45510698,
+            "bitRate": 899206
+          }
+        },
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t11",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-11 - 门 - 2016跨年版.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐/门.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 402.625,
+            "fileSize": 16336989,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t12",
+      "artist": "李志",
+      "album": "李志、电声与管弦乐",
+      "title": "回答 - 2016跨年版",
+      "discNumber": 1,
+      "trackNumber": 12,
+      "sequenceNumber": 12,
+      "duration": 378.41,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1RMJTMvj-NPltj4Ay30eRrJ8Mqf_k2gHE/view?usp=drivesdk",
+      "format": "MP3",
+      "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-12 - 回答 - 2016跨年版.mp3",
+      "sources": [
+        {
+          "provider": "Bandcamp",
+          "url": "https://lizhilizhi.bandcamp.com/track/2016-11",
+          "albumUrl": "https://lizhilizhi.bandcamp.com/album/--12",
+          "status": "purchasable",
+          "formats": [
+            "FLAC",
+            "ALAC",
+            "WAV",
+            "AAC",
+            "MP3"
+          ],
+          "advertisedSampleRate": 44100,
+          "advertisedBitDepth": 16,
+          "qualityVerifiedFromFile": false,
+          "checkedAt": "2026-09-26",
+          "sourceTrackNumber": 11,
+          "duration": 378.379,
+          "matchBasis": "同专辑曲名规范化唯一匹配；未比对音频母带"
+        }
+      ],
+      "suspected_transcode": false,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 378.41,
+        "fileSize": 15367401,
+        "bitRate": 320000
+      },
+      "searchStatus": "catalog-checked",
+      "versionMatch": "same-album-title-match",
+      "assets": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t12",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-12 - 回答 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1RMJTMvj-NPltj4Ay30eRrJ8Mqf_k2gHE/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 378.41,
+            "fileSize": 15367401,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false,
+          "duration": 378.379,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 378.379,
+            "fileSize": 43158856,
+            "bitRate": 907048
+          }
+        }
+      ],
+      "rightsStatus": "unverified-third-party",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "catalogDuration": 378.0,
+      "conversion": {
+        "target": "MP3 CBR 320kbps 44.1kHz",
+        "action": "encoded-mp3-320",
+        "lossySource": false,
+        "sourceQualityImproved": false,
+        "sourceSelection": null
+      },
+      "qualityAudit": "not-applicable-lossy",
+      "sourceAudioProperties": {
+        "codec": "FLAC",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitDepth": 16,
+        "duration": 378.379,
+        "fileSize": 43158856,
+        "bitRate": 907048
+      },
+      "sourceAssetHistory": [
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t12",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-12 - 回答 - 2016跨年版.mp3",
+          "sourceUrl": "https://drive.google.com/file/d/1RMJTMvj-NPltj4Ay30eRrJ8Mqf_k2gHE/view?usp=drivesdk",
+          "provider": "Google Drive public share",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": null,
+            "duration": 378.41,
+            "fileSize": 15367401,
+            "bitRate": 320000
+          },
+          "suspected_transcode": false,
+          "qualityAudit": "encoding-and-metadata-verified",
+          "redistributionAllowed": false,
+          "duration": 378.379,
+          "conversion": {
+            "target": "MP3 CBR 320kbps 44.1kHz",
+            "action": "encoded-mp3-320",
+            "lossySource": false,
+            "sourceQualityImproved": false,
+            "sourceSelection": null
+          },
+          "sourceAudioProperties": {
+            "codec": "FLAC",
+            "sampleRate": 44100,
+            "channels": 2,
+            "bitDepth": 16,
+            "duration": 378.379,
+            "fileSize": 43158856,
+            "bitRate": 907048
+          }
+        },
+        {
+          "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t12",
+          "localPath": "live/李志/2017 - 李志、电声与管弦乐/01-12 - 回答 - 2016跨年版.mp3",
+          "sourceUrl": "https://st.nj1701.com/电声与管弦乐/回答.mp3",
+          "provider": "lizhinb.com",
+          "rightsStatus": "unverified-third-party",
+          "checkedAt": "2026-09-26",
+          "status": "downloaded",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 378.41,
+            "fileSize": 15367401,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "qualityAudit": "not-applicable-lossy",
+          "redistributionAllowed": false
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://zh.wikipedia.org/wiki/李志",
+    "https://musicbrainz.org/release/a2df0227-b7ae-4408-95c8-79baf1099f39",
+    "https://lizhilizhi.bandcamp.com/album/--12"
+  ],
+  "notes": [],
+  "metadataStatus": "provisional",
+  "editions": [
+    {
+      "provider": "Bandcamp",
+      "url": "https://lizhilizhi.bandcamp.com/album/--12",
+      "title": "李志、電聲與管弦",
+      "releaseDate": "22 Oct 2020 10:37:05 GMT",
+      "trackCount": 11,
+      "tracks": [
+        {
+          "title": "序曲（2016跨年版）",
+          "track_num": 1,
+          "duration": 289.756,
+          "title_link": "/track/2016",
+          "track_id": 3968928188
+        },
+        {
+          "title": "盡頭（2016跨年版）",
+          "track_num": 2,
+          "duration": 258.539,
+          "title_link": "/track/2016-2",
+          "track_id": 1970003249
+        },
+        {
+          "title": "定西（2016跨年版）",
+          "track_num": 3,
+          "duration": 363.733,
+          "title_link": "/track/2016-3",
+          "track_id": 2869667253
+        },
+        {
+          "title": "春末的南方城市（2016跨年版）",
+          "track_num": 4,
+          "duration": 256.821,
+          "title_link": "/track/2016-4",
+          "track_id": 2687386964
+        },
+        {
+          "title": "黑色信封（2016跨年版）",
+          "track_num": 5,
+          "duration": 333.952,
+          "title_link": "/track/2016-5",
+          "track_id": 1392795165
+        },
+        {
+          "title": "鉛筆（2016跨年版）",
+          "track_num": 6,
+          "duration": 312.432,
+          "title_link": "/track/2016-6",
+          "track_id": 2978608118
+        },
+        {
+          "title": "和你在一起（2016跨年版）",
+          "track_num": 7,
+          "duration": 259.605,
+          "title_link": "/track/2016-7",
+          "track_id": 2262581727
+        },
+        {
+          "title": "牆上的向日葵（2016跨年版）",
+          "track_num": 8,
+          "duration": 465.045,
+          "title_link": "/track/2016-8",
+          "track_id": 3238374741
+        },
+        {
+          "title": "大象（2016跨年版）",
+          "track_num": 9,
+          "duration": 409.515,
+          "title_link": "/track/2016-9",
+          "track_id": 3096928633
+        },
+        {
+          "title": "門（2016跨年版）",
+          "track_num": 10,
+          "duration": 402.581,
+          "title_link": "/track/2016-10",
+          "track_id": 1423578009
+        },
+        {
+          "title": "回答（2016跨年版）",
+          "track_num": 11,
+          "duration": 378.379,
+          "title_link": "/track/2016-11",
+          "track_id": 4194997729
+        }
+      ],
+      "offer": "Digital Album Streaming + Download Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more. Download available in 16-bit/44.1kHz. Buy Digital Album $85 HKD or more Send as Gift",
+      "note": "平台上架日期，不替代原始发行日期。"
+    }
+  ],
+  "selectedEdition": {
+    "id": "a2df0227-b7ae-4408-95c8-79baf1099f39",
+    "title": "李志、電聲與管弦樂",
+    "date": "2017",
+    "status": "Official"
+  },
+  "releaseDateClaims": [
+    {
+      "date": "2017",
+      "source": "https://musicbrainz.org/release/a2df0227-b7ae-4408-95c8-79baf1099f39"
+    },
+    {
+      "date": "2017-05-16",
+      "source": "https://zh.wikipedia.org/wiki/李志"
+    }
+  ],
+  "coverSource": {
+    "provider": "OneDrive",
+    "sourceFileName": "2017 - 李志 - 李志、电声与管弦乐.jpg",
+    "width": 3000,
+    "height": 3000,
+    "lowResolution": false,
+    "originalPath": "covers/originals/2017 - 李志 - 李志、电声与管弦乐.jpg"
+  },
+  "trackCount": 12,
+  "tracklistStatus": "edition-listed"
+}

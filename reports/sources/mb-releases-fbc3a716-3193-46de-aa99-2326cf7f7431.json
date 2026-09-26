@@ -1,0 +1,284 @@
+{
+  "release-offset": 0,
+  "release-count": 4,
+  "releases": [
+    {
+      "id": "35b66f0e-35f3-4b82-9546-d6aca7248bd1",
+      "media": [
+        {
+          "track-count": 8,
+          "position": 1,
+          "format": "CD",
+          "id": "a0d3095e-b9a0-3087-af2f-7a15d0e338fc",
+          "title": "",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "status": "Official",
+      "quality": "normal",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "back": false,
+        "artwork": true,
+        "front": true
+      },
+      "title": "李志、電聲與管弦樂II",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "date": "2018",
+      "release-events": [
+        {
+          "date": "2018",
+          "area": {
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+            "disambiguation": "",
+            "iso-3166-2-codes": [
+              "CN-91"
+            ],
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "type": null,
+            "name": "Hong Kong",
+            "type-id": null,
+            "sort-name": "Hong Kong"
+          }
+        },
+        {
+          "date": "2018",
+          "area": {
+            "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "MO"
+            ],
+            "iso-3166-2-codes": [
+              "CN-92"
+            ],
+            "type": null,
+            "name": "Macao",
+            "sort-name": "Macao",
+            "type-id": null
+          }
+        },
+        {
+          "date": "2018",
+          "area": {
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "disambiguation": "",
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "type-id": null,
+            "sort-name": "Taiwan",
+            "name": "Taiwan",
+            "type": null
+          }
+        }
+      ],
+      "disambiguation": "",
+      "asin": null,
+      "text-representation": {
+        "script": "Hant",
+        "language": "zho"
+      },
+      "barcode": null,
+      "country": "HK",
+      "packaging": "None",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "asin": null,
+      "disambiguation": "",
+      "country": "XW",
+      "packaging": "None",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      },
+      "barcode": "9787883306948",
+      "status": "Official",
+      "quality": "normal",
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "count": 1,
+        "artwork": true,
+        "front": true
+      },
+      "id": "626b4295-d609-4e46-b3b6-d7b3b30ba3c0",
+      "media": [
+        {
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "position": 1,
+          "id": "cfb786f9-8d5a-3d67-aa0d-9e22971fcd8f",
+          "format": "Digital Media",
+          "track-count": 8
+        }
+      ],
+      "title": "李志、電聲與管弦樂II",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "date": "2020-10-23",
+      "release-events": [
+        {
+          "area": {
+            "name": "[Worldwide]",
+            "type-id": null,
+            "sort-name": "[Worldwide]",
+            "type": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "XW"
+            ]
+          },
+          "date": "2020-10-23"
+        }
+      ]
+    },
+    {
+      "cover-art-archive": {
+        "front": false,
+        "artwork": false,
+        "count": 0,
+        "back": false,
+        "darkened": false
+      },
+      "quality": "normal",
+      "status": "Official",
+      "media": [
+        {
+          "id": "e540dee5-2339-3f9c-883e-8ebf3fd7ed1a",
+          "format": "Digital Media",
+          "position": 1,
+          "track-count": 9,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": ""
+        }
+      ],
+      "id": "6a798753-fe04-4301-b727-3b0b9be33fa1",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "type-id": null,
+            "sort-name": "Hong Kong",
+            "name": "Hong Kong",
+            "iso-3166-2-codes": [
+              "CN-91"
+            ],
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "disambiguation": "",
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1"
+          },
+          "date": "2018"
+        },
+        {
+          "date": "2018",
+          "area": {
+            "iso-3166-2-codes": [
+              "CN-92"
+            ],
+            "iso-3166-1-codes": [
+              "MO"
+            ],
+            "id": "ed4e8ad9-2b33-3133-b105-28bb719d6ce8",
+            "disambiguation": "",
+            "type-id": null,
+            "sort-name": "Macao",
+            "name": "Macao",
+            "type": null
+          }
+        },
+        {
+          "area": {
+            "type": null,
+            "name": "Taiwan",
+            "type-id": null,
+            "sort-name": "Taiwan",
+            "disambiguation": "",
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "iso-3166-1-codes": [
+              "TW"
+            ]
+          },
+          "date": "2018"
+        }
+      ],
+      "date": "2018",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "title": "李志、電聲與管弦樂II",
+      "disambiguation": "",
+      "asin": null,
+      "packaging": "None",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "HK",
+      "barcode": "9787883306948",
+      "text-representation": {
+        "language": "zho",
+        "script": "Hant"
+      }
+    },
+    {
+      "country": "CN",
+      "packaging": "Jewel Case",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "barcode": "9787883306948",
+      "text-representation": {
+        "script": "Hans",
+        "language": "zho"
+      },
+      "disambiguation": "",
+      "asin": null,
+      "date": "2018",
+      "release-events": [
+        {
+          "date": "2018",
+          "area": {
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "disambiguation": "",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "type": null,
+            "sort-name": "China",
+            "type-id": null,
+            "name": "China"
+          }
+        }
+      ],
+      "title": "李志、电声与管弦乐II",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "cover-art-archive": {
+        "back": false,
+        "darkened": false,
+        "count": 0,
+        "front": false,
+        "artwork": false
+      },
+      "status": "Official",
+      "quality": "normal",
+      "id": "da04ea8a-bfd5-4691-bea6-541a77fb2848",
+      "media": [
+        {
+          "title": "",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 9,
+          "position": 1,
+          "format": "CD",
+          "id": "df4b9332-145c-302f-af58-d244c13520a3"
+        }
+      ]
+    }
+  ]
+}
