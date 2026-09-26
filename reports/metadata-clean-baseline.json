@@ -281,12 +281,6 @@
     "channels": 2,
     "bits": null
   },
-  "live/李志/2007 - 将进酒/full-concert.mp3": {
-    "duration": 4483.239,
-    "sampleRate": 44100,
-    "channels": 2,
-    "bits": null
-  },
   "artists/何韻詩/2008 - Goomusic Collection 2004-2008/01-15 - 勞斯.萊斯.mp3": {
     "duration": 270.106,
     "sampleRate": 44100,
@@ -2245,12 +2239,6 @@
   },
   "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-06 - 你离开了南京，从此没有人和我说话.mp3": {
     "duration": 177.88,
-    "sampleRate": 44100,
-    "channels": 2,
-    "bits": null
-  },
-  "live/李志/2015 - i／O - 完整版录音/full-concert.mp3": {
-    "duration": 9400.895,
     "sampleRate": 44100,
     "channels": 2,
     "bits": null

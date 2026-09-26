@@ -1,6 +1,6 @@
 {
   "policy": "MP3-320kbps-one-file-per-catalog-track; metadata-whitelist",
-  "taggedFiles": 504,
+  "taggedFiles": 502,
   "files": [
     {
       "path": "artists/崔健/1991 - 解决/01-03 - 一块红布.mp3",
@@ -515,17 +515,6 @@
       "title": "董卓瑶",
       "trackNumber": 11,
       "discNumber": 1,
-      "albumArtist": "李志",
-      "date": "2007-11-11",
-      "coverEmbedded": true
-    },
-    {
-      "path": "live/李志/2007 - 将进酒/full-concert.mp3",
-      "artist": "李志",
-      "album": "将进酒",
-      "title": "将进酒（演出录音）",
-      "trackNumber": null,
-      "discNumber": null,
       "albumArtist": "李志",
       "date": "2007-11-11",
       "coverEmbedded": true
@@ -4125,17 +4114,6 @@
       "discNumber": 2,
       "albumArtist": "李志",
       "date": "2025-06-13",
-      "coverEmbedded": true
-    },
-    {
-      "path": "live/李志/2015 - i／O - 完整版录音/full-concert.mp3",
-      "artist": "李志",
-      "album": "i／O - 完整版录音",
-      "title": "i／O - 完整版录音（演出录音）",
-      "trackNumber": null,
-      "discNumber": null,
-      "albumArtist": "李志",
-      "date": "2015",
       "coverEmbedded": true
     },
     {

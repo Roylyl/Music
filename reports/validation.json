@@ -1,8 +1,8 @@
 {
   "valid": true,
   "errors": [],
-  "albums": 45,
-  "tracks": 538,
+  "albums": 44,
+  "tracks": 507,
   "checks": [
     "Unique track identifiers",
     "Allowed sourceStatus values",

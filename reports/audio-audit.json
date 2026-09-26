@@ -2964,19 +2964,6 @@
     "evidence": []
   },
   {
-    "localPath": "live/李志/2015 - i／O - 完整版录音/full-concert.mp3",
-    "codec": "MP3",
-    "sampleRate": 44100,
-    "bitDepth": null,
-    "channels": 2,
-    "duration": 9400.895,
-    "fileSize": 376646386,
-    "bitRate": 320000,
-    "suspected_transcode": null,
-    "analysisStatus": "not-applicable-lossy",
-    "evidence": []
-  },
-  {
     "localPath": "live/李志/2009 - 工体东路没有人/01-01 - 被禁忌的游戏.mp3",
     "codec": "MP3",
     "sampleRate": 44100,
@@ -5285,19 +5272,6 @@
     "channels": 2,
     "duration": 220.029,
     "fileSize": 8834436,
-    "bitRate": 320000,
-    "suspected_transcode": null,
-    "analysisStatus": "not-applicable-lossy",
-    "evidence": []
-  },
-  {
-    "localPath": "live/李志/2007 - 将进酒/full-concert.mp3",
-    "codec": "MP3",
-    "sampleRate": 44100,
-    "bitDepth": null,
-    "channels": 2,
-    "duration": 4483.239,
-    "fileSize": 179533324,
     "bitRate": 320000,
     "suspected_transcode": null,
     "analysisStatus": "not-applicable-lossy",

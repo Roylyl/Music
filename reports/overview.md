@@ -1,8 +1,8 @@
 # 音乐资料库进度
 
-截至2026-09-27，已建立45个发行／录音条目、538条版本化曲目记录；其中500条已有独立本地音频。另有40条预期曲目尚缺可靠曲单，不计入已编目总数。
+截至2026-09-27，已建立44个发行／录音条目、507条版本化曲目记录；其中500条已有独立本地音频。另有40条预期曲目尚缺可靠曲单，不计入已编目总数。
 
-音频文件合计6.51GiB，含保留的其他来源版本与全场音轨。未计算文件哈希。
+音频文件合计5.99GiB，含保留的其他来源版本与全场音轨。未计算文件哈希。
 
 ## 发行目录
 
@@ -46,7 +46,6 @@
 |2020-05-27|李志|[Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）](../collections/李志/2020%20-%20Best%20Selection%20Songs%202004-2018%20Vol.2%20-%20Ballads（叙事歌）/album.json)|compilation|24|24|
 |2021-11-12|李志|[Best Selection Songs 2004-2018 Vol.3 - 倒影](../collections/李志/2021%20-%20Best%20Selection%20Songs%202004-2018%20Vol.3%20-%20倒影/album.json)|compilation|20|20|
 |2025-06-13|李志|[THREE MISSING ONE JAPAN Tour 2024 in Tokyo](../live/李志/2025%20-%20THREE%20MISSING%20ONE%20JAPAN%20Tour%202024%20in%20Tokyo/album.json)|live|14|14|
-|未确认|李志|[i／O - 完整版录音](../live/李志/2015%20-%20i／O%20-%20完整版录音/album.json)|concert|31|0|
 |未确认|李志|[义乌隔壁酒吧](../live/李志/2009%20-%20义乌隔壁酒吧/album.json)|concert|13|13|
 |未确认|李志|[叁缺壹吉隆坡站](../live/李志/2025%20-%20叁缺壹吉隆坡站/album.json)|concert|30|30|
 |未确认|李志|[挺 不插电巡演 郑州站](../live/李志/2014%20-%20挺%20不插电巡演%20郑州站/album.json)|concert|17|17|
@@ -68,7 +67,7 @@
 - 其他歌手的9张专辑目前各只收录用户指定的1首，album.json已标记tracklistCompleteness=partial，不能视为完整曲单。
 - 崔健《一块红布》的本地音频约281秒，所查《解决》曲目资料约371秒，具体版本待复核。黄贯中《年少無知》WAV频谱有约16kHz低通，标记疑似转码并保留原文件。
 - 《将进酒》主DVD目录已录入；赠碟、采访部分仍待核。YouTube分轨依据上传者章节，未经逐首试听确认边界。
-- 《i/O》正式11轨专辑与31轨非正式录音分开。全场Opus单独保留，尚未伪造分轨。
+- 《i/O》正式11轨专辑按独立发行整理。
 - 《洗心革面》存在MusicBrainz22轨与歌迷站26轨的不同分段。26轨版已独立入库；串烧与独立分轨不能仅凭曲名互换。
 - 日期冲突、再版、未证实正式发行的录音均保留notes与来源；不能宣称已穷尽所有发行及非正式录音。
 - 逐曲执行了已抓取目录的标题和版本匹配；多语言搜索引擎组合仍有未执行项，search-queue.json明确标为pending。
@@ -97,7 +96,7 @@
 
 ## GitHub部署
 
-本地音频已超过GitHub Pages的1GB站点限制，且有2个文件超过普通Git单文件100MiB限制。播放器页面与JSON可留在Pages，音频应接入另行配置的资源托管；导出脚本支持--base-url。Git LFS可用于仓库存储，但不能直接作为Pages音频托管。
+本地音频已超过GitHub Pages的1GB站点限制，且有0个文件超过普通Git单文件100MiB限制。播放器页面与JSON可留在Pages，音频应接入另行配置的资源托管；导出脚本支持--base-url。Git LFS可用于仓库存储，但不能直接作为Pages音频托管。
 
 依据：[GitHub大文件说明](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github)、[Pages限制](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)、[Git LFS与Pages限制](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage)。
 

@@ -760,26 +760,6 @@
     "lowResolution": false
   },
   {
-    "title": "i／O - 完整版录音",
-    "releaseDate": null,
-    "type": "concert",
-    "albumPath": "live/李志/2015 - i／O - 完整版录音",
-    "coverJpg": "live/李志/2015 - i／O - 完整版录音/cover.jpg",
-    "coverWebp": "live/李志/2015 - i／O - 完整版录音/cover.webp",
-    "jpgPixels": [
-      3000,
-      3000
-    ],
-    "webpPixels": [
-      1000,
-      1000
-    ],
-    "provider": "OneDrive",
-    "sourceUrl": null,
-    "originalPath": "covers/originals/2015 - 李志 - i／O.jpg",
-    "lowResolution": false
-  },
-  {
     "title": "义乌隔壁酒吧",
     "releaseDate": null,
     "type": "concert",

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "project_profile": "Dataset",
+  "claims": [
+    {
+      "id": "mapping",
+      "quote": "500首，各自对应一个独立MP3",
+      "level": "implementation",
+      "reasoning": "本次脚本遍历全部曲目，检查实际MP3、唯一引用、资产列表及同曲序文件；仅证明文件映射。",
+      "evidence": [
+        {
+          "path": "reports/track-file-audit.json",
+          "excerpt": "\"validLocalTrackMapping\": true"
+        }
+      ]
+    },
+    {
+      "id": "counts",
+      "quote": "2026年9月27日本地检查：总索引包含44个发行条目、507条曲目记录，其中500条已有本地音频。",
+      "level": "implementation",
+      "reasoning": "报告来自当前总索引及文件系统。",
+      "evidence": [
+        {
+          "path": "reports/track-file-audit.json",
+          "excerpt": "\"albumEntries\": 44,\n  \"catalogTracks\": 507,\n  \"localTracks\": 500,"
+        }
+      ]
+    },
+    {
+      "id": "physical",
+      "quote": "502个：500首曲目及2份独立长录音",
+      "level": "implementation",
+      "reasoning": "当前500个主音轨文件之外，保留两份用户指定的独立长录音。",
+      "evidence": [
+        {
+          "path": "reports/track-file-audit.json",
+          "excerpt": "\"physicalMP3Files\": 502,"
+        }
+      ]
+    },
+    {
+      "id": "playlist",
+      "quote": "500条，与本地曲目路径一致",
+      "level": "implementation",
+      "reasoning": "检查执行成功且errors为空，核对ID与src，不代表网页端播放测试。",
+      "evidence": [
+        {
+          "path": "scripts/check_track_files.py",
+          "excerpt": "if set(actual) != expected or len(actual) != len(expected): errors.append({'kind': 'playlist-mapping-mismatch'})"
+        }
+      ]
+    },
+    {
+      "id": "encoding",
+      "quote": "音频整理目标为MP3固定码率320kbps、44.1kHz",
+      "level": "implementation",
+      "reasoning": "仅描述目标规格和已有转换记录，本次未重新解码或验证全库编码。",
+      "evidence": [
+        {
+          "path": "library.json",
+          "excerpt": "\"playbackPolicy\": {"
+        }
+      ]
+    }
+  ]
+}

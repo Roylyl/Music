@@ -912,7 +912,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 305,
         "end": 600,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -943,7 +942,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 1,
         "end": 305,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -974,7 +972,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 600,
         "end": 942,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -1005,7 +1002,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 1212,
         "end": 1473,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -1036,7 +1032,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 942,
         "end": 1212,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -1067,7 +1062,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 1473,
         "end": 1780,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -1098,7 +1092,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 1998,
         "end": 2175,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -1129,7 +1122,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 1780,
         "end": 1998,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -1160,7 +1152,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 2175,
         "end": 2430,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -1191,7 +1182,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 2430,
         "end": 2650,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -1222,7 +1212,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 3270,
         "end": 3540,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -1253,7 +1242,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 3540,
         "end": 3800,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -1284,37 +1272,10 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 2650,
         "end": 3270,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
       }
-    },
-    {
-      "sourcePath": "live/李志/2007 - 将进酒/full-concert.opus",
-      "localPath": "live/李志/2007 - 将进酒/full-concert.mp3",
-      "sourceAudioProperties": {
-        "codec": "OggOpus",
-        "sampleRate": 48000,
-        "channels": 2,
-        "bitDepth": null,
-        "duration": 4483.201,
-        "fileSize": 70342550,
-        "bitRate": null
-      },
-      "audioProperties": {
-        "codec": "MP3",
-        "sampleRate": 44100,
-        "channels": 2,
-        "bitDepth": null,
-        "duration": 4483.239,
-        "fileSize": 179533324,
-        "bitRate": 320000
-      },
-      "action": "encoded-mp3-320",
-      "decodedSourceDuration": null,
-      "lossySource": true,
-      "sourceSelection": null
     },
     {
       "sourcePath": "artists/何韻詩/2008 - Goomusic Collection 2004-2008/01-15 - 勞斯.萊斯.flac",
@@ -3057,7 +3018,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 3800,
         "end": 4060,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -9824,32 +9784,6 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/2015 - i／O - 完整版录音/full-concert.opus",
-      "localPath": "live/李志/2015 - i／O - 完整版录音/full-concert.mp3",
-      "sourceAudioProperties": {
-        "codec": "OggOpus",
-        "sampleRate": 48000,
-        "channels": 2,
-        "bitDepth": null,
-        "duration": 9400.861,
-        "fileSize": 152495453,
-        "bitRate": null
-      },
-      "audioProperties": {
-        "codec": "MP3",
-        "sampleRate": 44100,
-        "channels": 2,
-        "bitDepth": null,
-        "duration": 9400.895,
-        "fileSize": 376646386,
-        "bitRate": 320000
-      },
-      "action": "encoded-mp3-320",
-      "decodedSourceDuration": null,
-      "lossySource": true,
-      "sourceSelection": null
-    },
-    {
       "sourcePath": "live/李志/2009 - 义乌隔壁酒吧/01-01 - 苍井空.mp3",
       "localPath": "live/李志/2009 - 义乌隔壁酒吧/01-01 - 苍井空.mp3",
       "sourceAudioProperties": {
@@ -10134,7 +10068,6 @@
       "decodedSourceDuration": null,
       "lossySource": true,
       "sourceSelection": {
-        "recording": "live/李志/2007 - 将进酒/full-concert.opus",
         "start": 4060,
         "end": 4483,
         "reason": "rebuild chapter from full recording to avoid malformed Ogg granule timestamps"
@@ -13262,7 +13195,6 @@
     "live/李志/2007 - 将进酒/01-14 - 和你在一起.opus",
     "live/李志/2007 - 将进酒/01-15 - 这个世界会好吗.opus",
     "live/李志/2007 - 将进酒/01-16 - Wish You Were Here.opus",
-    "live/李志/2007 - 将进酒/full-concert.opus",
     "live/李志/2009 - 工体东路没有人/01-01 - 被禁忌的游戏.m4a",
     "live/李志/2009 - 工体东路没有人/01-02 - 和你在一起.m4a",
     "live/李志/2009 - 工体东路没有人/01-03 - 来了.m4a",
@@ -13300,7 +13232,6 @@
     "live/李志/2014 - 勾三搭四/01-19 - 这个世界会好吗.flac",
     "live/李志/2014 - 勾三搭四/01-20 - 杭州&我们不能失去信仰.flac",
     "live/李志/2014 - 勾三搭四/01-21 - 山阴路的夏天.flac",
-    "live/李志/2015 - i／O - 完整版录音/full-concert.opus",
     "live/李志/2015 - 看见/01-04 - 春末的南方城市.flac",
     "live/李志/2015 - 看见/01-07 - 热河.flac",
     "live/李志/2016 - 李志北京不插电现场/01-01 - 黑色信封 (2016 unplugged).flac",
@@ -13348,5 +13279,6 @@
   ],
   "removedAlternativeCount": 50,
   "beforeBytes": 9436501785,
-  "afterBytes": 6989845855
+  "afterBytes": 6989845855,
+  "reportScope": "Historical conversion report; removed full-recording entries omitted. Current inventory is in track-file-audit.json."
 }
