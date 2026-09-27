@@ -1,7 +1,7 @@
 {
   "release-group": {
     "primary-type": "Album",
-    "title": "李志、電聲與管弦樂",
+    "title": "李志、电声与管弦乐",
     "secondary-types": [
       "Live"
     ],
@@ -178,7 +178,7 @@
             "first-release-date": "2017",
             "id": "51795507-833b-4f21-8d01-9dcbe74c08f7",
             "length": 258000,
-            "title": "盡頭 - 2016跨年版 - 李志",
+            "title": "尽头 - 2016跨年版 - 李志",
             "disambiguation": "",
             "artist-credit": [
               {
@@ -197,7 +197,7 @@
             ],
             "video": false
           },
-          "title": "盡頭 - 2016跨年版",
+          "title": "尽头 - 2016跨年版",
           "length": 258000,
           "id": "3ce83080-6462-483a-844d-25b99616bfbe",
           "number": "3"
@@ -357,7 +357,7 @@
             }
           ],
           "position": 7,
-          "title": "鉛筆 - 2016跨年版",
+          "title": "铅笔 - 2016跨年版",
           "recording": {
             "first-release-date": "2017",
             "length": 312000,
@@ -378,7 +378,7 @@
               }
             ],
             "disambiguation": "",
-            "title": "鉛筆 - 2016跨年版 - 李志",
+            "title": "铅笔 - 2016跨年版 - 李志",
             "video": false
           }
         },
@@ -431,7 +431,7 @@
           "id": "2cc4d331-71a7-4ab6-8f2a-77a02ef63236",
           "length": 465000,
           "number": "9",
-          "title": "牆上的向日葵 - 2016跨年版",
+          "title": "墙上的向日葵 - 2016跨年版",
           "recording": {
             "video": false,
             "disambiguation": "",
@@ -450,7 +450,7 @@
                 "joinphrase": ""
               }
             ],
-            "title": "牆上的向日葵 - 2016跨年版 - 李志",
+            "title": "墙上的向日葵 - 2016跨年版 - 李志",
             "length": 465000,
             "id": "239534c4-0ac4-41a0-a7ac-74ad28553429",
             "first-release-date": "2017"
@@ -533,7 +533,7 @@
               }
             }
           ],
-          "title": "門 - 2016跨年版",
+          "title": "门 - 2016跨年版",
           "recording": {
             "id": "8b10e08e-6de3-4e99-b6ca-5bd543777c17",
             "length": 402000,
@@ -555,7 +555,7 @@
               }
             ],
             "disambiguation": "",
-            "title": "門 - 2016跨年版 - 李志"
+            "title": "门 - 2016跨年版 - 李志"
           },
           "position": 11,
           "id": "ee64b3a5-e3cb-4ae6-97d6-821a5e5950b6",
@@ -614,7 +614,7 @@
       "position": 1
     }
   ],
-  "title": "李志、電聲與管弦樂",
+  "title": "李志、电声与管弦乐",
   "disambiguation": "",
   "release-events": [
     {

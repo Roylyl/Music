@@ -24,12 +24,12 @@
     {
       "id": "other-Beyond-1989-真的見証",
       "artist": "Beyond",
-      "title": "真的見証",
+      "title": "真的见证",
       "releaseDate": "1989",
       "releaseDatePrecision": "year",
       "year": 1989,
       "type": "studio",
-      "path": "artists/Beyond/1989 - 真的見証",
+      "path": "artists/Beyond/1989 - 真的见证",
       "cover": "cover.jpg",
       "coverWeb": "cover.webp",
       "coverSource": {
@@ -38,7 +38,7 @@
         "width": 1014,
         "height": 1027,
         "lowResolution": false,
-        "originalPath": "covers/originals/1989 - 真的見証 - Beyond.jpg"
+        "originalPath": "covers/originals/1989 - 真的见证 - Beyond.jpg"
       },
       "catalogUrl": "https://musicbrainz.org/release/8fab0f9c-2b59-463a-9e96-f69759445fd2",
       "tracklistCompleteness": "partial",
@@ -47,8 +47,8 @@
         {
           "id": "other-Beyond-1989-真的見証-d01-t01",
           "artist": "Beyond",
-          "album": "真的見証",
-          "title": "歲月無聲",
+          "album": "真的见证",
+          "title": "岁月无声",
           "discNumber": 1,
           "trackNumber": 1,
           "sequenceNumber": 1,
@@ -57,7 +57,7 @@
           "sourceStatus": "available",
           "sourceUrl": "",
           "format": "MP3",
-          "localPath": "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.mp3",
+          "localPath": "artists/Beyond/1989 - 真的见证/01-01 - 岁月无声.mp3",
           "sources": [
             {
               "provider": "release-catalog",
@@ -80,7 +80,7 @@
           "assets": [
             {
               "trackId": "other-Beyond-1989-真的見証-d01-t01",
-              "localPath": "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.mp3",
+              "localPath": "artists/Beyond/1989 - 真的见证/01-01 - 岁月无声.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -133,7 +133,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "other-Beyond-1989-真的見証-d01-t01",
-              "localPath": "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.mp3",
+              "localPath": "artists/Beyond/1989 - 真的见证/01-01 - 岁月无声.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -181,13 +181,13 @@
     },
     {
       "id": "other-羅大佑-and-蔣志光-1991-皇后大道東",
-      "artist": "羅大佑 & 蔣志光",
-      "title": "皇后大道東",
+      "artist": "罗大佑 & 蒋志光",
+      "title": "皇后大道东",
       "releaseDate": "1991-01-23",
       "releaseDatePrecision": "day",
       "year": 1991,
       "type": "compilation",
-      "path": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東",
+      "path": "artists/罗大佑 & 蒋志光/1991 - 皇后大道东",
       "cover": "cover.jpg",
       "coverWeb": "cover.webp",
       "coverSource": {
@@ -196,7 +196,7 @@
         "width": 1200,
         "height": 1200,
         "lowResolution": false,
-        "originalPath": "covers/originals/1991 - 皇后大道東 - 羅大佑 & 蔣志光.jpg"
+        "originalPath": "covers/originals/1991 - 皇后大道东 - 罗大佑 & 蒋志光.jpg"
       },
       "catalogUrl": "https://musicbrainz.org/release/12fa7029-5b41-4381-876d-e6c02fa59fe3",
       "tracklistCompleteness": "partial",
@@ -204,9 +204,9 @@
       "tracks": [
         {
           "id": "other-羅大佑-and-蔣志光-1991-皇后大道東-d01-t01",
-          "artist": "羅大佑 & 蔣志光",
-          "album": "皇后大道東",
-          "title": "皇后大道東",
+          "artist": "罗大佑 & 蒋志光",
+          "album": "皇后大道东",
+          "title": "皇后大道东",
           "discNumber": 1,
           "trackNumber": 1,
           "sequenceNumber": 1,
@@ -215,7 +215,7 @@
           "sourceStatus": "available",
           "sourceUrl": "",
           "format": "MP3",
-          "localPath": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東/01-01 - 皇后大道東.mp3",
+          "localPath": "artists/罗大佑 & 蒋志光/1991 - 皇后大道东/01-01 - 皇后大道东.mp3",
           "sources": [
             {
               "provider": "release-catalog",
@@ -238,7 +238,7 @@
           "assets": [
             {
               "trackId": "other-羅大佑-and-蔣志光-1991-皇后大道東-d01-t01",
-              "localPath": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東/01-01 - 皇后大道東.mp3",
+              "localPath": "artists/罗大佑 & 蒋志光/1991 - 皇后大道东/01-01 - 皇后大道东.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -291,7 +291,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "other-羅大佑-and-蔣志光-1991-皇后大道東-d01-t01",
-              "localPath": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東/01-01 - 皇后大道東.mp3",
+              "localPath": "artists/罗大佑 & 蒋志光/1991 - 皇后大道东/01-01 - 皇后大道东.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -500,12 +500,12 @@
     {
       "id": "other-Beyond-1992-繼續革命",
       "artist": "Beyond",
-      "title": "繼續革命",
+      "title": "继续革命",
       "releaseDate": "1992-08",
       "releaseDatePrecision": "month",
       "year": 1992,
       "type": "studio",
-      "path": "artists/Beyond/1992 - 繼續革命",
+      "path": "artists/Beyond/1992 - 继续革命",
       "cover": "cover.jpg",
       "coverWeb": "cover.webp",
       "coverSource": {
@@ -514,7 +514,7 @@
         "width": 1194,
         "height": 1200,
         "lowResolution": false,
-        "originalPath": "covers/originals/1992 - 繼續革命 - Beyond.jpg"
+        "originalPath": "covers/originals/1992 - 继续革命 - Beyond.jpg"
       },
       "catalogUrl": "https://musicbrainz.org/release/835b1079-2856-4e53-804a-6dae0d64edc1/cover-art",
       "tracklistCompleteness": "partial",
@@ -523,8 +523,8 @@
         {
           "id": "other-Beyond-1992-繼續革命-d01-t01",
           "artist": "Beyond",
-          "album": "繼續革命",
-          "title": "長城",
+          "album": "继续革命",
+          "title": "长城",
           "discNumber": 1,
           "trackNumber": 1,
           "sequenceNumber": 1,
@@ -533,7 +533,7 @@
           "sourceStatus": "available",
           "sourceUrl": "",
           "format": "MP3",
-          "localPath": "artists/Beyond/1992 - 繼續革命/01-01 - 長城.mp3",
+          "localPath": "artists/Beyond/1992 - 继续革命/01-01 - 长城.mp3",
           "sources": [
             {
               "provider": "release-catalog",
@@ -556,7 +556,7 @@
           "assets": [
             {
               "trackId": "other-Beyond-1992-繼續革命-d01-t01",
-              "localPath": "artists/Beyond/1992 - 繼續革命/01-01 - 長城.mp3",
+              "localPath": "artists/Beyond/1992 - 继续革命/01-01 - 长城.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -609,7 +609,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "other-Beyond-1992-繼續革命-d01-t01",
-              "localPath": "artists/Beyond/1992 - 繼續革命/01-01 - 長城.mp3",
+              "localPath": "artists/Beyond/1992 - 继续革命/01-01 - 长城.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -658,12 +658,12 @@
     {
       "id": "other-Beyond-2003-光輝歲月-二十周年精選",
       "artist": "Beyond",
-      "title": "光輝歲月-二十周年精選",
+      "title": "光辉岁月-二十周年精选",
       "releaseDate": "2003",
       "releaseDatePrecision": "year",
       "year": 2003,
       "type": "compilation",
-      "path": "artists/Beyond/2003 - 光輝歲月-二十周年精選",
+      "path": "artists/Beyond/2003 - 光辉岁月-二十周年精选",
       "cover": "cover.jpg",
       "coverWeb": "cover.webp",
       "coverSource": {
@@ -672,7 +672,7 @@
         "width": 1200,
         "height": 1200,
         "lowResolution": false,
-        "originalPath": "covers/originals/2003 - 光輝歲月-二十周年精選 - Beyond.jpg"
+        "originalPath": "covers/originals/2003 - 光辉岁月-二十周年精选 - Beyond.jpg"
       },
       "catalogUrl": "https://musicbrainz.org/release/6c0d5252-0b9a-4b17-9cfd-e8e236456bce",
       "tracklistCompleteness": "partial",
@@ -681,8 +681,8 @@
         {
           "id": "other-Beyond-2003-光輝歲月-二十周年精選-d01-t01",
           "artist": "Beyond",
-          "album": "光輝歲月-二十周年精選",
-          "title": "抗戰二十年",
+          "album": "光辉岁月-二十周年精选",
+          "title": "抗战二十年",
           "discNumber": 1,
           "trackNumber": 1,
           "sequenceNumber": 1,
@@ -691,7 +691,7 @@
           "sourceStatus": "available",
           "sourceUrl": "",
           "format": "MP3",
-          "localPath": "artists/Beyond/2003 - 光輝歲月-二十周年精選/01-01 - 抗戰二十年.mp3",
+          "localPath": "artists/Beyond/2003 - 光辉岁月-二十周年精选/01-01 - 抗战二十年.mp3",
           "sources": [
             {
               "provider": "release-catalog",
@@ -714,7 +714,7 @@
           "assets": [
             {
               "trackId": "other-Beyond-2003-光輝歲月-二十周年精選-d01-t01",
-              "localPath": "artists/Beyond/2003 - 光輝歲月-二十周年精選/01-01 - 抗戰二十年.mp3",
+              "localPath": "artists/Beyond/2003 - 光辉岁月-二十周年精选/01-01 - 抗战二十年.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -768,7 +768,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "other-Beyond-2003-光輝歲月-二十周年精選-d01-t01",
-              "localPath": "artists/Beyond/2003 - 光輝歲月-二十周年精選/01-01 - 抗戰二十年.mp3",
+              "localPath": "artists/Beyond/2003 - 光辉岁月-二十周年精选/01-01 - 抗战二十年.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -2126,7 +2126,7 @@
         {
           "provider": "Bandcamp",
           "url": "https://lizhilizhi.bandcamp.com/album/-",
-          "title": "被禁忌的遊戲",
+          "title": "被禁忌的游戏",
           "releaseDate": "21 Oct 2020 00:00:00 GMT",
           "trackCount": 6,
           "tracks": [
@@ -2138,7 +2138,7 @@
               "track_id": 2859188521
             },
             {
-              "title": "李志LiZhi - 阿蘭",
+              "title": "李志LiZhi - 阿兰",
               "track_num": 2,
               "duration": 166.093,
               "title_link": "/track/--2",
@@ -2152,21 +2152,21 @@
               "track_id": 4121063468
             },
             {
-              "title": "李志LiZhi - 被禁忌的遊戲",
+              "title": "李志LiZhi - 被禁忌的游戏",
               "track_num": 4,
               "duration": 377.827,
               "title_link": "/track/--4",
               "track_id": 3864012076
             },
             {
-              "title": "李志LiZhi - 羅莊的冬天",
+              "title": "李志LiZhi - 罗庄的冬天",
               "track_num": 5,
               "duration": 410.893,
               "title_link": "/track/--5",
               "track_id": 3080733789
             },
             {
-              "title": "紅色氣球",
+              "title": "红色气球",
               "track_num": 6,
               "duration": 173.36,
               "title_link": "/track/--6",
@@ -3562,14 +3562,14 @@
           "trackCount": 7,
           "tracks": [
             {
-              "title": "李志LiZhi - 你離開了南京，從此沒有人和我說話",
+              "title": "李志LiZhi - 你离开了南京，从此没有人和我说话",
               "track_num": 1,
               "duration": 71.8133,
               "title_link": "/track/--7",
               "track_id": 2367657344
             },
             {
-              "title": "李志LiZhi - 董卓瑤",
+              "title": "李志LiZhi - 董卓瑶",
               "track_num": 2,
               "duration": 197.787,
               "title_link": "/track/--8",
@@ -3583,7 +3583,7 @@
               "track_id": 2065133941
             },
             {
-              "title": "李志LiZhi - 來了",
+              "title": "李志LiZhi - 来了",
               "track_num": 4,
               "duration": 311.56,
               "title_link": "/track/--10",
@@ -5150,14 +5150,14 @@
           "trackCount": 7,
           "tracks": [
             {
-              "title": "李志LiZhi - 媽媽",
+              "title": "李志LiZhi - 妈妈",
               "track_num": 1,
               "duration": 244.107,
               "title_link": "/track/--14",
               "track_id": 13042796
             },
             {
-              "title": "李志LiZhi - 喀納斯",
+              "title": "李志LiZhi - 喀纳斯",
               "track_num": 2,
               "duration": 320.0,
               "title_link": "/track/--15",
@@ -5171,21 +5171,21 @@
               "track_id": 3815106632
             },
             {
-              "title": "李志LiZhi - 翁慶年的六英鎊",
+              "title": "李志LiZhi - 翁庆年的六英镑",
               "track_num": 4,
               "duration": 256.48,
               "title_link": "/track/--17",
               "track_id": 3961875065
             },
             {
-              "title": "李志LiZhi - 我們不能失去信仰",
+              "title": "李志LiZhi - 我们不能失去信仰",
               "track_num": 5,
               "duration": 251.907,
               "title_link": "/track/--18",
               "track_id": 1063781425
             },
             {
-              "title": "李志LiZhi - 海的女兒",
+              "title": "李志LiZhi - 海的女儿",
               "track_num": 6,
               "duration": 210.92,
               "title_link": "/track/--19",
@@ -7634,13 +7634,13 @@
     },
     {
       "id": "other-何韻詩-2008-Goomusic-Collection-2004-2008",
-      "artist": "何韻詩",
+      "artist": "何韵诗",
       "title": "Goomusic Collection 2004-2008",
       "releaseDate": "2008-04-02",
       "releaseDatePrecision": "day",
       "year": 2008,
       "type": "compilation",
-      "path": "artists/何韻詩/2008 - Goomusic Collection 2004-2008",
+      "path": "artists/何韵诗/2008 - Goomusic Collection 2004-2008",
       "cover": "cover.jpg",
       "coverWeb": "cover.webp",
       "coverSource": {
@@ -7649,7 +7649,7 @@
         "width": 1200,
         "height": 1200,
         "lowResolution": false,
-        "originalPath": "covers/originals/2008 - Goomusic Collection 2004-2008 - 何韻詩.jpg"
+        "originalPath": "covers/originals/2008 - Goomusic Collection 2004-2008 - 何韵诗.jpg"
       },
       "catalogUrl": "https://music.apple.com/hk/search?term=Goomusic%20Collection%202004-2008",
       "tracklistCompleteness": "partial",
@@ -7657,9 +7657,9 @@
       "tracks": [
         {
           "id": "other-何韻詩-2008-Goomusic-Collection-2004-2008-d01-t15",
-          "artist": "何韻詩",
+          "artist": "何韵诗",
           "album": "Goomusic Collection 2004-2008",
-          "title": "勞斯.萊斯",
+          "title": "劳斯.莱斯",
           "discNumber": 1,
           "trackNumber": 15,
           "sequenceNumber": 15,
@@ -7668,7 +7668,7 @@
           "sourceStatus": "available",
           "sourceUrl": "",
           "format": "MP3",
-          "localPath": "artists/何韻詩/2008 - Goomusic Collection 2004-2008/01-15 - 勞斯.萊斯.mp3",
+          "localPath": "artists/何韵诗/2008 - Goomusic Collection 2004-2008/01-15 - 劳斯.莱斯.mp3",
           "sources": [
             {
               "provider": "release-catalog",
@@ -7691,7 +7691,7 @@
           "assets": [
             {
               "trackId": "other-何韻詩-2008-Goomusic-Collection-2004-2008-d01-t15",
-              "localPath": "artists/何韻詩/2008 - Goomusic Collection 2004-2008/01-15 - 勞斯.萊斯.mp3",
+              "localPath": "artists/何韵诗/2008 - Goomusic Collection 2004-2008/01-15 - 劳斯.莱斯.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -7744,7 +7744,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "other-何韻詩-2008-Goomusic-Collection-2004-2008-d01-t15",
-              "localPath": "artists/何韻詩/2008 - Goomusic Collection 2004-2008/01-15 - 勞斯.萊斯.mp3",
+              "localPath": "artists/何韵诗/2008 - Goomusic Collection 2004-2008/01-15 - 劳斯.莱斯.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -10056,82 +10056,82 @@
         {
           "provider": "Bandcamp",
           "url": "https://lizhilizhi.bandcamp.com/album/--4",
-          "title": "工體東路沒有人",
+          "title": "工体东路没有人",
           "releaseDate": "22 Oct 2020 07:33:15 GMT",
           "trackCount": 11,
           "tracks": [
             {
-              "title": "被禁忌的遊戲（2009工體版）",
+              "title": "被禁忌的游戏（2009工体版）",
               "track_num": 1,
               "duration": 330.667,
               "title_link": "/track/2009",
               "track_id": 1782486652
             },
             {
-              "title": "和你在一起（2009工體版）",
+              "title": "和你在一起（2009工体版）",
               "track_num": 2,
               "duration": 231.064,
               "title_link": "/track/2009-2",
               "track_id": 2673948494
             },
             {
-              "title": "來了（2009工體版）",
+              "title": "来了（2009工体版）",
               "track_num": 3,
               "duration": 323.38,
               "title_link": "/track/2009-3",
               "track_id": 3776895185
             },
             {
-              "title": "卡夫卡（2009工體版）",
+              "title": "卡夫卡（2009工体版）",
               "track_num": 4,
               "duration": 204.275,
               "title_link": "/track/2009-4",
               "track_id": 2856349758
             },
             {
-              "title": "黑色信封（2009工體版）",
+              "title": "黑色信封（2009工体版）",
               "track_num": 5,
               "duration": 288.947,
               "title_link": "/track/2009-5",
               "track_id": 1442862372
             },
             {
-              "title": "阿蘭（2009工體版）",
+              "title": "阿兰（2009工体版）",
               "track_num": 6,
               "duration": 215.429,
               "title_link": "/track/2009-6",
               "track_id": 2984968147
             },
             {
-              "title": "春末的南方城市（2009工體版）",
+              "title": "春末的南方城市（2009工体版）",
               "track_num": 7,
               "duration": 200.637,
               "title_link": "/track/2009-7",
               "track_id": 144835917
             },
             {
-              "title": "九月（2009工體版）",
+              "title": "九月（2009工体版）",
               "track_num": 8,
               "duration": 264.928,
               "title_link": "/track/2009-8",
               "track_id": 451603102
             },
             {
-              "title": "紅色氣球（2009工體版）",
+              "title": "红色气球（2009工体版）",
               "track_num": 9,
               "duration": 221.056,
               "title_link": "/track/2009-9",
               "track_id": 2454799699
             },
             {
-              "title": "董卓瑤（2009工體版）",
+              "title": "董卓瑶（2009工体版）",
               "track_num": 10,
               "duration": 199.383,
               "title_link": "/track/2009-10",
               "track_id": 1128162857
             },
             {
-              "title": "想起了她（2009工體版）",
+              "title": "想起了她（2009工体版）",
               "track_num": 11,
               "duration": 246.0,
               "title_link": "/track/2009-11",
@@ -12465,7 +12465,7 @@
         {
           "provider": "Bandcamp",
           "url": "https://lizhilizhi.bandcamp.com/album/--5",
-          "title": "我愛南京",
+          "title": "我爱南京",
           "releaseDate": "22 Oct 2020 00:00:00 GMT",
           "trackCount": 11,
           "tracks": [
@@ -12477,21 +12477,21 @@
               "track_id": 3382201867
             },
             {
-              "title": "蒼井空",
+              "title": "苍井空",
               "track_num": 2,
               "duration": 260.29,
               "title_link": "/track/--22",
               "track_id": 2611121502
             },
             {
-              "title": "李志LiZhi,老狼,萬曉利 - 結婚",
+              "title": "李志LiZhi,老狼,万晓利 - 结婚",
               "track_num": 3,
               "duration": 352.621,
               "title_link": "/track/--23",
               "track_id": 2611910347
             },
             {
-              "title": "鴕鳥",
+              "title": "鸵鸟",
               "track_num": 4,
               "duration": 267.191,
               "title_link": "/track/--24",
@@ -12512,14 +12512,14 @@
               "track_id": 265143925
             },
             {
-              "title": "愛",
+              "title": "爱",
               "track_num": 7,
               "duration": 200.819,
               "title_link": "/track/--27",
               "track_id": 1100569895
             },
             {
-              "title": "家鄉",
+              "title": "家乡",
               "track_num": 8,
               "duration": 343.293,
               "title_link": "/track/--28",
@@ -12533,14 +12533,14 @@
               "track_id": 823684696
             },
             {
-              "title": "思念觀世音",
+              "title": "思念观世音",
               "track_num": 10,
               "duration": 206.454,
               "title_link": "/track/--30",
               "track_id": 2888373234
             },
             {
-              "title": "再見",
+              "title": "再见",
               "track_num": 11,
               "duration": 88.8794,
               "title_link": "/track/--31",
@@ -17487,26 +17487,26 @@
         {
           "provider": "Bandcamp",
           "url": "https://lizhilizhi.bandcamp.com/album/--6",
-          "title": "你好,鄭州",
+          "title": "你好,郑州",
           "releaseDate": "22 Oct 2020 07:32:32 GMT",
           "trackCount": 10,
           "tracks": [
             {
-              "title": "牆上的向日葵",
+              "title": "墙上的向日葵",
               "track_num": 1,
               "duration": 296.147,
               "title_link": "/track/--32",
               "track_id": 1401633415
             },
             {
-              "title": "鉛筆",
+              "title": "铅笔",
               "track_num": 2,
               "duration": 274.627,
               "title_link": "/track/--33",
               "track_id": 2527345062
             },
             {
-              "title": "關於鄭州的記憶",
+              "title": "关于郑州的记忆",
               "track_num": 3,
               "duration": 228.147,
               "title_link": "/track/--34",
@@ -17527,7 +17527,7 @@
               "track_id": 874539734
             },
             {
-              "title": "帶親",
+              "title": "带亲",
               "track_num": 6,
               "duration": 222.107,
               "title_link": "/track/--37",
@@ -17555,7 +17555,7 @@
               "track_id": 3498936726
             },
             {
-              "title": "鉛筆（吉松浩版）",
+              "title": "铅笔（吉松浩版）",
               "track_num": 10,
               "duration": 276.573,
               "title_link": "/track/--41",
@@ -17568,7 +17568,7 @@
       ],
       "selectedEdition": {
         "id": "38d58d47-5f00-4f4b-95aa-f499cdba365b",
-        "title": "你好，鄭州",
+        "title": "你好，郑州",
         "date": "2010",
         "status": "Official"
       },
@@ -19032,28 +19032,28 @@
           "trackCount": 6,
           "tracks": [
             {
-              "title": "尋找",
+              "title": "寻找",
               "track_num": 1,
               "duration": 225.048,
               "title_link": "/track/--42",
               "track_id": 248543145
             },
             {
-              "title": "盡頭",
+              "title": "尽头",
               "track_num": 2,
               "duration": 274.135,
               "title_link": "/track/--43",
               "track_id": 528246002
             },
             {
-              "title": "門",
+              "title": "门",
               "track_num": 3,
               "duration": 386.756,
               "title_link": "/track/--44",
               "track_id": 3489890907
             },
             {
-              "title": "山陰路的夏天",
+              "title": "山阴路的夏天",
               "track_num": 4,
               "duration": 278.024,
               "title_link": "/track/--45",
@@ -22202,13 +22202,13 @@
     },
     {
       "id": "other-陳芳語-2012-Kimberley首張同名專輯",
-      "artist": "陳芳語",
-      "title": "Kimberley首張同名專輯",
+      "artist": "陈芳语",
+      "title": "Kimberley首张同名专辑",
       "releaseDate": "2012-04-27",
       "releaseDatePrecision": "day",
       "year": 2012,
       "type": "studio",
-      "path": "artists/陳芳語/2012 - Kimberley首張同名專輯",
+      "path": "artists/陈芳语/2012 - Kimberley首张同名专辑",
       "cover": "cover.jpg",
       "coverWeb": "cover.webp",
       "coverSource": {
@@ -22217,7 +22217,7 @@
         "width": 600,
         "height": 600,
         "lowResolution": false,
-        "originalPath": "covers/originals/2012 - Kimberley首張同名專輯 - 陳芳語.jpg"
+        "originalPath": "covers/originals/2012 - Kimberley首张同名专辑 - 陈芳语.jpg"
       },
       "catalogUrl": "https://www.yesasia.com/global/kimberley%E9%A6%96%E5%BC%A0%E5%90%8C%E5%90%8D%E5%B0%88%E8%BC%AF/1030825546-0-0-0-zh_CN/info.html",
       "tracklistCompleteness": "partial",
@@ -22225,9 +22225,9 @@
       "tracks": [
         {
           "id": "other-陳芳語-2012-Kimberley首張同名專輯-d01-t01",
-          "artist": "陳芳語",
-          "album": "Kimberley首張同名專輯",
-          "title": "愛你",
+          "artist": "陈芳语",
+          "album": "Kimberley首张同名专辑",
+          "title": "爱你",
           "discNumber": 1,
           "trackNumber": 1,
           "sequenceNumber": 1,
@@ -22236,7 +22236,7 @@
           "sourceStatus": "available",
           "sourceUrl": "",
           "format": "MP3",
-          "localPath": "artists/陳芳語/2012 - Kimberley首張同名專輯/01-01 - 愛你.mp3",
+          "localPath": "artists/陈芳语/2012 - Kimberley首张同名专辑/01-01 - 爱你.mp3",
           "sources": [
             {
               "provider": "release-catalog",
@@ -22259,7 +22259,7 @@
           "assets": [
             {
               "trackId": "other-陳芳語-2012-Kimberley首張同名專輯-d01-t01",
-              "localPath": "artists/陳芳語/2012 - Kimberley首張同名專輯/01-01 - 愛你.mp3",
+              "localPath": "artists/陈芳语/2012 - Kimberley首张同名专辑/01-01 - 爱你.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -22312,7 +22312,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "other-陳芳語-2012-Kimberley首張同名專輯-d01-t01",
-              "localPath": "artists/陳芳語/2012 - Kimberley首張同名專輯/01-01 - 愛你.mp3",
+              "localPath": "artists/陈芳语/2012 - Kimberley首张同名专辑/01-01 - 爱你.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -24711,19 +24711,19 @@
         {
           "provider": "Bandcamp",
           "url": "https://lizhilizhi.bandcamp.com/album/108",
-          "title": "108個關鍵詞",
+          "title": "108个关键词",
           "releaseDate": "22 Oct 2020 08:11:44 GMT",
           "trackCount": 8,
           "tracks": [
             {
-              "title": "阿蘭(2012跨年版)",
+              "title": "阿兰(2012跨年版)",
               "track_num": 1,
               "duration": 261.8,
               "title_link": "/track/2012",
               "track_id": 2098553513
             },
             {
-              "title": "盡頭(2012跨年版)",
+              "title": "尽头(2012跨年版)",
               "track_num": 2,
               "duration": 287.787,
               "title_link": "/track/2012-2",
@@ -24737,7 +24737,7 @@
               "track_id": 2997019024
             },
             {
-              "title": "牆上的向日葵(2012跨年版)",
+              "title": "墙上的向日葵(2012跨年版)",
               "track_num": 4,
               "duration": 528.253,
               "title_link": "/track/2012-4",
@@ -24751,21 +24751,21 @@
               "track_id": 664791267
             },
             {
-              "title": "董卓瑤(2012跨年版)",
+              "title": "董卓瑶(2012跨年版)",
               "track_num": 6,
               "duration": 197.387,
               "title_link": "/track/2012-6",
               "track_id": 2098991614
             },
             {
-              "title": "山陰路的夏天(2012跨年版)",
+              "title": "山阴路的夏天(2012跨年版)",
               "track_num": 7,
               "duration": 314.853,
               "title_link": "/track/2012-7",
               "track_id": 4134179925
             },
             {
-              "title": "來了(2012跨年版)",
+              "title": "来了(2012跨年版)",
               "track_num": 8,
               "duration": 528.147,
               "title_link": "/track/2012-8",
@@ -24805,13 +24805,13 @@
     },
     {
       "id": "other-黃貫中-2013-Paul-Wong-Collection",
-      "artist": "黃貫中",
+      "artist": "黄贯中",
       "title": "Paul Wong Collection",
       "releaseDate": "2013",
       "releaseDatePrecision": "year",
       "year": 2013,
       "type": "compilation",
-      "path": "artists/黃貫中/2013 - Paul Wong Collection",
+      "path": "artists/黄贯中/2013 - Paul Wong Collection",
       "cover": "cover.jpg",
       "coverWeb": "cover.webp",
       "coverSource": {
@@ -24820,7 +24820,7 @@
         "width": 1200,
         "height": 1200,
         "lowResolution": false,
-        "originalPath": "covers/originals/2013 - Paul Wong Collection - 黃貫中.jpg"
+        "originalPath": "covers/originals/2013 - Paul Wong Collection - 黄贯中.jpg"
       },
       "catalogUrl": "https://musicbrainz.org/artist/889da094-5a5b-48f0-ace4-6dd29f4ee4dc/recordings",
       "tracklistCompleteness": "partial",
@@ -24828,9 +24828,9 @@
       "tracks": [
         {
           "id": "other-黃貫中-2013-Paul-Wong-Collection-d01-t03",
-          "artist": "黃貫中",
+          "artist": "黄贯中",
           "album": "Paul Wong Collection",
-          "title": "年少無知",
+          "title": "年少无知",
           "discNumber": 1,
           "trackNumber": 3,
           "sequenceNumber": 3,
@@ -24839,7 +24839,7 @@
           "sourceStatus": "available",
           "sourceUrl": "",
           "format": "MP3",
-          "localPath": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.mp3",
+          "localPath": "artists/黄贯中/2013 - Paul Wong Collection/01-03 - 年少无知.mp3",
           "sources": [
             {
               "provider": "release-catalog",
@@ -24862,7 +24862,7 @@
           "assets": [
             {
               "trackId": "other-黃貫中-2013-Paul-Wong-Collection-d01-t03",
-              "localPath": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.mp3",
+              "localPath": "artists/黄贯中/2013 - Paul Wong Collection/01-03 - 年少无知.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -24924,7 +24924,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "other-黃貫中-2013-Paul-Wong-Collection-d01-t03",
-              "localPath": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.mp3",
+              "localPath": "artists/黄贯中/2013 - Paul Wong Collection/01-03 - 年少无知.mp3",
               "sourceUrl": "",
               "provider": "user-provided OneDrive",
               "rightsStatus": "personal-copy; redistribution-unverified",
@@ -27983,21 +27983,21 @@
               "track_id": 541073583
             },
             {
-              "title": "牆上的向日葵（2013跨年版）",
+              "title": "墙上的向日葵（2013跨年版）",
               "track_num": 2,
               "duration": 445.792,
               "title_link": "/track/2013-2",
               "track_id": 3093524039
             },
             {
-              "title": "鉛筆（2013跨年版）",
+              "title": "铅笔（2013跨年版）",
               "track_num": 3,
               "duration": 244.203,
               "title_link": "/track/2013-3",
               "track_id": 172756660
             },
             {
-              "title": "被禁忌的遊戲（2013跨年版）",
+              "title": "被禁忌的游戏（2013跨年版）",
               "track_num": 4,
               "duration": 498.556,
               "title_link": "/track/2013-4",
@@ -28011,7 +28011,7 @@
               "track_id": 2447201289
             },
             {
-              "title": "門（2013跨年版）",
+              "title": "门（2013跨年版）",
               "track_num": 6,
               "duration": 397.962,
               "title_link": "/track/2013-6",
@@ -28046,35 +28046,35 @@
               "track_id": 2988509411
             },
             {
-              "title": "翁慶年的六英鎊（2013跨年版）",
+              "title": "翁庆年的六英镑（2013跨年版）",
               "track_num": 11,
               "duration": 269.931,
               "title_link": "/track/2013-11",
               "track_id": 1093233895
             },
             {
-              "title": "來了（2013跨年版）",
+              "title": "来了（2013跨年版）",
               "track_num": 12,
               "duration": 428.636,
               "title_link": "/track/2013-12",
               "track_id": 1448812204
             },
             {
-              "title": "媽媽（2013跨年版）",
+              "title": "妈妈（2013跨年版）",
               "track_num": 13,
               "duration": 253.611,
               "title_link": "/track/2013-13",
               "track_id": 3376235159
             },
             {
-              "title": "董卓瑤（2013跨年版）",
+              "title": "董卓瑶（2013跨年版）",
               "track_num": 14,
               "duration": 304.982,
               "title_link": "/track/2013-14",
               "track_id": 2235443099
             },
             {
-              "title": "山陰路的夏天（2013跨年版）",
+              "title": "山阴路的夏天（2013跨年版）",
               "track_num": 15,
               "duration": 337.952,
               "title_link": "/track/2013-15",
@@ -29363,7 +29363,7 @@
               "track_id": 3633578918
             },
             {
-              "title": "看見",
+              "title": "看见",
               "track_num": 3,
               "duration": 253.504,
               "title_link": "/track/--50",
@@ -29377,7 +29377,7 @@
               "track_id": 1064038020
             },
             {
-              "title": "熱河",
+              "title": "热河",
               "track_num": 5,
               "duration": 406.539,
               "title_link": "/track/--52",
@@ -31017,28 +31017,28 @@
           "trackCount": 8,
           "tracks": [
             {
-              "title": "牆上的向日葵（2014跨年版）",
+              "title": "墙上的向日葵（2014跨年版）",
               "track_num": 1,
               "duration": 467.669,
               "title_link": "/track/2014",
               "track_id": 956887796
             },
             {
-              "title": "鉛筆（2014跨年版）",
+              "title": "铅笔（2014跨年版）",
               "track_num": 2,
               "duration": 374.187,
               "title_link": "/track/2014-3",
               "track_id": 2120638264
             },
             {
-              "title": "來了（2014跨年版）",
+              "title": "来了（2014跨年版）",
               "track_num": 3,
               "duration": 285.952,
               "title_link": "/track/2014-2",
               "track_id": 1833884113
             },
             {
-              "title": "媽媽（2014跨年版）",
+              "title": "妈妈（2014跨年版）",
               "track_num": 4,
               "duration": 298.368,
               "title_link": "/track/2014-4",
@@ -31059,14 +31059,14 @@
               "track_id": 94562254
             },
             {
-              "title": "鴕鳥+天空之城+我們不能失去信仰（2014跨年版）",
+              "title": "鸵鸟+天空之城+我们不能失去信仰（2014跨年版）",
               "track_num": 7,
               "duration": 606.08,
               "title_link": "/track/2014-7",
               "track_id": 940572868
             },
             {
-              "title": "山陰路的夏天（2014跨年版）",
+              "title": "山阴路的夏天（2014跨年版）",
               "track_num": 8,
               "duration": 313.12,
               "title_link": "/track/2014-8",
@@ -32758,61 +32758,61 @@
         {
           "provider": "Bandcamp",
           "url": "https://lizhilizhi.bandcamp.com/album/--8",
-          "title": "看見",
+          "title": "看见",
           "releaseDate": "22 Oct 2020 09:52:58 GMT",
           "trackCount": 8,
           "tracks": [
             {
-              "title": "看見 (2015看見版)",
+              "title": "看见 (2015看见版)",
               "track_num": 1,
               "duration": 139.98,
               "title_link": "/track/2015",
               "track_id": 1118649672
             },
             {
-              "title": "黑色信封 (2015看見版)",
+              "title": "黑色信封 (2015看见版)",
               "track_num": 2,
               "duration": 292.217,
               "title_link": "/track/2015-3",
               "track_id": 632595368
             },
             {
-              "title": "春末的南方城市 (2015看見版)",
+              "title": "春末的南方城市 (2015看见版)",
               "track_num": 3,
               "duration": 247.65,
               "title_link": "/track/2015-2",
               "track_id": 2963592907
             },
             {
-              "title": "蒼井空（2015現場版）",
+              "title": "苍井空（2015现场版）",
               "track_num": 4,
               "duration": 307.563,
               "title_link": "/track/2015-4",
               "track_id": 3721085190
             },
             {
-              "title": "你離開了南京 從此沒有人和我說話 (2015看見版)",
+              "title": "你离开了南京 从此没有人和我说话 (2015看见版)",
               "track_num": 5,
               "duration": 124.648,
               "title_link": "/track/2015-5",
               "track_id": 3940297475
             },
             {
-              "title": "熱河 (2015看見版)",
+              "title": "热河 (2015看见版)",
               "track_num": 6,
               "duration": 484.5,
               "title_link": "/track/2015-6",
               "track_id": 1944125461
             },
             {
-              "title": "董卓瑤 (2015看見版)",
+              "title": "董卓瑶 (2015看见版)",
               "track_num": 7,
               "duration": 278.874,
               "title_link": "/track/2015-7",
               "track_id": 1182252200
             },
             {
-              "title": "梵高先生（2015看見版）",
+              "title": "梵高先生（2015看见版）",
               "track_num": 8,
               "duration": 166.635,
               "title_link": "/track/2015-8",
@@ -34423,7 +34423,7 @@
         {
           "provider": "Bandcamp",
           "url": "https://lizhilizhi.bandcamp.com/album/--10",
-          "title": "動靜",
+          "title": "动静",
           "releaseDate": "22 Oct 2020 10:12:37 GMT",
           "trackCount": 8,
           "tracks": [
@@ -34470,14 +34470,14 @@
               "track_id": 1101445991
             },
             {
-              "title": "牆上的向日葵（2015跨年版）",
+              "title": "墙上的向日葵（2015跨年版）",
               "track_num": 7,
               "duration": 405.243,
               "title_link": "/track/2015-15",
               "track_id": 1820273270
             },
             {
-              "title": "盡頭（2015跨年版）",
+              "title": "尽头（2015跨年版）",
               "track_num": 8,
               "duration": 206.128,
               "title_link": "/track/2015-16",
@@ -36252,68 +36252,68 @@
         {
           "provider": "Bandcamp",
           "url": "https://lizhilizhi.bandcamp.com/album/--13",
-          "title": "北京不插電現場",
+          "title": "北京不插电现场",
           "releaseDate": "22 Oct 2020 10:59:09 GMT",
           "trackCount": 9,
           "tracks": [
             {
-              "title": "黑色信封（2016不插電版）",
+              "title": "黑色信封（2016不插电版）",
               "track_num": 1,
               "duration": 280.208,
               "title_link": "/track/2016-12",
               "track_id": 2912032789
             },
             {
-              "title": "鴕鳥（2016不插電版）",
+              "title": "鸵鸟（2016不插电版）",
               "track_num": 2,
               "duration": 259.012,
               "title_link": "/track/2016-13",
               "track_id": 2920774674
             },
             {
-              "title": "大象（2016不插電版）",
+              "title": "大象（2016不插电版）",
               "track_num": 3,
               "duration": 340.667,
               "title_link": "/track/2016-14",
               "track_id": 34522948
             },
             {
-              "title": "定西（2016不插電版）",
+              "title": "定西（2016不插电版）",
               "track_num": 4,
               "duration": 473.933,
               "title_link": "/track/2016-15",
               "track_id": 758601188
             },
             {
-              "title": "結婚（2016不插電版）",
+              "title": "结婚（2016不插电版）",
               "track_num": 5,
               "duration": 420.96,
               "title_link": "/track/2016-16",
               "track_id": 4108239983
             },
             {
-              "title": "關於鄭州的記憶（2016不插電版）",
+              "title": "关于郑州的记忆（2016不插电版）",
               "track_num": 6,
               "duration": 287.349,
               "title_link": "/track/2016-17",
               "track_id": 1617632944
             },
             {
-              "title": "熱河（2016不插電版）",
+              "title": "热河（2016不插电版）",
               "track_num": 7,
               "duration": 364.684,
               "title_link": "/track/2016-18",
               "track_id": 183120037
             },
             {
-              "title": "春末的南方城市（2016不插電版）",
+              "title": "春末的南方城市（2016不插电版）",
               "track_num": 8,
               "duration": 404.475,
               "title_link": "/track/2016-19",
               "track_id": 2130327614
             },
             {
-              "title": "山陰路的夏天（2016不插電版）",
+              "title": "山阴路的夏天（2016不插电版）",
               "track_num": 9,
               "duration": 404.475,
               "title_link": "/track/2016-20",
@@ -37733,35 +37733,35 @@
           "trackCount": 9,
           "tracks": [
             {
-              "title": "歌聲與微笑",
+              "title": "歌声与微笑",
               "track_num": 1,
               "duration": 190.404,
               "title_link": "/track/--54",
               "track_id": 2385713807
             },
             {
-              "title": "蝸牛與黃鸝鳥",
+              "title": "蜗牛与黄鹂鸟",
               "track_num": 2,
               "duration": 155.202,
               "title_link": "/track/--55",
               "track_id": 2575086311
             },
             {
-              "title": "蘭花草",
+              "title": "兰花草",
               "track_num": 3,
               "duration": 164.026,
               "title_link": "/track/--56",
               "track_id": 3308620323
             },
             {
-              "title": "數鴨子",
+              "title": "数鸭子",
               "track_num": 4,
               "duration": 135.419,
               "title_link": "/track/--57",
               "track_id": 3799544688
             },
             {
-              "title": "朋友越多越快樂",
+              "title": "朋友越多越快乐",
               "track_num": 5,
               "duration": 141.805,
               "title_link": "/track/--58",
@@ -37782,14 +37782,14 @@
               "track_id": 2613362860
             },
             {
-              "title": "小螺號",
+              "title": "小螺号",
               "track_num": 8,
               "duration": 211.394,
               "title_link": "/track/--60",
               "track_id": 279867622
             },
             {
-              "title": "送別",
+              "title": "送别",
               "track_num": 9,
               "duration": 202.428,
               "title_link": "/track/--61",
@@ -39014,26 +39014,26 @@
         {
           "provider": "Bandcamp",
           "url": "https://lizhilizhi.bandcamp.com/album/--11",
-          "title": "在每一條傷心的應天大街上",
+          "title": "在每一条伤心的应天大街上",
           "releaseDate": "22 Oct 2020 10:21:18 GMT",
           "trackCount": 7,
           "tracks": [
             {
-              "title": "李志LiZhi - 在每一條傷心的應天大街上",
+              "title": "李志LiZhi - 在每一条伤心的应天大街上",
               "track_num": 1,
               "duration": 429.688,
               "title_link": "/track/--62",
               "track_id": 1877972459
             },
             {
-              "title": "李志LiZhi - 一頭偶像",
+              "title": "李志LiZhi - 一头偶像",
               "track_num": 2,
               "duration": 222.594,
               "title_link": "/track/--63",
               "track_id": 1497444482
             },
             {
-              "title": "李志LiZhi - 克蘭河",
+              "title": "李志LiZhi - 克兰河",
               "track_num": 3,
               "duration": 360.375,
               "title_link": "/track/--64",
@@ -39054,7 +39054,7 @@
               "track_id": 4252958137
             },
             {
-              "title": "李志LiZhi - 彩色派對",
+              "title": "李志LiZhi - 彩色派对",
               "track_num": 6,
               "duration": 208.906,
               "title_link": "/track/--67",
@@ -41154,7 +41154,7 @@
         {
           "provider": "Bandcamp",
           "url": "https://lizhilizhi.bandcamp.com/album/--12",
-          "title": "李志、電聲與管弦",
+          "title": "李志、电声与管弦",
           "releaseDate": "22 Oct 2020 10:37:05 GMT",
           "trackCount": 11,
           "tracks": [
@@ -41166,7 +41166,7 @@
               "track_id": 3968928188
             },
             {
-              "title": "盡頭（2016跨年版）",
+              "title": "尽头（2016跨年版）",
               "track_num": 2,
               "duration": 258.539,
               "title_link": "/track/2016-2",
@@ -41194,7 +41194,7 @@
               "track_id": 1392795165
             },
             {
-              "title": "鉛筆（2016跨年版）",
+              "title": "铅笔（2016跨年版）",
               "track_num": 6,
               "duration": 312.432,
               "title_link": "/track/2016-6",
@@ -41208,7 +41208,7 @@
               "track_id": 2262581727
             },
             {
-              "title": "牆上的向日葵（2016跨年版）",
+              "title": "墙上的向日葵（2016跨年版）",
               "track_num": 8,
               "duration": 465.045,
               "title_link": "/track/2016-8",
@@ -41222,7 +41222,7 @@
               "track_id": 3096928633
             },
             {
-              "title": "門（2016跨年版）",
+              "title": "门（2016跨年版）",
               "track_num": 10,
               "duration": 402.581,
               "title_link": "/track/2016-10",
@@ -41242,7 +41242,7 @@
       ],
       "selectedEdition": {
         "id": "a2df0227-b7ae-4408-95c8-79baf1099f39",
-        "title": "李志、電聲與管弦樂",
+        "title": "李志、电声与管弦乐",
         "date": "2017",
         "status": "Official"
       },
@@ -43256,26 +43256,26 @@
         {
           "provider": "Bandcamp",
           "url": "https://lizhilizhi.bandcamp.com/album/12",
-          "title": "爵士樂與不插電新編12首",
+          "title": "爵士乐与不插电新编12首",
           "releaseDate": "22 Oct 2020 11:12:37 GMT",
           "trackCount": 9,
           "tracks": [
             {
-              "title": "看見（2017跨年版）",
+              "title": "看见（2017跨年版）",
               "track_num": 1,
               "duration": 233.045,
               "title_link": "/track/2017",
               "track_id": 4068638395
             },
             {
-              "title": "李志LiZHi - 關於鄭州的記憶（2017跨年版）",
+              "title": "李志LiZHi - 关于郑州的记忆（2017跨年版）",
               "track_num": 2,
               "duration": 360.107,
               "title_link": "/track/2017-2",
               "track_id": 2017239741
             },
             {
-              "title": "鴕鳥（2017跨年版）",
+              "title": "鸵鸟（2017跨年版）",
               "track_num": 3,
               "duration": 237.717,
               "title_link": "/track/2017-3",
@@ -43289,14 +43289,14 @@
               "track_id": 3311364587
             },
             {
-              "title": "熱河（2017跨年版）",
+              "title": "热河（2017跨年版）",
               "track_num": 5,
               "duration": 477.717,
               "title_link": "/track/2017-5",
               "track_id": 3664453688
             },
             {
-              "title": "翁慶年的六英鎊（2017跨年版）",
+              "title": "翁庆年的六英镑（2017跨年版）",
               "track_num": 6,
               "duration": 406.028,
               "title_link": "/track/2017-6",
@@ -43310,14 +43310,14 @@
               "track_id": 3309493424
             },
             {
-              "title": "愛（2017跨年版）",
+              "title": "爱（2017跨年版）",
               "track_num": 8,
               "duration": 279.168,
               "title_link": "/track/2017-8",
               "track_id": 1673434016
             },
             {
-              "title": "董卓瑤（2017跨年版）",
+              "title": "董卓瑶（2017跨年版）",
               "track_num": 9,
               "duration": 309.696,
               "title_link": "/track/2017-9",
@@ -44879,19 +44879,19 @@
         {
           "provider": "Bandcamp",
           "url": "https://lizhilizhi.bandcamp.com/album/ii",
-          "title": "李志、電聲與管弦樂II",
+          "title": "李志、电声与管弦乐II",
           "releaseDate": "23 Oct 2020 02:51:04 GMT",
           "trackCount": 8,
           "tracks": [
             {
-              "title": "相信未來序曲（2017跨年版）",
+              "title": "相信未来序曲（2017跨年版）",
               "track_num": 1,
               "duration": 306.443,
               "title_link": "/track/2017-10",
               "track_id": 4289149452
             },
             {
-              "title": "一頭偶像（2017跨年版）",
+              "title": "一头偶像（2017跨年版）",
               "track_num": 2,
               "duration": 289.397,
               "title_link": "/track/2017-11",
@@ -44905,14 +44905,14 @@
               "track_id": 557147356
             },
             {
-              "title": "尋找（2017跨年版）",
+              "title": "寻找（2017跨年版）",
               "track_num": 4,
               "duration": 259.611,
               "title_link": "/track/2017-13",
               "track_id": 4134481531
             },
             {
-              "title": "山陰路的夏天（2017跨年版）",
+              "title": "山阴路的夏天（2017跨年版）",
               "track_num": 5,
               "duration": 289.051,
               "title_link": "/track/2017-14",
@@ -44933,7 +44933,7 @@
               "track_id": 2415237845
             },
             {
-              "title": "家鄉（2017跨年版）",
+              "title": "家乡（2017跨年版）",
               "track_num": 8,
               "duration": 425.835,
               "title_link": "/track/2017-17",
@@ -44946,7 +44946,7 @@
       ],
       "selectedEdition": {
         "id": "6a798753-fe04-4301-b727-3b0b9be33fa1",
-        "title": "李志、電聲與管弦樂II",
+        "title": "李志、电声与管弦乐II",
         "date": "2018",
         "status": "Official"
       },
@@ -66626,11 +66626,11 @@
       "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda",
       "artist": "李志",
       "title": "洗心革面 - 演唱会录音",
-      "releaseDate": null,
-      "releaseDatePrecision": "unknown",
-      "year": null,
+      "releaseDate": "2019",
+      "releaseDatePrecision": "year",
+      "year": 2019,
       "type": "concert",
-      "path": "live/李志/未知发行年 - 洗心革面 - 演唱会录音",
+      "path": "live/李志/2019 - 洗心革面 - 演唱会录音",
       "cover": "cover.jpg",
       "coverWeb": "cover.webp",
       "tracks": [
@@ -66647,7 +66647,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/一个夜晚.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -66664,7 +66664,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t01",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/一个夜晚.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -66717,7 +66717,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t01",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/一个夜晚.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -66774,7 +66774,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你好明天+不多+杭州.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -66791,7 +66791,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t02",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你好明天+不多+杭州.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -66844,7 +66844,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t02",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你好明天+不多+杭州.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -66901,7 +66901,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你离开了南京，从此没有人和我说话.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -66918,7 +66918,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t03",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你离开了南京，从此没有人和我说话.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -66972,7 +66972,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t03",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你离开了南京，从此没有人和我说话.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67029,7 +67029,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/倒影.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -67046,7 +67046,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t04",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/倒影.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67099,7 +67099,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t04",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/倒影.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67191,7 +67191,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/和你在一起.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -67208,7 +67208,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t06",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/和你在一起.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67261,7 +67261,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t06",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/和你在一起.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67318,7 +67318,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/哦吼.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -67335,7 +67335,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t07",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/哦吼.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67389,7 +67389,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t07",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/哦吼.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67446,7 +67446,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/大象.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -67463,7 +67463,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t08",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/大象.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67516,7 +67516,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t08",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/大象.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67573,7 +67573,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/天空之城.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -67590,7 +67590,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t09",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/天空之城.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67643,7 +67643,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t09",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/天空之城.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67700,7 +67700,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/寻找+忽然+热河.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -67717,7 +67717,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t10",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/寻找+忽然+热河.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67770,7 +67770,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t10",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/寻找+忽然+热河.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67856,7 +67856,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/山阴路的夏天.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -67873,7 +67873,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t12",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/山阴路的夏天.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67926,7 +67926,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t12",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/山阴路的夏天.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -67983,7 +67983,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/方式.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -68000,7 +68000,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t13",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/方式.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68053,7 +68053,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t13",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/方式.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68139,7 +68139,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/死人.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -68156,7 +68156,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t15",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/死人.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68209,7 +68209,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t15",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/死人.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68295,7 +68295,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/被禁忌的游戏.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -68312,7 +68312,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t17",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/被禁忌的游戏.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68365,7 +68365,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t17",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/被禁忌的游戏.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68422,7 +68422,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/路.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -68439,7 +68439,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t18",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/路.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68492,7 +68492,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t18",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/路.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68549,7 +68549,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/门.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -68566,7 +68566,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t19",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/门.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68619,7 +68619,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t19",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/门.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68723,7 +68723,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/黑色信封.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -68740,7 +68740,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t21",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/黑色信封.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68793,7 +68793,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t21",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/黑色信封.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68850,7 +68850,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/意味.mp3",
           "format": "MP3",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
           "sources": [],
           "suspected_transcode": null,
           "audioProperties": {
@@ -68867,7 +68867,7 @@
           "assets": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t22",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/意味.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -68920,7 +68920,7 @@
           "sourceAssetHistory": [
             {
               "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t22",
-              "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+              "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
               "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/意味.mp3",
               "provider": "lizhinb.com",
               "rightsStatus": "unverified-third-party",
@@ -69112,7 +69112,8 @@
         "width": 300,
         "height": 300,
         "lowResolution": true
-      }
+      },
+      "metadataNote": "2018至2019跨年演出录音，按演出日期归入2019年。"
     },
     {
       "id": "lizhi-washing-2019-fan-26",
@@ -72773,14 +72774,14 @@
       ]
     },
     {
-      "id": "apple-album-f32d86b228f14267",
+      "id": "apple-album-b27488f71f9c355c",
       "artist": "黄贯中",
       "title": "黄贯中",
-      "releaseDate": "1993",
+      "releaseDate": "2001",
       "releaseDatePrecision": "year",
-      "year": 1993,
+      "year": 2001,
       "type": "studio",
-      "path": "artists/黄贯中/1993 - 黄贯中",
+      "path": "artists/黄贯中/2001 - 黄贯中",
       "cover": "cover.jpg",
       "coverWeb": "cover.webp",
       "tracklistCompleteness": "partial",
@@ -72797,7 +72798,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001LGZnR0Sfhow",
           "format": "MP3",
-          "localPath": "artists/黄贯中/1993 - 黄贯中/01-01 - 无得比.mp3",
+          "localPath": "artists/黄贯中/2001 - 黄贯中/01-01 - 无得比.mp3",
           "audioProperties": {
             "codec": "MP3",
             "sampleRate": 44100,
@@ -72833,7 +72834,7 @@
           "sourceStatus": "available",
           "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/0047DSM0095Df7",
           "format": "MP3",
-          "localPath": "artists/黄贯中/1993 - 黄贯中/01-03 - 某日.mp3",
+          "localPath": "artists/黄贯中/2001 - 黄贯中/01-03 - 某日.mp3",
           "audioProperties": {
             "codec": "MP3",
             "sampleRate": 44100,
@@ -72856,22 +72857,7 @@
           "rightsStatus": "personal-copy; redistribution-unverified",
           "redistributionAllowed": false,
           "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
-        }
-      ]
-    },
-    {
-      "id": "apple-album-b27488f71f9c355c",
-      "artist": "黄贯中",
-      "title": "黄贯中",
-      "releaseDate": "2001",
-      "releaseDatePrecision": "year",
-      "year": 2001,
-      "type": "studio",
-      "path": "artists/黄贯中/2001 - 黄贯中",
-      "cover": "cover.jpg",
-      "coverWeb": "cover.webp",
-      "tracklistCompleteness": "partial",
-      "tracks": [
+        },
         {
           "id": "apple-b27488f71f9c355c",
           "artist": "黄贯中",
@@ -72908,7 +72894,8 @@
           "redistributionAllowed": false,
           "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
         }
-      ]
+      ],
+      "metadataNote": "发行年份核正为2001年；错误年份1993年的目录已合并。"
     },
     {
       "id": "apple-album-4dde5bcdc520a833",
@@ -73300,93 +73287,6 @@
             "duration": 450.467,
             "bitRate": 95464,
             "fileSize": 5459872
-          },
-          "transcodedFromLossy": true,
-          "suspected_transcode": false,
-          "rightsStatus": "personal-copy; redistribution-unverified",
-          "redistributionAllowed": false,
-          "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
-        }
-      ]
-    },
-    {
-      "id": "apple-album-e1ae45f8b1026ee0",
-      "artist": "黄贯中",
-      "title": "黑白",
-      "releaseDate": "1993",
-      "releaseDatePrecision": "year",
-      "year": 1993,
-      "type": "studio",
-      "path": "artists/黄贯中/1993 - 黑白",
-      "cover": "cover.jpg",
-      "coverWeb": "cover.webp",
-      "tracklistCompleteness": "partial",
-      "tracks": [
-        {
-          "id": "apple-9673866a4efd6101",
-          "artist": "黄贯中",
-          "album": "黑白",
-          "title": "初哥",
-          "discNumber": 1,
-          "trackNumber": 1,
-          "sequenceNumber": 1,
-          "duration": 253.1,
-          "sourceStatus": "available",
-          "sourceUrl": "https://www.youtube.com/watch?v=bwMJvYpYuIY",
-          "format": "MP3",
-          "localPath": "artists/黄贯中/1993 - 黑白/01-01 - 初哥.mp3",
-          "audioProperties": {
-            "codec": "MP3",
-            "sampleRate": 44100,
-            "bitDepth": null,
-            "channels": 2,
-            "duration": 253.1,
-            "fileSize": 10279967,
-            "bitRate": 320000
-          },
-          "sourceAudioProperties": {
-            "codec": "opus",
-            "sampleRate": 48000,
-            "channels": 2,
-            "duration": 253.08,
-            "bitRate": 128000,
-            "fileSize": 4056932
-          },
-          "transcodedFromLossy": true,
-          "suspected_transcode": false,
-          "rightsStatus": "personal-copy; redistribution-unverified",
-          "redistributionAllowed": false,
-          "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
-        },
-        {
-          "id": "apple-e1ae45f8b1026ee0",
-          "artist": "黄贯中",
-          "album": "黑白",
-          "title": "离开我吧",
-          "discNumber": 1,
-          "trackNumber": 6,
-          "sequenceNumber": 6,
-          "duration": 221.022,
-          "sourceStatus": "available",
-          "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001eQzL10oiVhu",
-          "format": "MP3",
-          "localPath": "artists/黄贯中/1993 - 黑白/01-06 - 离开我吧.mp3",
-          "audioProperties": {
-            "codec": "MP3",
-            "sampleRate": 44100,
-            "bitDepth": null,
-            "channels": 2,
-            "duration": 221.022,
-            "fileSize": 8995552,
-            "bitRate": 320000
-          },
-          "sourceAudioProperties": {
-            "codec": "mp4a.40.2",
-            "sampleRate": 44100,
-            "channels": 2,
-            "duration": 221.054,
-            "bitRate": 96064,
-            "fileSize": 2696514
           },
           "transcodedFromLossy": true,
           "suspected_transcode": false,
@@ -78298,6 +78198,78 @@
       "tracklistCompleteness": "partial",
       "tracks": [
         {
+          "id": "apple-9673866a4efd6101",
+          "artist": "黄贯中",
+          "album": "黑白",
+          "title": "初哥",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "sequenceNumber": 1,
+          "duration": 253.1,
+          "sourceStatus": "available",
+          "sourceUrl": "https://www.youtube.com/watch?v=bwMJvYpYuIY",
+          "format": "MP3",
+          "localPath": "artists/黄贯中/2001 - 黑白/01-01 - 初哥.mp3",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 253.1,
+            "fileSize": 10279967,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "opus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "duration": 253.08,
+            "bitRate": 128000,
+            "fileSize": 4056932
+          },
+          "transcodedFromLossy": true,
+          "suspected_transcode": false,
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "redistributionAllowed": false,
+          "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+        },
+        {
+          "id": "apple-e1ae45f8b1026ee0",
+          "artist": "黄贯中",
+          "album": "黑白",
+          "title": "离开我吧",
+          "discNumber": 1,
+          "trackNumber": 6,
+          "sequenceNumber": 6,
+          "duration": 221.022,
+          "sourceStatus": "available",
+          "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001eQzL10oiVhu",
+          "format": "MP3",
+          "localPath": "artists/黄贯中/2001 - 黑白/01-06 - 离开我吧.mp3",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 221.022,
+            "fileSize": 8995552,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "duration": 221.054,
+            "bitRate": 96064,
+            "fileSize": 2696514
+          },
+          "transcodedFromLossy": true,
+          "suspected_transcode": false,
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "redistributionAllowed": false,
+          "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+        },
+        {
           "id": "apple-5b9a2f6f58a592ac",
           "artist": "黄贯中",
           "album": "黑白",
@@ -78369,7 +78341,8 @@
           "redistributionAllowed": false,
           "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
         }
-      ]
+      ],
+      "metadataNote": "发行年份核正为2001年；错误年份1993年的目录已合并。"
     },
     {
       "id": "apple-album-adcf13e7eccb265d",
@@ -81383,14 +81356,14 @@
   },
   "artists": [
     "Beyond",
-    "何韻詩",
+    "何韵诗",
     "崔健",
     "李志",
-    "羅大佑 & 蔣志光",
+    "罗大佑 & 蒋志光",
     "老狼 / 李志 / 张玮玮",
-    "陳奕迅",
-    "陳芳語",
-    "黃貫中"
+    "陈奕迅",
+    "陈芳语",
+    "黄贯中"
   ],
   "playbackPolicy": {
     "format": "MP3",

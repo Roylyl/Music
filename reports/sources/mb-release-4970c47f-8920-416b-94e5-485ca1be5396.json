@@ -250,7 +250,7 @@
                 "joinphrase": ""
               }
             ],
-            "title": "廣場",
+            "title": "广场",
             "disambiguation": "",
             "video": false,
             "id": "46e71164-3778-4471-8a60-60e0aecb6f1f",
@@ -273,7 +273,7 @@
             }
           ],
           "id": "aabb70bd-0d45-4039-9bd8-4edfa138a983",
-          "title": "廣場",
+          "title": "广场",
           "position": 5,
           "length": null
         },
@@ -326,7 +326,7 @@
           "position": 7,
           "length": null,
           "id": "341442cf-1df5-44a3-97f0-d3787a373cf6",
-          "title": "他們",
+          "title": "他们",
           "number": "7",
           "artist-credit": [
             {
@@ -364,7 +364,7 @@
               }
             ],
             "disambiguation": "",
-            "title": "他們"
+            "title": "他们"
           }
         },
         {
@@ -404,24 +404,24 @@
               }
             ],
             "first-release-date": "2010",
-            "title": "被禁忌的遊戯",
+            "title": "被禁忌的游戯",
             "disambiguation": ""
           },
           "position": 8,
           "length": null,
           "id": "3afe3d54-1bd2-4137-a739-7372f4716590",
-          "title": "被禁忌的遊戯"
+          "title": "被禁忌的游戯"
         },
         {
           "id": "2811b3fe-004b-4380-aff8-bbf43dda1a3a",
-          "title": "這個世界会好吗",
+          "title": "这个世界会好吗",
           "position": 9,
           "length": null,
           "recording": {
             "length": null,
             "video": false,
             "id": "7cd259dc-646d-4776-b853-3eb8ff1df02e",
-            "title": "這個世界会好吗",
+            "title": "这个世界会好吗",
             "disambiguation": "",
             "artist-credit": [
               {
@@ -459,11 +459,11 @@
         },
         {
           "id": "489b0223-ee53-4ef0-946c-781a7a8ff884",
-          "title": "媽媽",
+          "title": "妈妈",
           "position": 10,
           "length": null,
           "recording": {
-            "title": "媽媽",
+            "title": "妈妈",
             "disambiguation": "",
             "artist-credit": [
               {
@@ -503,12 +503,12 @@
           ]
         },
         {
-          "title": "聴媽媽講那過去的故事 ボーカル：湯臣・李志",
+          "title": "聴妈妈讲那过去的故事 ボーカル：汤臣・李志",
           "id": "9e07527b-1c68-4f73-a705-4066a19fd7d6",
           "length": null,
           "position": 11,
           "recording": {
-            "title": "聴媽媽講那過去的故事 ボーカル：湯臣・李志",
+            "title": "聴妈妈讲那过去的故事 ボーカル：汤臣・李志",
             "disambiguation": "",
             "first-release-date": "2010",
             "artist-credit": [
@@ -549,7 +549,7 @@
         },
         {
           "id": "4cdff87e-d07a-4904-b9c0-aca0380ea15d",
-          "title": "陀螺 ボーカル：萬曉利",
+          "title": "陀螺 ボーカル：万晓利",
           "position": 12,
           "length": null,
           "recording": {
@@ -572,7 +572,7 @@
               }
             ],
             "first-release-date": "2010",
-            "title": "陀螺 ボーカル：萬曉利",
+            "title": "陀螺 ボーカル：万晓利",
             "disambiguation": ""
           },
           "number": "12",
@@ -594,7 +594,7 @@
         },
         {
           "recording": {
-            "title": "鳥語 ボーカル：萬曉利",
+            "title": "鸟语 ボーカル：万晓利",
             "disambiguation": "",
             "artist-credit": [
               {
@@ -632,7 +632,7 @@
             }
           ],
           "number": "13",
-          "title": "鳥語 ボーカル：萬曉利",
+          "title": "鸟语 ボーカル：万晓利",
           "id": "da14491b-0b64-4900-a95c-b2bd69267eee",
           "length": null,
           "position": 13
@@ -649,13 +649,13 @@
       "track-offset": 0,
       "tracks": [
         {
-          "title": "狐狸 ボーカル：萬曉利",
+          "title": "狐狸 ボーカル：万晓利",
           "id": "adf2e5a1-a596-4e16-8761-3e13c73c87c8",
           "length": null,
           "position": 1,
           "recording": {
             "disambiguation": "",
-            "title": "狐狸 ボーカル：萬曉利",
+            "title": "狐狸 ボーカル：万晓利",
             "first-release-date": "2010",
             "artist-credit": [
               {
@@ -697,7 +697,7 @@
           "position": 2,
           "length": null,
           "id": "68bc91f2-7cfe-4727-b383-34772a72215f",
-          "title": "達摩流浪者 ボーカル：萬曉利",
+          "title": "达摩流浪者 ボーカル：万晓利",
           "number": "2",
           "artist-credit": [
             {
@@ -715,7 +715,7 @@
             }
           ],
           "recording": {
-            "title": "達摩流浪者 ボーカル：萬曉利",
+            "title": "达摩流浪者 ボーカル：万晓利",
             "disambiguation": "",
             "first-release-date": "2010",
             "artist-credit": [
@@ -743,7 +743,7 @@
             "length": null,
             "video": false,
             "id": "9a53f968-60e4-47ef-ac64-464d523a0173",
-            "title": "結婚 ボーカル：老狼・萬曉利・李志",
+            "title": "结婚 ボーカル：老狼・万晓利・李志",
             "disambiguation": "",
             "artist-credit": [
               {
@@ -779,7 +779,7 @@
             }
           ],
           "id": "e844f175-10ee-4776-b897-4305f81aa307",
-          "title": "結婚 ボーカル：老狼・萬曉利・李志",
+          "title": "结婚 ボーカル：老狼・万晓利・李志",
           "position": 3,
           "length": null
         },
@@ -875,7 +875,7 @@
         },
         {
           "id": "c49307e9-5859-4dd5-bb57-caf752713f82",
-          "title": "恋恋風塵 ボーカル：老狼",
+          "title": "恋恋风尘 ボーカル：老狼",
           "position": 6,
           "length": null,
           "recording": {
@@ -899,7 +899,7 @@
               }
             ],
             "disambiguation": "",
-            "title": "恋恋風塵 ボーカル：老狼"
+            "title": "恋恋风尘 ボーカル：老狼"
           },
           "number": "6",
           "artist-credit": [
@@ -965,14 +965,14 @@
         },
         {
           "id": "815a1b30-832b-4881-930c-fdcf627fa4cf",
-          "title": "駝鳥",
+          "title": "驼鸟",
           "position": 8,
           "length": null,
           "recording": {
             "length": null,
             "video": false,
             "id": "b97fa101-b518-4a8a-898f-3e9c7ed1840c",
-            "title": "駝鳥",
+            "title": "驼鸟",
             "disambiguation": "",
             "first-release-date": "2010",
             "artist-credit": [
@@ -1074,7 +1074,7 @@
               }
             ],
             "first-release-date": "2010",
-            "title": "蒼井空",
+            "title": "苍井空",
             "disambiguation": ""
           },
           "artist-credit": [
@@ -1093,7 +1093,7 @@
             }
           ],
           "number": "10",
-          "title": "蒼井空",
+          "title": "苍井空",
           "id": "6c4b2bb5-f94c-46e9-966f-fa5332a3757b",
           "length": null,
           "position": 10

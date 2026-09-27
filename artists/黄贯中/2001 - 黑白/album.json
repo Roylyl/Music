@@ -12,6 +12,78 @@
   "tracklistCompleteness": "partial",
   "tracks": [
     {
+      "id": "apple-9673866a4efd6101",
+      "artist": "黄贯中",
+      "album": "黑白",
+      "title": "初哥",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 253.1,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=bwMJvYpYuIY",
+      "format": "MP3",
+      "localPath": "artists/黄贯中/2001 - 黑白/01-01 - 初哥.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 253.1,
+        "fileSize": 10279967,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 253.08,
+        "bitRate": 128000,
+        "fileSize": 4056932
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-e1ae45f8b1026ee0",
+      "artist": "黄贯中",
+      "album": "黑白",
+      "title": "离开我吧",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 221.022,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001eQzL10oiVhu",
+      "format": "MP3",
+      "localPath": "artists/黄贯中/2001 - 黑白/01-06 - 离开我吧.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 221.022,
+        "fileSize": 8995552,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 221.054,
+        "bitRate": 96064,
+        "fileSize": 2696514
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
       "id": "apple-5b9a2f6f58a592ac",
       "artist": "黄贯中",
       "album": "黑白",
@@ -83,5 +155,6 @@
       "redistributionAllowed": false,
       "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
     }
-  ]
+  ],
+  "metadataNote": "发行年份核正为2001年；原有1993年目录是错标，曲目已并入同一发行。"
 }

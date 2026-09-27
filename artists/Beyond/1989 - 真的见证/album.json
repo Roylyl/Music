@@ -1,12 +1,12 @@
 {
   "id": "other-Beyond-1989-真的見証",
   "artist": "Beyond",
-  "title": "真的見証",
+  "title": "真的见证",
   "releaseDate": "1989",
   "releaseDatePrecision": "year",
   "year": 1989,
   "type": "studio",
-  "path": "artists/Beyond/1989 - 真的見証",
+  "path": "artists/Beyond/1989 - 真的见证",
   "cover": "cover.jpg",
   "coverWeb": "cover.webp",
   "coverSource": {
@@ -15,7 +15,7 @@
     "width": 1014,
     "height": 1027,
     "lowResolution": false,
-    "originalPath": "covers/originals/1989 - 真的見証 - Beyond.jpg"
+    "originalPath": "covers/originals/1989 - 真的见证 - Beyond.jpg"
   },
   "catalogUrl": "https://musicbrainz.org/release/8fab0f9c-2b59-463a-9e96-f69759445fd2",
   "tracklistCompleteness": "partial",
@@ -24,8 +24,8 @@
     {
       "id": "other-Beyond-1989-真的見証-d01-t01",
       "artist": "Beyond",
-      "album": "真的見証",
-      "title": "歲月無聲",
+      "album": "真的见证",
+      "title": "岁月无声",
       "discNumber": 1,
       "trackNumber": 1,
       "sequenceNumber": 1,
@@ -34,7 +34,7 @@
       "sourceStatus": "available",
       "sourceUrl": "",
       "format": "MP3",
-      "localPath": "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.mp3",
+      "localPath": "artists/Beyond/1989 - 真的见证/01-01 - 岁月无声.mp3",
       "sources": [
         {
           "provider": "release-catalog",
@@ -57,7 +57,7 @@
       "assets": [
         {
           "trackId": "other-Beyond-1989-真的見証-d01-t01",
-          "localPath": "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.mp3",
+          "localPath": "artists/Beyond/1989 - 真的见证/01-01 - 岁月无声.mp3",
           "sourceUrl": "",
           "provider": "user-provided OneDrive",
           "rightsStatus": "personal-copy; redistribution-unverified",
@@ -110,7 +110,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "other-Beyond-1989-真的見証-d01-t01",
-          "localPath": "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.mp3",
+          "localPath": "artists/Beyond/1989 - 真的见证/01-01 - 岁月无声.mp3",
           "sourceUrl": "",
           "provider": "user-provided OneDrive",
           "rightsStatus": "personal-copy; redistribution-unverified",

@@ -25,19 +25,19 @@
     {
       "id": "other-Beyond-1989-真的見証-d01-t01",
       "artist": "Beyond",
-      "album": "真的見証",
-      "title": "歲月無聲",
-      "localPath": "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.mp3",
+      "album": "真的见证",
+      "title": "岁月无声",
+      "localPath": "artists/Beyond/1989 - 真的见证/01-01 - 岁月无声.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
     },
     {
       "id": "other-羅大佑-and-蔣志光-1991-皇后大道東-d01-t01",
-      "artist": "羅大佑 & 蔣志光",
-      "album": "皇后大道東",
-      "title": "皇后大道東",
-      "localPath": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東/01-01 - 皇后大道東.mp3",
+      "artist": "罗大佑 & 蒋志光",
+      "album": "皇后大道东",
+      "title": "皇后大道东",
+      "localPath": "artists/罗大佑 & 蒋志光/1991 - 皇后大道东/01-01 - 皇后大道东.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -55,9 +55,9 @@
     {
       "id": "other-Beyond-1992-繼續革命-d01-t01",
       "artist": "Beyond",
-      "album": "繼續革命",
-      "title": "長城",
-      "localPath": "artists/Beyond/1992 - 繼續革命/01-01 - 長城.mp3",
+      "album": "继续革命",
+      "title": "长城",
+      "localPath": "artists/Beyond/1992 - 继续革命/01-01 - 长城.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -65,9 +65,9 @@
     {
       "id": "other-Beyond-2003-光輝歲月-二十周年精選-d01-t01",
       "artist": "Beyond",
-      "album": "光輝歲月-二十周年精選",
-      "title": "抗戰二十年",
-      "localPath": "artists/Beyond/2003 - 光輝歲月-二十周年精選/01-01 - 抗戰二十年.mp3",
+      "album": "光辉岁月-二十周年精选",
+      "title": "抗战二十年",
+      "localPath": "artists/Beyond/2003 - 光辉岁月-二十周年精选/01-01 - 抗战二十年.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -514,10 +514,10 @@
     },
     {
       "id": "other-何韻詩-2008-Goomusic-Collection-2004-2008-d01-t15",
-      "artist": "何韻詩",
+      "artist": "何韵诗",
       "album": "Goomusic Collection 2004-2008",
-      "title": "勞斯.萊斯",
-      "localPath": "artists/何韻詩/2008 - Goomusic Collection 2004-2008/01-15 - 勞斯.萊斯.mp3",
+      "title": "劳斯.莱斯",
+      "localPath": "artists/何韵诗/2008 - Goomusic Collection 2004-2008/01-15 - 劳斯.莱斯.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -1214,10 +1214,10 @@
     },
     {
       "id": "other-陳奕迅-2011-Stranger-Under-My-Skin-d01-t01",
-      "artist": "陳奕迅",
+      "artist": "陈奕迅",
       "album": "Stranger Under My Skin",
-      "title": "六月飛霜",
-      "localPath": "artists/陳奕迅/2011 - Stranger Under My Skin/01-01 - 六月飛霜.mp3",
+      "title": "六月飞霜",
+      "localPath": "artists/陈奕迅/2011 - Stranger Under My Skin/01-01 - 六月飞霜.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -1554,10 +1554,10 @@
     },
     {
       "id": "other-陳芳語-2012-Kimberley首張同名專輯-d01-t01",
-      "artist": "陳芳語",
-      "album": "Kimberley首張同名專輯",
-      "title": "愛你",
-      "localPath": "artists/陳芳語/2012 - Kimberley首張同名專輯/01-01 - 愛你.mp3",
+      "artist": "陈芳语",
+      "album": "Kimberley首张同名专辑",
+      "title": "爱你",
+      "localPath": "artists/陈芳语/2012 - Kimberley首张同名专辑/01-01 - 爱你.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -1734,10 +1734,10 @@
     },
     {
       "id": "other-黃貫中-2013-Paul-Wong-Collection-d01-t03",
-      "artist": "黃貫中",
+      "artist": "黄贯中",
       "album": "Paul Wong Collection",
-      "title": "年少無知",
-      "localPath": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.mp3",
+      "title": "年少无知",
+      "localPath": "artists/黄贯中/2013 - Paul Wong Collection/01-03 - 年少无知.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4617,7 +4617,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "一个夜晚",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4627,7 +4627,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "你好明天+不多+杭州",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4637,7 +4637,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "你离开了南京，从此没有人和我说话",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4647,7 +4647,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "倒影",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4667,7 +4667,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "和你在一起",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4677,7 +4677,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "哦吼",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4687,7 +4687,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "大象",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4697,7 +4697,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "天空之城",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4707,7 +4707,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "寻找+忽然+热河",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4727,7 +4727,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "山阴路的夏天",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4737,7 +4737,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "方式",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4757,7 +4757,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "死人",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4777,7 +4777,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "被禁忌的游戏",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4787,7 +4787,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "路",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4797,7 +4797,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "门",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4817,7 +4817,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "黑色信封",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []
@@ -4827,7 +4827,7 @@
       "artist": "李志",
       "album": "洗心革面 - 演唱会录音",
       "title": "意味",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
       "sourceStatus": "available",
       "result": "unique-mp3",
       "issues": []

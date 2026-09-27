@@ -329,7 +329,7 @@
             ],
             "first-release-date": "2016",
             "disambiguation": "",
-            "title": "牆上的向日葵（2015跨年版）"
+            "title": "墙上的向日葵（2015跨年版）"
           },
           "number": "8",
           "artist-credit": [
@@ -348,7 +348,7 @@
             }
           ],
           "id": "510a5dc5-a16f-4b56-a1f6-ace6d8ff4b71",
-          "title": "牆上的向日葵（2015跨年版）",
+          "title": "墙上的向日葵（2015跨年版）",
           "position": 7,
           "length": 405304
         },
@@ -370,7 +370,7 @@
             }
           ],
           "recording": {
-            "title": "盡頭（2015跨年版）",
+            "title": "尽头（2015跨年版）",
             "disambiguation": "",
             "artist-credit": [
               {
@@ -395,7 +395,7 @@
           "position": 8,
           "length": 206193,
           "id": "ccf04f17-7a9a-4429-8c56-8c1c0719246a",
-          "title": "盡頭（2015跨年版）"
+          "title": "尽头（2015跨年版）"
         }
       ]
     }
@@ -471,7 +471,7 @@
     }
   ],
   "disambiguation": "",
-  "title": "動靜",
+  "title": "动静",
   "text-representation": {
     "language": "zho",
     "script": "Hant"
@@ -482,7 +482,7 @@
       "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
     ],
     "disambiguation": "",
-    "title": "動靜",
+    "title": "动静",
     "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
     "secondary-types": [
       "Live"

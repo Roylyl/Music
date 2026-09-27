@@ -52,7 +52,7 @@
   "barcode": "9787798608441",
   "packaging": "None",
   "asin": null,
-  "title": "你好，鄭州",
+  "title": "你好，郑州",
   "cover-art-archive": {
     "artwork": true,
     "darkened": false,
@@ -166,7 +166,7 @@
           ],
           "position": 1,
           "number": "1",
-          "title": "牆上的向日葵"
+          "title": "墙上的向日葵"
         },
         {
           "id": "9ce475f6-5a02-4276-bd84-75a6c87d3a8a",
@@ -210,7 +210,7 @@
             }
           ],
           "length": 274627,
-          "title": "鉛筆",
+          "title": "铅笔",
           "number": "2"
         },
         {
@@ -232,7 +232,7 @@
             }
           ],
           "number": "3",
-          "title": "關於鄭州的記憶",
+          "title": "关于郑州的记忆",
           "id": "8d120a80-0fc5-45f4-9aa4-f0e5e00a2e86",
           "recording": {
             "title": "关于郑州的记忆",
@@ -391,7 +391,7 @@
             }
           ],
           "number": "6",
-          "title": "帶親"
+          "title": "带亲"
         },
         {
           "recording": {
@@ -570,7 +570,7 @@
             }
           ],
           "length": 276573,
-          "title": "鉛筆 (吉松浩版)",
+          "title": "铅笔 (吉松浩版)",
           "number": "10"
         }
       ],

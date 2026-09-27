@@ -30,8 +30,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.flac",
-      "localPath": "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.mp3",
+      "sourcePath": "artists/Beyond/1989 - 真的见证/01-01 - 岁月无声.flac",
+      "localPath": "artists/Beyond/1989 - 真的见证/01-01 - 岁月无声.mp3",
       "sourceAudioProperties": {
         "codec": "FLAC",
         "sampleRate": 96000,
@@ -56,8 +56,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東/01-01 - 皇后大道東.mp3",
-      "localPath": "artists/羅大佑 & 蔣志光/1991 - 皇后大道東/01-01 - 皇后大道東.mp3",
+      "sourcePath": "artists/罗大佑 & 蒋志光/1991 - 皇后大道东/01-01 - 皇后大道东.mp3",
+      "localPath": "artists/罗大佑 & 蒋志光/1991 - 皇后大道东/01-01 - 皇后大道东.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 44100,
@@ -82,8 +82,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "artists/Beyond/1992 - 繼續革命/01-01 - 長城.flac",
-      "localPath": "artists/Beyond/1992 - 繼續革命/01-01 - 長城.mp3",
+      "sourcePath": "artists/Beyond/1992 - 继续革命/01-01 - 长城.flac",
+      "localPath": "artists/Beyond/1992 - 继续革命/01-01 - 长城.mp3",
       "sourceAudioProperties": {
         "codec": "FLAC",
         "sampleRate": 96000,
@@ -108,8 +108,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "artists/Beyond/2003 - 光輝歲月-二十周年精選/01-01 - 抗戰二十年.flac",
-      "localPath": "artists/Beyond/2003 - 光輝歲月-二十周年精選/01-01 - 抗戰二十年.mp3",
+      "sourcePath": "artists/Beyond/2003 - 光辉岁月-二十周年精选/01-01 - 抗战二十年.flac",
+      "localPath": "artists/Beyond/2003 - 光辉岁月-二十周年精选/01-01 - 抗战二十年.mp3",
       "sourceAudioProperties": {
         "codec": "FLAC",
         "sampleRate": 96000,
@@ -1278,8 +1278,8 @@
       }
     },
     {
-      "sourcePath": "artists/何韻詩/2008 - Goomusic Collection 2004-2008/01-15 - 勞斯.萊斯.flac",
-      "localPath": "artists/何韻詩/2008 - Goomusic Collection 2004-2008/01-15 - 勞斯.萊斯.mp3",
+      "sourcePath": "artists/何韵诗/2008 - Goomusic Collection 2004-2008/01-15 - 劳斯.莱斯.flac",
+      "localPath": "artists/何韵诗/2008 - Goomusic Collection 2004-2008/01-15 - 劳斯.莱斯.mp3",
       "sourceAudioProperties": {
         "codec": "FLAC",
         "sampleRate": 44100,
@@ -3102,8 +3102,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "artists/陳奕迅/2011 - Stranger Under My Skin/01-01 - 六月飛霜.flac",
-      "localPath": "artists/陳奕迅/2011 - Stranger Under My Skin/01-01 - 六月飛霜.mp3",
+      "sourcePath": "artists/陈奕迅/2011 - Stranger Under My Skin/01-01 - 六月飞霜.flac",
+      "localPath": "artists/陈奕迅/2011 - Stranger Under My Skin/01-01 - 六月飞霜.mp3",
       "sourceAudioProperties": {
         "codec": "FLAC",
         "sampleRate": 44100,
@@ -3986,8 +3986,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "artists/陳芳語/2012 - Kimberley首張同名專輯/01-01 - 愛你.flac",
-      "localPath": "artists/陳芳語/2012 - Kimberley首張同名專輯/01-01 - 愛你.mp3",
+      "sourcePath": "artists/陈芳语/2012 - Kimberley首张同名专辑/01-01 - 爱你.flac",
+      "localPath": "artists/陈芳语/2012 - Kimberley首张同名专辑/01-01 - 爱你.mp3",
       "sourceAudioProperties": {
         "codec": "FLAC",
         "sampleRate": 44100,
@@ -4480,8 +4480,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.flac",
-      "localPath": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.mp3",
+      "sourcePath": "artists/黄贯中/2013 - Paul Wong Collection/01-03 - 年少无知.flac",
+      "localPath": "artists/黄贯中/2013 - Paul Wong Collection/01-03 - 年少无知.mp3",
       "sourceAudioProperties": {
         "codec": "FLAC",
         "sampleRate": 44100,
@@ -11998,8 +11998,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 44100,
@@ -12024,8 +12024,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 48000,
@@ -12050,8 +12050,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 48000,
@@ -12076,8 +12076,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 48000,
@@ -12102,8 +12102,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 44100,
@@ -12128,8 +12128,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 48000,
@@ -12154,8 +12154,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 44100,
@@ -12180,8 +12180,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 44100,
@@ -12206,8 +12206,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 44100,
@@ -12232,8 +12232,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 44100,
@@ -12258,8 +12258,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 44100,
@@ -12284,8 +12284,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 44100,
@@ -12310,8 +12310,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 44100,
@@ -12336,8 +12336,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 48000,
@@ -12362,8 +12362,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 48000,
@@ -12414,8 +12414,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 44100,
@@ -12622,8 +12622,8 @@
       "sourceSelection": null
     },
     {
-      "sourcePath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+      "sourcePath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
       "sourceAudioProperties": {
         "codec": "MP3",
         "sampleRate": 44100,
@@ -13117,10 +13117,10 @@
     }
   ],
   "removedPaths": [
-    "artists/Beyond/1989 - 真的見証/01-01 - 歲月無聲.flac",
-    "artists/Beyond/1992 - 繼續革命/01-01 - 長城.flac",
-    "artists/Beyond/2003 - 光輝歲月-二十周年精選/01-01 - 抗戰二十年.flac",
-    "artists/何韻詩/2008 - Goomusic Collection 2004-2008/01-15 - 勞斯.萊斯.flac",
+    "artists/Beyond/1989 - 真的见证/01-01 - 岁月无声.flac",
+    "artists/Beyond/1992 - 继续革命/01-01 - 长城.flac",
+    "artists/Beyond/2003 - 光辉岁月-二十周年精选/01-01 - 抗战二十年.flac",
+    "artists/何韵诗/2008 - Goomusic Collection 2004-2008/01-15 - 劳斯.莱斯.flac",
     "artists/崔健/1991 - 解决/01-03 - 一块红布.flac",
     "artists/李志/2004 - 被禁忌的游戏/01-02 - 青春.flac",
     "artists/李志/2004 - 被禁忌的游戏/01-03 - 阿兰.flac",
@@ -13175,9 +13175,9 @@
     "artists/李志/2014 - 1701/01-04 - 看见.flac",
     "artists/李志/2014 - 1701/01-06 - 热河.flac",
     "artists/李志/2016 - 8/01-01 - 歌声与微笑.flac",
-    "artists/陳奕迅/2011 - Stranger Under My Skin/01-01 - 六月飛霜.flac",
-    "artists/陳芳語/2012 - Kimberley首張同名專輯/01-01 - 愛你.flac",
-    "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.flac",
+    "artists/陈奕迅/2011 - Stranger Under My Skin/01-01 - 六月飞霜.flac",
+    "artists/陈芳语/2012 - Kimberley首张同名专辑/01-01 - 爱你.flac",
+    "artists/黄贯中/2013 - Paul Wong Collection/01-03 - 年少无知.flac",
     "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/02-09 - 看见 [Alternative 1].mp3",
     "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/02-12 - 你离开了南京, 从此没有人和我说话 [Alternative 1].mp3",
     "live/李志/2007 - 将进酒/01-01 - 将进酒.opus",

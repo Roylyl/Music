@@ -60,7 +60,7 @@
       "position": 1,
       "tracks": [
         {
-          "title": "相信未來序曲（2017跨年版）",
+          "title": "相信未来序曲（2017跨年版）",
           "number": "1",
           "position": 1,
           "artist-credit": [
@@ -99,7 +99,7 @@
             "disambiguation": "",
             "length": 306503,
             "id": "deebf92c-a8b3-4a72-a580-b153ce8345b3",
-            "title": "相信未來序曲（2017跨年版）",
+            "title": "相信未来序曲（2017跨年版）",
             "first-release-date": "2018"
           },
           "id": "974463c1-2227-4748-b51d-cc7ba3a5060c"
@@ -108,7 +108,7 @@
           "id": "3f4aa1a6-abfc-4923-9659-b3bf2c9448f8",
           "recording": {
             "first-release-date": "2018",
-            "title": "一頭偶像（2017跨年版）",
+            "title": "一头偶像（2017跨年版）",
             "id": "31bf7336-b504-4b75-9205-dcc4539c901b",
             "length": 289397,
             "video": false,
@@ -146,7 +146,7 @@
           ],
           "position": 2,
           "length": 289459,
-          "title": "一頭偶像（2017跨年版）",
+          "title": "一头偶像（2017跨年版）",
           "number": "2"
         },
         {
@@ -197,7 +197,7 @@
         {
           "id": "a0ef1e9d-0aa3-43b3-b8cd-4d759975852c",
           "recording": {
-            "title": "尋找（2017跨年版）",
+            "title": "寻找（2017跨年版）",
             "first-release-date": "2018",
             "artist-credit": [
               {
@@ -236,7 +236,7 @@
             }
           ],
           "length": 259000,
-          "title": "尋找（2017跨年版）",
+          "title": "寻找（2017跨年版）",
           "number": "4"
         },
         {
@@ -262,7 +262,7 @@
             ],
             "video": false,
             "first-release-date": "2018",
-            "title": "山陰路的夏天（2017跨年版）"
+            "title": "山阴路的夏天（2017跨年版）"
           },
           "position": 5,
           "artist-credit": [
@@ -281,7 +281,7 @@
             }
           ],
           "length": 289111,
-          "title": "山陰路的夏天（2017跨年版）",
+          "title": "山阴路的夏天（2017跨年版）",
           "number": "5"
         },
         {
@@ -396,7 +396,7 @@
             "disambiguation": "",
             "length": 425900,
             "id": "b6fa4885-766d-47a5-8217-b1865d75ec69",
-            "title": "家鄉（2017跨年版）",
+            "title": "家乡（2017跨年版）",
             "first-release-date": "2018"
           },
           "artist-credit": [
@@ -416,7 +416,7 @@
           ],
           "position": 8,
           "length": 425900,
-          "title": "家鄉（2017跨年版）",
+          "title": "家乡（2017跨年版）",
           "number": "8"
         },
         {
@@ -442,7 +442,7 @@
             ],
             "video": false,
             "first-release-date": "2018",
-            "title": "這個世界會好嗎（2017跨年版）"
+            "title": "这个世界会好吗（2017跨年版）"
           },
           "position": 9,
           "artist-credit": [
@@ -461,7 +461,7 @@
             }
           ],
           "length": 374000,
-          "title": "這個世界會好嗎（2017跨年版）",
+          "title": "这个世界会好吗（2017跨年版）",
           "number": "9"
         }
       ],
@@ -491,7 +491,7 @@
   "barcode": "9787883306948",
   "packaging": "None",
   "asin": null,
-  "title": "李志、電聲與管弦樂II",
+  "title": "李志、电声与管弦乐II",
   "cover-art-archive": {
     "front": false,
     "back": false,

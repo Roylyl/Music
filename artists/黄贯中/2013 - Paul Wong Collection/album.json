@@ -1,12 +1,12 @@
 {
   "id": "other-黃貫中-2013-Paul-Wong-Collection",
-  "artist": "黃貫中",
+  "artist": "黄贯中",
   "title": "Paul Wong Collection",
   "releaseDate": "2013",
   "releaseDatePrecision": "year",
   "year": 2013,
   "type": "compilation",
-  "path": "artists/黃貫中/2013 - Paul Wong Collection",
+  "path": "artists/黄贯中/2013 - Paul Wong Collection",
   "cover": "cover.jpg",
   "coverWeb": "cover.webp",
   "coverSource": {
@@ -15,7 +15,7 @@
     "width": 1200,
     "height": 1200,
     "lowResolution": false,
-    "originalPath": "covers/originals/2013 - Paul Wong Collection - 黃貫中.jpg"
+    "originalPath": "covers/originals/2013 - Paul Wong Collection - 黄贯中.jpg"
   },
   "catalogUrl": "https://musicbrainz.org/artist/889da094-5a5b-48f0-ace4-6dd29f4ee4dc/recordings",
   "tracklistCompleteness": "partial",
@@ -23,9 +23,9 @@
   "tracks": [
     {
       "id": "other-黃貫中-2013-Paul-Wong-Collection-d01-t03",
-      "artist": "黃貫中",
+      "artist": "黄贯中",
       "album": "Paul Wong Collection",
-      "title": "年少無知",
+      "title": "年少无知",
       "discNumber": 1,
       "trackNumber": 3,
       "sequenceNumber": 3,
@@ -34,7 +34,7 @@
       "sourceStatus": "available",
       "sourceUrl": "",
       "format": "MP3",
-      "localPath": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.mp3",
+      "localPath": "artists/黄贯中/2013 - Paul Wong Collection/01-03 - 年少无知.mp3",
       "sources": [
         {
           "provider": "release-catalog",
@@ -57,7 +57,7 @@
       "assets": [
         {
           "trackId": "other-黃貫中-2013-Paul-Wong-Collection-d01-t03",
-          "localPath": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.mp3",
+          "localPath": "artists/黄贯中/2013 - Paul Wong Collection/01-03 - 年少无知.mp3",
           "sourceUrl": "",
           "provider": "user-provided OneDrive",
           "rightsStatus": "personal-copy; redistribution-unverified",
@@ -119,7 +119,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "other-黃貫中-2013-Paul-Wong-Collection-d01-t03",
-          "localPath": "artists/黃貫中/2013 - Paul Wong Collection/01-03 - 年少無知.mp3",
+          "localPath": "artists/黄贯中/2013 - Paul Wong Collection/01-03 - 年少无知.mp3",
           "sourceUrl": "",
           "provider": "user-provided OneDrive",
           "rightsStatus": "personal-copy; redistribution-unverified",

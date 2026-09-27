@@ -1309,7 +1309,7 @@
     {
       "provider": "Bandcamp",
       "url": "https://lizhilizhi.bandcamp.com/album/-",
-      "title": "被禁忌的遊戲",
+      "title": "被禁忌的游戏",
       "releaseDate": "21 Oct 2020 00:00:00 GMT",
       "trackCount": 6,
       "tracks": [
@@ -1321,7 +1321,7 @@
           "track_id": 2859188521
         },
         {
-          "title": "李志LiZhi - 阿蘭",
+          "title": "李志LiZhi - 阿兰",
           "track_num": 2,
           "duration": 166.093,
           "title_link": "/track/--2",
@@ -1335,21 +1335,21 @@
           "track_id": 4121063468
         },
         {
-          "title": "李志LiZhi - 被禁忌的遊戲",
+          "title": "李志LiZhi - 被禁忌的游戏",
           "track_num": 4,
           "duration": 377.827,
           "title_link": "/track/--4",
           "track_id": 3864012076
         },
         {
-          "title": "李志LiZhi - 羅莊的冬天",
+          "title": "李志LiZhi - 罗庄的冬天",
           "track_num": 5,
           "duration": 410.893,
           "title_link": "/track/--5",
           "track_id": 3080733789
         },
         {
-          "title": "紅色氣球",
+          "title": "红色气球",
           "track_num": 6,
           "duration": 173.36,
           "title_link": "/track/--6",

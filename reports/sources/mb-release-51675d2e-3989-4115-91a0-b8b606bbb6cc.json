@@ -25,7 +25,7 @@
       "tracks": [
         {
           "number": "1",
-          "title": "看見（2015看見版）",
+          "title": "看见（2015看见版）",
           "length": 140039,
           "artist-credit": [
             {
@@ -44,7 +44,7 @@
           ],
           "position": 1,
           "recording": {
-            "title": "看見（2015看見版）",
+            "title": "看见（2015看见版）",
             "first-release-date": "2020-10-22",
             "artist-credit": [
               {
@@ -69,7 +69,7 @@
           "id": "50dff0cc-c73a-4c76-9eed-e9b456970b19"
         },
         {
-          "title": "黑色信封（2015看見版）",
+          "title": "黑色信封（2015看见版）",
           "number": "2",
           "position": 2,
           "artist-credit": [
@@ -108,7 +108,7 @@
             "disambiguation": "",
             "length": 292269,
             "id": "e5befd3d-d342-44c8-86b3-ec705a1da395",
-            "title": "黑色信封（2015看見版）",
+            "title": "黑色信封（2015看见版）",
             "first-release-date": "2020-10-22"
           },
           "id": "5c365c98-cfd2-4134-8ec8-88bf075bf67a"
@@ -132,7 +132,7 @@
             }
           ],
           "number": "3",
-          "title": "蒼井空（2015看見版）",
+          "title": "苍井空（2015看见版）",
           "id": "86a6b0f8-98a8-4088-9f06-1deba7412117",
           "recording": {
             "length": 307617,
@@ -155,14 +155,14 @@
             ],
             "disambiguation": "",
             "first-release-date": "2020-10-22",
-            "title": "蒼井空（2015看見版）"
+            "title": "苍井空（2015看见版）"
           }
         },
         {
           "id": "3d0b2af6-b189-4bde-9702-6e4c25102a10",
           "recording": {
             "first-release-date": "2020-10-22",
-            "title": "春末的南方城市（2015看見版）",
+            "title": "春末的南方城市（2015看见版）",
             "length": 247710,
             "id": "8ad0bd27-1f4b-47df-9f7f-eec71edaf730",
             "artist-credit": [
@@ -201,7 +201,7 @@
           ],
           "position": 4,
           "number": "4",
-          "title": "春末的南方城市（2015看見版）"
+          "title": "春末的南方城市（2015看见版）"
         },
         {
           "id": "e5fbb06b-36cd-480c-9e4c-c3d6186ebb1b",
@@ -225,7 +225,7 @@
             "video": false,
             "length": 124714,
             "id": "4381087a-ac54-447f-824e-4501ac90ffd4",
-            "title": "你離開了南京 從此沒有人和我說話（2015看見版）",
+            "title": "你离开了南京 从此没有人和我说话（2015看见版）",
             "first-release-date": "2020-10-22"
           },
           "length": 124714,
@@ -246,11 +246,11 @@
           ],
           "position": 5,
           "number": "5",
-          "title": "你離開了南京 從此沒有人和我說話（2015看見版）"
+          "title": "你离开了南京 从此没有人和我说话（2015看见版）"
         },
         {
           "number": "7",
-          "title": "熱河（2015看見版）",
+          "title": "热河（2015看见版）",
           "length": 484554,
           "position": 6,
           "artist-credit": [
@@ -288,14 +288,14 @@
             "video": false,
             "length": 484554,
             "id": "c12ab137-b08e-49d3-82c4-8ca9f3fa0354",
-            "title": "熱河（2015看見版）",
+            "title": "热河（2015看见版）",
             "first-release-date": "2020-10-22"
           },
           "id": "b41dce9f-09e0-47f5-a502-7e2fb43d8f9e"
         },
         {
           "number": "8",
-          "title": "董卓瑤（2015看見版）",
+          "title": "董卓瑶（2015看见版）",
           "length": 278941,
           "position": 7,
           "artist-credit": [
@@ -314,7 +314,7 @@
             }
           ],
           "recording": {
-            "title": "董卓瑤（2015看見版）",
+            "title": "董卓瑶（2015看见版）",
             "first-release-date": "2020-10-22",
             "video": false,
             "artist-credit": [
@@ -341,7 +341,7 @@
         {
           "recording": {
             "first-release-date": "2020-10-22",
-            "title": "梵高先生（2015看見版）",
+            "title": "梵高先生（2015看见版）",
             "length": 166696,
             "id": "a4c320ed-ef23-4ecb-8a0f-1b69007f70b3",
             "disambiguation": "",
@@ -363,7 +363,7 @@
             "video": false
           },
           "id": "4cab4f59-bedc-4b84-bf03-59062948fe77",
-          "title": "梵高先生（2015看見版）",
+          "title": "梵高先生（2015看见版）",
           "number": "10",
           "position": 8,
           "artist-credit": [
@@ -409,7 +409,7 @@
   "packaging": "None",
   "barcode": "9555150725286",
   "asin": null,
-  "title": "看見",
+  "title": "看见",
   "cover-art-archive": {
     "count": 1,
     "back": false,
@@ -435,7 +435,7 @@
       }
     ],
     "first-release-date": "2020-10-22",
-    "title": "看見",
+    "title": "看见",
     "secondary-types": [
       "Live"
     ],

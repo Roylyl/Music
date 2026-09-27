@@ -2,11 +2,11 @@
   "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda",
   "artist": "李志",
   "title": "洗心革面 - 演唱会录音",
-  "releaseDate": null,
-  "releaseDatePrecision": "unknown",
-  "year": null,
+  "releaseDate": "2019",
+  "releaseDatePrecision": "year",
+  "year": 2019,
   "type": "concert",
-  "path": "live/李志/未知发行年 - 洗心革面 - 演唱会录音",
+  "path": "live/李志/2019 - 洗心革面 - 演唱会录音",
   "cover": "cover.jpg",
   "coverWeb": "cover.webp",
   "tracks": [
@@ -23,7 +23,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/一个夜晚.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -40,7 +40,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t01",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/一个夜晚.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -93,7 +93,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t01",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/一个夜晚.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -150,7 +150,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你好明天+不多+杭州.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -167,7 +167,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t02",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你好明天+不多+杭州.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -220,7 +220,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t02",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你好明天+不多+杭州.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -277,7 +277,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你离开了南京，从此没有人和我说话.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -294,7 +294,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t03",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你离开了南京，从此没有人和我说话.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -348,7 +348,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t03",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你离开了南京，从此没有人和我说话.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -405,7 +405,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/倒影.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -422,7 +422,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t04",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/倒影.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -475,7 +475,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t04",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/倒影.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -567,7 +567,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/和你在一起.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -584,7 +584,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t06",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/和你在一起.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -637,7 +637,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t06",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/和你在一起.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -694,7 +694,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/哦吼.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -711,7 +711,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t07",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/哦吼.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -765,7 +765,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t07",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/哦吼.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -822,7 +822,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/大象.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -839,7 +839,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t08",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/大象.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -892,7 +892,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t08",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/大象.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -949,7 +949,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/天空之城.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -966,7 +966,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t09",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/天空之城.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1019,7 +1019,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t09",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-09 - 天空之城.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/天空之城.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1076,7 +1076,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/寻找+忽然+热河.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -1093,7 +1093,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t10",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/寻找+忽然+热河.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1146,7 +1146,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t10",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/寻找+忽然+热河.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1232,7 +1232,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/山阴路的夏天.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -1249,7 +1249,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t12",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/山阴路的夏天.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1302,7 +1302,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t12",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/山阴路的夏天.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1359,7 +1359,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/方式.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -1376,7 +1376,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t13",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/方式.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1429,7 +1429,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t13",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-13 - 方式.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/方式.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1515,7 +1515,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/死人.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -1532,7 +1532,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t15",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/死人.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1585,7 +1585,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t15",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-15 - 死人.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/死人.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1671,7 +1671,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/被禁忌的游戏.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -1688,7 +1688,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t17",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/被禁忌的游戏.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1741,7 +1741,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t17",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/被禁忌的游戏.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1798,7 +1798,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/路.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -1815,7 +1815,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t18",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/路.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1868,7 +1868,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t18",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-18 - 路.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/路.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1925,7 +1925,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/门.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -1942,7 +1942,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t19",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/门.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -1995,7 +1995,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t19",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/门.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -2099,7 +2099,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/黑色信封.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -2116,7 +2116,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t21",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/黑色信封.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -2169,7 +2169,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t21",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/黑色信封.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -2226,7 +2226,7 @@
       "sourceStatus": "available",
       "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/意味.mp3",
       "format": "MP3",
-      "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+      "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
       "sources": [],
       "suspected_transcode": null,
       "audioProperties": {
@@ -2243,7 +2243,7 @@
       "assets": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t22",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/意味.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -2296,7 +2296,7 @@
       "sourceAssetHistory": [
         {
           "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t22",
-          "localPath": "live/李志/未知发行年 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+          "localPath": "live/李志/2019 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
           "sourceUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/意味.mp3",
           "provider": "lizhinb.com",
           "rightsStatus": "unverified-third-party",
@@ -2488,5 +2488,6 @@
     "width": 300,
     "height": 300,
     "lowResolution": true
-  }
+  },
+  "metadataNote": "2018-2019跨年音乐会现场录音，按2019年发行记录归年。"
 }

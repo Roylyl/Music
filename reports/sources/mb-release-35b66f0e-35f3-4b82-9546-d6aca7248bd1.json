@@ -9,7 +9,7 @@
           "number": "1",
           "id": "ab52a2a2-3740-47af-b679-cebd64931876",
           "length": 306503,
-          "title": "相信未來序曲 (2017跨年版)",
+          "title": "相信未来序曲 (2017跨年版)",
           "recording": {
             "id": "deebf92c-a8b3-4a72-a580-b153ce8345b3",
             "length": 306503,
@@ -31,7 +31,7 @@
               }
             ],
             "disambiguation": "",
-            "title": "相信未來序曲（2017跨年版）"
+            "title": "相信未来序曲（2017跨年版）"
           },
           "position": 1,
           "artist-credit": [
@@ -67,7 +67,7 @@
             }
           ],
           "position": 2,
-          "title": "一頭偶像 (2017跨年版)",
+          "title": "一头偶像 (2017跨年版)",
           "recording": {
             "first-release-date": "2018",
             "id": "31bf7336-b504-4b75-9205-dcc4539c901b",
@@ -88,7 +88,7 @@
                 }
               }
             ],
-            "title": "一頭偶像（2017跨年版）",
+            "title": "一头偶像（2017跨年版）",
             "video": false
           },
           "length": 289459,
@@ -160,7 +160,7 @@
             }
           ],
           "position": 4,
-          "title": "尋找 (2017跨年版)",
+          "title": "寻找 (2017跨年版)",
           "recording": {
             "video": false,
             "artist-credit": [
@@ -179,7 +179,7 @@
               }
             ],
             "disambiguation": "",
-            "title": "尋找（2017跨年版）",
+            "title": "寻找（2017跨年版）",
             "id": "dfa5bea5-8548-43b5-bddc-f1c5eada4c2d",
             "length": 259000,
             "first-release-date": "2018"
@@ -219,12 +219,12 @@
                 "joinphrase": ""
               }
             ],
-            "title": "山陰路的夏天（2017跨年版）",
+            "title": "山阴路的夏天（2017跨年版）",
             "id": "6201e000-0586-48c4-b58a-c0add4556323",
             "length": 289051,
             "first-release-date": "2018"
           },
-          "title": "山陰路的夏天 (2017跨年版)",
+          "title": "山阴路的夏天 (2017跨年版)",
           "position": 5,
           "number": "5",
           "id": "a6e78825-32af-4549-95a1-84eb74a98bcb",
@@ -340,7 +340,7 @@
             "first-release-date": "2018",
             "length": 425900,
             "id": "b6fa4885-766d-47a5-8217-b1865d75ec69",
-            "title": "家鄉（2017跨年版）",
+            "title": "家乡（2017跨年版）",
             "disambiguation": "",
             "artist-credit": [
               {
@@ -359,7 +359,7 @@
             ],
             "video": false
           },
-          "title": "家鄉 (2017跨年版)",
+          "title": "家乡 (2017跨年版)",
           "position": 8,
           "id": "5e87f6d2-8c19-433b-9f3f-d445a2062f18",
           "length": 425900,
@@ -373,7 +373,7 @@
     }
   ],
   "disambiguation": "",
-  "title": "李志、電聲與管弦樂II",
+  "title": "李志、电声与管弦乐II",
   "quality": "normal",
   "id": "35b66f0e-35f3-4b82-9546-d6aca7248bd1",
   "release-events": [

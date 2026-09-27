@@ -118,7 +118,7 @@
           ],
           "position": 1,
           "id": "1a4fb3b7-34ef-42f7-99b8-f70d06b3deb6",
-          "title": "歌聲與微笑",
+          "title": "歌声与微笑",
           "length": 190404,
           "recording": {
             "length": 190403,
@@ -169,7 +169,7 @@
             "disambiguation": ""
           },
           "length": 155202,
-          "title": "蝸牛與黃鸝鳥",
+          "title": "蜗牛与黄鹂鸟",
           "id": "47f2640b-26e6-4e41-a9c0-5a504b15ebdd",
           "position": 2,
           "artist-credit": [
@@ -190,7 +190,7 @@
           "number": "2"
         },
         {
-          "title": "蘭花草",
+          "title": "兰花草",
           "recording": {
             "video": false,
             "first-release-date": "2016-10-18",
@@ -235,7 +235,7 @@
           "number": "3"
         },
         {
-          "title": "數鴨子",
+          "title": "数鸭子",
           "recording": {
             "first-release-date": "2016-10-18",
             "video": false,
@@ -304,7 +304,7 @@
             "first-release-date": "2016-10-18",
             "video": false
           },
-          "title": "朋友越多越快樂",
+          "title": "朋友越多越快乐",
           "number": "5",
           "artist-credit": [
             {
@@ -433,7 +433,7 @@
             }
           ],
           "number": "8",
-          "title": "小螺號",
+          "title": "小螺号",
           "recording": {
             "length": 211394,
             "title": "小螺号",
@@ -502,7 +502,7 @@
             "title": "送别"
           },
           "length": 202428,
-          "title": "送別"
+          "title": "送别"
         }
       ],
       "track-count": 9
