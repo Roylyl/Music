@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-4f54c616daf9f65d",
+  "artist": "何大河",
+  "title": "日出 (2020Live节选)",
+  "releaseDate": "2021",
+  "releaseDatePrecision": "year",
+  "year": 2021,
+  "type": "studio",
+  "path": "artists/何大河/2021 - 日出 (2020Live节选)",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-4f54c616daf9f65d",
+      "artist": "何大河",
+      "album": "日出 (2020Live节选)",
+      "title": "有做无爱 (2020 Live)",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 333.401,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001gG6RZ1zdCkY",
+      "format": "MP3",
+      "localPath": "artists/何大河/2021 - 日出 (2020Live节选)/01-06 - 有做无爱 (2020 Live).mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 333.401,
+        "fileSize": 13493775,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 333.415,
+        "bitRate": 95952,
+        "fileSize": 4061773
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

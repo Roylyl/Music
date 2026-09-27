@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-55debe30c6f5f8e1",
+  "artist": "五条人",
+  "title": "梦幻丽莎发廊",
+  "releaseDate": "2016",
+  "releaseDatePrecision": "year",
+  "year": 2016,
+  "type": "studio",
+  "path": "artists/五条人/2016 - 梦幻丽莎发廊",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-55debe30c6f5f8e1",
+      "artist": "五条人",
+      "album": "梦幻丽莎发廊",
+      "title": "梦幻丽莎发廊",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 248.607,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/003nxxq82ZRM0l",
+      "format": "MP3",
+      "localPath": "artists/五条人/2016 - 梦幻丽莎发廊/01-06 - 梦幻丽莎发廊.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 248.607,
+        "fileSize": 10131524,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 248.616,
+        "bitRate": 96112,
+        "fileSize": 3033983
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

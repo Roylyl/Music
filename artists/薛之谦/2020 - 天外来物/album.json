@@ -1,0 +1,123 @@
+{
+  "id": "apple-album-b6ec9b77c976e069",
+  "artist": "薛之谦",
+  "title": "天外来物",
+  "releaseDate": "2020",
+  "releaseDatePrecision": "year",
+  "year": 2020,
+  "type": "studio",
+  "path": "artists/薛之谦/2020 - 天外来物",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-6e81a2a52cbe9266",
+      "artist": "薛之谦",
+      "album": "天外来物",
+      "title": "迟迟",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 255.634,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/004G5iJn0usoBL",
+      "format": "MP3",
+      "localPath": "artists/薛之谦/2020 - 天外来物/01-02 - 迟迟.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 255.634,
+        "fileSize": 10352395,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 255.652,
+        "bitRate": 97144,
+        "fileSize": 3152931
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-b6ec9b77c976e069",
+      "artist": "薛之谦",
+      "album": "天外来物",
+      "title": "把你揉碎捏成苹果",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 215.171,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/0032DwCm0g2a2k",
+      "format": "MP3",
+      "localPath": "artists/薛之谦/2020 - 天外来物/01-03 - 把你揉碎捏成苹果.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 215.171,
+        "fileSize": 8732241,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 215.203,
+        "bitRate": 97304,
+        "fileSize": 2658623
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-5bd73f88ee06caca",
+      "artist": "薛之谦",
+      "album": "天外来物",
+      "title": "彩券",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 275.905,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/0002u6ZH3GSQPl",
+      "format": "MP3",
+      "localPath": "artists/薛之谦/2020 - 天外来物/01-05 - 彩券.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 275.905,
+        "fileSize": 11164047,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 275.923,
+        "bitRate": 96088,
+        "fileSize": 3366367
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-b27488f71f9c355c",
+  "artist": "黄贯中",
+  "title": "黄贯中",
+  "releaseDate": "2001",
+  "releaseDatePrecision": "year",
+  "year": 2001,
+  "type": "studio",
+  "path": "artists/黄贯中/2001 - 黄贯中",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-b27488f71f9c355c",
+      "artist": "黄贯中",
+      "album": "黄贯中",
+      "title": "睡火山",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 360.986,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/003VE5PH2InvRr",
+      "format": "MP3",
+      "localPath": "artists/黄贯中/2001 - 黄贯中/01-04 - 睡火山.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 360.986,
+        "fileSize": 14579565,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 361.001,
+        "bitRate": 95864,
+        "fileSize": 4393796
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

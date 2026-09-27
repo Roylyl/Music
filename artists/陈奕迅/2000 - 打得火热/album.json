@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-ec3fc70802638ebf",
+  "artist": "陈奕迅",
+  "title": "打得火热",
+  "releaseDate": "2000",
+  "releaseDatePrecision": "year",
+  "year": 2000,
+  "type": "studio",
+  "path": "artists/陈奕迅/2000 - 打得火热",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-ec3fc70802638ebf",
+      "artist": "陈奕迅",
+      "album": "打得火热",
+      "title": "绵绵",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 244.114,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/0006tWxy0mUp7s",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/2000 - 打得火热/01-05 - 绵绵.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 244.114,
+        "fileSize": 10147300,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 244.135,
+        "bitRate": 95856,
+        "fileSize": 2971491
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

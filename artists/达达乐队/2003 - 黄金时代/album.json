@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-4dde5bcdc520a833",
+  "artist": "达达乐队",
+  "title": "黄金时代",
+  "releaseDate": "2003",
+  "releaseDatePrecision": "year",
+  "year": 2003,
+  "type": "studio",
+  "path": "artists/达达乐队/2003 - 黄金时代",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-decfcfa1c3b8b050",
+      "artist": "达达乐队",
+      "album": "黄金时代",
+      "title": "Song F",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 391.419,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/004ZmqbJ4CZouV",
+      "format": "MP3",
+      "localPath": "artists/达达乐队/2003 - 黄金时代/01-04 - Song F.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 391.419,
+        "fileSize": 15784084,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 391.442,
+        "bitRate": 95928,
+        "fileSize": 4767313
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-4dde5bcdc520a833",
+      "artist": "达达乐队",
+      "album": "黄金时代",
+      "title": "南方",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 271.726,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/003SjFhD2Pexxl",
+      "format": "MP3",
+      "localPath": "artists/达达乐队/2003 - 黄金时代/01-08 - 南方.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 271.726,
+        "fileSize": 10991566,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 271.743,
+        "bitRate": 95904,
+        "fileSize": 3309000
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

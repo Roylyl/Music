@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-9bf0ae4a0a7fc5cd",
+  "artist": "宋冬野",
+  "title": "再想想",
+  "releaseDate": "2026",
+  "releaseDatePrecision": "year",
+  "year": 2026,
+  "type": "studio",
+  "path": "artists/宋冬野/2026 - 再想想",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-9bf0ae4a0a7fc5cd",
+      "artist": "宋冬野",
+      "album": "再想想",
+      "title": "与我交谈",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 249.469,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001aI73Q257dyb",
+      "format": "MP3",
+      "localPath": "artists/宋冬野/2026 - 再想想/01-02 - 与我交谈.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 249.469,
+        "fileSize": 10069201,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 249.498,
+        "bitRate": 96104,
+        "fileSize": 3044574
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-7927446330f8b8ed",
+      "artist": "宋冬野",
+      "album": "再想想",
+      "title": "再想想",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 301.192,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/000wEHFU1QqqJJ",
+      "format": "MP3",
+      "localPath": "artists/宋冬野/2026 - 再想想/01-10 - 再想想.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 301.192,
+        "fileSize": 12140168,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 301.209,
+        "bitRate": 95880,
+        "fileSize": 3666911
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

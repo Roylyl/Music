@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-d1211832ed6fa911",
+  "artist": "王若琳",
+  "title": "Start from Here",
+  "releaseDate": "2008",
+  "releaseDatePrecision": "year",
+  "year": 2008,
+  "type": "studio",
+  "path": "artists/王若琳/2008 - Start from Here",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-5ef59d4bea52cedc",
+      "artist": "王若琳",
+      "album": "Start from Here",
+      "title": "有你的快乐",
+      "discNumber": 2,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 197.251,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/000woWvr0L2gMm",
+      "format": "MP3",
+      "localPath": "artists/王若琳/2008 - Start from Here/02-02 - 有你的快乐.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 197.251,
+        "fileSize": 7959395,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 197.277,
+        "bitRate": 95880,
+        "fileSize": 2402106
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-d1211832ed6fa911",
+      "artist": "王若琳",
+      "album": "Start from Here",
+      "title": "因为你爱我",
+      "discNumber": 2,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 350.589,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/000u0LEt2ZR7Rf",
+      "format": "MP3",
+      "localPath": "artists/王若琳/2008 - Start from Here/02-04 - 因为你爱我.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 350.589,
+        "fileSize": 14099079,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 350.598,
+        "bitRate": 95968,
+        "fileSize": 4271651
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-7af6e1589a284eaa",
+  "artist": "赞诗",
+  "title": "跳金水",
+  "releaseDate": "2022",
+  "releaseDatePrecision": "year",
+  "year": 2022,
+  "type": "ep",
+  "path": "artists/赞诗/2022 - 跳金水",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-7af6e1589a284eaa",
+      "artist": "赞诗",
+      "album": "跳金水",
+      "title": "赞美诗",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 309.316,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/00178fRN3CenlI",
+      "format": "MP3",
+      "localPath": "artists/赞诗/2022 - 跳金水/01-04 - 赞美诗.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 309.316,
+        "fileSize": 12654896,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 309.336,
+        "bitRate": 96128,
+        "fileSize": 3775181
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

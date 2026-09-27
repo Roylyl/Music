@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-12f90b855e154012",
+  "artist": "反光镜乐队",
+  "title": "释你",
+  "releaseDate": "2010",
+  "releaseDatePrecision": "year",
+  "year": 2010,
+  "type": "ep",
+  "path": "artists/反光镜乐队/2010 - 释你",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-12f90b855e154012",
+      "artist": "反光镜乐队",
+      "album": "释你",
+      "title": "释你",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 305.293,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=pM6koHvcako",
+      "format": "MP3",
+      "localPath": "artists/反光镜乐队/2010 - 释你/01-04 - 释你.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 305.293,
+        "fileSize": 12390296,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 305.26,
+        "bitRate": 130000,
+        "fileSize": 4989386
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

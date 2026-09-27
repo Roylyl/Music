@@ -1,0 +1,123 @@
+{
+  "id": "apple-album-42d682cd80824047",
+  "artist": "陈奕迅",
+  "title": "与我常在",
+  "releaseDate": "1997",
+  "releaseDatePrecision": "year",
+  "year": 1997,
+  "type": "studio",
+  "path": "artists/陈奕迅/1997 - 与我常在",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-42d682cd80824047",
+      "artist": "陈奕迅",
+      "album": "与我常在",
+      "title": "与我常在",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 242.73,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001xGlaV2wYC2V",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/1997 - 与我常在/01-02 - 与我常在.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 242.73,
+        "fileSize": 9963665,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 242.741,
+        "bitRate": 95568,
+        "fileSize": 2945884
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-22532cf1cabd72d0",
+      "artist": "陈奕迅",
+      "album": "与我常在",
+      "title": "爱没有左右",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 235.416,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/004bn0cw1tFEnq",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/1997 - 与我常在/01-03 - 爱没有左右.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 235.416,
+        "fileSize": 9670803,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 235.427,
+        "bitRate": 95848,
+        "fileSize": 2865364
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-db869d4c75054336",
+      "artist": "陈奕迅",
+      "album": "与我常在",
+      "title": "抱拥这分钟",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 297.665,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/000qGK2V2Amywq",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/1997 - 与我常在/01-05 - 抱拥这分钟.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 297.665,
+        "fileSize": 12163285,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 297.68,
+        "bitRate": 95328,
+        "fileSize": 3603331
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

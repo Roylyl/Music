@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-677c259232cc78b9",
+  "artist": "王若琳",
+  "title": "The Things We Do for Love",
+  "releaseDate": "2011",
+  "releaseDatePrecision": "year",
+  "year": 2011,
+  "type": "studio",
+  "path": "artists/王若琳/2011 - The Things We Do for Love",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-677c259232cc78b9",
+      "artist": "王若琳",
+      "album": "The Things We Do for Love",
+      "title": "亲密爱人",
+      "discNumber": 2,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 280.216,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=cODr-oTO0ZM",
+      "format": "MP3",
+      "localPath": "artists/王若琳/2011 - The Things We Do for Love/02-02 - 亲密爱人.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 280.216,
+        "fileSize": 11265401,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 280.18,
+        "bitRate": 130000,
+        "fileSize": 4580163
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

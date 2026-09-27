@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-83165c672f6d6c5e",
+  "artist": "梅卡德尔",
+  "title": "梅卡德尔",
+  "releaseDate": "2014",
+  "releaseDatePrecision": "year",
+  "year": 2014,
+  "type": "studio",
+  "path": "artists/梅卡德尔/2014 - 梅卡德尔",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-83165c672f6d6c5e",
+      "artist": "梅卡德尔",
+      "album": "梅卡德尔",
+      "title": "迷恋",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 391.863,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=LA0i2R6Upy8",
+      "format": "MP3",
+      "localPath": "artists/梅卡德尔/2014 - 梅卡德尔/01-05 - 迷恋.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 391.863,
+        "fileSize": 15930809,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 391.86,
+        "bitRate": 131000,
+        "fileSize": 6431542
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

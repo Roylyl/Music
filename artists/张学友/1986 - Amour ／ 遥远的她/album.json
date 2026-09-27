@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-348fd55c203e7876",
+  "artist": "张学友",
+  "title": "Amour / 遥远的她",
+  "releaseDate": "1986",
+  "releaseDatePrecision": "year",
+  "year": 1986,
+  "type": "studio",
+  "path": "artists/张学友/1986 - Amour ／ 遥远的她",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-348fd55c203e7876",
+      "artist": "张学友",
+      "album": "Amour / 遥远的她",
+      "title": "遥远的她",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 257.593,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=uHm_coqGkAo",
+      "format": "MP3",
+      "localPath": "artists/张学友/1986 - Amour ／ 遥远的她/01-07 - 遥远的她.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 257.593,
+        "fileSize": 10510438,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 257.56,
+        "bitRate": 136000,
+        "fileSize": 4399070
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

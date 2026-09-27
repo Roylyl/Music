@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-7fcfd88e33db0c52",
+  "artist": "声音玩具",
+  "title": "劳动之余",
+  "releaseDate": "2020",
+  "releaseDatePrecision": "year",
+  "year": 2020,
+  "type": "studio",
+  "path": "artists/声音玩具/2020 - 劳动之余",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-7fcfd88e33db0c52",
+      "artist": "声音玩具",
+      "album": "劳动之余",
+      "title": "没有人能够比我们更接近对方",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 370.625,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=CE1bCDYkLJw",
+      "format": "MP3",
+      "localPath": "artists/声音玩具/2020 - 劳动之余/01-03 - 没有人能够比我们更接近对方.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 370.625,
+        "fileSize": 15002237,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 370.58,
+        "bitRate": 127000,
+        "fileSize": 5897645
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

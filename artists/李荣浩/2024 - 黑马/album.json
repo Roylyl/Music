@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-61486eb05d2ae15a",
+  "artist": "李荣浩",
+  "title": "黑马",
+  "releaseDate": "2024",
+  "releaseDatePrecision": "year",
+  "year": 2024,
+  "type": "studio",
+  "path": "artists/李荣浩/2024 - 黑马",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-61486eb05d2ae15a",
+      "artist": "李荣浩",
+      "album": "黑马",
+      "title": "另一端",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 295.784,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/0048YxGF4ceY45",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2024 - 黑马/01-03 - 另一端.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 295.784,
+        "fileSize": 11995801,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 295.799,
+        "bitRate": 95144,
+        "fileSize": 3573846
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

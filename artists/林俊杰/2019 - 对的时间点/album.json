@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-3d71941557cda2ac",
+  "artist": "林俊杰",
+  "title": "对的时间点",
+  "releaseDate": "2019",
+  "releaseDatePrecision": "year",
+  "year": 2019,
+  "type": "studio",
+  "path": "artists/林俊杰/2019 - 对的时间点",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-3d71941557cda2ac",
+      "artist": "林俊杰",
+      "album": "对的时间点",
+      "title": "对的时间点",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 242.312,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/003gYady2KMr0i",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2019 - 对的时间点/01-01 - 对的时间点.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 242.312,
+        "fileSize": 9766869,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 242.323,
+        "bitRate": 96048,
+        "fileSize": 2955343
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

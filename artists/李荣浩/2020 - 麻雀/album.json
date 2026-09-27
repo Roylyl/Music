@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-a2675c0d64fcb9af",
+  "artist": "李荣浩",
+  "title": "麻雀",
+  "releaseDate": "2020",
+  "releaseDatePrecision": "year",
+  "year": 2020,
+  "type": "studio",
+  "path": "artists/李荣浩/2020 - 麻雀",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-a2675c0d64fcb9af",
+      "artist": "李荣浩",
+      "album": "麻雀",
+      "title": "花样年华",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 311.928,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/004fujcF4HUUqu",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2020 - 麻雀/01-07 - 花样年华.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 311.928,
+        "fileSize": 12884701,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 311.937,
+        "bitRate": 95344,
+        "fileSize": 3776505
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-537e6f9f224bb0d7",
+      "artist": "李荣浩",
+      "album": "麻雀",
+      "title": "在一起嘛好不好",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 298.893,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/002Uki2B0gpqd0",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2020 - 麻雀/01-08 - 在一起嘛好不好.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 298.893,
+        "fileSize": 12362781,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 298.91,
+        "bitRate": 95544,
+        "fileSize": 3626336
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

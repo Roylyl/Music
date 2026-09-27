@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-cfaa757f7f936183",
+  "artist": "李荣浩",
+  "title": "有理想",
+  "releaseDate": "2016",
+  "releaseDatePrecision": "year",
+  "year": 2016,
+  "type": "studio",
+  "path": "artists/李荣浩/2016 - 有理想",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-7da7ba9996294112",
+      "artist": "李荣浩",
+      "album": "有理想",
+      "title": "满座",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 332.931,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/00128BsA1sQHGN",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2016 - 有理想/01-02 - 满座.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 332.931,
+        "fileSize": 13423073,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 332.951,
+        "bitRate": 96656,
+        "fileSize": 4085473
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-cfaa757f7f936183",
+      "artist": "李荣浩",
+      "album": "有理想",
+      "title": "流行歌曲",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 259.553,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/000mNo691TTyRP",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2016 - 有理想/01-05 - 流行歌曲.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 259.553,
+        "fileSize": 10485024,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 259.576,
+        "bitRate": 96488,
+        "fileSize": 3179821
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

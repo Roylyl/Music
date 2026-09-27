@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-f32d86b228f14267",
+  "artist": "黄贯中",
+  "title": "黄贯中",
+  "releaseDate": "1993",
+  "releaseDatePrecision": "year",
+  "year": 1993,
+  "type": "studio",
+  "path": "artists/黄贯中/1993 - 黄贯中",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-f32d86b228f14267",
+      "artist": "黄贯中",
+      "album": "黄贯中",
+      "title": "无得比",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 347.193,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001LGZnR0Sfhow",
+      "format": "MP3",
+      "localPath": "artists/黄贯中/1993 - 黄贯中/01-01 - 无得比.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 347.193,
+        "fileSize": 14027307,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 347.208,
+        "bitRate": 95944,
+        "fileSize": 4229466
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-e209791e401e46aa",
+      "artist": "黄贯中",
+      "album": "黄贯中",
+      "title": "某日",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 296.96,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/0047DSM0095Df7",
+      "format": "MP3",
+      "localPath": "artists/黄贯中/1993 - 黄贯中/01-03 - 某日.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 296.96,
+        "fileSize": 12015958,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 296.983,
+        "bitRate": 96152,
+        "fileSize": 3625419
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-5824ace9f836a25f",
+  "artist": "宋冬野",
+  "title": "再想想",
+  "releaseDate": "2017",
+  "releaseDatePrecision": "year",
+  "year": 2017,
+  "type": "studio",
+  "path": "artists/宋冬野/2017 - 再想想",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-5824ace9f836a25f",
+      "artist": "宋冬野",
+      "album": "再想想",
+      "title": "郭源潮",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 442.175,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=9aXAkw28oJU",
+      "format": "MP3",
+      "localPath": "artists/宋冬野/2017 - 再想想/01-09 - 郭源潮.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 442.175,
+        "fileSize": 17785120,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 442.16,
+        "bitRate": 138000,
+        "fileSize": 7678496
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

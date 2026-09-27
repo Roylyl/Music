@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-224ea14d2724f957",
+  "artist": "岛屿心情",
+  "title": "纷纭",
+  "releaseDate": "2025",
+  "releaseDatePrecision": "year",
+  "year": 2025,
+  "type": "studio",
+  "path": "artists/岛屿心情/2025 - 纷纭",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-224ea14d2724f957",
+      "artist": "岛屿心情",
+      "album": "纷纭",
+      "title": "玩具",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 297.117,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=SBvtqVGvHJE",
+      "format": "MP3",
+      "localPath": "artists/岛屿心情/2025 - 纷纭/01-09 - 玩具.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 297.117,
+        "fileSize": 12015837,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 297.1,
+        "bitRate": 136000,
+        "fileSize": 5086700
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

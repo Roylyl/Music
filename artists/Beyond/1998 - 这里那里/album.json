@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-864f8fab75be820b",
+  "artist": "Beyond",
+  "title": "这里那里",
+  "releaseDate": "1998",
+  "releaseDatePrecision": "year",
+  "year": 1998,
+  "type": "studio",
+  "path": "artists/Beyond/1998 - 这里那里",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-864f8fab75be820b",
+      "artist": "Beyond",
+      "album": "这里那里",
+      "title": "想你",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 280.869,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=7mAzXetrI48",
+      "format": "MP3",
+      "localPath": "artists/Beyond/1998 - 这里那里/01-02 - 想你.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 280.869,
+        "fileSize": 11446427,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 280.86,
+        "bitRate": 126000,
+        "fileSize": 4434397
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

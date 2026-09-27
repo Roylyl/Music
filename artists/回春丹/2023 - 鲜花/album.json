@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-8e368aae6e8aaaf0",
+  "artist": "回春丹",
+  "title": "鲜花",
+  "releaseDate": "2023",
+  "releaseDatePrecision": "year",
+  "year": 2023,
+  "type": "studio",
+  "path": "artists/回春丹/2023 - 鲜花",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-8e368aae6e8aaaf0",
+      "artist": "回春丹",
+      "album": "鲜花",
+      "title": "鲜花",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 341.42,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/000sdDGD2Av18n",
+      "format": "MP3",
+      "localPath": "artists/回春丹/2023 - 鲜花/01-01 - 鲜花.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 341.42,
+        "fileSize": 13797986,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 341.449,
+        "bitRate": 96064,
+        "fileSize": 4164412
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

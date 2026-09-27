@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-9b833b04e867c178",
+  "artist": "Beyond",
+  "title": "Live Must Go On Series : Beyond 超越 Beyond Live 03 - Since 1983 (Live)",
+  "releaseDate": "2003",
+  "releaseDatePrecision": "year",
+  "year": 2003,
+  "type": "studio",
+  "path": "artists/Beyond/2003 - Live Must Go On Series ／ Beyond 超越 Beyond Live 03 - Since 1983 (Live)",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-9b833b04e867c178",
+      "artist": "Beyond",
+      "album": "Live Must Go On Series : Beyond 超越 Beyond Live 03 - Since 1983 (Live)",
+      "title": "抗战二十年 (Live)",
+      "discNumber": 2,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 317.544,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=jnavelzBQhQ",
+      "format": "MP3",
+      "localPath": "artists/Beyond/2003 - Live Must Go On Series ／ Beyond 超越 Beyond Live 03 - Since 1983 (Live)/02-06 - 抗战二十年 (Live).mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 317.544,
+        "fileSize": 12888820,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 317.52,
+        "bitRate": 125000,
+        "fileSize": 4998400
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

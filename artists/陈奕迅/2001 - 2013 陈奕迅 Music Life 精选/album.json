@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-fa7fcef9ac9d2585",
+  "artist": "陈奕迅",
+  "title": "2013 陈奕迅 Music Life 精选",
+  "releaseDate": "2001",
+  "releaseDatePrecision": "year",
+  "year": 2001,
+  "type": "studio",
+  "path": "artists/陈奕迅/2001 - 2013 陈奕迅 Music Life 精选",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-fa7fcef9ac9d2585",
+      "artist": "陈奕迅",
+      "album": "2013 陈奕迅 Music Life 精选",
+      "title": "打回原形",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 250.984,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001mc13y4UPfIS",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/2001 - 2013 陈奕迅 Music Life 精选/01-05 - 打回原形.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 250.984,
+        "fileSize": 10210815,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 251.008,
+        "bitRate": 95768,
+        "fileSize": 3052512
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

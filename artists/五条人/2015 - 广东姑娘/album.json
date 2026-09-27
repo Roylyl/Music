@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-4b7dde1468e9373a",
+  "artist": "五条人",
+  "title": "广东姑娘",
+  "releaseDate": "2015",
+  "releaseDatePrecision": "year",
+  "year": 2015,
+  "type": "studio",
+  "path": "artists/五条人/2015 - 广东姑娘",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-4b7dde1468e9373a",
+      "artist": "五条人",
+      "album": "广东姑娘",
+      "title": "广东姑娘",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 266.527,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/004SOQaZ1aDpUn",
+      "format": "MP3",
+      "localPath": "artists/五条人/2015 - 广东姑娘/01-03 - 广东姑娘.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 266.527,
+        "fileSize": 10889274,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 266.542,
+        "bitRate": 95736,
+        "fileSize": 3240127
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-8cae31a1434cf9c9",
+      "artist": "五条人",
+      "album": "广东姑娘",
+      "title": "晚上好 春天小姐",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 257.593,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/0007PvuW2GIN6W",
+      "format": "MP3",
+      "localPath": "artists/五条人/2015 - 广东姑娘/01-10 - 晚上好 春天小姐.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 257.593,
+        "fileSize": 10531571,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 257.625,
+        "bitRate": 95584,
+        "fileSize": 3126966
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

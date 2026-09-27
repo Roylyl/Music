@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-2417bb622d27be2c",
+  "artist": "陈奕迅",
+  "title": "Eason & Friends 903 ID Club 拉阔音乐会",
+  "releaseDate": "2000",
+  "releaseDatePrecision": "year",
+  "year": 2000,
+  "type": "studio",
+  "path": "artists/陈奕迅/2000 - Eason & Friends 903 ID Club 拉阔音乐会",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-2417bb622d27be2c",
+      "artist": "陈奕迅",
+      "album": "Eason & Friends 903 ID Club 拉阔音乐会",
+      "title": "遥远的她 (Live)",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 271.047,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/004SDv7c0m2uD7",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/2000 - Eason & Friends 903 ID Club 拉阔音乐会/01-02 - 遥远的她 (Live).mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 271.047,
+        "fileSize": 10960280,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 271.07,
+        "bitRate": 95408,
+        "fileSize": 3284118
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

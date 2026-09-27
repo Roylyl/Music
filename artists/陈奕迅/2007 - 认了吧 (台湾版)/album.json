@@ -1,0 +1,123 @@
+{
+  "id": "apple-album-adb3636126246cc6",
+  "artist": "陈奕迅",
+  "title": "认了吧 (台湾版)",
+  "releaseDate": "2007",
+  "releaseDatePrecision": "year",
+  "year": 2007,
+  "type": "studio",
+  "path": "artists/陈奕迅/2007 - 认了吧 (台湾版)",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-76323d9c3a136b76",
+      "artist": "陈奕迅",
+      "album": "认了吧 (台湾版)",
+      "title": "烟味",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 263.393,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=VzuztSJedlw",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/2007 - 认了吧 (台湾版)/01-01 - 烟味.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 263.393,
+        "fileSize": 10657165,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 263.36,
+        "bitRate": 128000,
+        "fileSize": 4224186
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-38b73506a91f1d3d",
+      "artist": "陈奕迅",
+      "album": "认了吧 (台湾版)",
+      "title": "淘汰",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 285.048,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=O8bTDWz8T8c",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/2007 - 认了吧 (台湾版)/01-02 - 淘汰.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 285.048,
+        "fileSize": 11524252,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 285.02,
+        "bitRate": 130000,
+        "fileSize": 4665309
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-adb3636126246cc6",
+      "artist": "陈奕迅",
+      "album": "认了吧 (台湾版)",
+      "title": "好久不见",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 250.54,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=wTIcC-OF3mk",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/2007 - 认了吧 (台湾版)/01-07 - 好久不见.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 250.54,
+        "fileSize": 10142565,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 250.5,
+        "bitRate": 140000,
+        "fileSize": 4393633
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

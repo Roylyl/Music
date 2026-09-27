@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-faf5772e13bd0db4",
+  "artist": "黄贯中",
+  "title": "黑白",
+  "releaseDate": "2001",
+  "releaseDatePrecision": "year",
+  "year": 2001,
+  "type": "studio",
+  "path": "artists/黄贯中/2001 - 黑白",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-5b9a2f6f58a592ac",
+      "artist": "黄贯中",
+      "album": "黑白",
+      "title": "忧书",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 301.897,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=tdGLjBKv7us",
+      "format": "MP3",
+      "localPath": "artists/黄贯中/2001 - 黑白/01-07 - 忧书.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 301.897,
+        "fileSize": 12233787,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 301.88,
+        "bitRate": 143000,
+        "fileSize": 5426493
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-faf5772e13bd0db4",
+      "artist": "黄贯中",
+      "album": "黑白",
+      "title": "你懂不懂?",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 310.073,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=-zl2YY-AcwY",
+      "format": "MP3",
+      "localPath": "artists/黄贯中/2001 - 黑白/01-09 - 你懂不懂？.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 310.073,
+        "fileSize": 12561174,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 310.06,
+        "bitRate": 136000,
+        "fileSize": 5291254
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

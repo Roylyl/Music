@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-9faa100a15829f95",
+  "artist": "罗大佑",
+  "title": "未来的主人翁",
+  "releaseDate": "1983",
+  "releaseDatePrecision": "year",
+  "year": 1983,
+  "type": "studio",
+  "path": "artists/罗大佑/1983 - 未来的主人翁",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-9faa100a15829f95",
+      "artist": "罗大佑",
+      "album": "未来的主人翁",
+      "title": "未来的主人翁",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 450.456,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/002yOAU6197RAE",
+      "format": "MP3",
+      "localPath": "artists/罗大佑/1983 - 未来的主人翁/01-05 - 未来的主人翁.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 450.456,
+        "fileSize": 18341716,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 450.467,
+        "bitRate": 95464,
+        "fileSize": 5459872
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

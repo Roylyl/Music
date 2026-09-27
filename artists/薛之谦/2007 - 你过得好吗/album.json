@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-926342b7755095af",
+  "artist": "薛之谦",
+  "title": "你过得好吗",
+  "releaseDate": "2007",
+  "releaseDatePrecision": "year",
+  "year": 2007,
+  "type": "studio",
+  "path": "artists/薛之谦/2007 - 你过得好吗",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-926342b7755095af",
+      "artist": "薛之谦",
+      "album": "你过得好吗",
+      "title": "苏黎世的从前",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 292.937,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/000ve1N61NKjfH",
+      "format": "MP3",
+      "localPath": "artists/薛之谦/2007 - 你过得好吗/01-01 - 苏黎世的从前.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 292.937,
+        "fileSize": 11828264,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 292.966,
+        "bitRate": 96624,
+        "fileSize": 3593689
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-9793ca3fb105c110",
+  "artist": "薛之谦",
+  "title": "怪咖",
+  "releaseDate": "2018",
+  "releaseDatePrecision": "year",
+  "year": 2018,
+  "type": "studio",
+  "path": "artists/薛之谦/2018 - 怪咖",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-9793ca3fb105c110",
+      "artist": "薛之谦",
+      "album": "怪咖",
+      "title": "摩天大楼",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 230.557,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/0026DBoG28Y4Hz",
+      "format": "MP3",
+      "localPath": "artists/薛之谦/2018 - 怪咖/01-01 - 摩天大楼.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 230.557,
+        "fileSize": 9406374,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 230.574,
+        "bitRate": 96040,
+        "fileSize": 2811889
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-e77fe7a23cacb551",
+      "artist": "薛之谦",
+      "album": "怪咖",
+      "title": "最好",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 255.556,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/0024vbNZ4bQz74",
+      "format": "MP3",
+      "localPath": "artists/薛之谦/2018 - 怪咖/01-06 - 最好.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 255.556,
+        "fileSize": 10407337,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 255.582,
+        "bitRate": 95920,
+        "fileSize": 3112921
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

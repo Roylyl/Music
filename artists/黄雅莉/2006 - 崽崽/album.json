@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-c96ae9038bd4df61",
+  "artist": "黄雅莉",
+  "title": "崽崽",
+  "releaseDate": "2006",
+  "releaseDatePrecision": "year",
+  "year": 2006,
+  "type": "studio",
+  "path": "artists/黄雅莉/2006 - 崽崽",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-c96ae9038bd4df61",
+      "artist": "黄雅莉",
+      "album": "崽崽",
+      "title": "蝴蝶泉边",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 245.238,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=xNUtIJGoDFE",
+      "format": "MP3",
+      "localPath": "artists/黄雅莉/2006 - 崽崽/01-01 - 蝴蝶泉边.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 245.238,
+        "fileSize": 9996891,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 245.2,
+        "bitRate": 135000,
+        "fileSize": 4161751
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

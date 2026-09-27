@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-225ad8e765575cc7",
+  "artist": "李荣浩",
+  "title": "耳朵",
+  "releaseDate": "2018",
+  "releaseDatePrecision": "year",
+  "year": 2018,
+  "type": "studio",
+  "path": "artists/李荣浩/2018 - 耳朵",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-225ad8e765575cc7",
+      "artist": "李荣浩",
+      "album": "耳朵",
+      "title": "年少有为",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 279.197,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/004DXFlC0nsTCZ",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2018 - 耳朵/01-07 - 年少有为.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 279.197,
+        "fileSize": 11258612,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 279.22,
+        "bitRate": 95504,
+        "fileSize": 3386264
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

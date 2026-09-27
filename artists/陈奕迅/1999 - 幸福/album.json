@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-d157e710f3cd0cd6",
+  "artist": "陈奕迅",
+  "title": "幸福",
+  "releaseDate": "1999",
+  "releaseDatePrecision": "year",
+  "year": 1999,
+  "type": "studio",
+  "path": "artists/陈奕迅/1999 - 幸福",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-d157e710f3cd0cd6",
+      "artist": "陈奕迅",
+      "album": "幸福",
+      "title": "幸福摩天轮",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 257.176,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/0040QfpG4PRDvO",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/1999 - 幸福/01-01 - 幸福摩天轮.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 257.176,
+        "fileSize": 10508725,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 257.184,
+        "bitRate": 95840,
+        "fileSize": 3129841
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

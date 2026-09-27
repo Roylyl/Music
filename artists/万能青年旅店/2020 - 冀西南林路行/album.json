@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-880832c4b431fc9f",
+  "artist": "万能青年旅店",
+  "title": "冀西南林路行",
+  "releaseDate": "2020",
+  "releaseDatePrecision": "year",
+  "year": 2020,
+  "type": "studio",
+  "path": "artists/万能青年旅店/2020 - 冀西南林路行",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-880832c4b431fc9f",
+      "artist": "万能青年旅店",
+      "album": "冀西南林路行",
+      "title": "山雀",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 198.087,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=r6cXfBnxHI4",
+      "format": "MP3",
+      "localPath": "artists/万能青年旅店/2020 - 冀西南林路行/01-05 - 山雀.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 198.087,
+        "fileSize": 8140237,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 198.033,
+        "bitRate": 0,
+        "fileSize": 3208014
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

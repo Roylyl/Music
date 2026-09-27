@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-92e50c0cf8b96b7b",
+  "artist": "安溥",
+  "title": "9522",
+  "releaseDate": "2022",
+  "releaseDatePrecision": "year",
+  "year": 2022,
+  "type": "studio",
+  "path": "artists/安溥/2022 - 9522",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-92e50c0cf8b96b7b",
+      "artist": "安溥",
+      "album": "9522",
+      "title": "最好的时光",
+      "discNumber": 2,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 235.755,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=hiOnDnHwwjU",
+      "format": "MP3",
+      "localPath": "artists/安溥/2022 - 9522/02-06 - 最好的时光.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 235.755,
+        "fileSize": 9644324,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 235.74,
+        "bitRate": 142000,
+        "fileSize": 4189565
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

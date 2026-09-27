@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-1c1c000971cc54bd",
+  "artist": "王若琳",
+  "title": "Start from Here",
+  "releaseDate": "2007",
+  "releaseDatePrecision": "year",
+  "year": 2007,
+  "type": "studio",
+  "path": "artists/王若琳/2007 - Start from Here",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-1c1c000971cc54bd",
+      "artist": "王若琳",
+      "album": "Start from Here",
+      "title": "迷宫",
+      "discNumber": 2,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 217.652,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/004eeu8v3ee26G",
+      "format": "MP3",
+      "localPath": "artists/王若琳/2007 - Start from Here/02-01 - 迷宫.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 217.652,
+        "fileSize": 8776270,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 217.664,
+        "bitRate": 95824,
+        "fileSize": 2648651
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

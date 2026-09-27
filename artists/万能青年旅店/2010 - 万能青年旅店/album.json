@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-8e9032015039afa9",
+  "artist": "万能青年旅店",
+  "title": "万能青年旅店",
+  "releaseDate": "2010",
+  "releaseDatePrecision": "year",
+  "year": 2010,
+  "type": "studio",
+  "path": "artists/万能青年旅店/2010 - 万能青年旅店",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-8e9032015039afa9",
+      "artist": "万能青年旅店",
+      "album": "万能青年旅店",
+      "title": "秦皇岛",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 481.384,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=riimzCA89bA",
+      "format": "MP3",
+      "localPath": "artists/万能青年旅店/2010 - 万能青年旅店/01-06 - 秦皇岛.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 481.384,
+        "fileSize": 19384995,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 481.36,
+        "bitRate": 138000,
+        "fileSize": 8307001
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-6a9a8ba29a216d47",
+      "artist": "万能青年旅店",
+      "album": "万能青年旅店",
+      "title": "在这颗行星所有的酒馆",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 549.486,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=cm3Lm4ftDwc",
+      "format": "MP3",
+      "localPath": "artists/万能青年旅店/2010 - 万能青年旅店/01-08 - 在这颗行星所有的酒馆.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 549.486,
+        "fileSize": 22111782,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "opus",
+        "sampleRate": 48000,
+        "channels": 2,
+        "duration": 549.46,
+        "bitRate": 134000,
+        "fileSize": 9255981
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

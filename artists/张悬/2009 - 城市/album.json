@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-58dd34c22da773cf",
+  "artist": "张悬",
+  "title": "城市",
+  "releaseDate": "2009",
+  "releaseDatePrecision": "year",
+  "year": 2009,
+  "type": "studio",
+  "path": "artists/张悬/2009 - 城市",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-58dd34c22da773cf",
+      "artist": "张悬",
+      "album": "城市",
+      "title": "关于我爱你",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 295.445,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/003W2yAh1aoHHW",
+      "format": "MP3",
+      "localPath": "artists/张悬/2009 - 城市/01-01 - 关于我爱你.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 295.445,
+        "fileSize": 11901958,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 295.474,
+        "bitRate": 95928,
+        "fileSize": 3598809
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-f694d1f3cb101269",
+      "artist": "张悬",
+      "album": "城市",
+      "title": "城市",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 285.989,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/000drDbQ3285PF",
+      "format": "MP3",
+      "localPath": "artists/张悬/2009 - 城市/01-08 - 城市.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 285.989,
+        "fileSize": 11523320,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 286.0,
+        "bitRate": 95928,
+        "fileSize": 3483379
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}
