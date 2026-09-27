@@ -3,62 +3,78 @@
   "project_profile": "Dataset",
   "claims": [
     {
-      "id": "mapping",
-      "quote": "500首，各自对应一个独立MP3",
+      "id": "current-counts",
+      "quote": "截至2026年9月27日，总目录包含155个发行条目、698条版本化曲目记录。其中691条有本地MP3文件，另有7条暂未取得本地音轨（6条标记为`missing`，1条为`streaming-only`）。播放器索引收录691条可播放曲目。",
       "level": "implementation",
-      "reasoning": "本次脚本遍历全部曲目，检查实际MP3、唯一引用、资产列表及同曲序文件；仅证明文件映射。",
+      "reasoning": "本次曲目检查脚本从当前library.json、tracks.json和文件系统生成统计；它没有验证录音内容。",
       "evidence": [
         {
           "path": "reports/track-file-audit.json",
-          "excerpt": "\"validLocalTrackMapping\": true"
+          "excerpt": "\"albumEntries\": 155,\n  \"catalogTracks\": 698,\n  \"localTracks\": 691,\n  \"uniqueTrackPaths\": 691,\n  \"physicalMP3Files\": 693,\n  \"noLocalAudio\": 7,"
         }
       ]
     },
     {
-      "id": "counts",
-      "quote": "2026年9月27日本地检查：总索引包含44个发行条目、507条曲目记录，其中500条已有本地音频。",
+      "id": "physical-files",
+      "quote": "当前仓库共有693个MP3文件：691个编目分轨，以及《这个世界会好吗》的完整来源音轨和《我们也爱南京》的独立长录音。",
       "level": "implementation",
-      "reasoning": "报告来自当前总索引及文件系统。",
+      "reasoning": "检查报告列出额外两份独立MP3路径；691条是曲目索引条目。",
       "evidence": [
         {
           "path": "reports/track-file-audit.json",
-          "excerpt": "\"albumEntries\": 44,\n  \"catalogTracks\": 507,\n  \"localTracks\": 500,"
-        }
-      ]
-    },
-    {
-      "id": "physical",
-      "quote": "502个：500首曲目及2份独立长录音",
-      "level": "implementation",
-      "reasoning": "当前500个主音轨文件之外，保留两份用户指定的独立长录音。",
-      "evidence": [
+          "excerpt": "\"physicalMP3Files\": 693,"
+        },
         {
           "path": "reports/track-file-audit.json",
-          "excerpt": "\"physicalMP3Files\": 502,"
+          "excerpt": "\"independentRecordings\": ["
         }
       ]
     },
     {
-      "id": "playlist",
-      "quote": "500条，与本地曲目路径一致",
+      "id": "export-fields",
+      "quote": "`tracks.json`只列出有本地音频的曲目，包含`id`、`title`、`artist`、`album`、`src`、`cover`、`duration`等字段；`duration`单位为秒。",
       "level": "implementation",
-      "reasoning": "检查执行成功且errors为空，核对ID与src，不代表网页端播放测试。",
+      "reasoning": "导出脚本跳过localPath为空的曲目，输出所述字段；时间单位由目录字段定义。",
       "evidence": [
         {
-          "path": "scripts/check_track_files.py",
-          "excerpt": "if set(actual) != expected or len(actual) != len(expected): errors.append({'kind': 'playlist-mapping-mismatch'})"
+          "path": "scripts/export_tracks.py",
+          "excerpt": "if not t['localPath'] or (args.public and not t.get('redistributionAllowed')):continue"
+        },
+        {
+          "path": "scripts/export_tracks.py",
+          "excerpt": "'duration':t['duration'],'src':src"
         }
       ]
     },
     {
-      "id": "encoding",
-      "quote": "音频整理目标为MP3固定码率320kbps、44.1kHz",
-      "level": "implementation",
-      "reasoning": "仅描述目标规格和已有转换记录，本次未重新解码或验证全库编码。",
+      "id": "encoding-policy",
+      "quote": "资料库的整理目标是44.1kHz、固定码率320kbps；该规格描述保存文件的编码，不代表低码率来源被转码后恢复了细节。",
+      "level": "configuration",
+      "reasoning": "播放策略配置写明输出格式、码率和采样率；后半句解释有损转码的物理限制。",
       "evidence": [
         {
           "path": "library.json",
-          "excerpt": "\"playbackPolicy\": {"
+          "excerpt": "\"format\": \"MP3\",\n    \"bitRate\": 320000,\n    \"sampleRate\": 44100"
+        }
+      ]
+    },
+    {
+      "id": "audit-limit",
+      "quote": "截至上述检查，691个播放器路径都对应实际文件，且没有重复路径；完整检查仍报告191条已有音源曲目的`assets`资产明细未与主路径同步，另有3份`album.json`与总目录存在文字字段差异。",
+      "level": "implementation",
+      "reasoning": "报告691个唯一曲目路径、191条仅含active-assets-not-single-matching-file的错误、3条album-json-differs-from-library提示；逐曲路径错误项为空。",
+      "evidence": [
+        {
+          "path": "reports/track-file-audit.json",
+          "excerpt": "\"uniqueTrackPaths\": 691,"
+        },
+        {
+          "path": "reports/track-file-audit.json",
+          "excerpt": "\"active-assets-not-single-matching-file\""
+        },
+        {
+          "path": "reports/track-file-audit.json",
+          "excerpt": "\"album-json-differs-from-library\""
         }
       ]
     }
