@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-78ba326e6c643b46",
+  "artist": "罗大佑",
+  "title": "大事发声.录音棚现场: 罗大佑 专场 (超级版)",
+  "releaseDate": "2018",
+  "releaseDatePrecision": "year",
+  "year": 2018,
+  "type": "studio",
+  "path": "artists/罗大佑/2018 - 大事发声.录音棚现场： 罗大佑 专场 (超级版)",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-78ba326e6c643b46",
+      "artist": "罗大佑",
+      "album": "大事发声.录音棚现场: 罗大佑 专场 (超级版)",
+      "title": "之乎者也 (feat. 李志) [Live]",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 235.468,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=eZtELysuafI",
+      "format": "MP3",
+      "localPath": "artists/罗大佑/2018 - 大事发声.录音棚现场： 罗大佑 专场 (超级版)/01-07 - 之乎者也 (feat. 李志) [Live].mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 235.468,
+        "fileSize": 9615396,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 235.474,
+        "bitRate": 0,
+        "fileSize": 3810034
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

@@ -46,6 +46,42 @@
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
       "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-73fc82f49f539126",
+      "artist": "李荣浩",
+      "album": "有理想",
+      "title": "不将就 (电影《何以笙箫默》片尾曲)",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 313.051,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/000edAg12jLBrN",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2015 - 有理想/01-07 - 不将就 (电影《何以笙箫默》片尾曲).mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 313.051,
+        "fileSize": 12627143,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 313.075,
+        "bitRate": 95952,
+        "fileSize": 3813885
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
     }
   ]
 }

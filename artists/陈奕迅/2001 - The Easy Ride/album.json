@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-e033ccb94ee176f1",
+  "artist": "陈奕迅",
+  "title": "The Easy Ride",
+  "releaseDate": "2001",
+  "releaseDatePrecision": "year",
+  "year": 2001,
+  "type": "studio",
+  "path": "artists/陈奕迅/2001 - The Easy Ride",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-9533f1d7f0504348",
+      "artist": "陈奕迅",
+      "album": "The Easy Ride",
+      "title": "大开眼戒",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 250.984,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001mc13y4UPfIS",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/2001 - The Easy Ride/01-04 - 大开眼戒.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 250.984,
+        "fileSize": 10177279,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 251.008,
+        "bitRate": 95768,
+        "fileSize": 3052512
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-e033ccb94ee176f1",
+      "artist": "陈奕迅",
+      "album": "The Easy Ride",
+      "title": "不知所谓",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 201.874,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001R7mQu1qd1UW",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/2001 - The Easy Ride/01-11 - 不知所谓.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 201.874,
+        "fileSize": 8210909,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 201.898,
+        "bitRate": 96256,
+        "fileSize": 2467818
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

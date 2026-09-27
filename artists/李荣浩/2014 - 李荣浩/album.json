@@ -84,6 +84,42 @@
       "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
     },
     {
+      "id": "apple-2587c67542be41e5",
+      "artist": "李荣浩",
+      "album": "李荣浩",
+      "title": "不搭",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 287.869,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/004Ye9Bm1zYsZ3",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2014 - 李荣浩/01-04 - 不搭.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 287.869,
+        "fileSize": 11697339,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 287.881,
+        "bitRate": 95400,
+        "fileSize": 3487271
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
       "id": "apple-b191d8ad110e5eb2",
       "artist": "李荣浩",
       "album": "李荣浩",

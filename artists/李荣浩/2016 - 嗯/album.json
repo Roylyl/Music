@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-e4df09c4e3f7525d",
+  "artist": "李荣浩",
+  "title": "嗯",
+  "releaseDate": "2016",
+  "releaseDatePrecision": "year",
+  "year": 2016,
+  "type": "studio",
+  "path": "artists/李荣浩/2016 - 嗯",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-e4df09c4e3f7525d",
+      "artist": "李荣浩",
+      "album": "嗯",
+      "title": "不说 (电影《从你的全世界路过》路过版主题曲)",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 326.609,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.bilibili.com/video/BV1aw411r7Fk/?p=17",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2016 - 嗯/01-10 - 不说 (电影《从你的全世界路过》路过版主题曲).mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 326.609,
+        "fileSize": 13166298,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 326.57,
+        "bitRate": 113850,
+        "fileSize": 4714532
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

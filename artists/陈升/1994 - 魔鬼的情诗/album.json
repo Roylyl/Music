@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-48d080cc0e5d18ca",
+  "artist": "陈升",
+  "title": "魔鬼的情诗",
+  "releaseDate": "1994",
+  "releaseDatePrecision": "year",
+  "year": 1994,
+  "type": "studio",
+  "path": "artists/陈升/1994 - 魔鬼的情诗",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-48d080cc0e5d18ca",
+      "artist": "陈升",
+      "album": "魔鬼的情诗",
+      "title": "不再让你孤单",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 334.211,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=R98HCP9Ok5E",
+      "format": "MP3",
+      "localPath": "artists/陈升/1994 - 魔鬼的情诗/01-01 - 不再让你孤单.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 334.211,
+        "fileSize": 13569196,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 334.182,
+        "bitRate": 0,
+        "fileSize": 5943610
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

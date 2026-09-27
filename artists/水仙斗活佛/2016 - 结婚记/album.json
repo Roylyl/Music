@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-3c72faef88dd08c6",
+  "artist": "水仙斗活佛",
+  "title": "结婚记",
+  "releaseDate": "2016",
+  "releaseDatePrecision": "year",
+  "year": 2016,
+  "type": "studio",
+  "path": "artists/水仙斗活佛/2016 - 结婚记",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-3c72faef88dd08c6",
+      "artist": "水仙斗活佛",
+      "album": "结婚记",
+      "title": "结婚记",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 410.932,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=fLieShhwSdw",
+      "format": "MP3",
+      "localPath": "artists/水仙斗活佛/2016 - 结婚记/01-01 - 结婚记.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 410.932,
+        "fileSize": 16553351,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 410.9,
+        "bitRate": 0,
+        "fileSize": 18391977
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

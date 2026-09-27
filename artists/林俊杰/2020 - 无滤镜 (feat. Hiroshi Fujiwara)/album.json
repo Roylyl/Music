@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-e9f83e70b9d88800",
+  "artist": "林俊杰",
+  "title": "无滤镜 (feat. Hiroshi Fujiwara)",
+  "releaseDate": "2020",
+  "releaseDatePrecision": "year",
+  "year": 2020,
+  "type": "studio",
+  "path": "artists/林俊杰/2020 - 无滤镜 (feat. Hiroshi Fujiwara)",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-e9f83e70b9d88800",
+      "artist": "林俊杰",
+      "album": "无滤镜 (feat. Hiroshi Fujiwara)",
+      "title": "无滤镜 (feat. Hiroshi Fujiwara)",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 214.674,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.bilibili.com/video/BV1Y1HjzGESL/?p=116",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2020 - 无滤镜 (feat. Hiroshi Fujiwara)/01-01 - 无滤镜 (feat. Hiroshi Fujiwara).mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 214.674,
+        "fileSize": 8756456,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 214.65,
+        "bitRate": 49264,
+        "fileSize": 1365590
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

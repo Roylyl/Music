@@ -190,6 +190,42 @@
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
       "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-f0a98cb9d0e408e5",
+      "artist": "薛之谦",
+      "album": "尘",
+      "title": "陪你去流浪",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 274.469,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.bilibili.com/video/BV1Hk4y1W7MJ/?p=18",
+      "format": "MP3",
+      "localPath": "artists/薛之谦/2019 - 尘/01-07 - 陪你去流浪.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 274.469,
+        "fileSize": 11200154,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 274.44,
+        "bitRate": 103738,
+        "fileSize": 3615818
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
     }
   ]
 }

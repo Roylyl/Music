@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-bfd4da1790bb8b54",
+  "artist": "d4vd",
+  "title": "Here With Me",
+  "releaseDate": "2022",
+  "releaseDatePrecision": "year",
+  "year": 2022,
+  "type": "studio",
+  "path": "artists/d4vd/2022 - Here With Me",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-bfd4da1790bb8b54",
+      "artist": "d4vd",
+      "album": "Here With Me",
+      "title": "Here With Me",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 242.547,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/004WrQ7R2plaXq",
+      "format": "MP3",
+      "localPath": "artists/d4vd/2022 - Here With Me/01-01 - Here With Me.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 242.547,
+        "fileSize": 9832563,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 242.556,
+        "bitRate": 95880,
+        "fileSize": 2953152
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

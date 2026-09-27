@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-633f5e8a554f9f94",
+  "artist": "杨千嬅",
+  "title": "Play It Loud Kiss Me Soft",
+  "releaseDate": "2000",
+  "releaseDatePrecision": "year",
+  "year": 2000,
+  "type": "studio",
+  "path": "artists/杨千嬅/2000 - Play It Loud Kiss Me Soft",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-633f5e8a554f9f94",
+      "artist": "杨千嬅",
+      "album": "Play It Loud Kiss Me Soft",
+      "title": "少女的祈祷",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 211.043,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/002NSXlp0EgNJC",
+      "format": "MP3",
+      "localPath": "artists/杨千嬅/2000 - Play It Loud Kiss Me Soft/01-02 - 少女的祈祷.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 211.043,
+        "fileSize": 8569034,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 211.069,
+        "bitRate": 96480,
+        "fileSize": 2585726
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

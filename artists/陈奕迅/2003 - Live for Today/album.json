@@ -48,6 +48,42 @@
       "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
     },
     {
+      "id": "apple-5d232f920f31a925",
+      "artist": "陈奕迅",
+      "album": "Live for Today",
+      "title": "十面埋伏",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 232.176,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/000lVKbP3bCwxu",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/2003 - Live for Today/01-03 - 十面埋伏.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 232.176,
+        "fileSize": 9479465,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 232.2,
+        "bitRate": 96144,
+        "fileSize": 2834668
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    },
+    {
       "id": "apple-29c0294e47bc52e4",
       "artist": "陈奕迅",
       "album": "Live for Today",

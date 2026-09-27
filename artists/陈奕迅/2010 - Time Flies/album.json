@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-b544238dd80d2bde",
+  "artist": "陈奕迅",
+  "title": "Time Flies",
+  "releaseDate": "2010",
+  "releaseDatePrecision": "year",
+  "year": 2010,
+  "type": "studio",
+  "path": "artists/陈奕迅/2010 - Time Flies",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-b544238dd80d2bde",
+      "artist": "陈奕迅",
+      "album": "Time Flies",
+      "title": "陀飞轮",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 278.178,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/002DuX1l4ddL5I",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/2010 - Time Flies/01-03 - 陀飞轮.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 278.178,
+        "fileSize": 11248159,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 278.198,
+        "bitRate": 95208,
+        "fileSize": 3363353
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

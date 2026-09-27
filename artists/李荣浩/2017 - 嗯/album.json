@@ -1,0 +1,87 @@
+{
+  "id": "apple-album-bf6bc240301d0c39",
+  "artist": "李荣浩",
+  "title": "嗯",
+  "releaseDate": "2017",
+  "releaseDatePrecision": "year",
+  "year": 2017,
+  "type": "studio",
+  "path": "artists/李荣浩/2017 - 嗯",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-3b8dceba97146887",
+      "artist": "李荣浩",
+      "album": "嗯",
+      "title": "我看着你的时候",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 294.4,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.bilibili.com/video/BV14g4y177Hx/?p=22",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2017 - 嗯/01-05 - 我看着你的时候.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 294.4,
+        "fileSize": 11876617,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 294.36,
+        "bitRate": 186755,
+        "fileSize": 6932728
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-bf6bc240301d0c39",
+      "artist": "李荣浩",
+      "album": "嗯",
+      "title": "戒烟",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 293.956,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.bilibili.com/video/BV183CRB1EYm/?p=7",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2017 - 嗯/01-08 - 戒烟.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 293.956,
+        "fileSize": 11858825,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 293.92,
+        "bitRate": 102256,
+        "fileSize": 3835836
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

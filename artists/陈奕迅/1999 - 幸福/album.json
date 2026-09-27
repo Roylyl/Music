@@ -46,6 +46,42 @@
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
       "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-9239743cad5e18f8",
+      "artist": "陈奕迅",
+      "album": "幸福",
+      "title": "时光倒流二十年",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 206.393,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001qsNLY0uSxqF",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/1999 - 幸福/01-03 - 时光倒流二十年.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 206.393,
+        "fileSize": 8475415,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 206.425,
+        "bitRate": 96096,
+        "fileSize": 2519030
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
     }
   ]
 }

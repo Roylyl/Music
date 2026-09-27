@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-4f490116f03031e3",
+  "artist": "许嵩",
+  "title": "寻宝游戏",
+  "releaseDate": "2018",
+  "releaseDatePrecision": "year",
+  "year": 2018,
+  "type": "studio",
+  "path": "artists/许嵩/2018 - 寻宝游戏",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-4f490116f03031e3",
+      "artist": "许嵩",
+      "album": "寻宝游戏",
+      "title": "九月清晨",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 236.121,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/003dgNkG1i12cJ",
+      "format": "MP3",
+      "localPath": "artists/许嵩/2018 - 寻宝游戏/01-04 - 九月清晨.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 236.121,
+        "fileSize": 9712294,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 236.147,
+        "bitRate": 96480,
+        "fileSize": 2892789
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

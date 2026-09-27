@@ -82,6 +82,42 @@
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
       "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-805c6f238218e8fd",
+      "artist": "李荣浩",
+      "album": "纵横四海",
+      "title": "对等关系 (feat. 张惠妹)",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 327.393,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.bilibili.com/video/BV14g4y177Hx/?p=10",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2021 - 纵横四海/01-05 - 对等关系 (feat. 张惠妹).mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 327.393,
+        "fileSize": 13248627,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 327.35,
+        "bitRate": 173093,
+        "fileSize": 7150212
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
     }
   ]
 }

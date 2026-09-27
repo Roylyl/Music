@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-db9b7347ec035d11",
+  "artist": "鲍家街43号",
+  "title": "摇滚北京 3",
+  "releaseDate": "1997",
+  "releaseDatePrecision": "year",
+  "year": 1997,
+  "type": "studio",
+  "path": "artists/鲍家街43号/1997 - 摇滚北京 3",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-db9b7347ec035d11",
+      "artist": "鲍家街43号",
+      "album": "摇滚北京 3",
+      "title": "晚安,北京",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 387.291,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/002Pwtx93DundG",
+      "format": "MP3",
+      "localPath": "artists/鲍家街43号/1997 - 摇滚北京 3/01-01 - 晚安,北京.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 387.291,
+        "fileSize": 15686407,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 387.309,
+        "bitRate": 95632,
+        "fileSize": 4702349
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

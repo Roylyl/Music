@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-c0a5a3ade10e4c68",
+  "artist": "贰佰",
+  "title": "嘿,抬头!",
+  "releaseDate": "2017",
+  "releaseDatePrecision": "year",
+  "year": 2017,
+  "type": "studio",
+  "path": "artists/贰佰/2017 - 嘿,抬头!",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-c0a5a3ade10e4c68",
+      "artist": "贰佰",
+      "album": "嘿,抬头!",
+      "title": "的青春",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 239.543,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001NB8fm0dk0fW",
+      "format": "MP3",
+      "localPath": "artists/贰佰/2017 - 嘿,抬头!/01-09 - 的青春.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 239.543,
+        "fileSize": 9763962,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 239.56,
+        "bitRate": 96208,
+        "fileSize": 2926550
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

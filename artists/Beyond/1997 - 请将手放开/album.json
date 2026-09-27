@@ -156,6 +156,42 @@
       "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
     },
     {
+      "id": "apple-6e02b84c7a911691",
+      "artist": "Beyond",
+      "album": "请将手放开",
+      "title": "我的知己在街头 (Instrumental Version)",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 42.162,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=NIOkdqL5j94",
+      "format": "MP3",
+      "localPath": "artists/Beyond/1997 - 请将手放开/01-10 - 我的知己在街头 (Instrumental Version).mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 42.162,
+        "fileSize": 1938340,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 42.121,
+        "bitRate": 0,
+        "fileSize": 963032
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    },
+    {
       "id": "apple-a8aeb95223356750",
       "artist": "Beyond",
       "album": "请将手放开",
@@ -190,6 +226,42 @@
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
       "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-1460dedf8af8d8a7",
+      "artist": "Beyond",
+      "album": "请将手放开",
+      "title": "旧历 (Instrumental Version)",
+      "discNumber": 1,
+      "trackNumber": 13,
+      "sequenceNumber": 13,
+      "duration": 279.118,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.youtube.com/watch?v=-jusLcqp1OM",
+      "format": "MP3",
+      "localPath": "artists/Beyond/1997 - 请将手放开/01-13 - 旧历 (Instrumental Version).mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 279.118,
+        "fileSize": 11426077,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 279.081,
+        "bitRate": 0,
+        "fileSize": 5731947
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
     }
   ]
 }

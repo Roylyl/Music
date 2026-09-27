@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-567b4543af00e6f1",
+  "artist": "鹿先森乐队",
+  "title": "所有的酒, 都不如你",
+  "releaseDate": "2016",
+  "releaseDatePrecision": "year",
+  "year": 2016,
+  "type": "studio",
+  "path": "artists/鹿先森乐队/2016 - 所有的酒, 都不如你",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-567b4543af00e6f1",
+      "artist": "鹿先森乐队",
+      "album": "所有的酒, 都不如你",
+      "title": "春风十里",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 375.98,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/00137PsH37ByvH",
+      "format": "MP3",
+      "localPath": "artists/鹿先森乐队/2016 - 所有的酒, 都不如你/01-08 - 春风十里.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 375.98,
+        "fileSize": 15194454,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 376.001,
+        "bitRate": 96696,
+        "fileSize": 4615219
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

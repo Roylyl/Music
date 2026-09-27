@@ -1,0 +1,51 @@
+{
+  "id": "apple-album-7f4c77930bc5579f",
+  "artist": "陈奕迅",
+  "title": "时代曲 (华星40 复刻系列)",
+  "releaseDate": "1996",
+  "releaseDatePrecision": "year",
+  "year": 1996,
+  "type": "studio",
+  "path": "artists/陈奕迅/1996 - 时代曲 (华星40 复刻系列)",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "tracklistCompleteness": "partial",
+  "tracks": [
+    {
+      "id": "apple-7f4c77930bc5579f",
+      "artist": "陈奕迅",
+      "album": "时代曲 (华星40 复刻系列)",
+      "title": "当心中有恋爱感觉",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 295.105,
+      "sourceStatus": "available",
+      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/000piIEm2mxUgL",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅/1996 - 时代曲 (华星40 复刻系列)/01-10 - 当心中有恋爱感觉.mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 295.105,
+        "fileSize": 11881124,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 295.126,
+        "bitRate": 95664,
+        "fileSize": 3584722
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+    }
+  ]
+}

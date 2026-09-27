@@ -46,6 +46,42 @@
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
       "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+    },
+    {
+      "id": "apple-31f361d2b6ec0d4b",
+      "artist": "李荣浩",
+      "album": "耳朵",
+      "title": "成长之重量 (电影 \"动物世界\" 态度版片尾曲)",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 337.685,
+      "sourceStatus": "available",
+      "sourceUrl": "https://www.bilibili.com/video/BV183CRB1EYm/?p=17",
+      "format": "MP3",
+      "localPath": "artists/李荣浩/2018 - 耳朵/01-08 - 成长之重量 (电影 ＂动物世界＂ 态度版片尾曲).mp3",
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 337.685,
+        "fileSize": 13600519,
+        "bitRate": 320000
+      },
+      "sourceAudioProperties": {
+        "codec": "mp4a.40.2",
+        "sampleRate": 44100,
+        "channels": 2,
+        "duration": 337.64,
+        "bitRate": 107325,
+        "fileSize": 4620479
+      },
+      "transcodedFromLossy": true,
+      "suspected_transcode": false,
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
     }
   ]
 }
