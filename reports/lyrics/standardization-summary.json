@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-09-29",
+  "tracksInLibrary": 848,
+  "existingLyricFilesReviewed": 516,
+  "lyricsWithTimestamps": 492,
+  "lyricsWithoutTimestamps": 24,
+  "headersMatchedToTracksJson": 516,
+  "duplicateTitleRowsRemaining": 0,
+  "lyricUrlsRemaining": 0,
+  "timestampOrderErrors": 0,
+  "filesWithStructuredCredits": 327,
+  "filesWithoutStructuredCredits": 189,
+  "creditSourceReport": "reports/lyrics/credit-sources.tsv",
+  "lyricsWithExternallySourcedCredits": 70,
+  "lyricsWithCreditsInheritedFromMatchingStudioTracks": 95,
+  "uniqueLyricPathsWithCreditSources": 159,
+  "tracksWithoutLyricFiles": 332,
+  "complete": false,
+  "note": "现有歌词文件已完成繁简及重复标题清理；可靠来源覆盖仍不完整，未确认的词曲/乐手信息未猜填。332首无LRC音轨没有在此任务中补歌词。"
+}
