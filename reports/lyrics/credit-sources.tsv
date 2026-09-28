@@ -1,78 +1,165 @@
 lyricPath	source	creditsAdded
 artists/AC／DC/1980 - Back In Black/01-01 - Back In Black.lrc	https://musicbrainz.org/release/bf20db7b-9c70-4c76-b2c4-a2c9f778603f	鼓：Phil Rudd;贝斯：Cliff Williams;吉他：Angus Young、Malcolm Young;制作：Robert John “Mutt” Lange
-artists/Justin Bieber/2020 - Changes/01-01 - All Around Me.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e	吉他：Sasha Sirota;制作：Josh Gudwin、Poo Bear、Sasha Sirota
-artists/Justin Bieber/2020 - Changes/01-02 - Habitual.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e	鼓：Tainy;贝斯：Tainy;键盘：Tainy;制作：Josh Gudwin、Poo Bear、Tainy
-artists/Justin Bieber/2020 - Changes/01-03 - Come Around Me.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e	制作：The Audibles、Josh Gudwin、Poo Bear
-artists/Justin Bieber/2020 - Changes/01-05 - Yummy.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e	制作：Josh Gudwin、Kid Culture、Poo Bear、Sasha Sirota
-artists/Justin Bieber/2020 - Changes/01-06 - Available.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e	键盘：HARV;制作：Josh Gudwin、HARV、Javelle McGee、Poo Bear
-artists/Justin Bieber/2020 - Changes/01-09 - Take It Out On Me.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e	键盘：Kid Culture;制作：Josh Gudwin、Kid Culture、Poo Bear
-artists/Justin Bieber/2020 - Changes/01-12 - ETA.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e	键盘：Phil Beaudreau;贝斯：Phil Beaudreau;吉他：Tom Strahle;制作：Phil Beaudreau、Josh Gudwin、Poo Bear、Tom Strahle
-artists/Justin Bieber/2020 - Changes/01-13 - Changes.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e	吉他：Nasri;制作：Josh Gudwin、Adam Messinger、Nasri、Poo Bear
-artists/Justin Bieber/2020 - Changes/01-14 - Confirmation.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e	键盘：Mo‐Keyz;制作：Josh Gudwin、Poo Bear、Sons of Sonix
-artists/Justin Bieber/2020 - Changes/01-15 - That's What Love Is.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e	吉他：Sasha Sirota;制作：Josh Gudwin、Poo Bear、Sasha Sirota
-artists/Justin Bieber/2020 - Changes/01-16 - At Least For Now.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e	键盘：HARV;贝斯：HARV;制作：Josh Gudwin、HARV、Poo Bear、Joshua Williams
+artists/Beyond/1989 - 真的见证/01-01 - 岁月无声.lrc	https://musicbrainz.org/release/056d476a-338a-4656-8c85-2cedac8f20b5	词：刘卓辉；曲：黄家驹；编曲：Beyond；制作：Beyond、Gordon O’Yang；演唱：黄家驹；合成器：周启生
+artists/Beyond/1992 - 继续革命/01-01 - 长城.lrc	https://musicbrainz.org/release/835b1079-2856-4e53-804a-6dae0d64edc1	词：刘卓辉；曲：黄家驹；编曲：Beyond、梁邦彦；制作：梁邦彦
+artists/Justin Bieber/2020 - Changes/01-01 - All Around Me.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e; https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	吉他：Sasha Sirota;制作：Josh Gudwin、Poo Bear、Sasha Sirota；词曲：Justin Bieber、Jason Boyd、Sasha Sirota；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-02 - Habitual.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e; https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	鼓：Tainy;贝斯：Tainy;键盘：Tainy;制作：Josh Gudwin、Poo Bear、Tainy；词曲：Justin Bieber、Jason Boyd、Josh Gudwin、Tainy；和声：Poo Bear；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-03 - Come Around Me.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e; https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	制作：The Audibles、Josh Gudwin、Poo Bear；词曲：Justin Bieber、Jason Boyd、Jimmy Giannos、Dominic Jordan；和声：Poo Bear；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-04 - Intentions.lrc	https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	词曲：Justin Bieber、Jason Boyd、Jimmy Giannos、Dominic Jordan、Quavo；制作：The Audibles、Josh Gudwin、Poo Bear；和声：Poo Bear；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-05 - Yummy.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e; https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	制作：Josh Gudwin、Kid Culture、Poo Bear、Sasha Sirota；词曲：Justin Bieber、Jason Boyd、Ashley Joi、Kid Culture、Sasha Sirota；混音：Josh Gudwin、Elijah Marrett-Hitch
+artists/Justin Bieber/2020 - Changes/01-06 - Available.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e; https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	键盘：HARV;制作：Josh Gudwin、HARV、Javelle McGee、Poo Bear；词曲：Justin Bieber、Jason Boyd、HARV、Ashley Joi、Javelle McGee、Derrick Milano；和声：Poo Bear；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-07 - Forever.lrc	https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	词曲：Louis Bell、Justin Bieber、Jason Boyd、Clever、Ali Darwish、HARV、Post Malone、Billy Walsh；制作：Louis Bell、Josh Gudwin、HARV、Poo Bear；键盘：HARV；录音：Louis Bell；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-08 - Running Over.lrc	https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	词曲：Justin Bieber、Jason Boyd、David Burd、Jimmy Giannos、Dominic Jordan；制作：The Audibles、Josh Gudwin、Poo Bear；录音：David Burd；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-09 - Take It Out On Me.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e; https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	键盘：Kid Culture;制作：Josh Gudwin、Kid Culture、Poo Bear；词曲：Maneesh Bidaye、Justin Bieber、Jason Boyd、Benjamin Bush、Daniel Daley、Kid Culture、Majid Al Maskati、Nineteen85、Static Major、Timbaland；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-10 - Second Emotion.lrc	https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	词曲：Justin Bieber、Jason Boyd、Jimmy Giannos、Dominic Jordan、Travis Scott；制作：The Audibles、Josh Gudwin、Poo Bear；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-11 - Get Me.lrc	https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	词曲：Justin Bieber、Boi‐1da、Jason Boyd、Cvre、Jahaan Sweet、Vinylz；制作：Boi‐1da、Cvre、Josh Gudwin、Poo Bear、Jahaan Sweet、Vinylz；吉他：Cvre；贝斯：Cvre；键盘：Cvre；录音：Mark Parsift；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-12 - ETA.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e; https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	键盘：Phil Beaudreau;贝斯：Phil Beaudreau;吉他：Tom Strahle;制作：Phil Beaudreau、Josh Gudwin、Poo Bear、Tom Strahle；词曲：Phil Beaudreau、Justin Bieber、Jason Boyd、Josh Gudwin、Tom Strahle；和声：Phil Beaudreau；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-13 - Changes.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e; https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	吉他：Nasri;制作：Josh Gudwin、Adam Messinger、Nasri、Poo Bear；词曲：Justin Bieber、Jason Boyd、Derrick Carrington Gray、HARV、Ashley Joi、Javelle McGee、Adam Messinger、Nasri；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-14 - Confirmation.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e; https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	键盘：Mo‐Keyz;制作：Josh Gudwin、Poo Bear、Sons of Sonix；词曲：Justin Bieber、Jason Boyd、Mikey、Mo‐Keyz；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-15 - That's What Love Is.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e; https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	吉他：Sasha Sirota;制作：Josh Gudwin、Poo Bear、Sasha Sirota；词曲：Justin Bieber、Jason Boyd、Courtney Sills、Sasha Sirota；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-16 - At Least For Now.lrc	https://musicbrainz.org/release/ca4ad136-ba95-481c-9a99-ebf4ec4d9f8e; https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	键盘：HARV;贝斯：HARV;制作：Josh Gudwin、HARV、Poo Bear、Joshua Williams；词曲：Justin Bieber、Jason Boyd、HARV、Joshua Williams；混音：Josh Gudwin
+artists/Justin Bieber/2020 - Changes/01-17 - Yummy (Summer Walker Remix).lrc	https://musicbrainz.org/release/0c194f7e-550c-4e95-af23-2963c2181389	词曲：Justin Bieber、Jason Boyd、Ashley Joi、Kid Culture、Sasha Sirota、Summer Walker；制作：Kid Culture、Poo Bear、Sasha Sirota；录音：Josh Gudwin、Chris “Tek” O’Ryan、Chenao Wang；混音：Roark Bailey、Josh Gudwin、Elijah Marrett-Hitch
+artists/万能青年旅店/2020 - 冀西南林路行/01-05 - 山雀.lrc	https://musicbrainz.org/release/9a9973e5-d386-4ae6-8713-36b35203e4df	词：姬赓；曲：董亚千；演唱：董亚千；电吉他：董亚千
+artists/五条人/2015 - 广东姑娘/01-10 - 晚上好 春天小姐.lrc	https://musicbrainz.org/release/00590b10-01a8-47c2-8c9c-88974a79395a	词：仁科、茂涛；曲：仁科、茂涛
+artists/周杰伦/2022 - 最伟大的作品/01-07 - Mojito.lrc	https://musicbrainz.org/release/20e15d93-7ad2-4e9a-8f7a-b990c8a88220	词：黄俊郎；曲：周杰伦
+artists/回春丹/2023 - 鲜花/01-01 - 鲜花.lrc	https://musicbrainz.org/release/14a509f3-345f-4077-8320-8bad3dca546c	监制：杜文清、时萌；录音：张炜@33AW Recording studio、王大治；制作：回春丹 、 韦伟；和声：刘禹彤 、 简丹 、 韦高飞 、 张炜 、 莫皓；吉他：刘西蒙 、 韦高飞；制作：回春丹、韦伟；和声：刘禹彤、简丹、韦高飞、张炜、莫皓；吉他：刘西蒙、韦高飞
+artists/宋冬野/2026 - 再想想/01-02 - 与我交谈.lrc	https://musicbrainz.org/release/5fa0eac9-ae9f-4939-9a02-96b5f757171c	制作：宋冬野、邢江波；录音：宋冬野、夏佳、文智涌
+artists/宋冬野/2026 - 再想想/01-10 - 再想想.lrc	https://musicbrainz.org/release/5fa0eac9-ae9f-4939-9a02-96b5f757171c	制作：宋冬野、邢江波；录音：Simone Schirru、于洋、王海琛
+artists/张国荣/2010 - 陪你倒数/01-03 - 春夏秋冬.lrc	https://musicbrainz.org/release/08ee29f3-877e-43ce-8ade-3603897fbd24	词：林振强；曲：叶良俊；制作：张国荣、Alvin Leong；演唱：张国荣
+artists/张学友/1986 - Amour ／ 遥远的她/01-07 - 遥远的她.lrc	https://musicbrainz.org/release/44a00be4-fcd7-464e-a5d2-ec178761e158	词：潘源良；曲：谷村新司；制作：欧丁玉；演唱：张学友
+artists/张悬/2009 - 城市/01-08 - 城市.lrc	https://musicbrainz.org/release/17bbedb7-ed5e-4648-be76-720e5dc95c23	词：张悬；曲：张悬
 artists/李宗盛/2013 - 山丘/01-01 - 山丘.lrc	https://musicbrainz.org/release/9ef31892-3185-48b1-9f29-5137d0549217	编曲：李宗盛;鼓：Gary Gideon;贝斯：Jingles;吉他：李宗盛、高山一也;键盘：Mac Chew
-artists/李志/2014 - 1701/01-01 - 大象.lrc	https://musicbrainz.org/release/07cb3427-dc88-473d-bd2a-77e2114d40e4	编曲：李志
-artists/李志/2014 - 1701/01-03 - 定西.lrc	https://musicbrainz.org/release/07cb3427-dc88-473d-bd2a-77e2114d40e4	编曲：李志
-artists/李志/2014 - 1701/01-04 - 看见.lrc	https://musicbrainz.org/release/07cb3427-dc88-473d-bd2a-77e2114d40e4	编曲：李志;键盘：李天雄;鼓：余赣宁;吉他：袁铮、赵永庆;贝斯：张雯
-artists/李志/2014 - 1701/01-05 - 不多.lrc	https://musicbrainz.org/release/07cb3427-dc88-473d-bd2a-77e2114d40e4	编曲：李志
-artists/李志/2014 - 1701/01-06 - 热河.lrc	https://musicbrainz.org/release/07cb3427-dc88-473d-bd2a-77e2114d40e4	编曲：李志;键盘：李天雄;打击乐：魏星;鼓：余赣宁;吉他：袁铮、赵永庆;贝斯：张雯
-artists/李志/2014 - 1701/01-08 - 方式.lrc	https://musicbrainz.org/release/07cb3427-dc88-473d-bd2a-77e2114d40e4	编曲：李志
-artists/李志/2010 - 你好，郑州/01-01 - 墙上的向日葵.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5	制作：刘威
-artists/李志/2010 - 你好，郑州/01-02 - 铅笔.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5	制作：刘威
-artists/李志/2010 - 你好，郑州/01-03 - 关于郑州的记忆.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5	制作：刘威
-artists/李志/2010 - 你好，郑州/01-04 - 忽然.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5	制作：刘威
-artists/李志/2010 - 你好，郑州/01-05 - 秋天的老狼.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5	制作：刘威
-artists/李志/2010 - 你好，郑州/01-06 - 带亲.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5	制作：刘威
-artists/李志/2010 - 你好，郑州/01-07 - 她.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5	制作：刘威
-artists/李志/2010 - 你好，郑州/01-09 - 夜.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5	制作：刘威
-artists/李志/2010 - 你好，郑州/01-10 - 铅笔 (吉松浩版).lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5	制作：刘威
-artists/李志/2016 - 在每一条伤心的应天大街上/01-02 - 一头偶像.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	制作：姜北生、李志
-artists/李志/2016 - 在每一条伤心的应天大街上/01-03 - 克兰河.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	制作：姜北生、李志
-artists/李志/2016 - 在每一条伤心的应天大街上/01-04 - 死人.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	制作：姜北生、李志
-artists/李志/2016 - 在每一条伤心的应天大街上/01-05 - 一个夜晚.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	小号：史立;制作：姜北生、李志
-artists/李志/2016 - 在每一条伤心的应天大街上/01-06 - 哦吼.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	制作：姜北生、李志
-artists/李志/2016 - 在每一条伤心的应天大街上/01-07 - 彩色派对.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	小号：史立;制作：姜北生、李志
-artists/李志/2016 - 在每一条伤心的应天大街上/01-08 - 你好明天.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	制作：姜北生、李志
-live/李志/2009 - 工体东路没有人/01-01 - 被禁忌的游戏.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-07 - 被禁忌的游戏.lrc	制作：杨杰;词：李志;曲：李志
-live/李志/2009 - 工体东路没有人/01-02 - 和你在一起.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.lrc	制作：杨杰;词：李志;曲：李志
-live/李志/2009 - 工体东路没有人/01-04 - 卡夫卡.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-06 - 卡夫卡.lrc	制作：杨杰;词：李志;曲：李志
-live/李志/2009 - 工体东路没有人/01-05 - 黑色信封.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.lrc	制作：杨杰;词：李志;曲：李志
-live/李志/2009 - 工体东路没有人/01-07 - 春末的南方城市.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.lrc	制作：杨杰;词：李志;曲：李志
-live/李志/2009 - 工体东路没有人/01-09 - 暧昧.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069	制作：杨杰
-live/李志/2009 - 工体东路没有人/01-12 - 红色气球.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-09 - 红色气球.lrc	制作：杨杰;词：李志;曲：李志
-live/李志/2009 - 工体东路没有人/01-14 - 董卓瑶.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069	制作：杨杰
-artists/陈奕迅/2012 - ...3mm/01-10 - 完.lrc	https://musicbrainz.org/release/9f42b0f6-16fb-4a71-98d9-f49de9b9882d	编曲：Swing;贝斯：陈兆基;吉他：Don Cruz、Danny Leung;钢琴：Swing;制作：陈奕迅、Swing
-artists/陈奕迅/2006 - Life Continues/01-03 - 最佳损友.lrc	https://musicbrainz.org/release/8b2c93e7-e397-3b2f-baef-592eef1d96f4	编曲：Jerald Chan、Eric Kwok;制作：陈奕迅、Jerald Chan、Eric Kwok
-artists/陈奕迅/2001 - Shall We Dance？ Shall We Talk!/01-03 - Shall We Talk.lrc	https://musicbrainz.org/release/a91c2aa5-2562-4b76-a1fc-7e32f2edb496	编曲：金培达
+artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.lrc	https://musicbrainz.org/release/758a394c-126c-487f-bca1-31ff28467d13	演唱：李志
+artists/李志/2004 - 被禁忌的游戏/01-03 - 阿兰.lrc	https://musicbrainz.org/release/758a394c-126c-487f-bca1-31ff28467d13	演唱：李志
+artists/李志/2004 - 被禁忌的游戏/01-04 - 离婚.lrc	https://musicbrainz.org/release/758a394c-126c-487f-bca1-31ff28467d13	词：李志；曲：李志；演唱：李志
+artists/李志/2004 - 被禁忌的游戏/01-05 - 欢愉.lrc	https://musicbrainz.org/release/758a394c-126c-487f-bca1-31ff28467d13	演唱：李志
+artists/李志/2004 - 被禁忌的游戏/01-06 - 卡夫卡.lrc	https://musicbrainz.org/release/758a394c-126c-487f-bca1-31ff28467d13	词：李志；曲：李志；演唱：李志
+artists/李志/2004 - 被禁忌的游戏/01-07 - 被禁忌的游戏.lrc	https://musicbrainz.org/release/758a394c-126c-487f-bca1-31ff28467d13	演唱：李志
+artists/李志/2004 - 被禁忌的游戏/01-08 - 罗庄的冬天.lrc	https://musicbrainz.org/release/758a394c-126c-487f-bca1-31ff28467d13	演唱：李志
+artists/李志/2004 - 被禁忌的游戏/01-09 - 红色气球.lrc	https://musicbrainz.org/release/758a394c-126c-487f-bca1-31ff28467d13	演唱：李志
+artists/李志/2005 - 梵高先生/01-02 - 董卓瑶.lrc	https://musicbrainz.org/release/211ffdd9-238e-4c6d-858d-a38f725e0493	词：李志；曲：李志；演唱：李志
+artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.lrc	https://musicbrainz.org/release/211ffdd9-238e-4c6d-858d-a38f725e0493	演唱：李志
+artists/李志/2005 - 梵高先生/01-04 - 来了.lrc	https://musicbrainz.org/release/211ffdd9-238e-4c6d-858d-a38f725e0493	演唱：李志
+artists/李志/2005 - 梵高先生/01-06 - 暧昧.lrc	https://musicbrainz.org/release/211ffdd9-238e-4c6d-858d-a38f725e0493	演唱：李志
+artists/李志/2005 - 梵高先生/01-07 - 想起了他.lrc	https://musicbrainz.org/release/211ffdd9-238e-4c6d-858d-a38f725e0493	演唱：李志
+artists/李志/2005 - 梵高先生/01-08 - 梵高先生.lrc	https://musicbrainz.org/release/211ffdd9-238e-4c6d-858d-a38f725e0493	演唱：李志
+artists/李志/2005 - 梵高先生/01-09 - 斜.lrc	https://musicbrainz.org/release/211ffdd9-238e-4c6d-858d-a38f725e0493	演唱：李志
+artists/李志/2006 - 这个世界会好吗/01-01 - 妈妈.lrc	https://musicbrainz.org/release/083e1542-8767-4a92-8465-bc3fb233b8b9	演唱：李志
+artists/李志/2006 - 这个世界会好吗/01-02 - 喀纳斯.lrc	https://musicbrainz.org/release/083e1542-8767-4a92-8465-bc3fb233b8b9	演唱：李志
+artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.lrc	https://musicbrainz.org/release/083e1542-8767-4a92-8465-bc3fb233b8b9	演唱：李志
+artists/李志/2006 - 这个世界会好吗/01-05 - 翁庆年的六英镑.lrc	https://musicbrainz.org/release/083e1542-8767-4a92-8465-bc3fb233b8b9	词：李志；曲：李志；演唱：李志
+artists/李志/2006 - 这个世界会好吗/01-07 - 海的女儿.lrc	https://musicbrainz.org/release/083e1542-8767-4a92-8465-bc3fb233b8b9	演唱：李志
+artists/李志/2009 - 我爱南京/01-04 - 鸵鸟.lrc	https://musicbrainz.org/release/355106ea-2263-4983-b24a-42d225d222ad	词：李志；曲：李志
+artists/李志/2009 - 我爱南京/01-05 - 天空之城.lrc	https://musicbrainz.org/release/355106ea-2263-4983-b24a-42d225d222ad	词：李志；曲：李志
+artists/李志/2009 - 我爱南京/01-08 - 家乡.lrc	https://musicbrainz.org/release/355106ea-2263-4983-b24a-42d225d222ad	词：李志；曲：李志
+artists/李志/2009 - 我爱南京/02-06 - 在那遥远的地方.lrc	https://musicbrainz.org/release/355106ea-2263-4983-b24a-42d225d222ad	词：王洛宾；曲：王洛宾
+artists/李志/2010 - 你好，郑州/01-01 - 墙上的向日葵.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5; https://musicbrainz.org/release/38d58d47-5f00-4f4b-95aa-f499cdba365b	制作：刘威；录音：姜北生、黎乐乐
+artists/李志/2010 - 你好，郑州/01-02 - 铅笔.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5; https://musicbrainz.org/release/38d58d47-5f00-4f4b-95aa-f499cdba365b	制作：刘威；录音：姜北生、黎乐乐
+artists/李志/2010 - 你好，郑州/01-03 - 关于郑州的记忆.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5; https://musicbrainz.org/release/38d58d47-5f00-4f4b-95aa-f499cdba365b	制作：刘威；词：李志；曲：李志；录音：姜北生、黎乐乐
+artists/李志/2010 - 你好，郑州/01-04 - 忽然.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5; https://musicbrainz.org/release/38d58d47-5f00-4f4b-95aa-f499cdba365b	制作：刘威；录音：姜北生、黎乐乐
+artists/李志/2010 - 你好，郑州/01-05 - 秋天的老狼.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5; https://musicbrainz.org/release/38d58d47-5f00-4f4b-95aa-f499cdba365b	制作：刘威；录音：姜北生、黎乐乐
+artists/李志/2010 - 你好，郑州/01-06 - 带亲.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5; https://musicbrainz.org/release/38d58d47-5f00-4f4b-95aa-f499cdba365b	制作：刘威；录音：姜北生、黎乐乐
+artists/李志/2010 - 你好，郑州/01-07 - 她.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5; https://musicbrainz.org/release/38d58d47-5f00-4f4b-95aa-f499cdba365b	制作：刘威；录音：姜北生、黎乐乐
+artists/李志/2010 - 你好，郑州/01-09 - 夜.lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5; https://musicbrainz.org/release/38d58d47-5f00-4f4b-95aa-f499cdba365b	制作：刘威；录音：姜北生、黎乐乐
+artists/李志/2010 - 你好，郑州/01-10 - 铅笔 (吉松浩版).lrc	https://musicbrainz.org/release/7c06b92a-0542-4a6b-9fcb-75f8104079f5; https://musicbrainz.org/release/38d58d47-5f00-4f4b-95aa-f499cdba365b	制作：刘威；录音：姜北生、黎乐乐
+artists/李志/2011 - F/01-01 - 寻找.lrc	https://musicbrainz.org/release/3a52b24e-1c71-4e2d-91b2-b90e13b91617	词：李志；曲：李志
+artists/李志/2011 - F/01-05 - 山阴路的夏天.lrc	https://musicbrainz.org/release/3a52b24e-1c71-4e2d-91b2-b90e13b91617	词：李志；曲：李志
+artists/李志/2014 - 1701/01-01 - 大象.lrc	https://musicbrainz.org/release/07cb3427-dc88-473d-bd2a-77e2114d40e4; https://musicbrainz.org/release/bfe30cec-4119-41e4-9961-338356921a3c	编曲：李志；词：李志；曲：李志；录音：耿楚；混音：姜北生
+artists/李志/2014 - 1701/01-02 - 鼠说.lrc	https://musicbrainz.org/release/bfe30cec-4119-41e4-9961-338356921a3c	词：李志；曲：李志；编曲：李志；录音：耿楚；混音：姜北生
+artists/李志/2014 - 1701/01-03 - 定西.lrc	https://musicbrainz.org/release/07cb3427-dc88-473d-bd2a-77e2114d40e4; https://musicbrainz.org/release/bfe30cec-4119-41e4-9961-338356921a3c	编曲：李志；词：李志；曲：李志；录音：耿楚；混音：姜北生
+artists/李志/2014 - 1701/01-04 - 看见.lrc	https://musicbrainz.org/release/07cb3427-dc88-473d-bd2a-77e2114d40e4; https://musicbrainz.org/release/bfe30cec-4119-41e4-9961-338356921a3c	编曲：李志;键盘：李天雄;鼓：余赣宁;吉他：袁铮、赵永庆;贝斯：张雯；词：李志；曲：李志；录音：耿楚；混音：姜北生
+artists/李志/2014 - 1701/01-05 - 不多.lrc	https://musicbrainz.org/release/07cb3427-dc88-473d-bd2a-77e2114d40e4; https://musicbrainz.org/release/bfe30cec-4119-41e4-9961-338356921a3c	编曲：李志；词：李志；曲：李志；录音：耿楚；混音：姜北生
+artists/李志/2014 - 1701/01-06 - 热河.lrc	https://musicbrainz.org/release/07cb3427-dc88-473d-bd2a-77e2114d40e4; https://musicbrainz.org/release/bfe30cec-4119-41e4-9961-338356921a3c	编曲：李志;键盘：李天雄;打击乐：魏星;鼓：余赣宁;吉他：袁铮、赵永庆;贝斯：张雯；词：李志；曲：李志；录音：耿楚；混音：姜北生
+artists/李志/2014 - 1701/01-07 - 好威武支持有希望.lrc	https://musicbrainz.org/release/bfe30cec-4119-41e4-9961-338356921a3c	词：李志；曲：李志；编曲：李志；吉他：袁铮、赵永庆；贝斯：张雯；打击乐：魏星；键盘：李天雄；录音：耿楚；混音：姜北生
+artists/李志/2014 - 1701/01-08 - 方式.lrc	https://musicbrainz.org/release/07cb3427-dc88-473d-bd2a-77e2114d40e4; https://musicbrainz.org/release/bfe30cec-4119-41e4-9961-338356921a3c	编曲：李志；词：李志；曲：李志；录音：耿楚；混音：姜北生
+artists/李志/2016 - 8/01-01 - 歌声与微笑.lrc	https://musicbrainz.org/release/ccf142c6-ad89-4115-aa0c-30d8f587b0fe	演唱：李志
+artists/李志/2016 - 8/01-02 - 蜗牛与黄鹂鸟.lrc	https://musicbrainz.org/release/ccf142c6-ad89-4115-aa0c-30d8f587b0fe	演唱：李志
+artists/李志/2016 - 8/01-03 - 兰花草.lrc	https://musicbrainz.org/release/ccf142c6-ad89-4115-aa0c-30d8f587b0fe	演唱：李志；曲：陈贤德、张弼
+artists/李志/2016 - 8/01-04 - 数鸭子.lrc	https://musicbrainz.org/release/ccf142c6-ad89-4115-aa0c-30d8f587b0fe	演唱：李志
+artists/李志/2016 - 8/01-05 - 朋友越多越快乐.lrc	https://musicbrainz.org/release/ccf142c6-ad89-4115-aa0c-30d8f587b0fe	演唱：李志
+artists/李志/2016 - 8/01-06 - Hey Jude.lrc	https://musicbrainz.org/release/ccf142c6-ad89-4115-aa0c-30d8f587b0fe	词曲：John Lennon、Paul McCartney；演唱：李志
+artists/李志/2016 - 8/01-07 - 采蘑菇的小姑娘.lrc	https://musicbrainz.org/release/ccf142c6-ad89-4115-aa0c-30d8f587b0fe	演唱：李志
+artists/李志/2016 - 8/01-08 - 小螺号.lrc	https://musicbrainz.org/release/ccf142c6-ad89-4115-aa0c-30d8f587b0fe	演唱：李志
+artists/李志/2016 - 8/01-09 - 送别.lrc	https://musicbrainz.org/release/ccf142c6-ad89-4115-aa0c-30d8f587b0fe	词：李叔同；曲：John P. Ordway；演唱：李志
+artists/李志/2016 - 在每一条伤心的应天大街上/01-02 - 一头偶像.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	制作：姜北生、李志；词：李志；曲：李志；演唱：李志；录音：张俊；混音：姜北生；和声：朱格乐、阿玛尼、张怡然；吉他：袁铮、赵永庆
+artists/李志/2016 - 在每一条伤心的应天大街上/01-03 - 克兰河.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	制作：姜北生、李志；词：李志；曲：李志；演唱：Aray、李志、Sembat；录音：张俊；混音：姜北生；和声：朱格乐、阿玛尼、张怡然；吉他：袁铮、赵永庆
+artists/李志/2016 - 在每一条伤心的应天大街上/01-04 - 死人.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	制作：姜北生、李志；词：李志；曲：李志；演唱：李志；录音：张俊；混音：姜北生；和声：朱格乐、阿玛尼、张怡然；吉他：袁铮、赵永庆
+artists/李志/2016 - 在每一条伤心的应天大街上/01-05 - 一个夜晚.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	小号：史立;制作：姜北生、李志；词：李志；曲：李志；演唱：李志；小号：史立、史立(万能青年旅店)；录音：张俊；混音：姜北生；和声：朱格乐、***、张怡然；吉他：袁铮、赵永庆；和声：朱格乐、张怡然
+artists/李志/2016 - 在每一条伤心的应天大街上/01-06 - 哦吼.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	制作：姜北生、李志；词：李志；曲：李志；演唱：李志；录音：张俊；混音：姜北生；和声：朱格乐、阿玛尼、张怡然；吉他：袁铮、赵永庆
+artists/李志/2016 - 在每一条伤心的应天大街上/01-07 - 彩色派对.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	小号：史立;制作：姜北生、李志；词：李志；曲：李志；演唱：李志；录音：张俊；混音：姜北生
+artists/李志/2016 - 在每一条伤心的应天大街上/01-08 - 你好明天.lrc	https://musicbrainz.org/release/dde3284d-3c53-4d81-b139-ac11bc831e73	制作：姜北生、李志；词：李志；曲：李志；演唱：李志；录音：张俊；混音：姜北生
+artists/李荣浩/2013 - 模特/01-02 - 模特.lrc	https://musicbrainz.org/release/3e0fd9bb-7035-4f4d-b803-66eb20e9b417	词：周耀辉；曲：李荣浩
+artists/李荣浩/2013 - 模特/01-03 - 两个人.lrc	https://musicbrainz.org/release/3e0fd9bb-7035-4f4d-b803-66eb20e9b417	词：李荣浩；曲：李荣浩
+artists/李荣浩/2013 - 模特/01-04 - 太坦白.lrc	https://musicbrainz.org/release/3e0fd9bb-7035-4f4d-b803-66eb20e9b417	词：李荣浩；曲：李荣浩
+artists/李荣浩/2015 - 有理想/01-07 - 不将就 (电影《何以笙箫默》片尾曲).lrc	https://musicbrainz.org/release/1caa708d-f753-47ad-be3a-113605cb437e	词：李荣浩、黄伟文
+artists/杨千嬅/2000 - Play It Loud Kiss Me Soft/01-02 - 少女的祈祷.lrc	https://musicbrainz.org/release/67b7780f-a626-4bbe-811d-4ecd55e485cc	词：林夕；曲：陈辉阳；演唱：杨千嬅
+artists/杨千嬅/2001 - 千嬅盛放/01-02 - 野孩子.lrc	https://musicbrainz.org/release/83274305-279d-4ece-ba82-87ce432af2f6	词：黄伟文；曲：雷颂德
+artists/棱镜/2018 - 一次有预谋的初次相遇/01-01 - 总有一天你会出现在我身边.lrc	https://musicbrainz.org/release/0cc3c815-6cb6-410e-94f3-b064685619c3	词：高原、陈恒冠；编曲：高原、陈恒冠
+artists/王若琳/2007 - Start from Here/02-01 - 迷宫.lrc	https://musicbrainz.org/release/4b046d78-195c-4d23-9bab-0771caacb58c	词曲：Vincent Degiorgio、Damhnait Doyle、Luke McMaster
+artists/王若琳/2008 - Start from Here/02-02 - 有你的快乐.lrc	https://musicbrainz.org/release/4b046d78-195c-4d23-9bab-0771caacb58c	词曲：Vincent Degiorgio、Peter Kvint；曲：Peter Sven Kvint、Vincent Paul Degiorgio
+artists/罗大佑/1983 - 未来的主人翁/01-05 - 未来的主人翁.lrc	https://musicbrainz.org/release/469e4ab8-e4e6-441c-8707-5953b9a4b547	词：罗大佑；曲：罗大佑
+artists/薛之谦/2015 - 初学者/01-10 - 下雨了.lrc	https://musicbrainz.org/release/8eefa4ab-7782-461b-a795-83751447391f	词：薛之谦；曲：薛之谦；演唱：薛之谦
+artists/薛之谦/2019 - 尘/01-05 - 病态.lrc	https://musicbrainz.org/release/f59bbea3-80f0-426c-a8ca-e3ab79efb747	和声：薛之谦、宋涛；吉他：宋睿、宋涛；录音：赵靖BIG.J、汝文博 @SBMS Studio Beijing
+artists/薛之谦/2020 - 天外来物/01-03 - 把你揉碎捏成苹果.lrc	https://musicbrainz.org/release/d63cb757-c154-47b7-8f1b-662ce7dbf306	词：方毅；曲：方毅
+artists/薛之谦/2020 - 天外来物/01-05 - 彩券.lrc	https://musicbrainz.org/release/d63cb757-c154-47b7-8f1b-662ce7dbf306	编曲：郭冠廷、闫实@录顶技Studios；和声：郭冠廷、小鱼；木吉他：宋宇、闫实@录顶技Studios
+artists/陈升/1994 - 魔鬼的情诗/01-01 - 不再让你孤单.lrc	https://musicbrainz.org/release/e0290702-1998-4846-acfc-33989cc73607	词：陈升；曲：陈升；词曲：陈升、Dick Lee、李宗盛
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-02 - 破坏王.lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	词：陈咏谦；曲：王双骏；编曲：The Duo Band；制作：王双骏；演唱：陈奕迅、Chris Polanco；和声：陈咏谦、张杰邦、袁慧妍、岑宁儿；吉他：王双骏；打击乐：Chris Polanco；小提琴：翁玮盈；萨克斯：Charles Huntley、David Rodenburg；小号：Paul Panichi、Ray Podhornik；长号：Pete Hysen；录音：Guillermo Subauste、王双骏；混音：Matthew Sim
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-03 - 海里睡人.lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	词：卢凯彤；曲：孙伟明；编曲：The Duo Band；制作：王双骏；演唱：陈奕迅；和声：陈咏谦、张杰邦、袁慧妍、岑宁儿；吉他：卢凯彤、苏德华；贝斯：王双骏；打击乐：Chris Polanco；钢琴：孙伟明；合成器：翁玮盈；长笛：Charles Huntley；录音：Dom Morley；混音：Frankie Hung
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-04 - 渐渐.lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	词：陈咏谦；曲：张杰邦；编曲：The Duo Band；制作：王双骏；演唱：陈奕迅；和声：陈咏谦、张杰邦、袁慧妍、岑宁儿；木吉他：卢凯彤；电吉他：苏德华；打击乐：Chris Polanco；钢琴：何秉舜；风琴：Charles Huntley；合成器：翁玮盈；小提琴：毕亚欢、程亚威、陈猷翔、董智敏、范维汉、李国显、李文璇、刘小欢、刘洋、彭珂、陶秩、王婉宜、魏洋、阎红、杨晓倩、郑凯林；中提琴：刘莎、马劲松、米巍、曲嘉璐、武文豪、徐宁；大提琴：郭焱、李成、刘岩、沈和群、赵滨；弦乐编写：何秉舜；萨克斯：David Rodenburg；小号：Paul Panichi、Ray Podhornik；长号：Pete Hysen；录音：区嘉俊、Guillermo Subauste、田野、王耀唯、张军军；混音：Frankie Hung
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-05 - Devotion (Interlude).lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	词：陈咏谦；曲：袁慧妍；编曲：Charatay；制作：王双骏；录音：王双骏；混音：王双骏
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-06 - 敬烟.lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	词：陈咏谦；曲：苏德华；编曲：The Duo Band；演唱：陈奕迅；和声：陈咏谦、陈奕迅、张杰邦、袁慧妍、恭硕良、卢凯彤、陈铭泽、Chris Polanco、岑宁儿、黎淑敏、苏德华、孙伟明、翁玮盈；木吉他：卢凯彤；电吉他：苏德华、孙伟明；风琴：Charles Huntley；录音：区嘉俊、田野、张军军；混音：Matthew Sim
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-07 - 蠢.lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	词：陈咏谦；曲：陈铭泽、黎淑敏；编曲：The Duo Band；制作：王双骏；演唱：陈奕迅；和声：陈咏谦、张杰邦、袁慧妍、岑宁儿；电吉他：卢凯彤、苏德华、孙伟明；打击乐：Chris Polanco；风琴：Charles Huntley；小提琴：翁玮盈；录音：区嘉俊、张军军；混音：Matthew Sim
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-08 - 疯狂的朋友.lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	词：陈咏谦；曲：恭硕良；编曲：The Duo Band；制作：王双骏；演唱：陈奕迅；和声：陈咏谦、张杰邦、袁慧妍、岑宁儿；吉他：卢凯彤、苏德华；电吉他：孙伟明；打击乐：Chris Polanco；风琴：Charles Huntley；合成器：翁玮盈；录音：Dom Morley、王双骏；混音：Matthew Sim
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-09 - Unity (Interlude).lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	词：陈咏谦；曲：袁慧妍；编曲：Charatay；制作：王双骏；录音：王双骏；混音：王双骏
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-10 - R U N.lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	词：岑宁儿；曲：岑宁儿；编曲：The Duo Band；制作：王双骏；演唱：陈奕迅、岑宁儿；和声：陈咏谦、张杰邦、袁慧妍、岑宁儿；木吉他：卢凯彤；小提琴：毕亚欢、程亚威、陈猷翔、董智敏、范维汉、李国显、李文璇、刘小欢、刘洋、彭珂、陶秩、王婉宜、魏洋、阎红、杨晓倩、郑凯林；中提琴：刘莎、马劲松、米巍、曲嘉璐、武文豪、徐宁；大提琴：郭焱、李成、刘岩、沈和群、赵滨；弦乐编写：何秉舜；录音：区嘉俊、田野、王耀唯、张军军；混音：Frankie Hung
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-11 - 龙舌兰.lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	词：陈咏谦；曲：Chris Polanco；编曲：The Duo Band；制作：王双骏；演唱：陈奕迅；和声：陈咏谦、张杰邦、袁慧妍、岑宁儿；打击乐：Chris Polanco；钢琴：孙伟明；小提琴：毕亚欢、程亚威、陈猷翔、董智敏、范维汉、李国显、李文璇、刘小欢、刘洋、彭珂、陶秩、王婉宜、魏洋、阎红、杨晓倩、郑凯林；中提琴：刘莎、马劲松、米巍、曲嘉璐、武文豪、徐宁；大提琴：郭焱、李成、刘岩、沈和群、赵滨；弦乐编写：何秉舜；录音：何秉舜、田野、王耀唯、王双骏；混音：Frankie Hung
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-13 - Originality (Interlude).lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	词：陈咏谦；曲：袁慧妍；编曲：Charatay；制作：王双骏；录音：王双骏；混音：王双骏
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-14 - 与你常在.lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	词：陈咏谦；曲：Mark James Fortin、Charlie Arthur Huntley；编曲：The Duo Band；制作：王双骏；演唱：陈奕迅；和声：陈咏谦、张杰邦、袁慧妍、岑宁儿；木吉他：卢凯彤；电吉他：苏德华；打击乐：Chris Polanco；钢琴：孙伟明；风琴：Charles Huntley；小提琴：翁玮盈；录音：Dom Morley；混音：Matthew Sim
+artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-15 - 可一可再.lrc	https://musicbrainz.org/release/0ea12a3c-29ee-4b07-9805-8fd88e10f006	曲：陈咏谦、陈奕迅；编曲：The Duo Band；制作：王双骏；演唱：陈奕迅；和声：陈咏谦、陈奕迅、张杰邦、洪丰盈、袁慧妍、Charles Huntley、恭硕良、卢凯彤、Chris Polanco、岑宁儿、苏德华、孙伟明、翁玮盈；木吉他：卢凯彤；电吉他：苏德华、孙伟明；钢琴：何秉舜；萨克斯：Charles Huntley；录音：Soloan Chung、何秉舜、Lee Wai Ming、王双骏；混音：Frankie Hung
+artists/陈奕迅/1997 - 与我常在/01-04 - 生命有几好.lrc	https://musicbrainz.org/release/ce149837-7fca-4868-b327-e25dc209f37c	词：林夕；曲：王治平；编曲：Lorn Leber；制作：李振权；演唱：陈奕迅
+artists/陈奕迅/1997 - 与我常在/01-05 - 抱拥这分钟.lrc	https://musicbrainz.org/release/ce149837-7fca-4868-b327-e25dc209f37c	词：潘源良；曲：李振权；编曲：Lom Leber、Lorn Leber；制作：李振权；演唱：陈奕迅
+artists/陈奕迅/1998 - 我的快乐时代/01-01 - 我的快乐时代.lrc	https://musicbrainz.org/release/b333fb6f-e256-4b69-9ed9-b8074fecfa1e	词：林夕；曲：林健华；编曲：林健华；制作：林健华；演唱：陈奕迅
+artists/陈奕迅/1998 - 我的快乐时代/01-03 - 天下无双.lrc	https://musicbrainz.org/release/b333fb6f-e256-4b69-9ed9-b8074fecfa1e	词：林振强；曲：柳重言；编曲：柳重言；制作：王纪华；演唱：陈奕迅
+artists/陈奕迅/1998 - 我的快乐时代/01-04 - 黄金时代.lrc	https://musicbrainz.org/release/b333fb6f-e256-4b69-9ed9-b8074fecfa1e	词：林夕；曲：柳重言；编曲：柳重言；制作：王纪华；演唱：陈奕迅
+artists/陈奕迅/1998 - 我的快乐时代/01-05 - 新曲+精选.lrc	https://musicbrainz.org/release/b333fb6f-e256-4b69-9ed9-b8074fecfa1e	词：黄伟文；曲：陈奕迅；编曲：刘志远；制作：王纪华；演唱：陈奕迅
+artists/陈奕迅/1998 - 我的快乐时代/01-10 - 反高潮.lrc	https://musicbrainz.org/release/b333fb6f-e256-4b69-9ed9-b8074fecfa1e	词：黄伟文；曲：陈奕迅；编曲：王双骏；制作：王双骏；演唱：陈奕迅
+artists/陈奕迅/1999 - 婚礼的祝福/01-06 - 婚礼的祝福.lrc	https://musicbrainz.org/release/7cba9592-1d9e-4ac5-b95c-ff957eeb2e3d	词：许常德；曲：陈政卿、陈建宁；编曲：涂惠源、凃惠源；制作：薛忠铭；演唱：陈奕迅；和声：郑知明、薛忠铭；吉他：苏德华；贝斯：Andy Peterson；录音：Peter Chang、林世龙、凃惠源；混音：林哲民
+artists/陈奕迅/1999 - 幸福/01-01 - 幸福摩天轮.lrc	https://musicbrainz.org/release/13f8fab4-1911-40d6-b14c-4e8098cf3010	词：林夕；曲：Eric Kwok；演唱：陈奕迅
+artists/陈奕迅/1999 - 幸福/01-03 - 时光倒流二十年.lrc	https://musicbrainz.org/release/13f8fab4-1911-40d6-b14c-4e8098cf3010	词：林夕；曲：伍乐城；演唱：陈奕迅
+artists/陈奕迅/2000 - 打得火热/01-05 - 绵绵.lrc	https://musicbrainz.org/release/f5bce332-019a-3987-b8f0-ffa0656a5ba2	词：林夕；曲：柳重言；制作：王双骏；演唱：陈奕迅；和声：陈奕迅；吉他：Barry Chung；合成器：王双骏；弦乐：Wong Sze Hang Quartet；弦乐编写：Billy Chan；指挥：Billy Chan；录音：David Sum、王双骏；混音：David Sum
 artists/陈奕迅/2001 - Shall We Dance／ Shall We Talk!/01-11 - 信心花舍.lrc	https://musicbrainz.org/release/a91c2aa5-2562-4b76-a1fc-7e32f2edb496	编曲：Barry Chung、林晞
+artists/陈奕迅/2001 - Shall We Dance？ Shall We Talk!/01-03 - Shall We Talk.lrc	https://musicbrainz.org/release/a91c2aa5-2562-4b76-a1fc-7e32f2edb496; https://musicbrainz.org/release/88fb035d-13fa-3126-a93d-060b1d40e9f6	编曲：金培达；词：林夕；曲：陈辉阳；演唱：陈奕迅
+artists/陈奕迅/2001 - The Easy Ride/01-04 - 大开眼戒.lrc	https://musicbrainz.org/release/6b2f4fdb-e538-3e24-a8c7-fdd8d52e849b	词：黄伟文；曲：阿飞；演唱：陈奕迅
+artists/陈奕迅/2001 - The Easy Ride/01-11 - 不知所谓.lrc	https://musicbrainz.org/release/6b2f4fdb-e538-3e24-a8c7-fdd8d52e849b	词：黄伟文；曲：黄伟年；演唱：陈奕迅
+artists/陈奕迅/2003 - Live for Today/01-02 - Katrina.lrc	https://musicbrainz.org/release/93e4cc1b-ef61-4fce-b365-adaaab5cb199	词：陶喆；曲：陶喆；演唱：陈奕迅
+artists/陈奕迅/2003 - Live for Today/01-11 - 岁月如歌.lrc	https://musicbrainz.org/release/93e4cc1b-ef61-4fce-b365-adaaab5cb199	词：林夕；曲：徐伟贤；演唱：陈奕迅
+artists/陈奕迅/2005 - U 87/01-02 - 阿牛.lrc	https://musicbrainz.org/release/1d0991b2-0a6d-3f9f-b04b-e9ca2f8a836b	词：林夕；曲：雷颂德
+artists/陈奕迅/2005 - U 87/01-03 - 夕阳无限好.lrc	https://musicbrainz.org/release/1d0991b2-0a6d-3f9f-b04b-e9ca2f8a836b	词：林夕；曲：Eric Kwok
+artists/陈奕迅/2005 - U 87/01-06 - 葡萄成熟时.lrc	https://musicbrainz.org/release/1d0991b2-0a6d-3f9f-b04b-e9ca2f8a836b	词：黄伟文；曲：Anfernee Cheung、Vincent Chow
+artists/陈奕迅/2006 - Life Continues/01-03 - 最佳损友.lrc	https://musicbrainz.org/release/8b2c93e7-e397-3b2f-baef-592eef1d96f4	编曲：Jerald Chan、Eric Kwok;制作：陈奕迅、Jerald Chan、Eric Kwok
+artists/陈奕迅/2008 - 不想放手/01-07 - 不要说话.lrc	https://musicbrainz.org/release/5a51d070-0f07-45f0-b00d-a84629d97a67	编曲：Mac Chew
+artists/陈奕迅/2010 - Time Flies/01-03 - 陀飞轮.lrc	https://musicbrainz.org/release/3badc340-059f-4690-a633-b054c50c029b	编曲：唐奕聪;制作：Alvin Leong
 artists/陈奕迅/2011 - Stranger Under My Skin/01-01 - 六月飞霜.lrc	https://musicbrainz.org/release/b0463f37-c2de-4ea5-8244-152e0a346b9f	编曲：古驰;大提琴：高志坚、叶辉;小提琴：郭慧、李叶波、李椰菁、罗菁张、廷辉、谢林、易岸兮、张毅;键盘：舒文;贝斯：单立文;鼓：Stef:funn;吉他：黄仲贤;制作：舒文
 artists/陈奕迅/2011 - Stranger Under My Skin/01-04 - 苦瓜.lrc	https://musicbrainz.org/release/b0463f37-c2de-4ea5-8244-152e0a346b9f	编曲：Kenix Cheang;鼓：Anthony Fernandes;大提琴：高志坚、叶辉;小提琴：郭慧、李叶波、李椰菁、罗菁张、廷辉、谢林、易岸兮、张毅;贝斯：何俊杰;键盘：舒文、Larry Wong
-artists/陈奕迅/2010 - Time Flies/01-03 - 陀飞轮.lrc	https://musicbrainz.org/release/3badc340-059f-4690-a633-b054c50c029b	编曲：唐奕聪;制作：Alvin Leong
-artists/陈奕迅/2008 - 不想放手/01-07 - 不要说话.lrc	https://musicbrainz.org/release/5a51d070-0f07-45f0-b00d-a84629d97a67	编曲：Mac Chew
+artists/陈奕迅/2012 - ...3mm/01-10 - 完.lrc	https://musicbrainz.org/release/9f42b0f6-16fb-4a71-98d9-f49de9b9882d	编曲：Swing;贝斯：陈兆基;吉他：Don Cruz、Danny Leung;钢琴：Swing;制作：陈奕迅、Swing
 artists/陈奕迅/2015 - 准备中/01-02 - 无条件.lrc	https://musicbrainz.org/release/1f4c843c-6bbd-4ac5-8494-0fbaa9c584fe	编曲：张子坚;制作：Eric Kwok
-live/李志/2016 - 李志北京不插电现场/01-01 - 黑色信封 (2016 unplugged).lrc	https://zh.wikipedia.org/wiki/李志北京不插电现场	词：李志;曲：李志;制作：姜北生;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;口琴：陈岍;打击乐：魏星;和声：朱格乐、张怡然、大洪
-live/李志/2016 - 李志北京不插电现场/01-06 - 结婚 (2016 unplugged).lrc	https://zh.wikipedia.org/wiki/李志北京不插电现场	词：李志;曲：李志;制作：姜北生;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;口琴：陈岍;打击乐：魏星;和声：朱格乐、张怡然、大洪;演唱：朱格乐、张怡然、大洪
-live/李志/2016 - 李志北京不插电现场/01-10 - 春末的南方城市 (2016 unplugged).lrc	https://zh.wikipedia.org/wiki/李志北京不插电现场	词：李志;曲：李志;制作：姜北生;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;口琴：陈岍;打击乐：魏星;和声：朱格乐、张怡然、大洪
-live/李志/2017 - 李志、电声与管弦乐/01-05 - 春末的南方城市 - 2016跨年版.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐	制作：陈伟伦;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然、大洪;管弦乐：靳海音管弦乐团
-live/李志/2017 - 李志、电声与管弦乐/01-06 - 黑色信封 - 2016跨年版.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐	制作：陈伟伦;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然、大洪;管弦乐：靳海音管弦乐团
-live/李志/2017 - 李志、电声与管弦乐/01-08 - 和你在一起 - 2016跨年版.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐	制作：陈伟伦;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然、大洪;管弦乐：靳海音管弦乐团
-live/李志/2017 - 李志、电声与管弦乐/01-10 - 大象 - 2016跨年版.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐	制作：陈伟伦;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然、大洪;管弦乐：靳海音管弦乐团
-live/李志/2017 - 李志、电声与管弦乐/01-11 - 门 - 2016跨年版.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐	制作：陈伟伦;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然、大洪;管弦乐：靳海音管弦乐团
-live/李志/2017 - 李志、电声与管弦乐/01-12 - 回答 - 2016跨年版.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐	制作：陈伟伦;词：北岛（原诗）;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然、大洪;管弦乐：靳海音管弦乐团
-live/李志/2018 - 爵士乐与不插电新编12首/01-01 - 看见.lrc	https://music.douban.com/subject/30241866/	词：李志;曲：李志;鼓：倪辰荫;吉他：周亮、王祥;贝斯：张迪安;键盘：陈喆;打击乐：陈帅文;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然
-live/李志/2018 - 爵士乐与不插电新编12首/01-05 - 卡夫卡.lrc	https://music.douban.com/subject/30241866/	词：李志;曲：李志;鼓：倪辰荫;吉他：周亮、王祥;贝斯：张迪安;键盘：陈喆;打击乐：陈帅文;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然
-live/李志/2018 - 爵士乐与不插电新编12首/01-06 - 热河.lrc	https://music.douban.com/subject/30241866/	词：李志;曲：李志;打击乐：陈帅文;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然
-live/李志/2018 - 爵士乐与不插电新编12首/01-07 - 翁庆年的六英镑.lrc	https://music.douban.com/subject/30241866/	词：李志;曲：李志;吉他：顾忠山;钢琴：黄健怡;小提琴：刘星;萨克斯：Alec Haavik;小号：李晓川;贝斯：任宇清;鼓：Nicholas McBride
-live/李志/2018 - 爵士乐与不插电新编12首/01-08 - 死人.lrc	https://music.douban.com/subject/30241866/	词：李志;曲：李志;吉他：顾忠山;钢琴：黄健怡;小提琴：刘星;萨克斯：Alec Haavik;小号：李晓川;贝斯：任宇清;鼓：Nicholas McBride
-live/李志/2018 - 爵士乐与不插电新编12首/01-10 - 董卓瑶.lrc	https://music.douban.com/subject/30241866/	词：李志;曲：李志;吉他：顾忠山;钢琴：黄健怡;小提琴：刘星;萨克斯：Alec Haavik;小号：李晓川;贝斯：任宇清;鼓：Nicholas McBride
-live/李志/2018 - 爵士乐与不插电新编12首/01-12 - 鼠说.lrc	https://music.douban.com/subject/30241866/	词：李志;曲：李志;吉他：顾忠山;钢琴：黄健怡;小提琴：刘星;萨克斯：Alec Haavik;小号：李晓川;贝斯：任宇清;鼓：Nicholas McBride
-live/李志/2018 - 李志、电声与管弦乐II/01-06 - 哦吼（2017跨年版）.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐II	制作：姜北生;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：郭昱欣;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然;管弦乐：靳海音管弦乐团
-live/李志/2018 - 李志、电声与管弦乐II/01-07 - 天空之城（2017跨年版）.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐II	制作：姜北生;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：郭昱欣;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然;管弦乐：靳海音管弦乐团
+artists/陶喆/2025 - STUPID POP SONGS/01-01 - Stupid Pop Song.lrc	https://musicbrainz.org/release/433b477f-243f-4060-976d-f8bcae1bc606	词：陶喆 David Tao、葛大为
+artists/陶喆/2025 - STUPID POP SONGS/01-03 - 星心.lrc	https://musicbrainz.org/release/433b477f-243f-4060-976d-f8bcae1bc606	词：娃娃、陶喆
+artists/陶喆/2025 - STUPID POP SONGS/01-11 - Lonely is the Night.lrc	https://musicbrainz.org/release/433b477f-243f-4060-976d-f8bcae1bc606	词：陶喆 David Tao、娃娃
+artists/陶喆/2025 - STUPID POP SONGS/01-14 - 全世界会唱的歌.lrc	https://musicbrainz.org/release/433b477f-243f-4060-976d-f8bcae1bc606	词：陶喆 David Tao、娃娃
 live/李志/2007 - 将进酒/01-02 - 黑色信封.lrc	music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.lrc	词：李志;曲：李志
 live/李志/2007 - 将进酒/01-04 - 喀纳斯.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-02 - 喀纳斯.lrc	词：李志;曲：李志
 live/李志/2007 - 将进酒/01-13 - 翁庆年的六英镑.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-05 - 翁庆年的六英镑.lrc	词：李志;曲：李志
 live/李志/2007 - 将进酒/01-14 - 和你在一起.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.lrc	词：李志;曲：李志
+live/李志/2009 - 义乌隔壁酒吧/01-07 - 黑色信封.lrc	music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.lrc	词：李志;曲：李志
+live/李志/2009 - 工体东路没有人/01-01 - 被禁忌的游戏.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-07 - 被禁忌的游戏.lrc; https://musicbrainz.org/release/200dad30-e066-4956-bc59-88f98524563d	制作：杨杰;词：李志;曲：李志；演唱：李志；录音：杨杰；混音：杨杰
+live/李志/2009 - 工体东路没有人/01-02 - 和你在一起.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.lrc; https://musicbrainz.org/release/200dad30-e066-4956-bc59-88f98524563d	制作：杨杰;词：李志;曲：李志；演唱：李志；录音：杨杰；混音：杨杰
+live/李志/2009 - 工体东路没有人/01-04 - 卡夫卡.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-06 - 卡夫卡.lrc; https://musicbrainz.org/release/200dad30-e066-4956-bc59-88f98524563d	制作：杨杰;词：李志;曲：李志；词：李志；曲：李志；演唱：李志；录音：杨杰；混音：杨杰
+live/李志/2009 - 工体东路没有人/01-05 - 黑色信封.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.lrc; https://musicbrainz.org/release/200dad30-e066-4956-bc59-88f98524563d	制作：杨杰;词：李志;曲：李志；演唱：李志；录音：杨杰；混音：杨杰
+live/李志/2009 - 工体东路没有人/01-07 - 春末的南方城市.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.lrc; https://musicbrainz.org/release/200dad30-e066-4956-bc59-88f98524563d	制作：杨杰;词：李志;曲：李志；演唱：李志；录音：杨杰；混音：杨杰
+live/李志/2009 - 工体东路没有人/01-09 - 暧昧.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; https://musicbrainz.org/release/200dad30-e066-4956-bc59-88f98524563d	制作：杨杰；演唱：李志；录音：杨杰；混音：杨杰
+live/李志/2009 - 工体东路没有人/01-12 - 红色气球.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-09 - 红色气球.lrc; https://musicbrainz.org/release/200dad30-e066-4956-bc59-88f98524563d	制作：杨杰;词：李志;曲：李志；演唱：李志；录音：杨杰；混音：杨杰
+live/李志/2009 - 工体东路没有人/01-14 - 董卓瑶.lrc	https://musicbrainz.org/release/25820615-0cdf-42e1-b24f-13ac2926a069; https://musicbrainz.org/release/200dad30-e066-4956-bc59-88f98524563d	制作：杨杰；词：李志；曲：李志；演唱：李志；录音：杨杰；混音：杨杰
 live/李志/2012 - IMAGINE/02-13 - 1990年的春天.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-09 - 1990年的春天.lrc	词：李志;曲：李志
 live/李志/2013 - 108个关键词/01-07 - 倒影.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-06 - 倒影.lrc	词：李志;曲：李志
 live/李志/2013 - 108个关键词/01-08 - 忽然.lrc	music-library studio sidecar(s): artists/李志/2010 - 你好，郑州/01-04 - 忽然.lrc	词：李志;曲：李志
@@ -90,41 +177,6 @@ live/李志/2014 - 勾三搭四/01-14 - 意味.lrc	music-library studio sidecar(
 live/李志/2014 - 勾三搭四/01-15 - 翁庆年的六英镑.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-05 - 翁庆年的六英镑.lrc	词：李志;曲：李志
 live/李志/2014 - 勾三搭四/01-19 - 这个世界会好吗.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.lrc	词：李志;曲：李志
 live/李志/2014 - 勾三搭四/01-21 - 山阴路的夏天.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-05 - 山阴路的夏天.lrc	词：李志;曲：李志
-live/李志/2015 - i／O/01-06 - 这个世界会好吗.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.lrc	词：李志;曲：李志
-live/李志/2015 - i／O/01-09 - 方式.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-08 - 方式.lrc	词：李志;曲：李志
-live/李志/2015 - 看见/01-01 - 看见.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-04 - 看见.lrc	词：李志;曲：李志
-live/李志/2015 - 看见/01-02 - 黑色信封.lrc	music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.lrc	词：李志;曲：李志
-live/李志/2015 - 看见/01-03 - 苍井空.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-02 - 苍井空.lrc	词：李志;曲：李志
-live/李志/2015 - 看见/01-04 - 春末的南方城市.lrc	music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.lrc	词：李志;曲：李志
-live/李志/2015 - 看见/01-06 - 下雨.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-04 - 下雨.lrc	词：李志;曲：李志
-live/李志/2015 - 看见/01-10 - 梵高先生.lrc	music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-08 - 梵高先生.lrc	词：李志;曲：李志
-live/李志/2019 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.lrc	词：李志;曲：李志
-live/李志/2019 - 洗心革面 - 演唱会录音/01-09 - 天空之城.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-05 - 天空之城.lrc	词：李志;曲：李志
-live/李志/2019 - 洗心革面 - 演唱会录音/01-13 - 方式.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-08 - 方式.lrc	词：李志;曲：李志
-live/李志/2019 - 洗心革面 - 演唱会录音/01-15 - 死人.lrc	music-library studio sidecar(s): artists/李志/2016 - 在每一条伤心的应天大街上/01-04 - 死人.lrc	词：李志;曲：李志
-live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-03 - 倒影.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-06 - 倒影.lrc	词：李志;曲：李志
-live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-04 - 黑色信封.lrc	music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.lrc	词：李志;曲：李志
-live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-05 - 和你在一起.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.lrc	词：李志;曲：李志
-live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-01 - 梵高先生.lrc	music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-08 - 梵高先生.lrc	词：李志;曲：李志
-live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-05 - 山阴路的夏天.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-05 - 山阴路的夏天.lrc	词：李志;曲：李志
-live/李志/2009 - 义乌隔壁酒吧/01-07 - 黑色信封.lrc	music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-02 - 定西.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-03 - 定西.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-03 - 春末的南方城市.lrc	music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-05 - 天空之城.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-05 - 天空之城.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-06 - 关于郑州的记忆.lrc	music-library studio sidecar(s): artists/李志/2010 - 你好，郑州/01-03 - 关于郑州的记忆.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-07 - 苍井空.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-02 - 苍井空.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-08 - 秋天的老狼.lrc	music-library studio sidecar(s): artists/李志/2010 - 你好，郑州/01-05 - 秋天的老狼.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-09 - 铅笔.lrc	music-library studio sidecar(s): artists/李志/2010 - 你好，郑州/01-02 - 铅笔.lrc, artists/李志/2010 - 你好，郑州/01-10 - 铅笔 (吉松浩版).lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-12 - 翁庆年的六英镑.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-05 - 翁庆年的六英镑.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-17 - 和你在一起.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-18 - 杭州.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-08 - 杭州.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-21 - 梵高先生.lrc	music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-08 - 梵高先生.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-22 - 这个世界会好吗.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-23 - 倒影.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-06 - 倒影.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-24 - 下雨.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-04 - 下雨.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-27 - 热河.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-06 - 热河.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-28 - 山阴路的夏天.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-05 - 山阴路的夏天.lrc	词：李志;曲：李志
-live/李志/2025 - 叁缺壹吉隆坡站/01-29 - 鼠说.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-02 - 鼠说.lrc	词：李志;曲：李志
 live/李志/2014 - 挺 不插电巡演 郑州站/01-03 - 来了.lrc	music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-04 - 来了.lrc	词：李志;曲：李志
 live/李志/2014 - 挺 不插电巡演 郑州站/01-04 - 被禁忌的游戏.lrc	music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-07 - 被禁忌的游戏.lrc	词：李志;曲：李志
 live/李志/2014 - 挺 不插电巡演 郑州站/01-05 - 苍井空.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-02 - 苍井空.lrc	词：李志;曲：李志
@@ -136,6 +188,8 @@ live/李志/2014 - 挺 不插电巡演 郑州站/01-12 - 墙上的向日葵.lrc	
 live/李志/2014 - 挺 不插电巡演 郑州站/01-13 - 山阴路的夏天.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-05 - 山阴路的夏天.lrc	词：李志;曲：李志
 live/李志/2014 - 挺 不插电巡演 郑州站/01-15 - 寻找.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-01 - 寻找.lrc	词：李志;曲：李志
 live/李志/2014 - 挺 不插电巡演 郑州站/01-16 - 这个世界会好吗.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.lrc	词：李志;曲：李志
+live/李志/2015 - i／O/01-06 - 这个世界会好吗.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.lrc	词：李志;曲：李志
+live/李志/2015 - i／O/01-09 - 方式.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-08 - 方式.lrc	词：李志;曲：李志
 live/李志/2015 - 杭州酒球会一身酒气/01-01 - 墙上的向日葵.lrc	music-library studio sidecar(s): artists/李志/2010 - 你好，郑州/01-01 - 墙上的向日葵.lrc	词：李志;曲：李志
 live/李志/2015 - 杭州酒球会一身酒气/01-02 - 铅笔.lrc	music-library studio sidecar(s): artists/李志/2010 - 你好，郑州/01-02 - 铅笔.lrc, artists/李志/2010 - 你好，郑州/01-10 - 铅笔 (吉松浩版).lrc	词：李志;曲：李志
 live/李志/2015 - 杭州酒球会一身酒气/01-03 - 黑色信封.lrc	music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.lrc	词：李志;曲：李志
@@ -154,7 +208,57 @@ live/李志/2015 - 杭州酒球会一身酒气/01-18 - 热河.lrc	music-library 
 live/李志/2015 - 杭州酒球会一身酒气/01-19 - 下雨.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-04 - 下雨.lrc	词：李志;曲：李志
 live/李志/2015 - 杭州酒球会一身酒气/01-21 - 来了.lrc	music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-04 - 来了.lrc	词：李志;曲：李志
 live/李志/2015 - 杭州酒球会一身酒气/01-22 - 山阴路的夏天.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-05 - 山阴路的夏天.lrc	词：李志;曲：李志
+live/李志/2015 - 看见/01-01 - 看见.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-04 - 看见.lrc	词：李志;曲：李志
+live/李志/2015 - 看见/01-02 - 黑色信封.lrc	music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.lrc	词：李志;曲：李志
+live/李志/2015 - 看见/01-03 - 苍井空.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-02 - 苍井空.lrc	词：李志;曲：李志
+live/李志/2015 - 看见/01-04 - 春末的南方城市.lrc	music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.lrc	词：李志;曲：李志
+live/李志/2015 - 看见/01-06 - 下雨.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-04 - 下雨.lrc	词：李志;曲：李志
+live/李志/2015 - 看见/01-10 - 梵高先生.lrc	music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-08 - 梵高先生.lrc	词：李志;曲：李志
+live/李志/2016 - 李志北京不插电现场/01-01 - 黑色信封 (2016 unplugged).lrc	https://zh.wikipedia.org/wiki/李志北京不插电现场	词：李志;曲：李志;制作：姜北生;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;口琴：陈岍;打击乐：魏星;和声：朱格乐、张怡然、大洪
+live/李志/2016 - 李志北京不插电现场/01-06 - 结婚 (2016 unplugged).lrc	https://zh.wikipedia.org/wiki/李志北京不插电现场	词：李志;曲：李志;制作：姜北生;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;口琴：陈岍;打击乐：魏星;和声：朱格乐、张怡然、大洪;演唱：朱格乐、张怡然、大洪
+live/李志/2016 - 李志北京不插电现场/01-10 - 春末的南方城市 (2016 unplugged).lrc	https://zh.wikipedia.org/wiki/李志北京不插电现场	词：李志;曲：李志;制作：姜北生;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;口琴：陈岍;打击乐：魏星;和声：朱格乐、张怡然、大洪
+live/李志/2017 - 李志、电声与管弦乐/01-05 - 春末的南方城市 - 2016跨年版.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐	制作：陈伟伦;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然、大洪;管弦乐：靳海音管弦乐团
+live/李志/2017 - 李志、电声与管弦乐/01-06 - 黑色信封 - 2016跨年版.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐	制作：陈伟伦;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然、大洪;管弦乐：靳海音管弦乐团
+live/李志/2017 - 李志、电声与管弦乐/01-08 - 和你在一起 - 2016跨年版.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐	制作：陈伟伦;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然、大洪;管弦乐：靳海音管弦乐团
+live/李志/2017 - 李志、电声与管弦乐/01-10 - 大象 - 2016跨年版.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐	制作：陈伟伦;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然、大洪;管弦乐：靳海音管弦乐团
+live/李志/2017 - 李志、电声与管弦乐/01-11 - 门 - 2016跨年版.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐	制作：陈伟伦;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然、大洪;管弦乐：靳海音管弦乐团
+live/李志/2017 - 李志、电声与管弦乐/01-12 - 回答 - 2016跨年版.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐	制作：陈伟伦;词：北岛（原诗）;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：李天雄;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然、大洪;管弦乐：靳海音管弦乐团
+live/李志/2018 - 李志、电声与管弦乐II/01-06 - 哦吼（2017跨年版）.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐II; https://musicbrainz.org/release/6a798753-fe04-4301-b727-3b0b9be33fa1	制作：姜北生;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：郭昱欣;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然;管弦乐：靳海音管弦乐团；词：李志；曲：李志；制作：姜北生、陈伟伦；演唱：李志；录音：姜北生、王竹根；混音：姜北生
+live/李志/2018 - 李志、电声与管弦乐II/01-07 - 天空之城（2017跨年版）.lrc	https://zh.wikipedia.org/wiki/李志、电声与管弦乐II; https://musicbrainz.org/release/6a798753-fe04-4301-b727-3b0b9be33fa1	制作：姜北生;词：李志;曲：李志;编曲：陈伟伦、徐梧桐;鼓：余赣宁;吉他：袁峥、赵永庆;贝斯：张雯;键盘：郭昱欣;打击乐：魏星;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然;管弦乐：靳海音管弦乐团；词：李志；曲：李志；制作：姜北生、陈伟伦；演唱：李志；录音：姜北生、王竹根；混音：姜北生
+live/李志/2018 - 爵士乐与不插电新编12首/01-01 - 看见.lrc	https://music.douban.com/subject/30241866/; https://musicbrainz.org/release/8b283e60-70fa-46ea-a564-675db0444a8b	词：李志;曲：李志;鼓：倪辰荫;吉他：周亮、王祥;贝斯：张迪安;键盘：陈喆;打击乐：陈帅文;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然；词：李志；曲：李志；演唱：李志；录音：姜北生、王竹根；混音：姜北生
+live/李志/2018 - 爵士乐与不插电新编12首/01-05 - 卡夫卡.lrc	https://music.douban.com/subject/30241866/; https://musicbrainz.org/release/8b283e60-70fa-46ea-a564-675db0444a8b	词：李志;曲：李志;鼓：倪辰荫;吉他：周亮、王祥;贝斯：张迪安;键盘：陈喆;打击乐：陈帅文;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然；词：李志；曲：李志；演唱：李志；录音：姜北生、王竹根；混音：姜北生
+live/李志/2018 - 爵士乐与不插电新编12首/01-06 - 热河.lrc	https://music.douban.com/subject/30241866/; https://musicbrainz.org/release/8b283e60-70fa-46ea-a564-675db0444a8b	词：李志;曲：李志;打击乐：陈帅文;口琴：陈岍;和声：朱格乐、阿玛妮、张怡然；词：李志；曲：李志；演唱：李志；吉他：袁铮、赵永庆、王祥、周亮；贝斯：张雯、张迪安；打击乐：陈帅文、魏星；键盘：李天雄、陈喆；录音：姜北生、王竹根；混音：姜北生
+live/李志/2018 - 爵士乐与不插电新编12首/01-07 - 翁庆年的六英镑.lrc	https://music.douban.com/subject/30241866/; https://musicbrainz.org/release/8b283e60-70fa-46ea-a564-675db0444a8b	词：李志;曲：李志;吉他：顾忠山;钢琴：黄健怡;小提琴：刘星;萨克斯：Alec Haavik;小号：李晓川;贝斯：任宇清;鼓：Nicholas McBride；词：李志；曲：李志；演唱：李志；小提琴：刘星、Liu Xing；录音：姜北生、王竹根；混音：姜北生
+live/李志/2018 - 爵士乐与不插电新编12首/01-08 - 死人.lrc	https://music.douban.com/subject/30241866/; https://musicbrainz.org/release/8b283e60-70fa-46ea-a564-675db0444a8b	词：李志;曲：李志;吉他：顾忠山;钢琴：黄健怡;小提琴：刘星;萨克斯：Alec Haavik;小号：李晓川;贝斯：任宇清;鼓：Nicholas McBride；词：李志；曲：李志；演唱：李志；小提琴：刘星、Liu Xing；录音：姜北生、王竹根；混音：姜北生
+live/李志/2018 - 爵士乐与不插电新编12首/01-10 - 董卓瑶.lrc	https://music.douban.com/subject/30241866/; https://musicbrainz.org/release/8b283e60-70fa-46ea-a564-675db0444a8b	词：李志;曲：李志;吉他：顾忠山;钢琴：黄健怡;小提琴：刘星;萨克斯：Alec Haavik;小号：李晓川;贝斯：任宇清;鼓：Nicholas McBride；词：李志；曲：李志；演唱：李志；小提琴：刘星、Liu Xing；录音：姜北生、王竹根；混音：姜北生
+live/李志/2018 - 爵士乐与不插电新编12首/01-12 - 鼠说.lrc	https://music.douban.com/subject/30241866/; https://musicbrainz.org/release/8b283e60-70fa-46ea-a564-675db0444a8b	词：李志;曲：李志;吉他：顾忠山;钢琴：黄健怡;小提琴：刘星;萨克斯：Alec Haavik;小号：李晓川;贝斯：任宇清;鼓：Nicholas McBride；词：李志；曲：李志；演唱：李志；小提琴：刘星、Liu Xing；录音：姜北生、王竹根；混音：姜北生
+live/李志/2019 - 洗心革面 - 演唱会录音/01-06 - 和你在一起.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.lrc	词：李志;曲：李志
+live/李志/2019 - 洗心革面 - 演唱会录音/01-09 - 天空之城.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-05 - 天空之城.lrc	词：李志;曲：李志
+live/李志/2019 - 洗心革面 - 演唱会录音/01-13 - 方式.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-08 - 方式.lrc	词：李志;曲：李志
+live/李志/2019 - 洗心革面 - 演唱会录音/01-15 - 死人.lrc	music-library studio sidecar(s): artists/李志/2016 - 在每一条伤心的应天大街上/01-04 - 死人.lrc	词：李志;曲：李志
 live/李志/2019 - 洗心革面（歌迷站26轨版）/01-07 - 和你在一起.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.lrc	词：李志;曲：李志
 live/李志/2019 - 洗心革面（歌迷站26轨版）/01-08 - 天空之城.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-05 - 天空之城.lrc	词：李志;曲：李志
 live/李志/2019 - 洗心革面（歌迷站26轨版）/01-13 - 死人.lrc	music-library studio sidecar(s): artists/李志/2016 - 在每一条伤心的应天大街上/01-04 - 死人.lrc	词：李志;曲：李志
 live/李志/2019 - 洗心革面（歌迷站26轨版）/01-15 - 方式.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-08 - 方式.lrc	词：李志;曲：李志
+live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-03 - 倒影.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-06 - 倒影.lrc	词：李志;曲：李志
+live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-04 - 黑色信封.lrc	music-library studio sidecar(s): artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.lrc	词：李志;曲：李志
+live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-05 - 和你在一起.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.lrc	词：李志;曲：李志
+live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-01 - 梵高先生.lrc	music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-08 - 梵高先生.lrc	词：李志;曲：李志
+live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-05 - 山阴路的夏天.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-05 - 山阴路的夏天.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-02 - 定西.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-03 - 定西.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-03 - 春末的南方城市.lrc	music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-05 - 天空之城.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-05 - 天空之城.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-06 - 关于郑州的记忆.lrc	music-library studio sidecar(s): artists/李志/2010 - 你好，郑州/01-03 - 关于郑州的记忆.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-07 - 苍井空.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-02 - 苍井空.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-08 - 秋天的老狼.lrc	music-library studio sidecar(s): artists/李志/2010 - 你好，郑州/01-05 - 秋天的老狼.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-09 - 铅笔.lrc	music-library studio sidecar(s): artists/李志/2010 - 你好，郑州/01-02 - 铅笔.lrc, artists/李志/2010 - 你好，郑州/01-10 - 铅笔 (吉松浩版).lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-12 - 翁庆年的六英镑.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-05 - 翁庆年的六英镑.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-17 - 和你在一起.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-18 - 杭州.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-08 - 杭州.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-21 - 梵高先生.lrc	music-library studio sidecar(s): artists/李志/2005 - 梵高先生/01-08 - 梵高先生.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-22 - 这个世界会好吗.lrc	music-library studio sidecar(s): artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-23 - 倒影.lrc	music-library studio sidecar(s): artists/李志/2009 - 我爱南京/01-06 - 倒影.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-24 - 下雨.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-04 - 下雨.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-27 - 热河.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-06 - 热河.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-28 - 山阴路的夏天.lrc	music-library studio sidecar(s): artists/李志/2011 - F/01-05 - 山阴路的夏天.lrc	词：李志;曲：李志
+live/李志/2025 - 叁缺壹吉隆坡站/01-29 - 鼠说.lrc	music-library studio sidecar(s): artists/李志/2014 - 1701/01-02 - 鼠说.lrc	词：李志;曲：李志

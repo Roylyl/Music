@@ -31,7 +31,7 @@
 |2013|黃貫中|[Paul Wong Collection](../artists/黃貫中/2013%20-%20Paul%20Wong%20Collection/album.json)|compilation|1|1|
 |2014-04-01|李志|[勾三搭四](../live/李志/2014%20-%20勾三搭四/album.json)|live|21|21|
 |2014-11-13|李志|[1701](../artists/李志/2014%20-%201701/album.json)|studio|8|8|
-|2015-01-21|李志|[i／O](../live/李志/2015%20-%20i／O/album.json)|live|11|11|
+|2015-01-21|李志|[i/O](../live/李志/2015%20-%20i／O/album.json)|live|11|11|
 |2015-04-13|李志|[这个世界会好吗（2015版本）](../artists/李志/2015%20-%20这个世界会好吗（2015版本）/album.json)|single|1|1|
 |2015-06-27|李志|[看见](../live/李志/2015%20-%20看见/album.json)|live|10|10|
 |2016-03-14|李志|[动静](../live/李志/2016%20-%20动静/album.json)|live|11|11|

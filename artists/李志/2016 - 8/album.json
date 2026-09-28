@@ -1,7 +1,7 @@
 {
   "id": "lizhi-ccf142c6-ad89-4115-aa0c-30d8f587b0fe",
   "artist": "李志",
-  "title": "8",
+  "title": "捌",
   "releaseDate": "2016-10-18",
   "releaseDatePrecision": "day",
   "year": 2016,
@@ -13,7 +13,7 @@
     {
       "id": "lizhi-ccf142c6-ad89-4115-aa0c-30d8f587b0fe-d01-t01",
       "artist": "李志",
-      "album": "8",
+      "album": "捌",
       "title": "歌声与微笑",
       "discNumber": 1,
       "trackNumber": 1,
@@ -182,7 +182,7 @@
     {
       "id": "lizhi-ccf142c6-ad89-4115-aa0c-30d8f587b0fe-d01-t02",
       "artist": "李志",
-      "album": "8",
+      "album": "捌",
       "title": "蜗牛与黄鹂鸟",
       "discNumber": 1,
       "trackNumber": 2,
@@ -330,7 +330,7 @@
     {
       "id": "lizhi-ccf142c6-ad89-4115-aa0c-30d8f587b0fe-d01-t03",
       "artist": "李志",
-      "album": "8",
+      "album": "捌",
       "title": "兰花草",
       "discNumber": 1,
       "trackNumber": 3,
@@ -478,7 +478,7 @@
     {
       "id": "lizhi-ccf142c6-ad89-4115-aa0c-30d8f587b0fe-d01-t04",
       "artist": "李志",
-      "album": "8",
+      "album": "捌",
       "title": "数鸭子",
       "discNumber": 1,
       "trackNumber": 4,
@@ -626,7 +626,7 @@
     {
       "id": "lizhi-ccf142c6-ad89-4115-aa0c-30d8f587b0fe-d01-t05",
       "artist": "李志",
-      "album": "8",
+      "album": "捌",
       "title": "朋友越多越快乐",
       "discNumber": 1,
       "trackNumber": 5,
@@ -774,7 +774,7 @@
     {
       "id": "lizhi-ccf142c6-ad89-4115-aa0c-30d8f587b0fe-d01-t06",
       "artist": "李志",
-      "album": "8",
+      "album": "捌",
       "title": "Hey Jude",
       "discNumber": 1,
       "trackNumber": 6,
@@ -922,7 +922,7 @@
     {
       "id": "lizhi-ccf142c6-ad89-4115-aa0c-30d8f587b0fe-d01-t07",
       "artist": "李志",
-      "album": "8",
+      "album": "捌",
       "title": "采蘑菇的小姑娘",
       "discNumber": 1,
       "trackNumber": 7,
@@ -1070,7 +1070,7 @@
     {
       "id": "lizhi-ccf142c6-ad89-4115-aa0c-30d8f587b0fe-d01-t08",
       "artist": "李志",
-      "album": "8",
+      "album": "捌",
       "title": "小螺号",
       "discNumber": 1,
       "trackNumber": 8,
@@ -1218,7 +1218,7 @@
     {
       "id": "lizhi-ccf142c6-ad89-4115-aa0c-30d8f587b0fe-d01-t09",
       "artist": "李志",
-      "album": "8",
+      "album": "捌",
       "title": "送别",
       "discNumber": 1,
       "trackNumber": 9,
@@ -1449,7 +1449,7 @@
   ],
   "selectedEdition": {
     "id": "ccf142c6-ad89-4115-aa0c-30d8f587b0fe",
-    "title": "8",
+    "title": "捌",
     "date": "2016-10-18",
     "status": "Official"
   },
