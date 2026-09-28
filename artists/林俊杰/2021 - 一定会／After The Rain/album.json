@@ -1,0 +1,164 @@
+{
+  "id": "qq-album-林俊杰-一定会／After The Rain",
+  "artist": "林俊杰",
+  "title": "一定会/After The Rain",
+  "releaseDate": "2021-11-29",
+  "releaseDatePrecision": "day",
+  "year": 2021,
+  "type": "single",
+  "path": "artists/林俊杰/2021 - 一定会／After The Rain",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "https://coverartarchive.org/release-group/94de82ef-b661-4fa5-9084-8af3ecc963e0/front-500"
+  },
+  "catalogUrl": "",
+  "tracklistCompleteness": "partial",
+  "notes": "QQ音乐下载文件导入；未确认的发行信息留空。",
+  "tracks": [
+    {
+      "id": "qq-林俊杰-一定会／After The Rain-d01-t01",
+      "artist": "林俊杰",
+      "album": "一定会/After The Rain",
+      "title": "一定会",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 207.253,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2021 - 一定会／After The Rain/01-01 - 一定会.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 207.253,
+        "fileSize": 8340752,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-一定会／After The Rain-d01-t01",
+          "localPath": "artists/林俊杰/2021 - 一定会／After The Rain/01-01 - 一定会.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 207.253,
+            "fileSize": 8340752,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 207.253,
+            "fileSize": 8292534,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 207.253,
+        "fileSize": 8292534,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-一定会.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-林俊杰-一定会／After The Rain-d01-t02",
+      "artist": "林俊杰",
+      "album": "一定会/After The Rain",
+      "title": "After The Rain",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 207.627,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2021 - 一定会／After The Rain/01-02 - After The Rain.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 207.627,
+        "fileSize": 8356463,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-一定会／After The Rain-d01-t02",
+          "localPath": "artists/林俊杰/2021 - 一定会／After The Rain/01-02 - After The Rain.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 207.627,
+            "fileSize": 8356463,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 207.627,
+            "fileSize": 8308229,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 207.627,
+        "fileSize": 8308229,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-After The Rain.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    }
+  ]
+}

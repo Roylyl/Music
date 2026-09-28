@@ -1,0 +1,740 @@
+{
+  "id": "qq-album-刘维-小小星球",
+  "artist": "刘维",
+  "title": "小小星球",
+  "releaseDate": "2020-03-24",
+  "releaseDatePrecision": "day",
+  "year": 2020,
+  "type": "studio",
+  "path": "artists/刘维/2020 - 小小星球",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "QQ音乐文件内嵌封面"
+  },
+  "catalogUrl": "",
+  "tracklistCompleteness": "partial",
+  "notes": "QQ音乐下载文件导入；未确认的发行信息留空。",
+  "tracks": [
+    {
+      "id": "qq-刘维-小小星球-d01-t01",
+      "artist": "刘维",
+      "album": "小小星球",
+      "title": "我们都快乐",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 211.379,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/刘维/2020 - 小小星球/01-01 - 我们都快乐.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 211.379,
+        "fileSize": 8488593,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-刘维-小小星球-d01-t01",
+          "localPath": "artists/刘维/2020 - 小小星球/01-01 - 我们都快乐.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 211.379,
+            "fileSize": 8488593,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 211.379,
+            "fileSize": 8731361,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 211.379,
+        "fileSize": 8731361,
+        "bitRate": 320000
+      },
+      "sourceFileName": "刘维-我们都快乐.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-刘维-小小星球-d01-t02",
+      "artist": "刘维",
+      "album": "小小星球",
+      "title": "过问",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 238.093,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/刘维/2020 - 小小星球/01-02 - 过问.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 238.093,
+        "fileSize": 9559265,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-刘维-小小星球-d01-t02",
+          "localPath": "artists/刘维/2020 - 小小星球/01-02 - 过问.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 238.093,
+            "fileSize": 9559265,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 238.093,
+            "fileSize": 9800964,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 238.093,
+        "fileSize": 9800964,
+        "bitRate": 320000
+      },
+      "sourceFileName": "刘维-过问.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-刘维-小小星球-d01-t03",
+      "artist": "刘维",
+      "album": "小小星球",
+      "title": "小小星球",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 241.168,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/刘维/2020 - 小小星球/01-03 - 小小星球.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 241.168,
+        "fileSize": 9682691,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-刘维-小小星球-d01-t03",
+          "localPath": "artists/刘维/2020 - 小小星球/01-03 - 小小星球.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 241.168,
+            "fileSize": 9682691,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 241.168,
+            "fileSize": 9924266,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 241.168,
+        "fileSize": 9924266,
+        "bitRate": 320000
+      },
+      "sourceFileName": "刘维-小小星球.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-刘维-小小星球-d01-t04",
+      "artist": "刘维",
+      "album": "小小星球",
+      "title": "曾经太难 (专辑版)",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 218.136,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/刘维/2020 - 小小星球/01-04 - 曾经太难 (专辑版).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 218.136,
+        "fileSize": 8760181,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-刘维-小小星球-d01-t04",
+          "localPath": "artists/刘维/2020 - 小小星球/01-04 - 曾经太难 (专辑版).mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 218.136,
+            "fileSize": 8760181,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 218.136,
+            "fileSize": 9002666,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 218.136,
+        "fileSize": 9002666,
+        "bitRate": 320000
+      },
+      "sourceFileName": "刘维-曾经太难 (专辑版).mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-刘维-小小星球-d01-t06",
+      "artist": "刘维",
+      "album": "小小星球",
+      "title": "烟圈",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 237.341,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/刘维/2020 - 小小星球/01-06 - 烟圈.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 237.341,
+        "fileSize": 9528933,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-刘维-小小星球-d01-t06",
+          "localPath": "artists/刘维/2020 - 小小星球/01-06 - 烟圈.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 237.341,
+            "fileSize": 9528933,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 237.341,
+            "fileSize": 9770662,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 237.341,
+        "fileSize": 9770662,
+        "bitRate": 320000
+      },
+      "sourceFileName": "刘维-烟圈.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-刘维-小小星球-d01-t08",
+      "artist": "刘维",
+      "album": "小小星球",
+      "title": "come back to me",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 217.963,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/刘维/2020 - 小小星球/01-08 - come back to me.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 217.963,
+        "fileSize": 8752870,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-刘维-小小星球-d01-t08",
+          "localPath": "artists/刘维/2020 - 小小星球/01-08 - come back to me.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 217.963,
+            "fileSize": 8752870,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 217.963,
+            "fileSize": 8995374,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 217.963,
+        "fileSize": 8995374,
+        "bitRate": 320000
+      },
+      "sourceFileName": "刘维-come back to me.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-刘维-小小星球-d01-t10",
+      "artist": "刘维",
+      "album": "小小星球",
+      "title": "蓝 (专辑版)",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 226.3,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/刘维/2020 - 小小星球/01-10 - 蓝 (专辑版).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 226.3,
+        "fileSize": 9087557,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-刘维-小小星球-d01-t10",
+          "localPath": "artists/刘维/2020 - 小小星球/01-10 - 蓝 (专辑版).mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 226.3,
+            "fileSize": 9087557,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 226.3,
+            "fileSize": 9329713,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 226.3,
+        "fileSize": 9329713,
+        "bitRate": 320000
+      },
+      "sourceFileName": "刘维-蓝 (专辑版).mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-刘维-小小星球-d01-t11",
+      "artist": "刘维",
+      "album": "小小星球",
+      "title": "只是纪念 (专辑版)",
+      "discNumber": 1,
+      "trackNumber": 11,
+      "sequenceNumber": 11,
+      "duration": 267.552,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/刘维/2020 - 小小星球/01-11 - 只是纪念 (专辑版).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 267.552,
+        "fileSize": 10739107,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-刘维-小小星球-d01-t11",
+          "localPath": "artists/刘维/2020 - 小小星球/01-11 - 只是纪念 (专辑版).mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 267.552,
+            "fileSize": 10739107,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 267.552,
+            "fileSize": 10979613,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 267.552,
+        "fileSize": 10979613,
+        "bitRate": 320000
+      },
+      "sourceFileName": "刘维-只是纪念 (专辑版).mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-刘维-小小星球-d01-t12",
+      "artist": "刘维",
+      "album": "小小星球",
+      "title": "一首歌的距离",
+      "discNumber": 1,
+      "trackNumber": 12,
+      "sequenceNumber": 12,
+      "duration": 300.568,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/刘维/2020 - 小小星球/01-12 - 一首歌的距离.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 300.568,
+        "fileSize": 12060845,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-刘维-小小星球-d01-t12",
+          "localPath": "artists/刘维/2020 - 小小星球/01-12 - 一首歌的距离.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 300.568,
+            "fileSize": 12060845,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 300.568,
+            "fileSize": 12300042,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 300.568,
+        "fileSize": 12300042,
+        "bitRate": 320000
+      },
+      "sourceFileName": "刘维-一首歌的距离.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-刘维-小小星球-d01-t13",
+      "artist": "刘维",
+      "album": "小小星球",
+      "title": "在天亮之后",
+      "discNumber": 1,
+      "trackNumber": 13,
+      "sequenceNumber": 13,
+      "duration": 260.15,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/刘维/2020 - 小小星球/01-13 - 在天亮之后.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 260.15,
+        "fileSize": 10442049,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-刘维-小小星球-d01-t13",
+          "localPath": "artists/刘维/2020 - 小小星球/01-13 - 在天亮之后.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 260.15,
+            "fileSize": 10442049,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 260.15,
+            "fileSize": 10682864,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 260.15,
+        "fileSize": 10682864,
+        "bitRate": 320000
+      },
+      "sourceFileName": "刘维-在天亮之后.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    }
+  ]
+}

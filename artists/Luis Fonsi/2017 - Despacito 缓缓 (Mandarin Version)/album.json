@@ -1,0 +1,92 @@
+{
+  "id": "qq-album-Luis Fonsi-Despacito 缓缓 (Mandarin Version)",
+  "artist": "Luis Fonsi",
+  "title": "Despacito 缓缓 (Mandarin Version)",
+  "releaseDate": "2017-08-04",
+  "releaseDatePrecision": "day",
+  "year": 2017,
+  "type": "single",
+  "path": "artists/Luis Fonsi/2017 - Despacito 缓缓 (Mandarin Version)",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "https://coverartarchive.org/release-group/b628f869-61a9-4892-8aad-b224e61ee867/front-500"
+  },
+  "catalogUrl": "",
+  "tracklistCompleteness": "partial",
+  "notes": "QQ音乐下载文件导入；未确认的发行信息留空。",
+  "tracks": [
+    {
+      "id": "qq-Luis Fonsi-Despacito 缓缓 (Mandarin Version)-d01-t01",
+      "artist": "Luis Fonsi & 林俊杰",
+      "album": "Despacito 缓缓 (Mandarin Version)",
+      "title": "Despacito 缓缓 (Mandarin Version)",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 229.333,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/Luis Fonsi/2017 - Despacito 缓缓 (Mandarin Version)/01-01 - Despacito 缓缓 (Mandarin Version).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 229.333,
+        "fileSize": 9282260,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-Luis Fonsi-Despacito 缓缓 (Mandarin Version)-d01-t01",
+          "localPath": "artists/Luis Fonsi/2017 - Despacito 缓缓 (Mandarin Version)/01-01 - Despacito 缓缓 (Mandarin Version).mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 229.333,
+            "fileSize": 9282260,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 229.333,
+            "fileSize": 9176576,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 229.333,
+        "fileSize": 9176576,
+        "bitRate": 320000
+      },
+      "sourceFileName": "Luis Fonsi,林俊杰-Despacito 缓缓 (Mandarin Version).mp3",
+      "qualityAudit": "verified-qq-320-header"
+    }
+  ]
+}

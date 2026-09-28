@@ -19,9 +19,9 @@
       "discNumber": 1,
       "trackNumber": 2,
       "sequenceNumber": 2,
-      "duration": 242.73,
+      "duration": 242.667,
       "sourceStatus": "available",
-      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001xGlaV2wYC2V",
+      "sourceUrl": "",
       "format": "MP3",
       "localPath": "artists/陈奕迅/1997 - 与我常在/01-02 - 与我常在.mp3",
       "audioProperties": {
@@ -29,23 +29,70 @@
         "sampleRate": 44100,
         "bitDepth": null,
         "channels": 2,
-        "duration": 242.73,
-        "fileSize": 9963665,
+        "duration": 242.667,
+        "fileSize": 9983740,
         "bitRate": 320000
       },
       "sourceAudioProperties": {
-        "codec": "mp4a.40.2",
+        "codec": "MP3",
         "sampleRate": 44100,
+        "bitDepth": null,
         "channels": 2,
-        "duration": 242.741,
-        "bitRate": 95568,
-        "fileSize": 2945884
+        "duration": 242.667,
+        "fileSize": 9983868,
+        "bitRate": 320000
       },
       "transcodedFromLossy": true,
       "suspected_transcode": false,
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
-      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。",
+      "sourceAssetHistory": [
+        {
+          "localPath": "artists/陈奕迅/1997 - 与我常在/01-02 - 与我常在.mp3",
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "duration": 242.741,
+            "bitRate": 95568,
+            "fileSize": 2945884
+          },
+          "sourceFileName": null
+        }
+      ],
+      "sourceFileName": "陈奕迅-与我常在.mp3",
+      "qualityAudit": "verified-qq-320-header",
+      "assets": [
+        {
+          "trackId": "apple-42d682cd80824047",
+          "localPath": "artists/陈奕迅/1997 - 与我常在/01-02 - 与我常在.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 242.667,
+            "fileSize": 9983740,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 242.667,
+            "fileSize": 9983868,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ]
     },
     {
       "id": "apple-22532cf1cabd72d0",

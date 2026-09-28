@@ -2,8 +2,8 @@
   "id": "apple-album-98a67bbc36cf3cee",
   "artist": "陈奕迅 & eason and the duo band",
   "title": "L.O.V.E.",
-  "releaseDate": "2018",
-  "releaseDatePrecision": "year",
+  "releaseDate": "2018-12-11",
+  "releaseDatePrecision": "day",
   "year": 2018,
   "type": "studio",
   "path": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E.",
@@ -12,6 +12,510 @@
   "tracklistCompleteness": "partial",
   "tracks": [
     {
+      "id": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t01",
+      "artist": "陈奕迅 & eason and the duo band",
+      "album": "L.O.V.E.",
+      "title": "8:15pm",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 16.441,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-01 - 8:15pm.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 16.441,
+        "fileSize": 766564,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t01",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-01 - 8:15pm.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 16.441,
+            "fileSize": 766564,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 16.441,
+            "fileSize": 934814,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 16.441,
+        "fileSize": 934814,
+        "bitRate": 320000
+      },
+      "sourceFileName": "陈奕迅,eason and the duo band-8:15pm.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t02",
+      "artist": "陈奕迅 & eason and the duo band",
+      "album": "L.O.V.E.",
+      "title": "破坏王",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 259.126,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-02 - 破坏王.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 259.126,
+        "fileSize": 10483577,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t02",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-02 - 破坏王.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 259.126,
+            "fileSize": 10483577,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 259.126,
+            "fileSize": 10642119,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 259.126,
+        "fileSize": 10642119,
+        "bitRate": 320000
+      },
+      "sourceFileName": "陈奕迅,eason and the duo band-破坏王.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t03",
+      "artist": "陈奕迅 & eason and the duo band",
+      "album": "L.O.V.E.",
+      "title": "海里睡人",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 257.407,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-03 - 海里睡人.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 257.407,
+        "fileSize": 10414547,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t03",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-03 - 海里睡人.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 257.407,
+            "fileSize": 10414547,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 257.407,
+            "fileSize": 10573158,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 257.407,
+        "fileSize": 10573158,
+        "bitRate": 320000
+      },
+      "sourceFileName": "陈奕迅,eason and the duo band-海里睡人.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t04",
+      "artist": "陈奕迅 & eason and the duo band",
+      "album": "L.O.V.E.",
+      "title": "渐渐",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 277.998,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-04 - 渐渐.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 277.998,
+        "fileSize": 11239791,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t04",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-04 - 渐渐.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 277.998,
+            "fileSize": 11239791,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 277.998,
+            "fileSize": 11397578,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 277.998,
+        "fileSize": 11397578,
+        "bitRate": 320000
+      },
+      "sourceFileName": "陈奕迅,eason and the duo band-渐渐.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t05",
+      "artist": "陈奕迅 & eason and the duo band",
+      "album": "L.O.V.E.",
+      "title": "Devotion (Interlude)",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 35.578,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-05 - Devotion (Interlude).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 35.578,
+        "fileSize": 1532432,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t05",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-05 - Devotion (Interlude).mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 35.578,
+            "fileSize": 1532432,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 35.578,
+            "fileSize": 1699893,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 35.578,
+        "fileSize": 1699893,
+        "bitRate": 320000
+      },
+      "sourceFileName": "陈奕迅,eason and the duo band-Devotion (Interlude).mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t06",
+      "artist": "陈奕迅 & eason and the duo band",
+      "album": "L.O.V.E.",
+      "title": "敬烟",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 323.602,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-06 - 敬烟.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 323.602,
+        "fileSize": 13064961,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t06",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-06 - 敬烟.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 323.602,
+            "fileSize": 13064961,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 323.602,
+            "fileSize": 13220925,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 323.602,
+        "fileSize": 13220925,
+        "bitRate": 320000
+      },
+      "sourceFileName": "陈奕迅,eason and the duo band-敬烟.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t07",
+      "artist": "陈奕迅 & eason and the duo band",
+      "album": "L.O.V.E.",
+      "title": "蠢",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 185.514,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-07 - 蠢.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 185.514,
+        "fileSize": 7536106,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t07",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-07 - 蠢.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 185.514,
+            "fileSize": 7536106,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 185.514,
+            "fileSize": 7697593,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 185.514,
+        "fileSize": 7697593,
+        "bitRate": 320000
+      },
+      "sourceFileName": "陈奕迅,eason and the duo band-蠢.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
       "id": "apple-1518c26429955a2d",
       "artist": "陈奕迅 & eason and the duo band",
       "album": "L.O.V.E.",
@@ -19,9 +523,9 @@
       "discNumber": 1,
       "trackNumber": 8,
       "sequenceNumber": 8,
-      "duration": 236.434,
+      "duration": 236.379,
       "sourceStatus": "available",
-      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/003trXaC48bskK",
+      "sourceUrl": "",
       "format": "MP3",
       "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-08 - 疯狂的朋友.mp3",
       "audioProperties": {
@@ -29,23 +533,214 @@
         "sampleRate": 44100,
         "bitDepth": null,
         "channels": 2,
-        "duration": 236.434,
-        "fileSize": 9584074,
+        "duration": 236.379,
+        "fileSize": 9572565,
         "bitRate": 320000
       },
       "sourceAudioProperties": {
-        "codec": "mp4a.40.2",
+        "codec": "MP3",
         "sampleRate": 44100,
+        "bitDepth": null,
         "channels": 2,
-        "duration": 236.449,
-        "bitRate": 94880,
-        "fileSize": 2849177
+        "duration": 236.379,
+        "fileSize": 9732017,
+        "bitRate": 320000
       },
       "transcodedFromLossy": true,
       "suspected_transcode": false,
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
-      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。",
+      "sourceAssetHistory": [
+        {
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-08 - 疯狂的朋友.mp3",
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "duration": 236.449,
+            "bitRate": 94880,
+            "fileSize": 2849177
+          },
+          "sourceFileName": null
+        }
+      ],
+      "sourceFileName": "陈奕迅,eason and the duo band-疯狂的朋友.mp3",
+      "qualityAudit": "verified-qq-320-header",
+      "assets": [
+        {
+          "trackId": "apple-1518c26429955a2d",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-08 - 疯狂的朋友.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 236.379,
+            "fileSize": 9572565,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 236.379,
+            "fileSize": 9732017,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t09",
+      "artist": "陈奕迅 & eason and the duo band",
+      "album": "L.O.V.E.",
+      "title": "Unity (Interlude)",
+      "discNumber": 1,
+      "trackNumber": 9,
+      "sequenceNumber": 9,
+      "duration": 32.683,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-09 - Unity (Interlude).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 32.683,
+        "fileSize": 1417372,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t09",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-09 - Unity (Interlude).mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 32.683,
+            "fileSize": 1417372,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 32.683,
+            "fileSize": 1584948,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 32.683,
+        "fileSize": 1584948,
+        "bitRate": 320000
+      },
+      "sourceFileName": "陈奕迅,eason and the duo band-Unity (Interlude).mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t10",
+      "artist": "陈奕迅 & eason and the duo band",
+      "album": "L.O.V.E.",
+      "title": "R U N",
+      "discNumber": 1,
+      "trackNumber": 10,
+      "sequenceNumber": 10,
+      "duration": 250.728,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-10 - R U N.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 250.728,
+        "fileSize": 10147835,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t10",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-10 - R U N.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 250.728,
+            "fileSize": 10147835,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 250.728,
+            "fileSize": 10306711,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 250.728,
+        "fileSize": 10306711,
+        "bitRate": 320000
+      },
+      "sourceFileName": "陈奕迅,eason and the duo band-R U N.mp3",
+      "qualityAudit": "verified-qq-320-header"
     },
     {
       "id": "apple-d5890f74db3b62b4",
@@ -55,9 +750,9 @@
       "discNumber": 1,
       "trackNumber": 11,
       "sequenceNumber": 11,
-      "duration": 285.336,
+      "duration": 285.285,
       "sourceStatus": "available",
-      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001NrNAD3wfuDu",
+      "sourceUrl": "",
       "format": "MP3",
       "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-11 - 龙舌兰.mp3",
       "audioProperties": {
@@ -65,23 +760,70 @@
         "sampleRate": 44100,
         "bitDepth": null,
         "channels": 2,
-        "duration": 285.336,
-        "fileSize": 11542077,
+        "duration": 285.285,
+        "fileSize": 11531614,
         "bitRate": 320000
       },
       "sourceAudioProperties": {
-        "codec": "mp4a.40.2",
+        "codec": "MP3",
         "sampleRate": 44100,
+        "bitDepth": null,
         "channels": 2,
-        "duration": 285.35,
-        "bitRate": 94936,
-        "fileSize": 3440153
+        "duration": 285.285,
+        "fileSize": 11689107,
+        "bitRate": 320000
       },
       "transcodedFromLossy": true,
       "suspected_transcode": false,
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
-      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。",
+      "sourceAssetHistory": [
+        {
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-11 - 龙舌兰.mp3",
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "duration": 285.35,
+            "bitRate": 94936,
+            "fileSize": 3440153
+          },
+          "sourceFileName": null
+        }
+      ],
+      "sourceFileName": "陈奕迅,eason and the duo band-龙舌兰.mp3",
+      "qualityAudit": "verified-qq-320-header",
+      "assets": [
+        {
+          "trackId": "apple-d5890f74db3b62b4",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-11 - 龙舌兰.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 285.285,
+            "fileSize": 11531614,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 285.285,
+            "fileSize": 11689107,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ]
     },
     {
       "id": "apple-aead02d72408933c",
@@ -91,9 +833,9 @@
       "discNumber": 1,
       "trackNumber": 12,
       "sequenceNumber": 12,
-      "duration": 236.696,
+      "duration": 236.639,
       "sourceStatus": "available",
-      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001onDtb1Eqq86",
+      "sourceUrl": "",
       "format": "MP3",
       "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-12 - 我们万岁.mp3",
       "audioProperties": {
@@ -101,23 +843,142 @@
         "sampleRate": 44100,
         "bitDepth": null,
         "channels": 2,
-        "duration": 236.696,
-        "fileSize": 9594533,
+        "duration": 236.639,
+        "fileSize": 9583024,
         "bitRate": 320000
       },
       "sourceAudioProperties": {
-        "codec": "mp4a.40.2",
+        "codec": "MP3",
         "sampleRate": 44100,
+        "bitDepth": null,
         "channels": 2,
-        "duration": 236.704,
-        "bitRate": 95496,
-        "fileSize": 2870461
+        "duration": 236.639,
+        "fileSize": 9742464,
+        "bitRate": 320000
       },
       "transcodedFromLossy": true,
       "suspected_transcode": false,
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
-      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。",
+      "sourceAssetHistory": [
+        {
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-12 - 我们万岁.mp3",
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "duration": 236.704,
+            "bitRate": 95496,
+            "fileSize": 2870461
+          },
+          "sourceFileName": null
+        }
+      ],
+      "sourceFileName": "陈奕迅,eason and the duo band-我们万岁.mp3",
+      "qualityAudit": "verified-qq-320-header",
+      "assets": [
+        {
+          "trackId": "apple-aead02d72408933c",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-12 - 我们万岁.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 236.639,
+            "fileSize": 9583024,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 236.639,
+            "fileSize": 9742464,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t13",
+      "artist": "陈奕迅 & eason and the duo band",
+      "album": "L.O.V.E.",
+      "title": "Originality (Interlude)",
+      "discNumber": 1,
+      "trackNumber": 13,
+      "sequenceNumber": 13,
+      "duration": 59.705,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-13 - Originality (Interlude).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 59.705,
+        "fileSize": 2498891,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t13",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-13 - Originality (Interlude).mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 59.705,
+            "fileSize": 2498891,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 59.705,
+            "fileSize": 2665384,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 59.705,
+        "fileSize": 2665384,
+        "bitRate": 320000
+      },
+      "sourceFileName": "陈奕迅,eason and the duo band-Originality (Interlude).mp3",
+      "qualityAudit": "verified-qq-320-header"
     },
     {
       "id": "apple-98a67bbc36cf3cee",
@@ -127,9 +988,9 @@
       "discNumber": 1,
       "trackNumber": 14,
       "sequenceNumber": 14,
-      "duration": 298.266,
+      "duration": 298.218,
       "sourceStatus": "available",
-      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/001dkCD50ezfJd",
+      "sourceUrl": "",
       "format": "MP3",
       "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-14 - 与你常在.mp3",
       "audioProperties": {
@@ -137,23 +998,142 @@
         "sampleRate": 44100,
         "bitDepth": null,
         "channels": 2,
-        "duration": 298.266,
-        "fileSize": 12059820,
+        "duration": 298.218,
+        "fileSize": 12049357,
         "bitRate": 320000
       },
       "sourceAudioProperties": {
-        "codec": "mp4a.40.2",
+        "codec": "MP3",
         "sampleRate": 44100,
+        "bitDepth": null,
         "channels": 2,
-        "duration": 298.284,
-        "bitRate": 95224,
-        "fileSize": 3606824
+        "duration": 298.218,
+        "fileSize": 12206333,
+        "bitRate": 320000
       },
       "transcodedFromLossy": true,
       "suspected_transcode": false,
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
-      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。",
+      "sourceAssetHistory": [
+        {
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-14 - 与你常在.mp3",
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "duration": 298.284,
+            "bitRate": 95224,
+            "fileSize": 3606824
+          },
+          "sourceFileName": null
+        }
+      ],
+      "sourceFileName": "陈奕迅,eason and the duo band-与你常在.mp3",
+      "qualityAudit": "verified-qq-320-header",
+      "assets": [
+        {
+          "trackId": "apple-98a67bbc36cf3cee",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-14 - 与你常在.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 298.218,
+            "fileSize": 12049357,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 298.218,
+            "fileSize": 12206333,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t15",
+      "artist": "陈奕迅 & eason and the duo band",
+      "album": "L.O.V.E.",
+      "title": "可一可再",
+      "discNumber": 1,
+      "trackNumber": 15,
+      "sequenceNumber": 15,
+      "duration": 287.574,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-15 - 可一可再.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 287.574,
+        "fileSize": 11622613,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t15",
+          "localPath": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-15 - 可一可再.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 287.574,
+            "fileSize": 11622613,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 287.574,
+            "fileSize": 11780015,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 287.574,
+        "fileSize": 11780015,
+        "bitRate": 320000
+      },
+      "sourceFileName": "陈奕迅,eason and the duo band-可一可再.mp3",
+      "qualityAudit": "verified-qq-320-header"
     }
   ]
 }

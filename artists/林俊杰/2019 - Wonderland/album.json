@@ -19,9 +19,9 @@
       "discNumber": 1,
       "trackNumber": 1,
       "sequenceNumber": 1,
-      "duration": 241.763,
+      "duration": 242.449,
       "sourceStatus": "available",
-      "sourceUrl": "https://www.bilibili.com/video/BV1Y1HjzGESL/?p=114",
+      "sourceUrl": "",
       "format": "MP3",
       "localPath": "artists/林俊杰/2019 - Wonderland/01-01 - Wonderland.mp3",
       "audioProperties": {
@@ -29,23 +29,70 @@
         "sampleRate": 44100,
         "bitDepth": null,
         "channels": 2,
-        "duration": 241.763,
-        "fileSize": 9834076,
+        "duration": 242.449,
+        "fileSize": 9848506,
         "bitRate": 320000
       },
       "sourceAudioProperties": {
-        "codec": "mp4a.40.2",
+        "codec": "MP3",
         "sampleRate": 44100,
+        "bitDepth": null,
         "channels": 2,
-        "duration": 241.72,
-        "bitRate": 116057,
-        "fileSize": 3555321
+        "duration": 242.449,
+        "fileSize": 9975217,
+        "bitRate": 320000
       },
       "transcodedFromLossy": true,
       "suspected_transcode": false,
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
-      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。"
+      "notes": "MP3输出为320kbps；原始音源参数单独记录，转码未提升音质。",
+      "sourceAssetHistory": [
+        {
+          "localPath": "artists/林俊杰/2019 - Wonderland/01-01 - Wonderland.mp3",
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "duration": 241.72,
+            "bitRate": 116057,
+            "fileSize": 3555321
+          },
+          "sourceFileName": null
+        }
+      ],
+      "sourceFileName": "林俊杰-Wonderland.mp3",
+      "qualityAudit": "verified-qq-320-header",
+      "assets": [
+        {
+          "trackId": "apple-bdde58c0783d0081",
+          "localPath": "artists/林俊杰/2019 - Wonderland/01-01 - Wonderland.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 242.449,
+            "fileSize": 9848506,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 242.449,
+            "fileSize": 9975217,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,92 @@
+{
+  "id": "qq-album-周杰伦-不能说的秘密 电影原声带",
+  "artist": "周杰伦",
+  "title": "不能说的秘密 电影原声带",
+  "releaseDate": "2007-08-13",
+  "releaseDatePrecision": "day",
+  "year": 2007,
+  "type": "single",
+  "path": "artists/周杰伦/2007 - 不能说的秘密 电影原声带",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "QQ音乐文件内嵌封面"
+  },
+  "catalogUrl": "",
+  "tracklistCompleteness": "partial",
+  "notes": "QQ音乐下载文件导入；未确认的发行信息留空。",
+  "tracks": [
+    {
+      "id": "qq-周杰伦-不能说的秘密 电影原声带-d01-t01",
+      "artist": "周杰伦",
+      "album": "不能说的秘密 电影原声带",
+      "title": "不能说的秘密",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 296.534,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/周杰伦/2007 - 不能说的秘密 电影原声带/01-01 - 不能说的秘密.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 296.534,
+        "fileSize": 11898287,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-周杰伦-不能说的秘密 电影原声带-d01-t01",
+          "localPath": "artists/周杰伦/2007 - 不能说的秘密 电影原声带/01-01 - 不能说的秘密.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 296.534,
+            "fileSize": 11898287,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 296.534,
+            "fileSize": 12138467,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 296.534,
+        "fileSize": 12138467,
+        "bitRate": 320000
+      },
+      "sourceFileName": "周杰伦-不能说的秘密.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    }
+  ]
+}

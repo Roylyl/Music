@@ -19,9 +19,9 @@
       "discNumber": 1,
       "trackNumber": 4,
       "sequenceNumber": 4,
-      "duration": 320.131,
+      "duration": 320.103,
       "sourceStatus": "available",
-      "sourceUrl": "https://www.youtube.com/watch?v=nvjWLzs3N_w",
+      "sourceUrl": "",
       "format": "MP3",
       "localPath": "artists/Beyond/1999 - Good Time/01-04 - 十八.mp3",
       "audioProperties": {
@@ -29,23 +29,70 @@
         "sampleRate": 44100,
         "bitDepth": null,
         "channels": 2,
-        "duration": 320.131,
-        "fileSize": 13041251,
+        "duration": 320.103,
+        "fileSize": 13080789,
         "bitRate": 320000
       },
       "sourceAudioProperties": {
-        "codec": "opus",
-        "sampleRate": 48000,
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
         "channels": 2,
-        "duration": 320.12,
-        "bitRate": 137000,
-        "fileSize": 5517926
+        "duration": 320.103,
+        "fileSize": 13080917,
+        "bitRate": 320000
       },
       "transcodedFromLossy": true,
       "suspected_transcode": false,
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
-      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。",
+      "sourceAssetHistory": [
+        {
+          "localPath": "artists/Beyond/1999 - Good Time/01-04 - 十八.mp3",
+          "sourceAudioProperties": {
+            "codec": "opus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "duration": 320.12,
+            "bitRate": 137000,
+            "fileSize": 5517926
+          },
+          "sourceFileName": null
+        }
+      ],
+      "sourceFileName": "BEYOND-十八.mp3",
+      "qualityAudit": "verified-qq-320-header",
+      "assets": [
+        {
+          "trackId": "apple-8af40b65081c8670",
+          "localPath": "artists/Beyond/1999 - Good Time/01-04 - 十八.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 320.103,
+            "fileSize": 13080789,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 320.103,
+            "fileSize": 13080917,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ]
     },
     {
       "id": "apple-8d836e6533e0801c",
@@ -55,9 +102,9 @@
       "discNumber": 1,
       "trackNumber": 10,
       "sequenceNumber": 10,
-      "duration": 196.153,
+      "duration": 196.127,
       "sourceStatus": "available",
-      "sourceUrl": "https://www.youtube.com/watch?v=uJwqfImNZbk",
+      "sourceUrl": "",
       "format": "MP3",
       "localPath": "artists/Beyond/1999 - Good Time/01-10 - 荒谬.mp3",
       "audioProperties": {
@@ -65,23 +112,70 @@
         "sampleRate": 44100,
         "bitDepth": null,
         "channels": 2,
-        "duration": 196.153,
-        "fileSize": 8077208,
+        "duration": 196.127,
+        "fileSize": 8121703,
         "bitRate": 320000
       },
       "sourceAudioProperties": {
-        "codec": "opus",
-        "sampleRate": 48000,
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
         "channels": 2,
-        "duration": 196.14,
-        "bitRate": 129000,
-        "fileSize": 3180541
+        "duration": 196.127,
+        "fileSize": 8121831,
+        "bitRate": 320000
       },
       "transcodedFromLossy": true,
       "suspected_transcode": false,
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
-      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。",
+      "sourceAssetHistory": [
+        {
+          "localPath": "artists/Beyond/1999 - Good Time/01-10 - 荒谬.mp3",
+          "sourceAudioProperties": {
+            "codec": "opus",
+            "sampleRate": 48000,
+            "channels": 2,
+            "duration": 196.14,
+            "bitRate": 129000,
+            "fileSize": 3180541
+          },
+          "sourceFileName": null
+        }
+      ],
+      "sourceFileName": "BEYOND-荒谬.mp3",
+      "qualityAudit": "verified-qq-320-header",
+      "assets": [
+        {
+          "trackId": "apple-8d836e6533e0801c",
+          "localPath": "artists/Beyond/1999 - Good Time/01-10 - 荒谬.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 196.127,
+            "fileSize": 8121703,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 196.127,
+            "fileSize": 8121831,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ]
     }
   ]
 }

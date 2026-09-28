@@ -1,0 +1,92 @@
+{
+  "id": "qq-album-林俊杰-SHOW THE WORLD",
+  "artist": "林俊杰",
+  "title": "SHOW THE WORLD",
+  "releaseDate": "2019-06-20",
+  "releaseDatePrecision": "day",
+  "year": 2019,
+  "type": "single",
+  "path": "artists/林俊杰/2019 - SHOW THE WORLD",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "QQ音乐文件内嵌封面"
+  },
+  "catalogUrl": "",
+  "tracklistCompleteness": "partial",
+  "notes": "QQ音乐下载文件导入；未确认的发行信息留空。",
+  "tracks": [
+    {
+      "id": "qq-林俊杰-SHOW THE WORLD-d01-t01",
+      "artist": "林俊杰",
+      "album": "SHOW THE WORLD",
+      "title": "SHOW THE WORLD",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 242.507,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2019 - SHOW THE WORLD/01-01 - SHOW THE WORLD.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 242.507,
+        "fileSize": 9732626,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-SHOW THE WORLD-d01-t01",
+          "localPath": "artists/林俊杰/2019 - SHOW THE WORLD/01-01 - SHOW THE WORLD.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 242.507,
+            "fileSize": 9732626,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 242.507,
+            "fileSize": 9977638,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 242.507,
+        "fileSize": 9977638,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-SHOW THE WORLD.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    }
+  ]
+}

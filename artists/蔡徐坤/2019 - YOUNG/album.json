@@ -1,0 +1,164 @@
+{
+  "id": "qq-album-蔡徐坤-YOUNG",
+  "artist": "蔡徐坤",
+  "title": "YOUNG",
+  "releaseDate": "2019-07-26",
+  "releaseDatePrecision": "day",
+  "year": 2019,
+  "type": "ep",
+  "path": "artists/蔡徐坤/2019 - YOUNG",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "QQ音乐文件内嵌封面"
+  },
+  "catalogUrl": "",
+  "tracklistCompleteness": "partial",
+  "notes": "QQ音乐下载文件导入；未确认的发行信息留空。",
+  "tracks": [
+    {
+      "id": "qq-蔡徐坤-YOUNG-d01-t01",
+      "artist": "蔡徐坤",
+      "album": "YOUNG",
+      "title": "YOUNG",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 225.487,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/蔡徐坤/2019 - YOUNG/01-01 - YOUNG.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 225.487,
+        "fileSize": 9048635,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-蔡徐坤-YOUNG-d01-t01",
+          "localPath": "artists/蔡徐坤/2019 - YOUNG/01-01 - YOUNG.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 225.487,
+            "fileSize": 9048635,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 225.487,
+            "fileSize": 9296289,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 225.487,
+        "fileSize": 9296289,
+        "bitRate": 320000
+      },
+      "sourceFileName": "蔡徐坤-YOUNG.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-蔡徐坤-YOUNG-d01-t02",
+      "artist": "蔡徐坤",
+      "album": "YOUNG",
+      "title": "蒙着眼",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 224.266,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/蔡徐坤/2019 - YOUNG/01-02 - 蒙着眼.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 224.266,
+        "fileSize": 9000215,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-蔡徐坤-YOUNG-d01-t02",
+          "localPath": "artists/蔡徐坤/2019 - YOUNG/01-02 - 蒙着眼.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 224.266,
+            "fileSize": 9000215,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 224.266,
+            "fileSize": 9247918,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 224.266,
+        "fileSize": 9247918,
+        "bitRate": 320000
+      },
+      "sourceFileName": "蔡徐坤-蒙着眼.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    }
+  ]
+}

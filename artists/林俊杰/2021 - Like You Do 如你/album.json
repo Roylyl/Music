@@ -1,0 +1,596 @@
+{
+  "id": "qq-album-林俊杰-Like You Do 如你",
+  "artist": "林俊杰",
+  "title": "Like You Do 如你",
+  "releaseDate": "2021-04-23",
+  "releaseDatePrecision": "day",
+  "year": 2021,
+  "type": "studio",
+  "path": "artists/林俊杰/2021 - Like You Do 如你",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "https://coverartarchive.org/release-group/1b11df81-21f0-45d2-ab07-9ddaf074a19f/front-500"
+  },
+  "catalogUrl": "",
+  "tracklistCompleteness": "partial",
+  "notes": "QQ音乐下载文件导入；未确认的发行信息留空。",
+  "tracks": [
+    {
+      "id": "qq-林俊杰-Like You Do 如你-d01-t01",
+      "artist": "林俊杰",
+      "album": "Like You Do 如你",
+      "title": "While I Can",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 207.029,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-01 - While I Can.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 207.029,
+        "fileSize": 8330578,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-Like You Do 如你-d01-t01",
+          "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-01 - While I Can.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 207.029,
+            "fileSize": 8330578,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 207.029,
+            "fileSize": 8284183,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 207.029,
+        "fileSize": 8284183,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-While I Can.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-林俊杰-Like You Do 如你-d01-t02",
+      "artist": "林俊杰",
+      "album": "Like You Do 如你",
+      "title": "Like You Do",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 196.999,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-02 - Like You Do.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 196.999,
+        "fileSize": 7928935,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-Like You Do 如你-d01-t02",
+          "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-02 - Like You Do.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 196.999,
+            "fileSize": 7928935,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 196.999,
+            "fileSize": 7882942,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 196.999,
+        "fileSize": 7882942,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-Like You Do.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-林俊杰-Like You Do 如你-d01-t03",
+      "artist": "林俊杰",
+      "album": "Like You Do 如你",
+      "title": "Not Tonight",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 231.793,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-03 - Not Tonight.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 231.793,
+        "fileSize": 9322131,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-Like You Do 如你-d01-t03",
+          "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-03 - Not Tonight.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 231.793,
+            "fileSize": 9322131,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 231.793,
+            "fileSize": 9274746,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 231.793,
+        "fileSize": 9274746,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-Not Tonight.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-林俊杰-Like You Do 如你-d01-t04",
+      "artist": "林俊杰",
+      "album": "Like You Do 如你",
+      "title": "All In Your Mind",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 185.105,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-04 - All In Your Mind.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 185.105,
+        "fileSize": 7453041,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-Like You Do 如你-d01-t04",
+          "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-04 - All In Your Mind.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 185.105,
+            "fileSize": 7453041,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 185.105,
+            "fileSize": 7407523,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 185.105,
+        "fileSize": 7407523,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-All In Your Mind.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-林俊杰-Like You Do 如你-d01-t05",
+      "artist": "林俊杰",
+      "album": "Like You Do 如你",
+      "title": "Head On",
+      "discNumber": 1,
+      "trackNumber": 5,
+      "sequenceNumber": 5,
+      "duration": 173.134,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-05 - Head On.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 173.134,
+        "fileSize": 6972935,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-Like You Do 如你-d01-t05",
+          "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-05 - Head On.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 173.134,
+            "fileSize": 6972935,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 173.134,
+            "fileSize": 6927897,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 173.134,
+        "fileSize": 6927897,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-Head On.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-林俊杰-Like You Do 如你-d01-t06",
+      "artist": "林俊杰",
+      "album": "Like You Do 如你",
+      "title": "Steady My Love",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 253.069,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-06 - Steady My Love.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 253.069,
+        "fileSize": 10173535,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-Like You Do 如你-d01-t06",
+          "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-06 - Steady My Love.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 253.069,
+            "fileSize": 10173535,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 253.069,
+            "fileSize": 10125299,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 253.069,
+        "fileSize": 10125299,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-Steady My Love.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-林俊杰-Like You Do 如你-d01-t07",
+      "artist": "林俊杰 & Anne-Marie",
+      "album": "Like You Do 如你",
+      "title": "Bedroom (feat. Anne-Marie)",
+      "discNumber": 1,
+      "trackNumber": 7,
+      "sequenceNumber": 7,
+      "duration": 203.991,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-07 - Bedroom (feat. Anne-Marie).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 203.991,
+        "fileSize": 8209291,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-Like You Do 如你-d01-t07",
+          "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-07 - Bedroom (feat. Anne-Marie).mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 203.991,
+            "fileSize": 8209291,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 203.991,
+            "fileSize": 8163005,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 203.991,
+        "fileSize": 8163005,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰,Anne-Marie-Bedroom (feat. Anne-Marie).mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-林俊杰-Like You Do 如你-d01-t08",
+      "artist": "林俊杰 & Steve Aoki",
+      "album": "Like You Do 如你",
+      "title": "Not Tonight (Tomorrow Sounds Good Steve Aoki Remix)",
+      "discNumber": 1,
+      "trackNumber": 8,
+      "sequenceNumber": 8,
+      "duration": 280.909,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-08 - Not Tonight (Tomorrow Sounds Good Steve Aoki Remix).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 280.909,
+        "fileSize": 11288584,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-Like You Do 如你-d01-t08",
+          "localPath": "artists/林俊杰/2021 - Like You Do 如你/01-08 - Not Tonight (Tomorrow Sounds Good Steve Aoki Remix).mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 280.909,
+            "fileSize": 11288584,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 280.909,
+            "fileSize": 11239146,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 280.909,
+        "fileSize": 11239146,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰,Steve Aoki-Not Tonight (Tomorrow Sounds Good Steve Aoki Remix).mp3",
+      "qualityAudit": "verified-qq-320-header"
+    }
+  ]
+}

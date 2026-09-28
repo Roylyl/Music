@@ -1,0 +1,164 @@
+{
+  "id": "qq-album-林俊杰-感爵这一刻",
+  "artist": "林俊杰",
+  "title": "感爵这一刻",
+  "releaseDate": "2020-12-22",
+  "releaseDatePrecision": "day",
+  "year": 2020,
+  "type": "single",
+  "path": "artists/林俊杰/2020 - 感爵这一刻",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f9/38/30/f9383050-3f28-252a-b0ca-73b805fa3d07/190295049300.jpg/1200x1200bb.jpg"
+  },
+  "catalogUrl": "",
+  "tracklistCompleteness": "partial",
+  "notes": "QQ音乐下载文件导入；未确认的发行信息留空。",
+  "tracks": [
+    {
+      "id": "qq-林俊杰-感爵这一刻-d01-t01",
+      "artist": "林俊杰",
+      "album": "感爵这一刻",
+      "title": "修炼爱情 (Jazz Version)",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 331.625,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2020 - 感爵这一刻/01-01 - 修炼爱情 (Jazz Version).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 331.625,
+        "fileSize": 13445325,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-感爵这一刻-d01-t01",
+          "localPath": "artists/林俊杰/2020 - 感爵这一刻/01-01 - 修炼爱情 (Jazz Version).mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 331.625,
+            "fileSize": 13445325,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 331.625,
+            "fileSize": 13268314,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 331.625,
+        "fileSize": 13268314,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-修炼爱情 (Jazz Version).mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-林俊杰-感爵这一刻-d01-t02",
+      "artist": "林俊杰",
+      "album": "感爵这一刻",
+      "title": "伟大的渺小 (Jazz Version)",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 298.773,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2020 - 感爵这一刻/01-02 - 伟大的渺小 (Jazz Version).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 298.773,
+        "fileSize": 12129530,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-感爵这一刻-d01-t02",
+          "localPath": "artists/林俊杰/2020 - 感爵这一刻/01-02 - 伟大的渺小 (Jazz Version).mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 298.773,
+            "fileSize": 12129530,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 298.773,
+            "fileSize": 11953834,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 298.773,
+        "fileSize": 11953834,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-伟大的渺小 (Jazz Version).mp3",
+      "qualityAudit": "verified-qq-320-header"
+    }
+  ]
+}

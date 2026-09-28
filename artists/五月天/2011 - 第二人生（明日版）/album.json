@@ -1,0 +1,92 @@
+{
+  "id": "qq-album-五月天-第二人生（明日版）",
+  "artist": "五月天",
+  "title": "第二人生（明日版）",
+  "releaseDate": "2011-12-16",
+  "releaseDatePrecision": "day",
+  "year": 2011,
+  "type": "single",
+  "path": "artists/五月天/2011 - 第二人生（明日版）",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "QQ音乐文件内嵌封面"
+  },
+  "catalogUrl": "",
+  "tracklistCompleteness": "partial",
+  "notes": "QQ音乐下载文件导入；未确认的发行信息留空。",
+  "tracks": [
+    {
+      "id": "qq-五月天-第二人生（明日版）-d01-t01",
+      "artist": "五月天",
+      "album": "第二人生（明日版）",
+      "title": "干杯",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 289.095,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/五月天/2011 - 第二人生（明日版）/01-01 - 干杯.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 289.095,
+        "fileSize": 11607786,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-五月天-第二人生（明日版）-d01-t01",
+          "localPath": "artists/五月天/2011 - 第二人生（明日版）/01-01 - 干杯.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 289.095,
+            "fileSize": 11607786,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 289.095,
+            "fileSize": 11840657,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 289.095,
+        "fileSize": 11840657,
+        "bitRate": 320000
+      },
+      "sourceFileName": "五月天-干杯.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    }
+  ]
+}

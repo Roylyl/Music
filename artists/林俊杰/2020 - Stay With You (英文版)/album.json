@@ -1,0 +1,92 @@
+{
+  "id": "qq-album-林俊杰-Stay With You (英文版)",
+  "artist": "林俊杰",
+  "title": "Stay With You (英文版)",
+  "releaseDate": "2020-08-09",
+  "releaseDatePrecision": "day",
+  "year": 2020,
+  "type": "single",
+  "path": "artists/林俊杰/2020 - Stay With You (英文版)",
+  "cover": "cover.jpg",
+  "coverWeb": "cover.webp",
+  "coverSource": {
+    "provider": "QQ音乐文件内嵌封面"
+  },
+  "catalogUrl": "",
+  "tracklistCompleteness": "partial",
+  "notes": "QQ音乐下载文件导入；未确认的发行信息留空。",
+  "tracks": [
+    {
+      "id": "qq-林俊杰-Stay With You (英文版)-d01-t01",
+      "artist": "林俊杰 & 孙燕姿",
+      "album": "Stay With You (英文版)",
+      "title": "Stay With You (英文版)",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 207.76,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2020 - Stay With You (英文版)/01-01 - Stay With You (英文版).mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 207.76,
+        "fileSize": 8338838,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-Stay With You (英文版)-d01-t01",
+          "localPath": "artists/林俊杰/2020 - Stay With You (英文版)/01-01 - Stay With You (英文版).mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 207.76,
+            "fileSize": 8338838,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 207.76,
+            "fileSize": 8587892,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 207.76,
+        "fileSize": 8587892,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰,孙燕姿-Stay With You (英文版).mp3",
+      "qualityAudit": "verified-qq-320-header"
+    }
+  ]
+}

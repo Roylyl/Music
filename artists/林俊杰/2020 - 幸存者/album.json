@@ -2,8 +2,8 @@
   "id": "apple-album-e6ee1e486931b6e4",
   "artist": "林俊杰",
   "title": "幸存者",
-  "releaseDate": "2020",
-  "releaseDatePrecision": "year",
+  "releaseDate": "2020-10-20",
+  "releaseDatePrecision": "day",
   "year": 2020,
   "type": "ep",
   "path": "artists/林俊杰/2020 - 幸存者",
@@ -12,6 +12,294 @@
   "tracklistCompleteness": "partial",
   "tracks": [
     {
+      "id": "qq-林俊杰-幸存者-d01-t01",
+      "artist": "林俊杰",
+      "album": "幸存者",
+      "title": "最向往的地方",
+      "discNumber": 1,
+      "trackNumber": 1,
+      "sequenceNumber": 1,
+      "duration": 232.784,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2020 - 幸存者/01-01 - 最向往的地方.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 232.784,
+        "fileSize": 9483658,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-幸存者-d01-t01",
+          "localPath": "artists/林俊杰/2020 - 幸存者/01-01 - 最向往的地方.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 232.784,
+            "fileSize": 9483658,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 232.784,
+            "fileSize": 9314436,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 232.784,
+        "fileSize": 9314436,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-最向往的地方.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-林俊杰-幸存者-d01-t02",
+      "artist": "林俊杰",
+      "album": "幸存者",
+      "title": "交换余生",
+      "discNumber": 1,
+      "trackNumber": 2,
+      "sequenceNumber": 2,
+      "duration": 276.339,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2020 - 幸存者/01-02 - 交换余生.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 276.339,
+        "fileSize": 11227241,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-幸存者-d01-t02",
+          "localPath": "artists/林俊杰/2020 - 幸存者/01-02 - 交换余生.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 276.339,
+            "fileSize": 11227241,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 276.339,
+            "fileSize": 11056277,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 276.339,
+        "fileSize": 11056277,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-交换余生-1.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-林俊杰-幸存者-d01-t03",
+      "artist": "林俊杰",
+      "album": "幸存者",
+      "title": "幸存者",
+      "discNumber": 1,
+      "trackNumber": 3,
+      "sequenceNumber": 3,
+      "duration": 281.91,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2020 - 幸存者/01-03 - 幸存者.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 281.91,
+        "fileSize": 11450024,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-幸存者-d01-t03",
+          "localPath": "artists/林俊杰/2020 - 幸存者/01-03 - 幸存者.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 281.91,
+            "fileSize": 11450024,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 281.91,
+            "fileSize": 11278838,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 281.91,
+        "fileSize": 11278838,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-幸存者.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
+      "id": "qq-林俊杰-幸存者-d01-t04",
+      "artist": "林俊杰",
+      "album": "幸存者",
+      "title": "离开的那一些",
+      "discNumber": 1,
+      "trackNumber": 4,
+      "sequenceNumber": 4,
+      "duration": 277.107,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2020 - 幸存者/01-04 - 离开的那一些.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 277.107,
+        "fileSize": 11257577,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-幸存者-d01-t04",
+          "localPath": "artists/林俊杰/2020 - 幸存者/01-04 - 离开的那一些.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 277.107,
+            "fileSize": 11257577,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 277.107,
+            "fileSize": 11086583,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 277.107,
+        "fileSize": 11086583,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-离开的那一些.mp3",
+      "qualityAudit": "verified-qq-320-header"
+    },
+    {
       "id": "apple-e6ee1e486931b6e4",
       "artist": "林俊杰",
       "album": "幸存者",
@@ -19,9 +307,9 @@
       "discNumber": 1,
       "trackNumber": 5,
       "sequenceNumber": 5,
-      "duration": 272.823,
+      "duration": 272.771,
       "sourceStatus": "available",
-      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/0027C75W1tpKgK",
+      "sourceUrl": "",
       "format": "MP3",
       "localPath": "artists/林俊杰/2020 - 幸存者/01-05 - 最好是.mp3",
       "audioProperties": {
@@ -29,23 +317,142 @@
         "sampleRate": 44100,
         "bitDepth": null,
         "channels": 2,
-        "duration": 272.823,
-        "fileSize": 11101435,
+        "duration": 272.771,
+        "fileSize": 11084991,
         "bitRate": 320000
       },
       "sourceAudioProperties": {
-        "codec": "mp4a.40.2",
+        "codec": "MP3",
         "sampleRate": 44100,
+        "bitDepth": null,
         "channels": 2,
-        "duration": 272.834,
-        "bitRate": 95600,
-        "fileSize": 3311949
+        "duration": 272.771,
+        "fileSize": 10914169,
+        "bitRate": 320000
       },
       "transcodedFromLossy": true,
       "suspected_transcode": false,
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
-      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。",
+      "sourceAssetHistory": [
+        {
+          "localPath": "artists/林俊杰/2020 - 幸存者/01-05 - 最好是.mp3",
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "duration": 272.834,
+            "bitRate": 95600,
+            "fileSize": 3311949
+          },
+          "sourceFileName": null
+        }
+      ],
+      "sourceFileName": "林俊杰-最好是.mp3",
+      "qualityAudit": "verified-qq-320-header",
+      "assets": [
+        {
+          "trackId": "apple-e6ee1e486931b6e4",
+          "localPath": "artists/林俊杰/2020 - 幸存者/01-05 - 最好是.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 272.771,
+            "fileSize": 11084991,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 272.771,
+            "fileSize": 10914169,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ]
+    },
+    {
+      "id": "qq-林俊杰-幸存者-d01-t06",
+      "artist": "林俊杰",
+      "album": "幸存者",
+      "title": "暂时的记号",
+      "discNumber": 1,
+      "trackNumber": 6,
+      "sequenceNumber": 6,
+      "duration": 253.368,
+      "durationSource": "local-file",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "format": "MP3",
+      "localPath": "artists/林俊杰/2020 - 幸存者/01-06 - 暂时的记号.mp3",
+      "sources": [],
+      "suspected_transcode": null,
+      "audioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 253.368,
+        "fileSize": 10307859,
+        "bitRate": 320000
+      },
+      "searchStatus": "local-user-source",
+      "versionMatch": "QQ文件名、专辑标签与发行目录核对；母带版本未核实",
+      "assets": [
+        {
+          "trackId": "qq-林俊杰-幸存者-d01-t06",
+          "localPath": "artists/林俊杰/2020 - 幸存者/01-06 - 暂时的记号.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 253.368,
+            "fileSize": 10307859,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 253.368,
+            "fileSize": 10137814,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ],
+      "rightsStatus": "personal-copy; redistribution-unverified",
+      "redistributionAllowed": false,
+      "versionReviewRequired": false,
+      "sourceAudioProperties": {
+        "codec": "MP3",
+        "sampleRate": 44100,
+        "bitDepth": null,
+        "channels": 2,
+        "duration": 253.368,
+        "fileSize": 10137814,
+        "bitRate": 320000
+      },
+      "sourceFileName": "林俊杰-暂时的记号.mp3",
+      "qualityAudit": "verified-qq-320-header"
     }
   ]
 }

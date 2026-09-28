@@ -55,9 +55,9 @@
       "discNumber": 1,
       "trackNumber": 3,
       "sequenceNumber": 3,
-      "duration": 296.96,
+      "duration": 296.907,
       "sourceStatus": "available",
-      "sourceUrl": "https://y.qq.com/n/ryqq_v2/songDetail/0047DSM0095Df7",
+      "sourceUrl": "",
       "format": "MP3",
       "localPath": "artists/黄贯中/2001 - 黄贯中/01-03 - 某日.mp3",
       "audioProperties": {
@@ -65,23 +65,70 @@
         "sampleRate": 44100,
         "bitDepth": null,
         "channels": 2,
-        "duration": 296.96,
-        "fileSize": 12015958,
+        "duration": 296.907,
+        "fileSize": 12001180,
         "bitRate": 320000
       },
       "sourceAudioProperties": {
-        "codec": "mp4a.40.2",
+        "codec": "MP3",
         "sampleRate": 44100,
+        "bitDepth": null,
         "channels": 2,
-        "duration": 296.983,
-        "bitRate": 96152,
-        "fileSize": 3625419
+        "duration": 296.907,
+        "fileSize": 12153030,
+        "bitRate": 320000
       },
       "transcodedFromLossy": true,
       "suspected_transcode": false,
       "rightsStatus": "personal-copy; redistribution-unverified",
       "redistributionAllowed": false,
-      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
+      "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。",
+      "sourceAssetHistory": [
+        {
+          "localPath": "artists/黄贯中/2001 - 黄贯中/01-03 - 某日.mp3",
+          "sourceAudioProperties": {
+            "codec": "mp4a.40.2",
+            "sampleRate": 44100,
+            "channels": 2,
+            "duration": 296.983,
+            "bitRate": 96152,
+            "fileSize": 3625419
+          },
+          "sourceFileName": null
+        }
+      ],
+      "sourceFileName": "黄贯中-某日.mp3",
+      "qualityAudit": "verified-qq-320-header",
+      "assets": [
+        {
+          "trackId": "apple-e209791e401e46aa",
+          "localPath": "artists/黄贯中/2001 - 黄贯中/01-03 - 某日.mp3",
+          "sourceUrl": "",
+          "provider": "用户提供的QQ音乐下载目录",
+          "rightsStatus": "personal-copy; redistribution-unverified",
+          "status": "imported",
+          "audioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 296.907,
+            "fileSize": 12001180,
+            "bitRate": 320000
+          },
+          "sourceAudioProperties": {
+            "codec": "MP3",
+            "sampleRate": 44100,
+            "bitDepth": null,
+            "channels": 2,
+            "duration": 296.907,
+            "fileSize": 12153030,
+            "bitRate": 320000
+          },
+          "suspected_transcode": null,
+          "redistributionAllowed": false
+        }
+      ]
     },
     {
       "id": "apple-b27488f71f9c355c",
@@ -120,5 +167,5 @@
       "notes": "MP3输出为320kbps；原始有损音源参数单独记录，转码未提升音质。"
     }
   ],
-  "metadataNote": "发行年份核正为2001年；原有1993年目录是错标，曲目已并入同一发行。"
+  "metadataNote": "发行年份核正为2001年；错误年份1993年的目录已合并。"
 }
