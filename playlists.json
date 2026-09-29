@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "Apple Music XML export and local library additions",
-  "updatedAt": "2026-09-29T01:52:10.288201+00:00",
+  "updatedAt": "2026-09-29T08:25:10.772440+00:00",
   "syncMode": "export-snapshot",
   "playlists": [
     {
@@ -247,7 +247,10 @@
         "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t08",
         "local:lizhi-tokyo-2024-d01-t06",
         "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t04",
-        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06"
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06",
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t03",
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t07",
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t09"
       ]
     },
     {
@@ -309,7 +312,10 @@
         "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t08",
         "local:lizhi-tokyo-2024-d01-t06",
         "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t04",
-        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06"
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06",
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t03",
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t07",
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t09"
       ]
     }
   ],
@@ -481,7 +487,10 @@
     "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t08",
     "local:lizhi-tokyo-2024-d01-t06",
     "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t04",
-    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06"
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06",
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t03",
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t07",
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t09"
   ],
   "entries": {
     "05A1CCD5916C5844": {
@@ -5740,6 +5749,51 @@
       "sourceUrl": "",
       "musicVideo": false,
       "localizedMetadataSource": "library:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06"
+    },
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t03": {
+      "appleId": "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t03",
+      "title": "门",
+      "artist": "李志",
+      "album": "F",
+      "duration": 386.847,
+      "year": 2011,
+      "trackNumber": 3,
+      "discNumber": 1,
+      "trackId": "lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t03",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1ZuWUY9MRASRKCcw6wKabfN2yn4d65LHl/view?usp=drivesdk",
+      "musicVideo": false,
+      "localizedMetadataSource": "library:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t03"
+    },
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t07": {
+      "appleId": "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t07",
+      "title": "你的早晨",
+      "artist": "李志",
+      "album": "F",
+      "duration": 247.719,
+      "year": 2011,
+      "trackNumber": 7,
+      "discNumber": 1,
+      "trackId": "lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t07",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Hr7-OBe-GnGPtI4KW2ypEKcy1oalcpfH/view?usp=drivesdk",
+      "musicVideo": false,
+      "localizedMetadataSource": "library:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t07"
+    },
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t09": {
+      "appleId": "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t09",
+      "title": "日",
+      "artist": "李志",
+      "album": "F",
+      "duration": 162.821,
+      "year": 2011,
+      "trackNumber": 9,
+      "discNumber": 1,
+      "trackId": "lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t09",
+      "sourceStatus": "available",
+      "sourceUrl": "https://drive.google.com/file/d/1Okr4z8ED0P_qfai1KNd2mWvcdDt3b8RT/view?usp=drivesdk",
+      "musicVideo": false,
+      "localizedMetadataSource": "library:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t09"
     }
   }
 }
