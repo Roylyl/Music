@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "source": "Apple Music XML export",
-  "updatedAt": "2026-09-26T19:41:49.081541+00:00",
+  "source": "Apple Music XML export and local library additions",
+  "updatedAt": "2026-09-29T01:46:26.622003+00:00",
   "syncMode": "export-snapshot",
   "playlists": [
     {
@@ -242,7 +242,12 @@
         "F645E60E33B2B4BC",
         "4C08FE8DFB3699E0",
         "4DC329BDBFEE2CB1",
-        "92E50C0CF8B96B7B"
+        "92E50C0CF8B96B7B",
+        "local:lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05",
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t08",
+        "local:lizhi-tokyo-2024-d01-t06",
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t04",
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06"
       ]
     },
     {
@@ -299,7 +304,12 @@
         "4DC329BDBFEE2CB1",
         "92E50C0CF8B96B7B",
         "4D7A1E9A857A54D8",
-        "7927446330F8B8ED"
+        "7927446330F8B8ED",
+        "local:lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05",
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t08",
+        "local:lizhi-tokyo-2024-d01-t06",
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t04",
+        "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06"
       ]
     }
   ],
@@ -466,7 +476,12 @@
     "96927687F4041110",
     "078DA74E18C33A98",
     "4DC329BDBFEE2CB1",
-    "92E50C0CF8B96B7B"
+    "92E50C0CF8B96B7B",
+    "local:lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05",
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t08",
+    "local:lizhi-tokyo-2024-d01-t06",
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t04",
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06"
   ],
   "entries": {
     "05A1CCD5916C5844": {
@@ -5650,6 +5665,81 @@
         "album": "9522"
       },
       "localizedMetadataSource": "https://music.apple.com/hk/album/%E6%9C%80%E5%A5%BD%E7%9A%84%E6%99%82%E5%85%89/1643653309?i=1643653875&uo=4"
+    },
+    "local:lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05": {
+      "appleId": "local:lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05",
+      "title": "广场",
+      "artist": "李志",
+      "album": "梵高先生",
+      "duration": 251.35,
+      "year": 2005,
+      "trackNumber": 5,
+      "discNumber": 1,
+      "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "musicVideo": false,
+      "localizedMetadataSource": "library:lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05"
+    },
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t08": {
+      "appleId": "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t08",
+      "title": "杭州",
+      "artist": "李志",
+      "album": "F",
+      "duration": 237.793,
+      "year": 2011,
+      "trackNumber": 8,
+      "discNumber": 1,
+      "trackId": "lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t08",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "musicVideo": false,
+      "localizedMetadataSource": "library:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t08"
+    },
+    "local:lizhi-tokyo-2024-d01-t06": {
+      "appleId": "local:lizhi-tokyo-2024-d01-t06",
+      "title": "天空之城",
+      "artist": "李志",
+      "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+      "duration": 229.187,
+      "year": 2024,
+      "trackNumber": 6,
+      "discNumber": 1,
+      "trackId": "lizhi-tokyo-2024-d01-t06",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "musicVideo": false,
+      "localizedMetadataSource": "library:lizhi-tokyo-2024-d01-t06"
+    },
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t04": {
+      "appleId": "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t04",
+      "title": "下雨",
+      "artist": "李志",
+      "album": "F",
+      "duration": 307.043,
+      "year": 2011,
+      "trackNumber": 4,
+      "discNumber": 1,
+      "trackId": "lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t04",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "musicVideo": false,
+      "localizedMetadataSource": "library:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t04"
+    },
+    "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06": {
+      "appleId": "local:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06",
+      "title": "女神",
+      "artist": "李志",
+      "album": "F",
+      "duration": 300.121,
+      "year": 2011,
+      "trackNumber": 6,
+      "discNumber": 1,
+      "trackId": "lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06",
+      "sourceStatus": "available",
+      "sourceUrl": "",
+      "musicVideo": false,
+      "localizedMetadataSource": "library:lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t06"
     }
   }
 }
