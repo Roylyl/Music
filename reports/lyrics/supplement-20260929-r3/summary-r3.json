@@ -1,0 +1,71 @@
+{
+ "generatedAt": "2026-09-29",
+ "round": "supplement-20260929-r3",
+ "totalPlayableTracks": 848,
+ "statusCounts": {
+  "has-lyrics": 521,
+  "missing": 285,
+  "instrumental": 13,
+  "version-pending": 14,
+  "new-this-round": 14,
+  "timeline-anomaly": 1
+ },
+ "newLyricFiles": 14,
+ "newTimedLyricFiles": 14,
+ "newUntimedLyricFiles": 0,
+ "tracksStillWithoutLyricFile": 313,
+ "stillMissingBreakdown": {
+  "missing": 285,
+  "instrumental": 13,
+  "versionPending": 14,
+  "timelineAnomaly": 1
+ },
+ "reuse": {
+  "note": "本轮未重跑上一轮整库扫描；仅对三个日本精选集及少量同类此前从未进入配对的目标（标题带年份/版本后缀所致）做定向补测，共 51 对全新配对",
+  "newPairsTested": 51,
+  "matches": 14,
+  "imported": 14,
+  "timestampsKept": 8,
+  "timestampsShifted": 6
+ },
+ "webRetrieval": {
+  "lrclib": {
+   "probed": 313,
+   "found": 138,
+   "closeDurationMatch": 77,
+   "closeComposition": {
+    "synced": 50,
+    "plainOnly": 10,
+    "instrumentalFlag": 16,
+    "neither": 1
+   },
+   "lizhi": {
+    "found": 99,
+    "close": 49,
+    "closeSynced": 37
+   }
+  },
+  "lizhinb": {
+   "indexEntries": 475,
+   "matchedLizhiMissing": 101,
+   "strictName": 48,
+   "variantName": 53,
+   "format": "UTF-8, [mm:ss.mmm], 自带词曲行",
+   "lrcDirectFetch": "HTTP 200（未登录）"
+  },
+  "importedFromWeb": 0,
+  "whyNoWebImport": "按既定边界：只导入用户已有/提供/明确允许复制的歌词；歌迷站与开放数据库资源的复制许可未核实，仅记录链接与元数据（用户可复核后指定是否使用）。",
+  "extraPages": "本轮另确认歌词页面/词条：李志《路》《一头偶像》《意味》《热河》等；薛之谦followlyrics带时间戳页；刘维官方页；久石让专辑页"
+ },
+ "nearMissForManualReview": [
+  "卡夫卡（2004）0.912、翁庆年的六英镑（2006）0.905、忽然（2010）0.911 — 接近0.92阈值，建议人工听辨",
+  "黑色信封（2004）0.795、墙上的向日葵（2010）0.804 — 母带差异待人工"
+ ],
+ "unverified": [
+  "14份新增LRC未逐句听辨；同录音与偏移由三段8秒窗口抽样支持（最小相关0.922-0.999，离散≤0.125ms）",
+  "歌迷站与库内文件的同源性仅两例抽查（义乌黑色信封部分一致；死人时间轴不一致），不足以推广到全部",
+  "lrclib条目为他人上传，未与本地录音逐条做版本对比；其一instrumental标记含商业曲目伴奏条目，不能替代本地分类",
+  "《广场》仍未找到公开歌词页面"
+ ],
+ "boundary": "未修改音频/元数据/文件名/目录结构；未覆盖任何已有LRC；未执行git add/commit/push/部署；未绕过登录、验证码、付费或访问控制；未复制网上歌词正文入仓库。"
+}

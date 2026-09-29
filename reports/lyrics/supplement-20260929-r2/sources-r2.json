@@ -1,0 +1,837 @@
+{
+ "generatedAt": "2026-09-29",
+ "round": "supplement-20260929-r2",
+ "scope": "本轮新检索的来源记录；只含元数据与署名信息，未复制任何网上歌词正文；与supplement-20260929/sources.json互补。",
+ "sources": [
+  {
+   "sourceId": "r2-001",
+   "url": "https://jums.club/lizhi/20091016/",
+   "title": "二零零九年十月十六日事件（歌迷站资料页）",
+   "trackTitles": [
+    "陀螺",
+    "鸟语",
+    "狐狸",
+    "达摩流浪者",
+    "来自我心",
+    "虎口脱险",
+    "恋恋风尘",
+    "聴妈妈讲那过去的故事",
+    "结婚"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认2009-10-16江南剧场《我爱南京》首发现场，双CD+双DVD；页面列28轨曲目表与完整乐手/嘉宾署名（吉他王春/吉松浩、贝斯张雯、键盘胡欣、鼓手余赣宁、和声王爱书/郑影、特邀键盘陶晶、嘉宾汤臣/万晓利/老狼、调音与现场录音姜北生）。",
+    "万晓利演唱曲目（陀螺/鸟语/狐狸/达摩流浪者）、老狼演唱曲目（来自我心/虎口脱险/恋恋风尘）、汤臣与李志合唱（听妈妈讲那过去的事情）、三人合唱（结婚）与本地曲目标记的ボーカル分工一致。",
+    "歌迷站博客（CC BY-NC-SA声明仅覆盖博客自身文章）；歌词正文未复制；未找到该现场官方歌词页。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-002",
+   "url": "https://musicbrainz.org/release/211ffdd9-238e-4c6d-858d-a38f725e0493",
+   "title": "梵高先生（MusicBrainz发行页）",
+   "trackTitles": [
+    "广场"
+   ],
+   "matchScope": "album-tracklist",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "MusicBrainz缓存（reports/lyrics/musicbrainz-lookups.json）确认《梵高先生》(2005-12-25)曲目表含《广场》，演唱署名李志。lizhinb该专辑页当前7轨列表不含《广场》，两者不一致，以MusicBrainz曲目表为准记录，lizhinb差异保留。",
+    "与本地artists/李志/2005 - 梵高先生/01-05 - 广场.mp3对应。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-003",
+   "url": "https://baike.baidu.com/item/金城兰州/22791080",
+   "title": "金城兰州（百度百科）",
+   "trackTitles": [
+    "金城兰州"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《金城兰州》为纪录片《金城兰州2》主题曲，2018-08-02网易云音乐首发；作曲张玮玮，作词老狼/李志/张玮玮，演唱老狼/李志/张玮玮。",
+    "搜狐报道（sohu.com/a/246652141_488713）补充：编曲张玮玮/赵浩成/胡洋/王斌，混音姜北生，制作人李东珅/张玮玮，吉他胡洋，贝斯大猛，鼓王斌，小号陈伟伦，键盘高佳。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-010",
+   "url": "http://zh.wikipedia-on-ipfs.org/wiki/%E9%A9%9A%E5%96%9C_(%E5%B0%88%E8%BC%AF)",
+   "title": "惊喜（维基百科镜像）",
+   "trackTitles": [
+    "雾",
+    "青马大桥",
+    "不朽的传说"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《惊喜》为Beyond第十三张专辑（1997年12月，滚石）；曲目表含逐曲填词/作曲/主唱：雾（词黄伟文、曲与唱黄贯中）、青马大桥（作曲黄家强，无填词无主唱）、不朽的传说（词曲唱黄家强）。",
+    "青马大桥无词无主唱；oxflac.com/albums/34169 曲目表另标\"青马大桥(纯音乐演奏)\"，两处一致，判定为器乐版本。MusicBrainz(musicbrainz.org/medium/9f13d8be-9c07-340a-a502-fc75c49afb77)曲目表一致。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-011",
+   "url": "http://zh.wikipedia-on-ipfs.org/wiki/%E8%AB%8B%E5%B0%87%E6%89%8B%E6%94%BE%E9%96%8B",
+   "title": "请将手放开（维基百科镜像）",
+   "trackTitles": [
+    "预备",
+    "回响",
+    "谁命我名字"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《请将手放开》(1997-04-08，滚石)曲目表：预备（词林夕、曲与唱黄家强）、回响（词黄家强/李焯雄、曲与唱黄家强，香港聋人福利促进会主题曲）、谁命我名字（词曲与唱黄贯中）。",
+    "Discogs(release/12219255)曲目表一致。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-012",
+   "url": "https://baike.baidu.com/item/good%20time/9553889",
+   "title": "Good Time（百度百科）",
+   "trackTitles": [
+    "荒谬"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《Good Time》(1999-11-01，滚石)为Beyond解散前最后一张专辑；荒谬（词叶世荣、曲黄贯中）。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-013",
+   "url": "https://baike.baidu.com/item/%E8%B6%85%E8%B6%8ABeyond%20Live%2003/22695206",
+   "title": "超越Beyond Live 03（百度百科）",
+   "trackTitles": [
+    "抗战二十年 (Live)",
+    "抗战二十年"
+   ],
+   "matchScope": "album-tracklist+version-note",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《超越Beyond Live 03》(2003-06，环球/恒艺亚洲)为二十周年红馆演唱会(2003-04-30至05-04)现场专辑，收录黄家驹遗作《抗战二十年》。",
+    "录音室版《抗战二十年》为2003年EP《Together》主打歌；本地\"光辉岁月-二十周年精选\"收录版本与Live 03为不同录音，版本归属保留待核。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-020",
+   "url": "https://zh.chped.com/wiki/%E9%BB%91%E7%99%BD_(%E4%B8%93%E8%BE%91)",
+   "title": "黑白（维基百科镜像）",
+   "trackTitles": [
+    "离开我吧",
+    "忧书",
+    "你懂不懂?"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《黑白》(2001-12-13，环球)全碟词曲/编曲/制作黄贯中；离开我吧(曲序6)、忧书(曲序7)、你懂不懂(曲序9)。汗乐队：鼓恭硕良、吉他Dino(夏健龙)、贝斯Jimmy(麦文威)。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-021",
+   "url": "https://baike.baidu.com/item/%E6%B1%97%E4%B9%90%E9%98%9F/853034",
+   "title": "汗乐队（百度百科，含YELLOW PAUL WONG曲目表）",
+   "trackTitles": [
+    "睡火山"
+   ],
+   "matchScope": "album-tracklist",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认黄贯中首张个人专辑《YELLOW PAUL WONG》(2001-01-10)曲目表，睡火山为曲序4。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-022",
+   "url": "https://baike.baidu.com/item/%E5%B9%B4%E5%B0%91%E6%97%A0%E7%9F%A5/7245802",
+   "title": "年少无知（百度百科）",
+   "trackTitles": [
+    "年少无知(剧集《天与地》片尾曲)",
+    "年少无知"
+   ],
+   "matchScope": "song-metadata+credits+version-note",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《年少无知》为TVB剧集《天与地》片尾曲：词林若宁、曲黄贯中、编曲黄贯中/刘志远、监制黄贯中；原唱林保怡/陈豪/黄德斌(2011年TVB数字单曲)。",
+    "黄贯中个人版本2012-12-28以单曲发行(Polar Bear)，两版同收录于2013-01《Paul Wong Collection》（原唱版作Bonus Track）。本地两条曲目分别对应两版，映射明确。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-030",
+   "url": "http://zh.wikipedia-on-ipfs.org/wiki/%E8%88%87%E6%88%91%E5%B8%B8%E5%9C%A8",
+   "title": "与我常在（维基百科镜像）",
+   "trackTitles": [
+    "与我常在",
+    "爱没有左右"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《与我常在》(1997，华星)曲目表：与我常在（词林夕、曲林健华）、爱没有左右（词刘卓辉、曲黄家强），编曲Lorn Leber，监制Jim Lee。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-031",
+   "url": "https://baike.baidu.com/item/Shall%20We%20Dance%3F%20Shall%20We%20Talk%21/7249989",
+   "title": "Shall We Dance? Shall We Talk!（百度百科）",
+   "trackTitles": [
+    "单车"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认专辑(2001-03-29/04-13，英皇)曲目表：单车（词黄伟文、曲与编柳重言、监制陈辉阳）。QQ音乐歌曲页(i.y.qq.com, songid=4907894)为歌词页面入口，正文未复制。",
+    "百度百科\"单车\"词条另记2013-05-22《陈奕迅 广东精选》精选辑版，与本地版本归属一致。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-032",
+   "url": "https://baike.baidu.com/item/%E7%8C%9C%E6%83%85%E5%AF%BB",
+   "title": "猜情寻（百度百科）",
+   "trackTitles": [
+    "猜情寻"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《猜情寻》：词林夕、曲与编吴国敬/孙伟明、监制吴国敬/孙伟明/陈永明/陈奕迅，收录于《Live for Today》(2003-07-22，英皇)。",
+    "本地Live for Today与广东精选两条曲目；广东精选为合辑，是否同一录音未验证。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-033",
+   "url": "https://baike.baidu.com/item/L.O.V.E./5399039",
+   "title": "L.O.V.E.（百度百科）",
+   "trackTitles": [
+    "8:15pm",
+    "我们万岁"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《L.O.V.E.》(2018-12-12，环球)曲目表：8:15pm(Intro)（曲王双骏、编the duo band、监王双骏）、我们万岁（词陈咏谦、曲翁玮盈、编the duo band、监王双骏）。",
+    "8:15pm为Intro，是否有完整唱词未确认，保留待核。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-034",
+   "url": "https://www.toutiao.com/a7653294463502074406",
+   "title": "陈奕迅录音室专辑年表（头条整理）+ 我的快乐时代版本说明",
+   "trackTitles": [
+    "不再让你孤单 (陈奕迅我的快乐时代现场)"
+   ],
+   "matchScope": "album-tracklist+version-note",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "《我的快乐时代》(1998-05-26，华星)主CD10曲，附赠CD收4首现场版曲目；曲目表含《不再让你孤单》。本地曲名标注\"现场\"，与附赠现场CD一致。",
+    "《不再让你孤单》原作为陈升作品；陈奕迅版本为现场翻唱，具体录音场次未核。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-040",
+   "url": "https://baike.sogou.com/v954029.htm",
+   "title": "皇后大道东（搜狗百科）",
+   "trackTitles": [
+    "皇后大道东"
+   ],
+   "matchScope": "song-metadata+credits+version-note",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《皇后大道东》：词林夕、曲罗大佑、编曲花比傲，罗大佑与蒋志光合唱；收录于音乐工厂/滚石1991-07-01合辑《皇后大道东》。",
+    "1991年飞图唱片《蒋志光和他的朋友》亦收录合唱曲目（sohu.com/a/154610066_364333）。本地两条曲目（蒋志光与他的朋友1990、皇后大道东）是否同一录音未验证；本地目录年份1990与资料1991存在出入，仅记录不改动。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-041",
+   "url": "https://dashi.streetvoice.cn/article/20180206/001",
+   "title": "大事发声十个经典瞬间（街声）",
+   "trackTitles": [
+    "之乎者也 (feat. 李志) [Live]"
+   ],
+   "matchScope": "song-metadata+event",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认2018-01-17腾讯视频超级版《大事发声》罗大佑专场，李志任嘉宾，两人合唱《之乎者也》；该Live版2018-05-04发行（mulanci.org/lyric/sl251221、music-tw.line.me/track/1458189007均标大事发声·录音棚现场·罗大佑专场）。词曲罗大佑（原曲1982年专辑《之乎者也》）。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-042",
+   "url": "https://www.cctv.com/performance/special/C15863/20060612/102921.shtml",
+   "title": "崔健年表（央视网）",
+   "trackTitles": [
+    "一块红布"
+   ],
+   "matchScope": "album-tracklist",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认崔健第二张个人专辑《解决》(1991)，《一块红布》为该专辑曲目（中新网 chinanews.com 王晓京报道佐证《解决》制作背景）。词曲崔健。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-043",
+   "url": "https://fashion.chinadaily.com.cn/a/201907/15/WS5d2bd7b7a310a6dd41e85d9b.html",
+   "title": "中国乐队简史（中国日报网）",
+   "trackTitles": [
+    "晚安,北京"
+   ],
+   "matchScope": "album-tracklist",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认鲍家街43号代表作含《晚安,北京》(1993)；本地收录于合辑《摇滚北京 3》（《摇滚北京》系列为王晓京策划，chinanews.com 7297328佐证）。词曲汪峰（乐队作品，未单独核实署名页）。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-050",
+   "url": "https://www.baike.com/wikiid/284375918288266010",
+   "title": "关于我爱你（快懂百科）",
+   "trackTitles": [
+    "关于我爱你"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《关于我爱你》：词曲张悬(焦安溥)、编曲Algae，收录于《城市》(2009-05-22，索尼音乐)。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-051",
+   "url": "https://listenbrainz.org/release/dc514880-baff-4559-bf1b-3a877940dfcd",
+   "title": "The Things We Do for Love（ListenBrainz/MusicBrainz数据）",
+   "trackTitles": [
+    "亲密爱人"
+   ],
+   "matchScope": "album-tracklist+version-note",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认王若琳《The Things We Do for Love》(2011-09，Sony)双CD；CD2曲序2《亲密爱人》为翻唱（原唱梅艳芳）。littleoslo.com曲目页一致。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-060",
+   "url": "https://wiki.y.qq.com/i/c669pr63deasejngf3g0",
+   "title": "嗯（QQ音乐百科）",
+   "trackTitles": [
+    "不说 (电影《从你的全世界路过》路过版主题曲)",
+    "我看着你的时候"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《嗯》(2017-11-17，华纳)曲目表含逐曲词曲编：不说(路过版)（词黄伟文、曲与编李荣浩）、我看着你的时候（词曲编李荣浩）。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-061",
+   "url": "https://baike.baidu.com/item/%E9%BA%BB%E9%9B%80/52692966",
+   "title": "麻雀（百度百科）",
+   "trackTitles": [
+    "花样年华",
+    "在一起嘛好不好"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《麻雀》(2020-07-30，一样音乐)曲目表：花样年华（词陈珊妮，翻唱自电影《花样年华》主题曲）、在一起嘛好不好（词曲编李荣浩，2020-06-03先行单曲）。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-062",
+   "url": "https://baike.baidu.com/item/%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9/19183084",
+   "title": "野生动物（百度百科）",
+   "trackTitles": [
+    "野生动物"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《野生动物》：词黄伟文、曲与编李荣浩，收录于《有理想》(2016-01-22，华纳)。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-063",
+   "url": "https://baike.baidu.com/item/%E6%88%90%E9%95%BF%E4%B9%8B%E9%87%8D%E9%87%8F/22627928",
+   "title": "成长之重量（百度百科）",
+   "trackTitles": [
+    "成长之重量 (电影 \"动物世界\" 态度版片尾曲)"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《成长之重量》：词曲编李荣浩、制作人李荣浩，2018-06-03数字发行，电影《动物世界》片尾曲（资料中\"成长版/态度版\"两种写法并存），后收录于专辑《耳朵》。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-070",
+   "url": "https://www.baike.com/wikiid/5933121797641986078",
+   "title": "意外（快懂百科）",
+   "trackTitles": [
+    "我想起你了"
+   ],
+   "matchScope": "album-tracklist+credits+conflict-note",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《意外》(2013-11-11，海蝶)曲目表：我想起你了（词薛之谦、曲高阳、编曲高阳，百度百科词条一致）。",
+    "QQ音乐歌曲页(i.y.qq.com, songid=5106434)标注\"作曲:薛之谦\"，与百科\"作曲:高阳\"存在冲突，两种署名并列记录未裁决。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-071",
+   "url": "https://baike.baidu.com/item/%E5%88%AB",
+   "title": "别（百度百科）",
+   "trackTitles": [
+    "别"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《别》：词曲薛之谦、编曲郑伟、制作人郑伟，2017-10-31数字单曲，后收录《渡 The Crossing》(2017-11-28，海蝶/华宇世博)。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-072",
+   "url": "https://www.baike.com/wikiid/6912038196486673671",
+   "title": "迟迟（快懂百科）",
+   "trackTitles": [
+    "迟迟"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《迟迟》：词子望、曲薛之谦/周以力、编曲周以力，收录于《天外来物》(2020-12-31，潮石音乐)。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-080",
+   "url": "https://wiki.y.qq.com/i/c6nd6lm3deaukrhnaiqg",
+   "title": "和自己对话 From M.E. To Myself（QQ音乐百科）",
+   "trackTitles": [
+    "序曲：调音",
+    "序曲：中场休息",
+    "弹唱",
+    "有梦不难",
+    "Too Bad",
+    "你，有没有过 (Livehouse版)",
+    "序曲：12年前",
+    "序曲：海边 初",
+    "序曲：海边 终"
+   ],
+   "matchScope": "album-tracklist+credits+classification",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认专辑(2015-12-25，华纳)共19轨（13首歌曲+6首序曲），逐曲词曲编时长齐备：弹唱（词张思尔）、有梦不难（词方文山）、Too Bad（词林怡凤/林俊杰）、你，有没有过Livehouse版（词林怡凤）。",
+    "序曲：12年前(曲序11，6:09)无作词署名；专辑文案明确该段为\"林俊杰与12年前一起打拼的朋友在车里聊天\"的对话录音，属口白而非纯音乐，本地\"(口白)\"标记成立，百科\"纯音乐\"写法不成立。序曲：调音/中场休息/海边初/海边终为调音、环境声与氛围段落，分类保留待核。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-081",
+   "url": "https://baike.baidu.com/item/%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%B8%BA%E5%B0%8F/22220823",
+   "title": "伟大的渺小（百度百科）",
+   "trackTitles": [
+    "圣所",
+    "我继续",
+    "剪云者",
+    "丹宁执着"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《伟大的渺小 Message In A Bottle》(2017-12-29，华纳)曲目表：圣所（词张思尔、曲林俊杰、编The Swaggernautz）、我继续（词方文山）、剪云者（词易家扬、编Martin Tang）、丹宁执着（词周信廷、曲林俊杰、编Kenn C，feat.MOE消除联萌）。全碟作曲林俊杰。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-082",
+   "url": "https://wiki.y.qq.com/i/c6dmhfe3deaprldh9de0",
+   "title": "幸存者 Drifter（QQ音乐百科）",
+   "trackTitles": [
+    "离开的那一些",
+    "暂时的记号"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《幸存者 Drifter》(2020-10-20，华纳，双EP《幸存者·如你》之一)曲目表：离开的那一些（词方文山、曲林俊杰、编吴庆隆）、暂时的记号（词葛大为、曲林俊杰、编吴庆隆）。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-083",
+   "url": "https://www.baike.com/wikiid/1602539514902611074",
+   "title": "进阶（快懂百科）",
+   "trackTitles": [
+    "进阶"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《进阶》：词林怡凤、曲与编林俊杰，2018-12-27单曲，华纳；圣所2.0巡演主题曲。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-084",
+   "url": "https://baike.baidu.com/item/The%20Right%20Time/57074530",
+   "title": "对的时间点（百度百科）",
+   "trackTitles": [
+    "对的时间点"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《对的时间点》：词小寒、曲林俊杰、编吴庆隆、制作人林俊杰，2019-08-26数字EP《对的时间点/As I Believe》，华纳；华纳音乐官网新闻页(warnermusic.com.cn/?p=6801)一致。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-085",
+   "url": "https://www.baike.com/wikiid/3060482455771448162",
+   "title": "将故事写成我们（快懂百科）",
+   "trackTitles": [
+    "将故事写成我们"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《将故事写成我们》：词方文山、曲林俊杰、编刘卓，2019-09-20单曲，华纳；故宫\"宫囍龙凤呈祥\"项目主题曲。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-086",
+   "url": "http://www.mnw.cn/yinyue/huayu/2168866.html",
+   "title": "我们很好（闽南网）",
+   "trackTitles": [
+    "我们很好"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《我们很好》：词葛大为、曲林俊杰，2019-06-13上线，电影《少年的你》主题曲。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-087",
+   "url": "https://www.baike.com/wikiid/2857465854720938627",
+   "title": "无滤镜（快懂百科）",
+   "trackTitles": [
+    "无滤镜 (feat. Hiroshi Fujiwara)",
+    "无滤镜 (feat. 藤原浩)"
+   ],
+   "matchScope": "song-metadata+credits+version-note",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《无滤镜 No Filter》：词张怀秋、曲藤原浩/林俊杰、编曲与键盘藤原浩/林俊杰，2020-07-30，JFJ Productions/华纳。",
+    "本地两条曲目（QQ与Apple来源，时长214.7/215.0秒）为同一录音的两个入库条目；未合并，仅记录。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-088",
+   "url": "https://www.joox.com/hk/single/FbO0EWVDrfIBw_PAwFrSKw==",
+   "title": "过 (Should've Let Go)（JOOX）",
+   "trackTitles": [
+    "过"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《过(Should've Let Go)》：词林怡凤、曲林俊杰/王嘉尔/BOYTOY、编BOYTOY/林俊杰/王嘉尔，2020-12-17，TEAM WANG/RYCE。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-089",
+   "url": "https://baike.baidu.com/item/%E6%84%9F%E7%88%B5%E8%BF%99%E4%B8%80%E5%88%BB/55570158",
+   "title": "感爵这一刻（百度百科）",
+   "trackTitles": [
+    "伟大的渺小 (Jazz Version)"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《感爵这一刻 Just Jazzin'》(2020-12-22，JFJ/华纳)为爵士改编EP：伟大的渺小(Jazz Version)（词小寒、曲林俊杰、编曲与键盘吴庆隆；鼓高飞、低音提琴纪安、小号甘克蓝、单簧管高杰——酷我歌曲页159875926一致）。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-090",
+   "url": "https://baike.baidu.com/starmap/view?nodeId=6a0cd5ee26f06144038895c0",
+   "title": "林俊杰单曲列表（百度百科星图，含Stay With You）",
+   "trackTitles": [
+    "Stay With You (英文版)"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《Stay With You(英文版)》：曲林俊杰、词孙燕姿，林俊杰与孙燕姿合唱，2020-08-09发行的公益英文单曲（中文版2020-01经人民日报首发）。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-091",
+   "url": "http://www.newton.com.tw/wiki/Despacito%20%E7%B7%A9%E7%B7%A9",
+   "title": "Despacito 缓缓（中文百科全书）",
+   "trackTitles": [
+    "Despacito 缓缓 (Mandarin Version)"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《Despacito 缓缓》：词Luis Fonsi/Erika Ender/张怀秋，曲Luis Fonsi/Erika Ender/林俊杰/Jovany Barreto/Hong Tat Tong，2018-01-26，环球；Luis Fonsi与林俊杰合唱。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-100",
+   "url": "https://baike.baidu.com/item/%E8%92%99%E7%9D%80%E7%9C%BC/23651320",
+   "title": "蒙着眼（百度百科）",
+   "trackTitles": [
+    "蒙着眼"
+   ],
+   "matchScope": "song-metadata+credits+conflict-note",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《蒙着眼》：词蔡徐坤、曲蔡徐坤/alan lin/chillaxe，收录于EP《YOUNG》。发行日期两处不一致：QQ音乐百科标2019-07-26（与EP同日），百度百科标2019-09-06，并列记录未裁决。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-101",
+   "url": "http://zh.wikipedia-on-ipfs.org/wiki/%E5%B0%8B%E5%AF%B6%E9%81%8A%E6%88%B2",
+   "title": "寻宝游戏（维基百科镜像）",
+   "trackTitles": [
+    "九月清晨"
+   ],
+   "matchScope": "album-tracklist+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《寻宝游戏》(2018-07-12数字/07-14实体，海蝶)曲目表：九月清晨（曲序4，词曲许嵩、编曲Adam Lee、监制许嵩）。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-102",
+   "url": "https://baike.baidu.com/item/%E5%AF%82%E5%AF%9E%E7%9A%84%E5%AD%A3%E8%8A%82/12643058",
+   "title": "寂寞的季节（百度百科）",
+   "trackTitles": [
+    "寂寞的季节"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《寂寞的季节》：词娃娃、曲与编陶喆，收录于新曲加精选《乐之路 Ultrasound 1997-2003》(2003-08-08，华纳)。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-103",
+   "url": "https://www.mulanci.org/lyric/sl207750/",
+   "title": "向阳花（木兰词）",
+   "trackTitles": [
+    "向阳花"
+   ],
+   "matchScope": "lyrics-page-entry+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《向阳花》：词曲谢天笑，收录于《谢天笑X.T.X》(2005-03，原专辑名《谢天笑与冷血动物》)。木兰词为歌词页面入口，正文未复制；页面附专辑曲目表。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-104",
+   "url": "https://music-tw.line.me/track/4147947003",
+   "title": "最好的安排（LINE MUSIC）",
+   "trackTitles": [
+    "最好的安排"
+   ],
+   "matchScope": "lyrics-page-entry+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《最好的安排》：词曲谢天笑，收录于专辑《哈哈大笑》。LINE MUSIC为歌词页面入口，正文未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-105",
+   "url": "https://baike.baidu.com/item/%E6%B5%B7%E9%B7%97/62890608",
+   "title": "海鸥（百度百科）",
+   "trackTitles": [
+    "海鸥"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《海鸥》：词曲毛川、编曲逃跑计划，收录于《回到海洋》(2021-09-06，玩音唱片)；制作人Danton Supple，吉他马晓东、鼓王非凡、键盘曲锐、弦乐Dr Audrey Riley。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-106",
+   "url": "https://baike.baidu.com/item/%E6%B2%B3%E6%B5%81/61809074",
+   "title": "河流（百度百科）",
+   "trackTitles": [
+    "河流"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《河流》：词曲金依依、编曲蛙池（吉他迪生/阿豪、贝斯三丰、鼓浩仔、和声迪生）；Demo 2020-04-03数字发行，后收录于合辑《蛙池 2020-2021》(2023-09-15)。酷我歌曲页(302032860)一致。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-107",
+   "url": "https://baike.baidu.com/item/%E7%8E%A9%E5%85%B7/19507589",
+   "title": "玩具（百度百科）",
+   "trackTitles": [
+    "玩具"
+   ],
+   "matchScope": "song-metadata+credits+conflict-note",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《玩具》：词刘博宽/格桑咸俊、曲刘博宽，收录于岛屿心情首张正式专辑《纷纭》（百科星图标2015年，另一处标2016-02-16，并列记录）。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-108",
+   "url": "https://baike.baidu.com/item/%E8%BF%87%E5%8E%BB%E6%9D%A5%E7%9A%84%E4%BA%BA/67354786",
+   "title": "过去来的人（百度百科）",
+   "trackTitles": [
+    "过去来的人"
+   ],
+   "matchScope": "song-metadata+credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认《过去来的人》收录于刘森第二张个人专辑《峨眉》，编曲刘森；酷我专辑页(544634559)显示词曲编混均为刘森。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-109",
+   "url": "https://reasonsong.club?p=1411/",
+   "title": "结婚记（活悦，博客页）+ 水仙斗活佛线索",
+   "trackTitles": [
+    "结婚记"
+   ],
+   "matchScope": "song-metadata-partial",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "定位到《结婚记》- 水仙斗活佛歌词博客页一处，页面署名信息不完整（词曲署名仅见\"彭\"字样被截断），创作者未能可靠确认；未找到发行信息页。保留为部分来源，歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-110",
+   "url": "https://aymr.org/wikipedia/zh-mo/%E5%8F%8D%E5%85%89%E9%95%9C%E4%B9%90%E9%98%9F",
+   "title": "反光镜乐队（维基百科镜像）",
+   "trackTitles": [
+    "释你"
+   ],
+   "matchScope": "album-tracklist",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认反光镜乐队EP《释你》(2010-04-26，新汇集团上海声像)曲目表含标题曲《释你》（曲序4）。乐队作品为集体创作，单曲署名页未单独核。歌词未复制。"
+   ],
+   "lyricsBodyCopied": false
+  },
+  {
+   "sourceId": "r2-111",
+   "url": "https://hebei.sina.com.cn/fashion/ssxj/2014-04-03/083191579.html",
+   "title": "2014李志小乐队不插电巡演（新浪河北，含演出阵容）",
+   "trackTitles": [
+    "忽然 余赣宁"
+   ],
+   "matchScope": "event-credits",
+   "licenseStatus": "not-established",
+   "timingStatus": "not-observed",
+   "evidence": [
+    "确认2014年\"挺\"巡演为小乐队不插电编制：主唱&木吉他李志、木吉他赵永庆、木贝斯张雯、打击乐余赣宁（沈阳/石家庄等多站阵容公告一致）。",
+    "本地\"挺 不插电巡演 郑州站 - 忽然 余赣宁\"为巡演现场歌迷录音，曲名中的余赣宁为该编制打击乐手；该录音的演唱分工与歌词文本仍无法从公开来源核实，保留待核。"
+   ],
+   "lyricsBodyCopied": false
+  }
+ ]
+}

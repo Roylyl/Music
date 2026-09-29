@@ -1,0 +1,3089 @@
+{
+  "generatedAt": "2026-09-29T04:01:44.184587+00:00",
+  "totalTracks": 183,
+  "searchRoundsUsed": 4,
+  "searchPolicy": "Only metadata/source discovery. No remote lyric body or audio downloaded. No lyric file written. No open copying license established.",
+  "sources": [
+    {
+      "url": "https://www.lizhinb.com/108geguanjianci-lizhi/",
+      "title": "108个关键词",
+      "trackIds": [
+        "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t01",
+        "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t06",
+        "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t09",
+        "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t10",
+        "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t17"
+      ],
+      "evidence": [
+        "专辑列表可核对5条缺失轨；本地广场未见于当前17轨列表。",
+        "只出现歌词加载提示，未读取LRC文件。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-metadata",
+      "sourceId": "source-001"
+    },
+    {
+      "url": "https://www.lizhinb.com/io-kuanianyanchu-lizhi/",
+      "title": "I/O跨年演出",
+      "trackIds": [
+        "lizhi-io-2015-d01-t01",
+        "lizhi-io-2015-d01-t02",
+        "lizhi-io-2015-d01-t03",
+        "lizhi-io-2015-d01-t04",
+        "lizhi-io-2015-d01-t05",
+        "lizhi-io-2015-d01-t07",
+        "lizhi-io-2015-d01-t08",
+        "lizhi-io-2015-d01-t10",
+        "lizhi-io-2015-d01-t11"
+      ],
+      "evidence": [
+        "11轨专辑列表包含本地9条缺失轨，包括两条串烧。",
+        "2014跨年标签可以定位演出版本，不能证明与本地剪辑长度一致。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-metadata",
+      "sourceId": "source-002"
+    },
+    {
+      "url": "https://www.lizhinb.com/gousandasilizhi/",
+      "title": "勾三搭四",
+      "trackIds": [
+        "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t05",
+        "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t08",
+        "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t16",
+        "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t17",
+        "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t20"
+      ],
+      "evidence": [
+        "21轨列表包含5条缺失曲目及串烧；标题分隔符不同，不代表时间轴相同。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-metadata",
+      "sourceId": "source-003"
+    },
+    {
+      "url": "https://www.lizhinb.com/woainanjing-lizhi/",
+      "title": "我爱南京",
+      "trackIds": [
+        "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t03",
+        "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t02",
+        "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t07"
+      ],
+      "evidence": [
+        "结婚注明老狼、万晓利、李志；再见被标为乐曲。",
+        "可核对曲序/合作演唱信息，未见歌词时间标签。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-metadata",
+      "sourceId": "source-004"
+    },
+    {
+      "url": "https://www.lizhinb.com/imagine-livelizhi/",
+      "title": "Imagine Live",
+      "trackIds": [
+        "lizhi-f7f7a172-a4cb-4342-af4d-eca0b8371c05-d02-t14"
+      ],
+      "evidence": [
+        "结尾位于第24轨；是否为演唱/念白需要音频或已获授权文本核对。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-metadata",
+      "sourceId": "source-005"
+    },
+    {
+      "url": "https://www.lizhinb.com/fangaoxianshenglizhi/",
+      "title": "梵高先生",
+      "trackIds": [
+        "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t01"
+      ],
+      "evidence": [
+        "当前7轨列表有你离开了南京，从此没有人和我说话；本地标为乐曲。",
+        "当前列表没有广场，不能当成该版整张专辑匹配。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-metadata",
+      "sourceId": "source-006"
+    },
+    {
+      "url": "https://www.lizhinb.com/zhegeshijiehuihaomalizhi/",
+      "title": "这个世界会好吗",
+      "trackIds": [
+        "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t04",
+        "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t08"
+      ],
+      "evidence": [
+        "页面列出我们不能失去信仰和交河；交河注明乐曲。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-metadata",
+      "sourceId": "source-007"
+    },
+    {
+      "url": "https://www.lizhinb.com/gongtidonglumeiyourenlizhi/",
+      "title": "工体东路没有人",
+      "trackIds": [
+        "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t03",
+        "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t06",
+        "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t08",
+        "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t11",
+        "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t13",
+        "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t15",
+        "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t16"
+      ],
+      "evidence": [
+        "16轨现场列表可作版本候选；尾轨标想起了她，本地名为想起了他，需人工核对。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-candidate-with-title-conflict",
+      "sourceId": "source-008"
+    },
+    {
+      "url": "https://www.lizhinb.com/erlinglingjiunianshiyueshiliurishijianlizhi/",
+      "title": "二零零九年十月十六日事件",
+      "trackIds": [
+        "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d01-t01",
+        "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d01-t08",
+        "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t08",
+        "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t12"
+      ],
+      "evidence": [
+        "曲目表对应黑色信封、被禁忌的游戏、鸵鸟、家乡；本地使用部分日文汉字写法。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-metadata",
+      "sourceId": "source-009"
+    },
+    {
+      "url": "https://www.lizhinb.com/nihao-zhengzhou-lizhi/",
+      "title": "你好，郑州",
+      "trackIds": [
+        "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t08"
+      ],
+      "evidence": [
+        "第8轨路注明李志、邵夷贝，支持合作演唱元数据。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-metadata",
+      "sourceId": "source-010"
+    },
+    {
+      "url": "https://www.lizhinb.com/lizhisanqueyijilongpozhan/",
+      "title": "叁缺壹吉隆坡站",
+      "trackIds": [
+        "lizhi-kuala-lumpur-2025-d01-t04",
+        "lizhi-kuala-lumpur-2025-d01-t10",
+        "lizhi-kuala-lumpur-2025-d01-t25"
+      ],
+      "evidence": [
+        "页面第4、10、25轨均叫逼言逼语；需分别核对讲话片段，不能按相同标题复制。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-metadata",
+      "sourceId": "source-011"
+    },
+    {
+      "url": "https://www.lizhinb.com/lizhisanqueyidongjingzhan/",
+      "title": "叁缺壹东京站",
+      "trackIds": [
+        "lizhi-tokyo-2024-d01-t01",
+        "lizhi-tokyo-2024-d01-t02",
+        "lizhi-tokyo-2024-d01-t06",
+        "lizhi-tokyo-2024-d01-t07",
+        "lizhi-tokyo-2024-d01-t08",
+        "lizhi-tokyo-2024-d02-t02",
+        "lizhi-tokyo-2024-d02-t03",
+        "lizhi-tokyo-2024-d02-t04",
+        "lizhi-tokyo-2024-d02-t06"
+      ],
+      "evidence": [
+        "14轨列表包含9条缺失音轨及串烧。",
+        "网页标题写2014，与发行商2024冲突；须以正式发行商资料辨别版本。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-candidate-with-year-conflict",
+      "sourceId": "source-012"
+    },
+    {
+      "url": "https://bridge-inc.net/?pid=190691389",
+      "title": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo（2CD）",
+      "trackIds": [
+        "lizhi-tokyo-2024-d01-t01",
+        "lizhi-tokyo-2024-d01-t02",
+        "lizhi-tokyo-2024-d01-t06",
+        "lizhi-tokyo-2024-d01-t07",
+        "lizhi-tokyo-2024-d01-t08",
+        "lizhi-tokyo-2024-d02-t02",
+        "lizhi-tokyo-2024-d02-t03",
+        "lizhi-tokyo-2024-d02-t04",
+        "lizhi-tokyo-2024-d02-t06"
+      ],
+      "evidence": [
+        "发行商列出PANDA RECORD、BRANCD061/2和完整14轨曲序，明确2024日本巡演。",
+        "提供正式版本元数据，页面未提供LRC时间标签或开放复制许可。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "official-release-metadata",
+      "sourceId": "source-013"
+    },
+    {
+      "url": "https://www.lizhinb.com/xixingemian-lizhi2019kuanianyinlehui/",
+      "title": "洗心革面2019跨年音乐会",
+      "trackIds": [
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t01",
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t02",
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t03",
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t04",
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t07",
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t08",
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t10",
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t12",
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t17",
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t19",
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t21",
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t22",
+        "lizhi-washing-2019-fan-26-d01-t01",
+        "lizhi-washing-2019-fan-26-d01-t02",
+        "lizhi-washing-2019-fan-26-d01-t03",
+        "lizhi-washing-2019-fan-26-d01-t04",
+        "lizhi-washing-2019-fan-26-d01-t05",
+        "lizhi-washing-2019-fan-26-d01-t06",
+        "lizhi-washing-2019-fan-26-d01-t09",
+        "lizhi-washing-2019-fan-26-d01-t10",
+        "lizhi-washing-2019-fan-26-d01-t11",
+        "lizhi-washing-2019-fan-26-d01-t12",
+        "lizhi-washing-2019-fan-26-d01-t16",
+        "lizhi-washing-2019-fan-26-d01-t17",
+        "lizhi-washing-2019-fan-26-d01-t18",
+        "lizhi-washing-2019-fan-26-d01-t19",
+        "lizhi-washing-2019-fan-26-d01-t20",
+        "lizhi-washing-2019-fan-26-d01-t21",
+        "lizhi-washing-2019-fan-26-d01-t22",
+        "lizhi-washing-2019-fan-26-d01-t23",
+        "lizhi-washing-2019-fan-26-d01-t24",
+        "lizhi-washing-2019-fan-26-d01-t25",
+        "lizhi-washing-2019-fan-26-d01-t26"
+      ],
+      "evidence": [
+        "页面为26轨歌迷站目录，两组本地发行/剪辑共33条缺失音轨可定位作品候选。",
+        "同场演出不同拆分/剪辑不能自动共享时间轴；含多首串烧。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "concert-track-candidates-edit-unverified",
+      "sourceId": "source-014"
+    },
+    {
+      "url": "https://www.lizhinb.com/beijingbuchadianxianchang2016live/",
+      "title": "北京不插电现场2016Live",
+      "trackIds": [
+        "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t02",
+        "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t03",
+        "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t04",
+        "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t05",
+        "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t07",
+        "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t08",
+        "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t09",
+        "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t11",
+        "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t12"
+      ],
+      "evidence": [
+        "12轨目录可定位9条缺失版本，页面明确2016不插电现场。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-metadata",
+      "sourceId": "source-015"
+    },
+    {
+      "url": "https://www.lizhinb.com/jueshileyubuchadianxinbian12shou/",
+      "title": "爵士乐与不插电新编12首",
+      "trackIds": [
+        "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t02",
+        "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t03",
+        "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t04",
+        "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t09",
+        "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t11"
+      ],
+      "evidence": [
+        "新编12首的曲目列表包含5条缺失轨，另用相信未来版标记。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "album-track-metadata",
+      "sourceId": "source-016"
+    },
+    {
+      "url": "https://www.lizhinb.com/gequ/",
+      "title": "李志歌曲总目录",
+      "trackIds": [
+        "lizhi-has-man-a-future-2015-d01-t01",
+        "lizhi-seen-2015-d01-t05",
+        "lizhi-seen-2015-d01-t09",
+        "lizhi-dde3284d-3c53-4d81-b139-ac11bc831e73-d01-t01",
+        "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t01",
+        "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t02",
+        "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t03",
+        "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t04",
+        "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t07",
+        "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t09",
+        "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t01",
+        "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t02",
+        "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t03",
+        "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t04",
+        "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t05",
+        "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t08",
+        "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t09",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t01",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t02",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t03",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t04",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t05",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t06",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t07",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t08",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t09",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t10",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t01",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t02",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t03",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t04",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t05",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t06",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t07",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t08",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t09",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t10",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t01",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t02",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t03",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t04",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t10",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t11",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t12",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t01",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t02",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t03",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t04",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t05",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t08",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t09",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t10",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t12",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t01",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t03",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t04",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t05",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t06",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t07",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t08",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t09",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t10",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t01",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t02",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t03",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t04",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t05",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t06",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t07",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t08",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t09",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t10"
+      ],
+      "evidence": [
+        "曲目列表可定位管弦乐I/II、看见、2015单曲、应天大街及三张精选。",
+        "精选第一辑现场年份部分与本地不同；该页交错排列录音室/现场，不能以列表序号代替CD曲序。",
+        "可见内容没有LRC时间标签，也没有明确许可声明。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "metadata-candidates-version-conflicts",
+      "sourceId": "source-017"
+    },
+    {
+      "url": "https://bridge-inc.net/?pid=150235072",
+      "title": "Best Selection Songs 2004-2018 Vol.2 - Ballads（2CD）",
+      "trackIds": [
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t01",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t02",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t03",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t04",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t10",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t11",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t12",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t01",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t02",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t03",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t04",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t05",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t08",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t09",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t10",
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t12"
+      ],
+      "evidence": [
+        "正式发行商注明Disk1录音室、Disk2现场，CD编号BRANCD011/012；可区分同名的两组曲目。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "official-release-metadata",
+      "sourceId": "source-018"
+    },
+    {
+      "url": "https://bridge-inc.net/?pid=165219599",
+      "title": "倒影Best Selection Songs Vol.3（2CD）",
+      "trackIds": [
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t01",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t03",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t04",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t05",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t06",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t07",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t08",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t09",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t10",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t01",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t02",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t03",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t04",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t05",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t06",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t07",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t08",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t09",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t10"
+      ],
+      "evidence": [
+        "正式发行商逐轨区分录音室年号与动静、看见、爵士乐与不插电、管弦乐、洗心革面来源。",
+        "未发现歌词复制授权或歌词时间戳。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "official-release-metadata",
+      "sourceId": "source-019"
+    },
+    {
+      "url": "https://cdfront.tower.jp/article/feature_item/2026/02/27/0104",
+      "title": "李志精选集三部曲发行资料",
+      "trackIds": [
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t01",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t02",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t03",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t04",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t05",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t06",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t07",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t08",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t09",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t10",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t01",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t02",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t03",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t04",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t05",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t06",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t07",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t08",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t09",
+        "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t10"
+      ],
+      "evidence": [
+        "正式零售商说明精选系列一碟录音室、一碟现场的结构，并列出作品名称。",
+        "不能据此认定每个数字音频与本地剪辑同步。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "official-release-metadata",
+      "sourceId": "source-020"
+    },
+    {
+      "url": "https://linkco.re/eDM9fBeY?lang=ja",
+      "title": "TuneCore：Best Selection Songs Vol.3",
+      "trackIds": [
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t01",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t03",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t04",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t05",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t06",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t07",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t08",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t09",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t10",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t01",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t02",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t03",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t04",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t05",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t06",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t07",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t08",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t09",
+        "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t10"
+      ],
+      "evidence": [
+        "数字发行页可核对曲目、录音室/现场标签及词曲作者；未读取歌词正文。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-observed",
+      "matchScope": "distributor-metadata",
+      "sourceId": "source-021"
+    },
+    {
+      "url": "https://www.lizhinb.com/ssp/",
+      "title": "李志视频在线观看目录",
+      "trackIds": [
+        "lizhi-jiangjinjiu-d01-t01",
+        "lizhi-jiangjinjiu-d01-t03",
+        "lizhi-jiangjinjiu-d01-t05",
+        "lizhi-jiangjinjiu-d01-t06",
+        "lizhi-jiangjinjiu-d01-t07",
+        "lizhi-jiangjinjiu-d01-t08",
+        "lizhi-jiangjinjiu-d01-t09",
+        "lizhi-jiangjinjiu-d01-t10",
+        "lizhi-jiangjinjiu-d01-t11",
+        "lizhi-jiangjinjiu-d01-t15",
+        "lizhi-jiangjinjiu-d01-t16"
+      ],
+      "evidence": [
+        "目录有2007将进酒星光现场的视频入口；未核对逐轨演出或时长。",
+        "仅定位演出线索，不代表11轨已找到歌词。"
+      ],
+      "licenseStatus": "not-established",
+      "timingStatus": "not-inspected",
+      "matchScope": "event-only-lead",
+      "sourceId": "source-022"
+    }
+  ],
+  "workGroups": [
+    {
+      "canonicalTitle": "你离开了南京，从此没有人和我说话",
+      "versions": [
+        {
+          "id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t01",
+          "title": "你离开了南京，从此没有人和我说话（乐曲）",
+          "album": "梵高先生",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 71.863,
+          "versionType": "instrumental-candidate",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-seen-2015-d01-t05",
+          "title": "你离开了南京，从此没有人和我说话",
+          "album": "看见",
+          "discNumber": 1,
+          "trackNumber": 5,
+          "duration": 124.682,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t03",
+          "title": "你离开了南京，从此没有人和我说话",
+          "album": "洗心革面 - 演唱会录音",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 185.966,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t12",
+          "title": "你离开了南京, 从此没有人和我说话",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 1,
+          "trackNumber": 12,
+          "duration": 79.08,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t12",
+          "title": "你离开了南京, 从此没有人和我说话",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 2,
+          "trackNumber": 12,
+          "duration": 125.72,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-tokyo-2024-d02-t06",
+          "title": "你离开了南京，从此没有人和我说话",
+          "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+          "discNumber": 2,
+          "trackNumber": 6,
+          "duration": 177.88,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t25",
+          "title": "你离开了南京，从此没有人和我说话",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 25,
+          "duration": 185.966,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "广场",
+      "versions": [
+        {
+          "id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05",
+          "title": "广场",
+          "album": "梵高先生",
+          "discNumber": 1,
+          "trackNumber": 5,
+          "duration": 251.35,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t13",
+          "title": "广场",
+          "album": "108个关键词",
+          "discNumber": 1,
+          "trackNumber": 13,
+          "duration": 316.029,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "我们不能失去信仰",
+      "versions": [
+        {
+          "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t04",
+          "title": "我们不能失去信仰",
+          "album": "这个世界会好吗",
+          "discNumber": 1,
+          "trackNumber": 4,
+          "duration": 251.951,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "交河",
+      "versions": [
+        {
+          "id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t08",
+          "title": "交河（乐曲）",
+          "album": "这个世界会好吗",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 218.462,
+          "versionType": "instrumental-candidate",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "将进酒",
+      "versions": [
+        {
+          "id": "lizhi-jiangjinjiu-d01-t01",
+          "title": "将进酒",
+          "album": "将进酒",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 304.039,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "来了",
+      "versions": [
+        {
+          "id": "lizhi-jiangjinjiu-d01-t03",
+          "title": "来了",
+          "album": "将进酒",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 342.047,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t03",
+          "title": "来了",
+          "album": "工体东路没有人",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 323.448,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t06",
+          "title": "来了",
+          "album": "108个关键词",
+          "discNumber": 1,
+          "trackNumber": 6,
+          "duration": 528.144,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t16",
+          "title": "来了",
+          "album": "勾三搭四",
+          "discNumber": 1,
+          "trackNumber": 16,
+          "duration": 428.669,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-io-2015-d01-t04",
+          "title": "来了",
+          "album": "i/O",
+          "discNumber": 1,
+          "trackNumber": 4,
+          "duration": 286.041,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "被禁忌的游戏",
+      "versions": [
+        {
+          "id": "lizhi-jiangjinjiu-d01-t05",
+          "title": "被禁忌的游戏",
+          "album": "将进酒",
+          "discNumber": 1,
+          "trackNumber": 5,
+          "duration": 261.042,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d01-t08",
+          "title": "被禁忌的游戯",
+          "album": "二零零九年十月十六日事件",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 277.159,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t17",
+          "title": "被禁忌的游戏",
+          "album": "洗心革面 - 演唱会录音",
+          "discNumber": 1,
+          "trackNumber": 17,
+          "duration": 331.729,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t01",
+          "title": "被禁忌的游戏",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 376.093,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t01",
+          "title": "被禁忌的游戏",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 2,
+          "trackNumber": 1,
+          "duration": 334.68,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t17",
+          "title": "被禁忌的游戏",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 17,
+          "duration": 331.729,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "梵高先生",
+      "versions": [
+        {
+          "id": "lizhi-jiangjinjiu-d01-t06",
+          "title": "梵高先生",
+          "album": "将进酒",
+          "discNumber": 1,
+          "trackNumber": 6,
+          "duration": 307.043,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t02",
+          "title": "梵高先生",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 1,
+          "trackNumber": 2,
+          "duration": 251.373,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t02",
+          "title": "梵高先生",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 2,
+          "trackNumber": 2,
+          "duration": 166.96,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "斜",
+      "versions": [
+        {
+          "id": "lizhi-jiangjinjiu-d01-t07",
+          "title": "斜",
+          "album": "将进酒",
+          "discNumber": 1,
+          "trackNumber": 7,
+          "duration": 218.044,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "阿兰",
+      "versions": [
+        {
+          "id": "lizhi-jiangjinjiu-d01-t08",
+          "title": "阿兰",
+          "album": "将进酒",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 177.032,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t06",
+          "title": "阿兰",
+          "album": "工体东路没有人",
+          "discNumber": 1,
+          "trackNumber": 6,
+          "duration": 215.51,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t10",
+          "title": "阿兰",
+          "album": "108个关键词",
+          "discNumber": 1,
+          "trackNumber": 10,
+          "duration": 261.799,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "想起了她",
+      "versions": [
+        {
+          "id": "lizhi-jiangjinjiu-d01-t09",
+          "title": "想起了她",
+          "album": "将进酒",
+          "discNumber": 1,
+          "trackNumber": 9,
+          "duration": 255.033,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "春末的南方城市",
+      "versions": [
+        {
+          "id": "lizhi-jiangjinjiu-d01-t10",
+          "title": "春末的南方城市",
+          "album": "将进酒",
+          "discNumber": 1,
+          "trackNumber": 10,
+          "duration": 220.029,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t02",
+          "title": "春末的南方城市 (2005)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 1,
+          "trackNumber": 2,
+          "duration": 248.79,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t02",
+          "title": "春末的南方城市 (2015 Live)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 2,
+          "trackNumber": 2,
+          "duration": 250.697,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "董卓瑶",
+      "versions": [
+        {
+          "id": "lizhi-jiangjinjiu-d01-t11",
+          "title": "董卓瑶",
+          "album": "将进酒",
+          "discNumber": 1,
+          "trackNumber": 11,
+          "duration": 620.042,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t02",
+          "title": "董卓瑶（2015 看见）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 2,
+          "trackNumber": 2,
+          "duration": 281.6,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "这个世界会好吗",
+      "versions": [
+        {
+          "id": "lizhi-jiangjinjiu-d01-t15",
+          "title": "这个世界会好吗",
+          "album": "将进酒",
+          "discNumber": 1,
+          "trackNumber": 15,
+          "duration": 260.049,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-has-man-a-future-2015-d01-t01",
+          "title": "这个世界会好吗（2015版本）",
+          "album": "这个世界会好吗（2015版本）",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 266.24,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t05",
+          "title": "这个世界会好吗 (2016 unplugged)",
+          "album": "李志北京不插电现场",
+          "discNumber": 1,
+          "trackNumber": 5,
+          "duration": 273.711,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t09",
+          "title": "这个世界会好吗（2017跨年版）",
+          "album": "李志、电声与管弦乐II",
+          "discNumber": 1,
+          "trackNumber": 9,
+          "duration": 374.439,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t10",
+          "title": "这个世界会好吗 (2006)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 1,
+          "trackNumber": 10,
+          "duration": 242.469,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t10",
+          "title": "这个世界会好吗 (2018 Live)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 2,
+          "trackNumber": 10,
+          "duration": 374.439,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-tokyo-2024-d01-t08",
+          "title": "这个世界会好吗",
+          "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 317.347,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t04",
+          "title": "这个世界会好吗",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 4,
+          "duration": 237.505,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "Wish You Were Here",
+      "versions": [
+        {
+          "id": "lizhi-jiangjinjiu-d01-t16",
+          "title": "Wish You Were Here",
+          "album": "将进酒",
+          "discNumber": 1,
+          "trackNumber": 16,
+          "duration": 423.027,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "他们",
+      "versions": [
+        {
+          "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t08",
+          "title": "他们",
+          "album": "工体东路没有人",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 257.593,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "这个世界会好么",
+      "versions": [
+        {
+          "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t11",
+          "title": "这个世界会好么",
+          "album": "工体东路没有人",
+          "discNumber": 1,
+          "trackNumber": 11,
+          "duration": 256.784,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "月亮代表我的心",
+      "versions": [
+        {
+          "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t13",
+          "title": "月亮代表我的心",
+          "album": "工体东路没有人",
+          "discNumber": 1,
+          "trackNumber": 13,
+          "duration": 109.636,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "青春",
+      "versions": [
+        {
+          "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t15",
+          "title": "青春",
+          "album": "工体东路没有人",
+          "discNumber": 1,
+          "trackNumber": 15,
+          "duration": 143.595,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "想起了他",
+      "versions": [
+        {
+          "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t16",
+          "title": "想起了他",
+          "album": "工体东路没有人",
+          "discNumber": 1,
+          "trackNumber": 16,
+          "duration": 775.732,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "结婚",
+      "versions": [
+        {
+          "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t03",
+          "title": "结婚",
+          "album": "我爱南京",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 352.653,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t04",
+          "title": "结婚",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 1,
+          "trackNumber": 4,
+          "duration": 354.613,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t04",
+          "title": "结婚",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 2,
+          "trackNumber": 4,
+          "duration": 267.253,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "听妈妈讲那过去的事情",
+      "versions": [
+        {
+          "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t02",
+          "title": "听妈妈讲那过去的事情",
+          "album": "我爱南京",
+          "discNumber": 2,
+          "trackNumber": 2,
+          "duration": 169.744,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "再见",
+      "versions": [
+        {
+          "id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t07",
+          "title": "再见",
+          "album": "我爱南京",
+          "discNumber": 2,
+          "trackNumber": 7,
+          "duration": 88.921,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "黑色信封",
+      "versions": [
+        {
+          "id": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d01-t01",
+          "title": "黒色信封",
+          "album": "二零零九年十月十六日事件",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 323.762,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t21",
+          "title": "黑色信封",
+          "album": "洗心革面 - 演唱会录音",
+          "discNumber": 1,
+          "trackNumber": 21,
+          "duration": 271.02,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t01",
+          "title": "黑色信封 (2004)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 284.63,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t01",
+          "title": "黑色信封 (2015 Live)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 2,
+          "trackNumber": 1,
+          "duration": 294.243,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t19",
+          "title": "黑色信封",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 19,
+          "duration": 271.02,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "鸵鸟",
+      "versions": [
+        {
+          "id": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t08",
+          "title": "驼鸟",
+          "album": "二零零九年十月十六日事件",
+          "discNumber": 2,
+          "trackNumber": 8,
+          "duration": 278.988,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t02",
+          "title": "鸵鸟 (2016 unplugged)",
+          "album": "李志北京不插电现场",
+          "discNumber": 1,
+          "trackNumber": 2,
+          "duration": 259.056,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t04",
+          "title": "鸵鸟",
+          "album": "爵士乐与不插电新编12首",
+          "discNumber": 1,
+          "trackNumber": 4,
+          "duration": 237.767,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t02",
+          "title": "鸵鸟",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 2,
+          "duration": 465.763,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "家乡",
+      "versions": [
+        {
+          "id": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t12",
+          "title": "家郷",
+          "album": "二零零九年十月十六日事件",
+          "discNumber": 2,
+          "trackNumber": 12,
+          "duration": 315.873,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t08",
+          "title": "家乡（2017跨年版）",
+          "album": "李志、电声与管弦乐II",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 425.874,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "路",
+      "versions": [
+        {
+          "id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t08",
+          "title": "路",
+          "album": "你好，郑州",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 141.296,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "结尾",
+      "versions": [
+        {
+          "id": "lizhi-f7f7a172-a4cb-4342-af4d-eca0b8371c05-d02-t14",
+          "title": "结尾",
+          "album": "IMAGINE",
+          "discNumber": 2,
+          "trackNumber": 14,
+          "duration": 64.679,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "她+我们不能失去信仰+1990年的春",
+      "versions": [
+        {
+          "id": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t01",
+          "title": "她+我们不能失去信仰+1990年的春",
+          "album": "108个关键词",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 957.336,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "墙上的向日葵",
+      "versions": [
+        {
+          "id": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t09",
+          "title": "墙上的向日葵",
+          "album": "108个关键词",
+          "discNumber": 1,
+          "trackNumber": 9,
+          "duration": 528.248,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-io-2015-d01-t02",
+          "title": "墙上的向日葵",
+          "album": "i/O",
+          "discNumber": 1,
+          "trackNumber": 2,
+          "duration": 482.273,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t09",
+          "title": "墙上的向日葵 - 2016跨年版",
+          "album": "李志、电声与管弦乐",
+          "discNumber": 1,
+          "trackNumber": 9,
+          "duration": 465.084,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t06",
+          "title": "墙上的向日葵 (2010)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 1,
+          "trackNumber": 6,
+          "duration": 298.188,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t06",
+          "title": "墙上的向日葵 (2015 Live)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 2,
+          "trackNumber": 6,
+          "duration": 470.7,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t03",
+          "title": "墙上的向日葵",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 533.238,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "姐姐",
+      "versions": [
+        {
+          "id": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t17",
+          "title": "姐姐",
+          "album": "108个关键词",
+          "discNumber": 1,
+          "trackNumber": 17,
+          "duration": 409.234,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "你的早晨+天空之城+暧昧",
+      "versions": [
+        {
+          "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t05",
+          "title": "你的早晨&天空之城&暧昧",
+          "album": "勾三搭四",
+          "discNumber": 1,
+          "trackNumber": 5,
+          "duration": 547.788,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "离婚",
+      "versions": [
+        {
+          "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t08",
+          "title": "离婚",
+          "album": "勾三搭四",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 280.059,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-seen-2015-d01-t09",
+          "title": "离婚",
+          "album": "看见",
+          "discNumber": 1,
+          "trackNumber": 9,
+          "duration": 289.202,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t02",
+          "title": "离婚",
+          "album": "爵士乐与不插电新编12首",
+          "discNumber": 1,
+          "trackNumber": 2,
+          "duration": 277.551,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "妈妈",
+      "versions": [
+        {
+          "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t17",
+          "title": "妈妈",
+          "album": "勾三搭四",
+          "discNumber": 1,
+          "trackNumber": 17,
+          "duration": 253.649,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-io-2015-d01-t07",
+          "title": "妈妈",
+          "album": "i/O",
+          "discNumber": 1,
+          "trackNumber": 7,
+          "duration": 298.449,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t03",
+          "title": "妈妈",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 245.08,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t03",
+          "title": "妈妈",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 2,
+          "trackNumber": 3,
+          "duration": 300.373,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "杭州+我们不能失去信仰",
+      "versions": [
+        {
+          "id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t20",
+          "title": "杭州&我们不能失去信仰",
+          "album": "勾三搭四",
+          "discNumber": 1,
+          "trackNumber": 20,
+          "duration": 542.72,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "杭州",
+      "versions": [
+        {
+          "id": "lizhi-io-2015-d01-t01",
+          "title": "杭州",
+          "album": "i/O",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 247.641,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t08",
+          "title": "杭州 (2016 unplugged)",
+          "album": "李志北京不插电现场",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 222.433,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t02",
+          "title": "杭州 - 2016跨年版",
+          "album": "李志、电声与管弦乐",
+          "discNumber": 1,
+          "trackNumber": 2,
+          "duration": 331.442,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t09",
+          "title": "杭州 (2011)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 1,
+          "trackNumber": 9,
+          "duration": 241.215,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t09",
+          "title": "杭州 (2015 Live)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 2,
+          "trackNumber": 9,
+          "duration": 250.593,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "铅笔",
+      "versions": [
+        {
+          "id": "lizhi-io-2015-d01-t03",
+          "title": "铅笔",
+          "album": "i/O",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 374.256,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t07",
+          "title": "铅笔 - 2016跨年版",
+          "album": "李志、电声与管弦乐",
+          "discNumber": 1,
+          "trackNumber": 7,
+          "duration": 312.477,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t05",
+          "title": "铅笔",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 2,
+          "trackNumber": 5,
+          "duration": 314.173,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "下雨+董卓瑶+忽然",
+      "versions": [
+        {
+          "id": "lizhi-io-2015-d01-t05",
+          "title": "下雨+董卓瑶+忽然",
+          "album": "i/O",
+          "discNumber": 1,
+          "trackNumber": 5,
+          "duration": 720.875,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "定西",
+      "versions": [
+        {
+          "id": "lizhi-io-2015-d01-t08",
+          "title": "定西",
+          "album": "i/O",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 301.61,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t04",
+          "title": "定西 (2016 unplugged)",
+          "album": "李志北京不插电现场",
+          "discNumber": 1,
+          "trackNumber": 4,
+          "duration": 473.966,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t04",
+          "title": "定西 - 2016跨年版",
+          "album": "李志、电声与管弦乐",
+          "discNumber": 1,
+          "trackNumber": 4,
+          "duration": 363.781,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t08",
+          "title": "定西（2014）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 298.027,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t08",
+          "title": "定西（2017 电声与管弦乐）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 2,
+          "trackNumber": 8,
+          "duration": 365.867,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t05",
+          "title": "定西",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 5,
+          "duration": 290.325,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "鸵鸟+天空之城+我们不能失去信仰",
+      "versions": [
+        {
+          "id": "lizhi-io-2015-d01-t10",
+          "title": "鸵鸟+天空之城+我们不能失去信仰",
+          "album": "i/O",
+          "discNumber": 1,
+          "trackNumber": 10,
+          "duration": 606.145,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "山阴路的夏天",
+      "versions": [
+        {
+          "id": "lizhi-io-2015-d01-t11",
+          "title": "山阴路的夏天",
+          "album": "i/O",
+          "discNumber": 1,
+          "trackNumber": 11,
+          "duration": 313.208,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t12",
+          "title": "山阴路的夏天 (2016 unplugged)",
+          "album": "李志北京不插电现场",
+          "discNumber": 1,
+          "trackNumber": 12,
+          "duration": 343.458,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t05",
+          "title": "山阴路的夏天（2017跨年版）",
+          "album": "李志、电声与管弦乐II",
+          "discNumber": 1,
+          "trackNumber": 5,
+          "duration": 289.097,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t12",
+          "title": "山阴路的夏天",
+          "album": "洗心革面 - 演唱会录音",
+          "discNumber": 1,
+          "trackNumber": 12,
+          "duration": 407.014,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t08",
+          "title": "山阴路的夏天 (2011)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 280.059,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t08",
+          "title": "山阴路的夏天 (2014 Live)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 2,
+          "trackNumber": 8,
+          "duration": 340.976,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t24",
+          "title": "山阴路的夏天",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 24,
+          "duration": 407.014,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "大象",
+      "versions": [
+        {
+          "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t03",
+          "title": "大象 (2016 unplugged)",
+          "album": "李志北京不插电现场",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 340.715,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t08",
+          "title": "大象",
+          "album": "洗心革面 - 演唱会录音",
+          "discNumber": 1,
+          "trackNumber": 8,
+          "duration": 371.278,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t07",
+          "title": "大象（2014）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 1,
+          "trackNumber": 7,
+          "duration": 327.787,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t07",
+          "title": "大象（2017 电声与管弦乐）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 2,
+          "trackNumber": 7,
+          "duration": 411.64,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t21",
+          "title": "大象",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 21,
+          "duration": 371.278,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "关于郑州的记忆",
+      "versions": [
+        {
+          "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t07",
+          "title": "关于郑州的记忆 (2016 unplugged)",
+          "album": "李志北京不插电现场",
+          "discNumber": 1,
+          "trackNumber": 7,
+          "duration": 287.399,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t03",
+          "title": "关于郑州的记忆",
+          "album": "爵士乐与不插电新编12首",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 360.15,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t07",
+          "title": "关于郑州的记忆 (2010)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 1,
+          "trackNumber": 7,
+          "duration": 230.191,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t07",
+          "title": "关于郑州的记忆 (2018 Live)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 2,
+          "trackNumber": 7,
+          "duration": 363.154,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "热河",
+      "versions": [
+        {
+          "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t09",
+          "title": "热河 (2016 unplugged)",
+          "album": "李志北京不插电现场",
+          "discNumber": 1,
+          "trackNumber": 9,
+          "duration": 364.722,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t10",
+          "title": "热河",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 1,
+          "trackNumber": 10,
+          "duration": 405.24,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t10",
+          "title": "热河",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 2,
+          "trackNumber": 10,
+          "duration": 478.32,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "鼠说",
+      "versions": [
+        {
+          "id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t11",
+          "title": "鼠说 (2016 unplugged)",
+          "album": "李志北京不插电现场",
+          "discNumber": 1,
+          "trackNumber": 11,
+          "duration": 485.094,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "在每一条伤心的应天大街上",
+      "versions": [
+        {
+          "id": "lizhi-dde3284d-3c53-4d81-b139-ac11bc831e73-d01-t01",
+          "title": "在每一条伤心的应天大街上",
+          "album": "在每一条伤心的应天大街上",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 429.714,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "序曲",
+      "versions": [
+        {
+          "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t01",
+          "title": "序曲 - 2016跨年版",
+          "album": "李志、电声与管弦乐",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 289.802,
+          "versionType": "instrumental-candidate",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "尽头",
+      "versions": [
+        {
+          "id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t03",
+          "title": "尽头 - 2016跨年版",
+          "album": "李志、电声与管弦乐",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 258.586,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t06",
+          "title": "尽头（2011）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 1,
+          "trackNumber": 6,
+          "duration": 275.507,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t06",
+          "title": "尽头（2017 电声与管弦乐）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 2,
+          "trackNumber": 6,
+          "duration": 260.68,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "爱",
+      "versions": [
+        {
+          "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t09",
+          "title": "爱",
+          "album": "爵士乐与不插电新编12首",
+          "discNumber": 1,
+          "trackNumber": 9,
+          "duration": 279.197,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t04",
+          "title": "爱（2009）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 1,
+          "trackNumber": 4,
+          "duration": 202.64,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t04",
+          "title": "爱（2018 爵士乐与不插电）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 2,
+          "trackNumber": 4,
+          "duration": 279.373,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "一个夜晚",
+      "versions": [
+        {
+          "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t11",
+          "title": "一个夜晚",
+          "album": "爵士乐与不插电新编12首",
+          "discNumber": 1,
+          "trackNumber": 11,
+          "duration": 328.542,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t01",
+          "title": "一个夜晚",
+          "album": "洗心革面 - 演唱会录音",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 424.96,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t09",
+          "title": "一个夜晚（2016）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 1,
+          "trackNumber": 9,
+          "duration": 282.853,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t09",
+          "title": "一个夜晚（2019 洗心革面）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 2,
+          "trackNumber": 9,
+          "duration": 433.64,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t12",
+          "title": "一个夜晚",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 12,
+          "duration": 424.96,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "相信未来序曲",
+      "versions": [
+        {
+          "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t01",
+          "title": "相信未来序曲（2017跨年版）",
+          "album": "李志、电声与管弦乐II",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 306.495,
+          "versionType": "instrumental-candidate",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "一头偶像",
+      "versions": [
+        {
+          "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t02",
+          "title": "一头偶像（2017跨年版）",
+          "album": "李志、电声与管弦乐II",
+          "discNumber": 1,
+          "trackNumber": 2,
+          "duration": 289.437,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "你好明天",
+      "versions": [
+        {
+          "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t03",
+          "title": "你好明天（2017跨年版）",
+          "album": "李志、电声与管弦乐II",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 307.252,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "寻找",
+      "versions": [
+        {
+          "id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t04",
+          "title": "寻找（2017跨年版）",
+          "album": "李志、电声与管弦乐II",
+          "discNumber": 1,
+          "trackNumber": 4,
+          "duration": 259.657,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "你好明天+不多+杭州",
+      "versions": [
+        {
+          "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t02",
+          "title": "你好明天+不多+杭州",
+          "album": "洗心革面 - 演唱会录音",
+          "discNumber": 1,
+          "trackNumber": 2,
+          "duration": 757.499,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t16",
+          "title": "你好明天+不多+杭州",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 16,
+          "duration": 757.499,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "倒影",
+      "versions": [
+        {
+          "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t04",
+          "title": "倒影",
+          "album": "洗心革面 - 演唱会录音",
+          "discNumber": 1,
+          "trackNumber": 4,
+          "duration": 288.287,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t10",
+          "title": "倒影（2009）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 1,
+          "trackNumber": 10,
+          "duration": 184.853,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t10",
+          "title": "倒影（2019 洗心革面）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 2,
+          "trackNumber": 10,
+          "duration": 300.32,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t06",
+          "title": "倒影",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 6,
+          "duration": 288.287,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "哦吼",
+      "versions": [
+        {
+          "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t07",
+          "title": "哦吼",
+          "album": "洗心革面 - 演唱会录音",
+          "discNumber": 1,
+          "trackNumber": 7,
+          "duration": 297.117,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t18",
+          "title": "哦吼",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 18,
+          "duration": 297.117,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "寻找+忽然+热河",
+      "versions": [
+        {
+          "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t10",
+          "title": "寻找+忽然+热河",
+          "album": "洗心革面 - 演唱会录音",
+          "discNumber": 1,
+          "trackNumber": 10,
+          "duration": 815.203,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t20",
+          "title": "寻找+忽然+热河",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 20,
+          "duration": 815.203,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "门",
+      "versions": [
+        {
+          "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t19",
+          "title": "门",
+          "album": "洗心革面 - 演唱会录音",
+          "discNumber": 1,
+          "trackNumber": 19,
+          "duration": 420.415,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t22",
+          "title": "门",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 22,
+          "duration": 420.415,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "意味",
+      "versions": [
+        {
+          "id": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t22",
+          "title": "意味",
+          "album": "洗心革面 - 演唱会录音",
+          "discNumber": 1,
+          "trackNumber": 22,
+          "duration": 255.451,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t01",
+          "title": "意味",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 255.451,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "和你在一起",
+      "versions": [
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t03",
+          "title": "和你在一起 (2006)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 254.981,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t03",
+          "title": "和你在一起 (2016 Live)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 2,
+          "trackNumber": 3,
+          "duration": 282.54,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "苍井空",
+      "versions": [
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t04",
+          "title": "苍井空 (2009)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 1,
+          "trackNumber": 4,
+          "duration": 262.322,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t04",
+          "title": "苍井空 (2015 Live)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 2,
+          "trackNumber": 4,
+          "duration": 310.596,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-tokyo-2024-d01-t02",
+          "title": "苍井空",
+          "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+          "discNumber": 1,
+          "trackNumber": 2,
+          "duration": 317.187,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "天空之城",
+      "versions": [
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t05",
+          "title": "天空之城 (2009)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 1,
+          "trackNumber": 5,
+          "duration": 225.567,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t05",
+          "title": "天空之城 (2018 Live)",
+          "album": "Best Selection Songs 2004-2018",
+          "discNumber": 2,
+          "trackNumber": 5,
+          "duration": 294.296,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-tokyo-2024-d01-t06",
+          "title": "天空之城",
+          "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+          "discNumber": 1,
+          "trackNumber": 6,
+          "duration": 229.187,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "死人",
+      "versions": [
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t11",
+          "title": "死人",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 1,
+          "trackNumber": 11,
+          "duration": 289.653,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "下雨",
+      "versions": [
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t08",
+          "title": "下雨",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 2,
+          "trackNumber": 8,
+          "duration": 279.56,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "看见",
+      "versions": [
+        {
+          "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t09",
+          "title": "看见",
+          "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+          "discNumber": 2,
+          "trackNumber": 9,
+          "duration": 235.093,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "卡夫卡",
+      "versions": [
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t01",
+          "title": "卡夫卡（2004）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 178.827,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t01",
+          "title": "卡夫卡（2016 动静）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 2,
+          "trackNumber": 1,
+          "duration": 278.96,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "翁庆年的六英镑",
+      "versions": [
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t03",
+          "title": "翁庆年的六英镑（2006）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 1,
+          "trackNumber": 3,
+          "duration": 252.587,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t03",
+          "title": "翁庆年的六英镑（2018 爵士乐与不插电）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 2,
+          "trackNumber": 3,
+          "duration": 408.16,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "忽然",
+      "versions": [
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t05",
+          "title": "忽然（2010）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 1,
+          "trackNumber": 5,
+          "duration": 127.627,
+          "versionType": "studio",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t05",
+          "title": "忽然（2016 动静）",
+          "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+          "discNumber": 2,
+          "trackNumber": 5,
+          "duration": 265.48,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "关于郑州的记忆+董卓瑶+春末的南方城市",
+      "versions": [
+        {
+          "id": "lizhi-tokyo-2024-d01-t01",
+          "title": "关于郑州的记忆+董卓瑶+春末的南方城市",
+          "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+          "discNumber": 1,
+          "trackNumber": 1,
+          "duration": 908.853,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "鸵鸟+墙上的向日葵+鼠说",
+      "versions": [
+        {
+          "id": "lizhi-tokyo-2024-d01-t07",
+          "title": "鸵鸟+墙上的向日葵+鼠说",
+          "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+          "discNumber": 1,
+          "trackNumber": 7,
+          "duration": 1446.027,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "被禁忌的游戏+定西+一个夜晚",
+      "versions": [
+        {
+          "id": "lizhi-tokyo-2024-d02-t02",
+          "title": "被禁忌的游戏+定西+一个夜晚",
+          "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+          "discNumber": 2,
+          "trackNumber": 2,
+          "duration": 1116.853,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "大象+门+来了+热河",
+      "versions": [
+        {
+          "id": "lizhi-tokyo-2024-d02-t03",
+          "title": "大象+门+来了+热河",
+          "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+          "discNumber": 2,
+          "trackNumber": 3,
+          "duration": 1742.107,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "寻找+忽然",
+      "versions": [
+        {
+          "id": "lizhi-tokyo-2024-d02-t04",
+          "title": "寻找+忽然",
+          "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+          "discNumber": 2,
+          "trackNumber": 4,
+          "duration": 484.853,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "逼言逼语",
+      "versions": [
+        {
+          "id": "lizhi-kuala-lumpur-2025-d01-t04",
+          "title": "逼言逼语",
+          "album": "叁缺壹吉隆坡站",
+          "discNumber": 1,
+          "trackNumber": 4,
+          "duration": 50.442,
+          "versionType": "spoken",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-kuala-lumpur-2025-d01-t10",
+          "title": "逼言逼语",
+          "album": "叁缺壹吉隆坡站",
+          "discNumber": 1,
+          "trackNumber": 10,
+          "duration": 50.442,
+          "versionType": "spoken",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        },
+        {
+          "id": "lizhi-kuala-lumpur-2025-d01-t25",
+          "title": "逼言逼语",
+          "album": "叁缺壹吉隆坡站",
+          "discNumber": 1,
+          "trackNumber": 25,
+          "duration": 50.442,
+          "versionType": "spoken",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "忽然 余赣宁",
+      "versions": [
+        {
+          "id": "lizhi-ting-zhengzhou-2014-d01-t07",
+          "title": "忽然 余赣宁",
+          "album": "挺 不插电巡演 郑州站",
+          "discNumber": 1,
+          "trackNumber": 7,
+          "duration": 163.5,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "求婚+结婚",
+      "versions": [
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t09",
+          "title": "求婚+结婚",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 9,
+          "duration": 530.024,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "关于郑州的回忆",
+      "versions": [
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t10",
+          "title": "关于郑州的回忆",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 10,
+          "duration": 379.768,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "董卓瑶+春末的南方城市",
+      "versions": [
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t11",
+          "title": "董卓瑶+春末的南方城市",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 11,
+          "duration": 517.982,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "尽头+来了",
+      "versions": [
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t23",
+          "title": "尽头+来了",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 23,
+          "duration": 512.418,
+          "versionType": "medley",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    },
+    {
+      "canonicalTitle": "纯洁",
+      "versions": [
+        {
+          "id": "lizhi-washing-2019-fan-26-d01-t26",
+          "title": "纯洁",
+          "album": "洗心革面（歌迷站26轨版）",
+          "discNumber": 1,
+          "trackNumber": 26,
+          "duration": 382.981,
+          "versionType": "live-unverified-text",
+          "textEquivalenceConfirmed": false,
+          "timestampReuseAllowed": false
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "sourcePages": 22,
+    "metadataCandidateTracks": 169,
+    "lyricsConfirmedWithTimestamps": 0,
+    "openLicensedLyricSources": 0,
+    "remainingWithoutTrackLevelSource": 14
+  },
+  "remaining": [
+    {
+      "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05",
+      "title": "广场",
+      "album": "梵高先生",
+      "reason": "4轮批量搜索内没有确认该专辑版本的曲目来源"
+    },
+    {
+      "trackId": "lizhi-jiangjinjiu-d01-t01",
+      "title": "将进酒",
+      "album": "将进酒",
+      "reason": "仅定位演出视频目录，逐曲歌词未检索"
+    },
+    {
+      "trackId": "lizhi-jiangjinjiu-d01-t03",
+      "title": "来了",
+      "album": "将进酒",
+      "reason": "仅定位演出视频目录，逐曲歌词未检索"
+    },
+    {
+      "trackId": "lizhi-jiangjinjiu-d01-t05",
+      "title": "被禁忌的游戏",
+      "album": "将进酒",
+      "reason": "仅定位演出视频目录，逐曲歌词未检索"
+    },
+    {
+      "trackId": "lizhi-jiangjinjiu-d01-t06",
+      "title": "梵高先生",
+      "album": "将进酒",
+      "reason": "仅定位演出视频目录，逐曲歌词未检索"
+    },
+    {
+      "trackId": "lizhi-jiangjinjiu-d01-t07",
+      "title": "斜",
+      "album": "将进酒",
+      "reason": "仅定位演出视频目录，逐曲歌词未检索"
+    },
+    {
+      "trackId": "lizhi-jiangjinjiu-d01-t08",
+      "title": "阿兰",
+      "album": "将进酒",
+      "reason": "仅定位演出视频目录，逐曲歌词未检索"
+    },
+    {
+      "trackId": "lizhi-jiangjinjiu-d01-t09",
+      "title": "想起了她",
+      "album": "将进酒",
+      "reason": "仅定位演出视频目录，逐曲歌词未检索"
+    },
+    {
+      "trackId": "lizhi-jiangjinjiu-d01-t10",
+      "title": "春末的南方城市",
+      "album": "将进酒",
+      "reason": "仅定位演出视频目录，逐曲歌词未检索"
+    },
+    {
+      "trackId": "lizhi-jiangjinjiu-d01-t11",
+      "title": "董卓瑶",
+      "album": "将进酒",
+      "reason": "仅定位演出视频目录，逐曲歌词未检索"
+    },
+    {
+      "trackId": "lizhi-jiangjinjiu-d01-t15",
+      "title": "这个世界会好吗",
+      "album": "将进酒",
+      "reason": "仅定位演出视频目录，逐曲歌词未检索"
+    },
+    {
+      "trackId": "lizhi-jiangjinjiu-d01-t16",
+      "title": "Wish You Were Here",
+      "album": "将进酒",
+      "reason": "仅定位演出视频目录，逐曲歌词未检索"
+    },
+    {
+      "trackId": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t13",
+      "title": "广场",
+      "album": "108个关键词",
+      "reason": "4轮批量搜索内没有确认该专辑版本的曲目来源"
+    },
+    {
+      "trackId": "lizhi-ting-zhengzhou-2014-d01-t07",
+      "title": "忽然 余赣宁",
+      "album": "挺 不插电巡演 郑州站",
+      "reason": "4轮批量搜索内没有确认该专辑版本的曲目来源"
+    }
+  ],
+  "limitations": [
+    "所有来源仅支持元数据/作品或版本候选，不代表歌词下载已完成。",
+    "多个页面显示歌词加载中；未请求其歌词文件，时间戳存在性未验证。",
+    "东京页年份及精选现场年份存在冲突，不能自动套用时间轴。",
+    "未把相同标题推断为歌词完全相同。",
+    "未继续逐条检索183轨，搜索轮次限于4轮。"
+  ]
+}

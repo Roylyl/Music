@@ -1,0 +1,8 @@
+{
+ "generatedAt": "2026-09-29",
+ "round": "supplement-20260929-r4",
+ "imported": 0,
+ "imports": [],
+ "reason": "本轮无新增导入（0份）：(1) 库内遗漏候选18对补测全部未通过音频验证（见 alignment-results-r4.json）；(2) 网络歌词入口（lizhinb/lrclib/web页面）的复制许可均未核实，按既定边界不导入；未发现任何公版或明确授权来源。",
+ "evidence": "alignment-results-r4.json；candidate-worklist-r4.json；summary-r4.json"
+}

@@ -84,7 +84,7 @@ python scripts/export_tracks.py --base-url https://example.com/music
 python scripts/export_tracks.py --public --output reports/public-tracks.json
 ```
 
-第二条命令只导出已明确确认可公开再分发的曲目；当前可能为空。网站仓库的本地检出中没有`music/`播放器目录，因此尚未验证播放器专用字段，也没有改动网站代码。后续取得播放器实际数据结构后，仅需修改导出映射。
+第二条命令只导出已明确确认可公开再分发的曲目；当前可能为空。网站仓库已提供`music/`播放器。播放器读取网站侧的`music/data/catalog.json`统一目录；更新索引后，在网站仓库运行`python3 music/scripts/build-catalog.py`重新生成。音源与歌词保留在本仓库，目录更新和网站发布需分别完成。
 
 ## 尚待补全
 

@@ -1,0 +1,2812 @@
+{
+ "method": "identical to supplement-20260929-r2/align_reuse.py (imported); acceptance: min|corr|>=0.92, spread<=15ms, same polarity",
+ "pairsTested": 51,
+ "matches": 14,
+ "results": [
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 52.926,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 48.926,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.807131,
+     "absoluteCorrelation": 0.807131,
+     "offsetMilliseconds": -466.0,
+     "zeroOffsetCorrelation": 0.05194
+    },
+    {
+     "sourceStartSeconds": 138.315,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 134.315,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.885178,
+     "absoluteCorrelation": 0.885178,
+     "offsetMilliseconds": -465.75,
+     "zeroOffsetCorrelation": -0.008903
+    },
+    {
+     "sourceStartSeconds": 223.704,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 219.704,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.794926,
+     "absoluteCorrelation": 0.794926,
+     "offsetMilliseconds": -466.0,
+     "zeroOffsetCorrelation": 0.032957
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.794926,
+   "medianOffsetMilliseconds": -466.0,
+   "offsetSpreadMilliseconds": 0.25,
+   "maximumAbsoluteOffsetMilliseconds": 466.0,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t01",
+    "title": "黑色信封 (2004)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 284.63,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-01 - 黑色信封 (2004).mp3",
+    "donor_id": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t01",
+    "donor_album": "被禁忌的游戏",
+    "donor_dur": 287.295,
+    "donor_lrc": "artists/李志/2004 - 被禁忌的游戏/01-01 - 黑色信封.lrc",
+    "delta": 2.665,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 45.356,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 41.356,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.992704,
+     "absoluteCorrelation": 0.992704,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.837252
+    },
+    {
+     "sourceStartSeconds": 119.389,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 115.389,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.991989,
+     "absoluteCorrelation": 0.991989,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.83719
+    },
+    {
+     "sourceStartSeconds": 193.423,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 189.423,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.97799,
+     "absoluteCorrelation": 0.97799,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.690392
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.97799,
+   "medianOffsetMilliseconds": 0.25,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 0.25,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": true,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t02",
+    "title": "春末的南方城市 (2005)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 248.79,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-02 - 春末的南方城市 (2005).mp3",
+    "donor_id": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t03",
+    "donor_album": "梵高先生",
+    "donor_dur": 246.779,
+    "donor_lrc": "artists/李志/2005 - 梵高先生/01-03 - 春末的南方城市.lrc",
+    "delta": 2.011,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 45.539,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 41.539,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.045013,
+     "absoluteCorrelation": 0.045013,
+     "offsetMilliseconds": 3399.125,
+     "zeroOffsetCorrelation": -0.003658
+    },
+    {
+     "sourceStartSeconds": 119.847,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 115.847,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.069279,
+     "absoluteCorrelation": 0.069279,
+     "offsetMilliseconds": 3276.375,
+     "zeroOffsetCorrelation": 0.012178
+    },
+    {
+     "sourceStartSeconds": 194.154,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 190.154,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.035837,
+     "absoluteCorrelation": 0.035837,
+     "offsetMilliseconds": 404.375,
+     "zeroOffsetCorrelation": 0.01143
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.035837,
+   "medianOffsetMilliseconds": 3276.375,
+   "offsetSpreadMilliseconds": 2994.75,
+   "maximumAbsoluteOffsetMilliseconds": 3399.125,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t02",
+    "title": "春末的南方城市 (2005)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 248.79,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-02 - 春末的南方城市 (2005).mp3",
+    "donor_id": "lizhi-seen-2015-d01-t04",
+    "donor_album": "看见",
+    "donor_dur": 247.693,
+    "donor_lrc": "live/李志/2015 - 看见/01-04 - 春末的南方城市.lrc",
+    "delta": 1.097,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 46.395,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 42.395,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.948947,
+     "absoluteCorrelation": 0.948947,
+     "offsetMilliseconds": -228.375,
+     "zeroOffsetCorrelation": 0.007414
+    },
+    {
+     "sourceStartSeconds": 121.989,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 117.989,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.937631,
+     "absoluteCorrelation": 0.937631,
+     "offsetMilliseconds": -228.375,
+     "zeroOffsetCorrelation": -0.056105
+    },
+    {
+     "sourceStartSeconds": 197.582,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 193.582,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.958885,
+     "absoluteCorrelation": 0.958885,
+     "offsetMilliseconds": -228.5,
+     "zeroOffsetCorrelation": -0.087251
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.937631,
+   "medianOffsetMilliseconds": -228.375,
+   "offsetSpreadMilliseconds": 0.125,
+   "maximumAbsoluteOffsetMilliseconds": 228.5,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t03",
+    "title": "和你在一起 (2006)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 254.981,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-03 - 和你在一起 (2006).mp3",
+    "donor_id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t03",
+    "donor_album": "这个世界会好吗",
+    "donor_dur": 251.977,
+    "donor_lrc": "artists/李志/2006 - 这个世界会好吗/01-03 - 和你在一起.lrc",
+    "delta": 3.004,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 48.067,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 44.067,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.67553,
+     "absoluteCorrelation": 0.67553,
+     "offsetMilliseconds": 4.375,
+     "zeroOffsetCorrelation": -0.254299
+    },
+    {
+     "sourceStartSeconds": 126.168,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 122.168,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.643305,
+     "absoluteCorrelation": 0.643305,
+     "offsetMilliseconds": 5.5,
+     "zeroOffsetCorrelation": -0.34443
+    },
+    {
+     "sourceStartSeconds": 204.269,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 200.269,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.588335,
+     "absoluteCorrelation": 0.588335,
+     "offsetMilliseconds": 5.625,
+     "zeroOffsetCorrelation": -0.200016
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.588335,
+   "medianOffsetMilliseconds": 5.5,
+   "offsetSpreadMilliseconds": 1.25,
+   "maximumAbsoluteOffsetMilliseconds": 5.625,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t04",
+    "title": "苍井空 (2009)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 262.322,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-04 - 苍井空 (2009).mp3",
+    "donor_id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t02",
+    "donor_album": "我爱南京",
+    "donor_dur": 260.336,
+    "donor_lrc": "artists/李志/2009 - 我爱南京/01-02 - 苍井空.lrc",
+    "delta": 1.986,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 48.464,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 44.464,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.036149,
+     "absoluteCorrelation": 0.036149,
+     "offsetMilliseconds": -2726.625,
+     "zeroOffsetCorrelation": -0.020485
+    },
+    {
+     "sourceStartSeconds": 127.161,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 123.161,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.04524,
+     "absoluteCorrelation": 0.04524,
+     "offsetMilliseconds": 2547.875,
+     "zeroOffsetCorrelation": 0.001418
+    },
+    {
+     "sourceStartSeconds": 205.858,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 201.858,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.03419,
+     "absoluteCorrelation": 0.03419,
+     "offsetMilliseconds": 2254.625,
+     "zeroOffsetCorrelation": 0.004226
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.03419,
+   "medianOffsetMilliseconds": 2254.625,
+   "offsetSpreadMilliseconds": 5274.5,
+   "maximumAbsoluteOffsetMilliseconds": 2726.625,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t04",
+    "title": "苍井空 (2009)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 262.322,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-04 - 苍井空 (2009).mp3",
+    "donor_id": "lizhi-yiwu-2009-d01-t01",
+    "donor_album": "义乌隔壁酒吧",
+    "donor_dur": 264.281,
+    "donor_lrc": "live/李志/2009 - 义乌隔壁酒吧/01-01 - 苍井空.lrc",
+    "delta": 1.959,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 40.612,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 36.612,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.998405,
+     "absoluteCorrelation": 0.998405,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.967218
+    },
+    {
+     "sourceStartSeconds": 107.53,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 103.53,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.994989,
+     "absoluteCorrelation": 0.994989,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.923265
+    },
+    {
+     "sourceStartSeconds": 174.448,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 170.448,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.994873,
+     "absoluteCorrelation": 0.994873,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.948607
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.994873,
+   "medianOffsetMilliseconds": 0.25,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 0.25,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": true,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t05",
+    "title": "天空之城 (2009)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 225.567,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-05 - 天空之城 (2009).mp3",
+    "donor_id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t05",
+    "donor_album": "我爱南京",
+    "donor_dur": 223.06,
+    "donor_lrc": "artists/李志/2009 - 我爱南京/01-05 - 天空之城.lrc",
+    "delta": 2.507,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 41.113,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 37.113,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.247984,
+     "absoluteCorrelation": 0.247984,
+     "offsetMilliseconds": -815.125,
+     "zeroOffsetCorrelation": -0.082073
+    },
+    {
+     "sourceStartSeconds": 108.784,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 104.784,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.171525,
+     "absoluteCorrelation": 0.171525,
+     "offsetMilliseconds": -2100.75,
+     "zeroOffsetCorrelation": -0.011526
+    },
+    {
+     "sourceStartSeconds": 176.454,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 172.454,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.193171,
+     "absoluteCorrelation": 0.193171,
+     "offsetMilliseconds": 1294.375,
+     "zeroOffsetCorrelation": -0.063961
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.171525,
+   "medianOffsetMilliseconds": -815.125,
+   "offsetSpreadMilliseconds": 3395.125,
+   "maximumAbsoluteOffsetMilliseconds": 2100.75,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t05",
+    "title": "天空之城 (2009)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 225.567,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-05 - 天空之城 (2009).mp3",
+    "donor_id": "lizhi-kuala-lumpur-2025-d01-t05",
+    "donor_album": "叁缺壹吉隆坡站",
+    "donor_dur": 226.638,
+    "donor_lrc": "live/李志/2025 - 叁缺壹吉隆坡站/01-05 - 天空之城.lrc",
+    "delta": 1.071,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 54.352,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 50.352,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.808403,
+     "absoluteCorrelation": 0.808403,
+     "offsetMilliseconds": 288.25,
+     "zeroOffsetCorrelation": -0.058899
+    },
+    {
+     "sourceStartSeconds": 141.881,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 137.881,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.841884,
+     "absoluteCorrelation": 0.841884,
+     "offsetMilliseconds": 288.25,
+     "zeroOffsetCorrelation": 0.075583
+    },
+    {
+     "sourceStartSeconds": 229.41,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 225.41,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.803501,
+     "absoluteCorrelation": 0.803501,
+     "offsetMilliseconds": 290.875,
+     "zeroOffsetCorrelation": 0.10157
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.803501,
+   "medianOffsetMilliseconds": 288.25,
+   "offsetSpreadMilliseconds": 2.625,
+   "maximumAbsoluteOffsetMilliseconds": 290.875,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t06",
+    "title": "墙上的向日葵 (2010)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 298.188,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-06 - 墙上的向日葵 (2010).mp3",
+    "donor_id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t01",
+    "donor_album": "你好，郑州",
+    "donor_dur": 291.762,
+    "donor_lrc": "artists/李志/2010 - 你好，郑州/01-01 - 墙上的向日葵.lrc",
+    "delta": 6.426,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 41.521,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 37.521,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.994321,
+     "absoluteCorrelation": 0.994321,
+     "offsetMilliseconds": -1508.25,
+     "zeroOffsetCorrelation": 0.016016
+    },
+    {
+     "sourceStartSeconds": 109.802,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 105.802,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.994676,
+     "absoluteCorrelation": 0.994676,
+     "offsetMilliseconds": -1508.25,
+     "zeroOffsetCorrelation": 0.029104
+    },
+    {
+     "sourceStartSeconds": 178.084,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 174.084,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.989083,
+     "absoluteCorrelation": 0.989083,
+     "offsetMilliseconds": -1508.25,
+     "zeroOffsetCorrelation": -0.01131
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.989083,
+   "medianOffsetMilliseconds": -1508.25,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 1508.25,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t07",
+    "title": "关于郑州的记忆 (2010)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 230.191,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-07 - 关于郑州的记忆 (2010).mp3",
+    "donor_id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t03",
+    "donor_album": "你好，郑州",
+    "donor_dur": 227.605,
+    "donor_lrc": "artists/李志/2010 - 你好，郑州/01-03 - 关于郑州的记忆.lrc",
+    "delta": 2.586,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 42.007,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 38.007,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.107616,
+     "absoluteCorrelation": 0.107616,
+     "offsetMilliseconds": 1262.5,
+     "zeroOffsetCorrelation": 0.001925
+    },
+    {
+     "sourceStartSeconds": 111.017,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 107.017,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.129353,
+     "absoluteCorrelation": 0.129353,
+     "offsetMilliseconds": -281.625,
+     "zeroOffsetCorrelation": -0.037269
+    },
+    {
+     "sourceStartSeconds": 180.027,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 176.027,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.080581,
+     "absoluteCorrelation": 0.080581,
+     "offsetMilliseconds": -3227.5,
+     "zeroOffsetCorrelation": -0.045239
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.080581,
+   "medianOffsetMilliseconds": -281.625,
+   "offsetSpreadMilliseconds": 4490.0,
+   "maximumAbsoluteOffsetMilliseconds": 3227.5,
+   "sameCorrelationPolarity": true,
+   "polarity": "negative",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t07",
+    "title": "关于郑州的记忆 (2010)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 230.191,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-07 - 关于郑州的记忆 (2010).mp3",
+    "donor_id": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t05",
+    "donor_album": "108个关键词",
+    "donor_dur": 230.034,
+    "donor_lrc": "live/李志/2013 - 108个关键词/01-05 - 关于郑州的记忆.lrc",
+    "delta": 0.157,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 51.615,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 47.615,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.979785,
+     "absoluteCorrelation": 0.979785,
+     "offsetMilliseconds": -493.125,
+     "zeroOffsetCorrelation": -0.054426
+    },
+    {
+     "sourceStartSeconds": 135.036,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 131.036,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.978434,
+     "absoluteCorrelation": 0.978434,
+     "offsetMilliseconds": -493.125,
+     "zeroOffsetCorrelation": -0.001976
+    },
+    {
+     "sourceStartSeconds": 218.458,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 214.458,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.964949,
+     "absoluteCorrelation": 0.964949,
+     "offsetMilliseconds": -493.125,
+     "zeroOffsetCorrelation": -0.042124
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.964949,
+   "medianOffsetMilliseconds": -493.125,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 493.125,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t08",
+    "title": "山阴路的夏天 (2011)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 280.059,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-08 - 山阴路的夏天 (2011).mp3",
+    "donor_id": "lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t05",
+    "donor_album": "F",
+    "donor_dur": 278.073,
+    "donor_lrc": "artists/李志/2011 - F/01-05 - 山阴路的夏天.lrc",
+    "delta": 1.986,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 43.559,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 39.559,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.403242,
+     "absoluteCorrelation": 0.403242,
+     "offsetMilliseconds": 59.75,
+     "zeroOffsetCorrelation": 0.021647
+    },
+    {
+     "sourceStartSeconds": 114.897,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 110.897,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.459967,
+     "absoluteCorrelation": 0.459967,
+     "offsetMilliseconds": 59.75,
+     "zeroOffsetCorrelation": 0.055888
+    },
+    {
+     "sourceStartSeconds": 186.234,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 182.234,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.530363,
+     "absoluteCorrelation": 0.530363,
+     "offsetMilliseconds": 59.75,
+     "zeroOffsetCorrelation": 0.117997
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.403242,
+   "medianOffsetMilliseconds": 59.75,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 59.75,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t09",
+    "title": "杭州 (2011)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 241.215,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-09 - 杭州 (2011).mp3",
+    "donor_id": "lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t08",
+    "donor_album": "F",
+    "donor_dur": 237.793,
+    "donor_lrc": "artists/李志/2011 - F/01-08 - 杭州.lrc",
+    "delta": 3.422,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 44.133,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 40.133,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.072027,
+     "absoluteCorrelation": 0.072027,
+     "offsetMilliseconds": -1525.125,
+     "zeroOffsetCorrelation": 0.001267
+    },
+    {
+     "sourceStartSeconds": 116.333,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 112.333,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.084625,
+     "absoluteCorrelation": 0.084625,
+     "offsetMilliseconds": 3232.25,
+     "zeroOffsetCorrelation": 0.00597
+    },
+    {
+     "sourceStartSeconds": 188.533,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 184.533,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.10341,
+     "absoluteCorrelation": 0.10341,
+     "offsetMilliseconds": -3412.75,
+     "zeroOffsetCorrelation": 0.008251
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.072027,
+   "medianOffsetMilliseconds": -1525.125,
+   "offsetSpreadMilliseconds": 6645.0,
+   "maximumAbsoluteOffsetMilliseconds": 3412.75,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t09",
+    "title": "杭州 (2011)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 241.215,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-09 - 杭州 (2011).mp3",
+    "donor_id": "lizhi-kuala-lumpur-2025-d01-t18",
+    "donor_album": "叁缺壹吉隆坡站",
+    "donor_dur": 240.666,
+    "donor_lrc": "live/李志/2025 - 叁缺壹吉隆坡站/01-18 - 杭州.lrc",
+    "delta": 0.549,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 44.008,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 40.008,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.737945,
+     "absoluteCorrelation": 0.737945,
+     "offsetMilliseconds": 189.375,
+     "zeroOffsetCorrelation": -0.064832
+    },
+    {
+     "sourceStartSeconds": 116.019,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 112.019,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.756896,
+     "absoluteCorrelation": 0.756896,
+     "offsetMilliseconds": 191.375,
+     "zeroOffsetCorrelation": -0.023826
+    },
+    {
+     "sourceStartSeconds": 188.031,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 184.031,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.595008,
+     "absoluteCorrelation": 0.595008,
+     "offsetMilliseconds": 189.5,
+     "zeroOffsetCorrelation": -0.003116
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.595008,
+   "medianOffsetMilliseconds": 189.5,
+   "offsetSpreadMilliseconds": 2.0,
+   "maximumAbsoluteOffsetMilliseconds": 191.375,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t10",
+    "title": "这个世界会好吗 (2006)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 242.469,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-10 - 这个世界会好吗 (2006).mp3",
+    "donor_id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t09",
+    "donor_album": "这个世界会好吗",
+    "donor_dur": 240.039,
+    "donor_lrc": "artists/李志/2006 - 这个世界会好吗/01-09 - 这个世界会好吗.lrc",
+    "delta": 2.43,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 54.849,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 50.849,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.042134,
+     "absoluteCorrelation": 0.042134,
+     "offsetMilliseconds": 1279.875,
+     "zeroOffsetCorrelation": -0.009118
+    },
+    {
+     "sourceStartSeconds": 143.121,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 139.121,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.053207,
+     "absoluteCorrelation": 0.053207,
+     "offsetMilliseconds": -777.25,
+     "zeroOffsetCorrelation": 0.001959
+    },
+    {
+     "sourceStartSeconds": 231.394,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 227.394,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.04926,
+     "absoluteCorrelation": 0.04926,
+     "offsetMilliseconds": 1198.5,
+     "zeroOffsetCorrelation": -0.015733
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.042134,
+   "medianOffsetMilliseconds": 1198.5,
+   "offsetSpreadMilliseconds": 2057.125,
+   "maximumAbsoluteOffsetMilliseconds": 1279.875,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t01",
+    "title": "黑色信封 (2015 Live)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 294.243,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-01 - 黑色信封 (2015 Live).mp3",
+    "donor_id": "lizhi-hangzhou-2015-d01-t03",
+    "donor_album": "杭州酒球会一身酒气",
+    "donor_dur": 294.87,
+    "donor_lrc": "live/李志/2015 - 杭州酒球会一身酒气/01-03 - 黑色信封.lrc",
+    "delta": 0.627,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 54.452,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 50.452,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.992391,
+     "absoluteCorrelation": 0.992391,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.886144
+    },
+    {
+     "sourceStartSeconds": 142.129,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 138.129,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.985369,
+     "absoluteCorrelation": 0.985369,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.824586
+    },
+    {
+     "sourceStartSeconds": 229.806,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 225.806,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.984013,
+     "absoluteCorrelation": 0.984013,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.753794
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.984013,
+   "medianOffsetMilliseconds": 0.25,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 0.25,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": true,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t01",
+    "title": "黑色信封 (2015 Live)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 294.243,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-01 - 黑色信封 (2015 Live).mp3",
+    "donor_id": "lizhi-seen-2015-d01-t02",
+    "donor_album": "看见",
+    "donor_dur": 292.258,
+    "donor_lrc": "live/李志/2015 - 看见/01-02 - 黑色信封.lrc",
+    "delta": 1.985,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 54.849,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 50.849,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.058156,
+     "absoluteCorrelation": 0.058156,
+     "offsetMilliseconds": 1810.125,
+     "zeroOffsetCorrelation": 0.01777
+    },
+    {
+     "sourceStartSeconds": 143.121,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 139.121,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.050828,
+     "absoluteCorrelation": 0.050828,
+     "offsetMilliseconds": 3980.125,
+     "zeroOffsetCorrelation": -0.018644
+    },
+    {
+     "sourceStartSeconds": 231.394,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 227.394,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.034843,
+     "absoluteCorrelation": 0.034843,
+     "offsetMilliseconds": 2067.5,
+     "zeroOffsetCorrelation": -0.010132
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.034843,
+   "medianOffsetMilliseconds": 2067.5,
+   "offsetSpreadMilliseconds": 2170.0,
+   "maximumAbsoluteOffsetMilliseconds": 3980.125,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t01",
+    "title": "黑色信封 (2015 Live)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 294.243,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-01 - 黑色信封 (2015 Live).mp3",
+    "donor_id": "lizhi-jiangjinjiu-d01-t02",
+    "donor_album": "将进酒",
+    "donor_dur": 295.027,
+    "donor_lrc": "live/李志/2007 - 将进酒/01-02 - 黑色信封.lrc",
+    "delta": 0.784,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 45.539,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 41.539,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.985443,
+     "absoluteCorrelation": 0.985443,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.819573
+    },
+    {
+     "sourceStartSeconds": 119.847,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 115.847,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.988009,
+     "absoluteCorrelation": 0.988009,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.785127
+    },
+    {
+     "sourceStartSeconds": 194.154,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 190.154,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.961802,
+     "absoluteCorrelation": 0.961802,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.443017
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.961802,
+   "medianOffsetMilliseconds": 0.25,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 0.25,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": true,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t02",
+    "title": "春末的南方城市 (2015 Live)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 250.697,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-02 - 春末的南方城市 (2015 Live).mp3",
+    "donor_id": "lizhi-seen-2015-d01-t04",
+    "donor_album": "看见",
+    "donor_dur": 247.693,
+    "donor_lrc": "live/李志/2015 - 看见/01-04 - 春末的南方城市.lrc",
+    "delta": 3.004,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 52.012,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 48.012,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.99869,
+     "absoluteCorrelation": 0.99869,
+     "offsetMilliseconds": -1026.375,
+     "zeroOffsetCorrelation": 0.030704
+    },
+    {
+     "sourceStartSeconds": 136.03,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 132.03,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.996868,
+     "absoluteCorrelation": 0.996868,
+     "offsetMilliseconds": -1026.375,
+     "zeroOffsetCorrelation": -0.048485
+    },
+    {
+     "sourceStartSeconds": 220.047,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 216.047,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.999319,
+     "absoluteCorrelation": 0.999319,
+     "offsetMilliseconds": -1026.375,
+     "zeroOffsetCorrelation": -0.133619
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.996868,
+   "medianOffsetMilliseconds": -1026.375,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 1026.375,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t03",
+    "title": "和你在一起 (2016 Live)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 282.54,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-03 - 和你在一起 (2016 Live).mp3",
+    "donor_id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t05",
+    "donor_album": "动静",
+    "donor_dur": 280.059,
+    "donor_lrc": "live/李志/2016 - 动静/01-05 - 和你在一起 (2015动静版).lrc",
+    "delta": 2.481,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 51.587,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 47.587,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.057272,
+     "absoluteCorrelation": 0.057272,
+     "offsetMilliseconds": -2389.875,
+     "zeroOffsetCorrelation": -0.000694
+    },
+    {
+     "sourceStartSeconds": 134.966,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 130.966,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.063566,
+     "absoluteCorrelation": 0.063566,
+     "offsetMilliseconds": -1439.25,
+     "zeroOffsetCorrelation": 0.006226
+    },
+    {
+     "sourceStartSeconds": 218.346,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 214.346,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.060362,
+     "absoluteCorrelation": 0.060362,
+     "offsetMilliseconds": -926.875,
+     "zeroOffsetCorrelation": -0.011654
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.057272,
+   "medianOffsetMilliseconds": -1439.25,
+   "offsetSpreadMilliseconds": 1463.0,
+   "maximumAbsoluteOffsetMilliseconds": 2389.875,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t03",
+    "title": "和你在一起 (2016 Live)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 282.54,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-03 - 和你在一起 (2016 Live).mp3",
+    "donor_id": "lizhi-tokyo-2024-d01-t05",
+    "donor_album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+    "donor_dur": 277.933,
+    "donor_lrc": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-05 - 和你在一起.lrc",
+    "delta": 4.607,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 51.359,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 47.359,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.048694,
+     "absoluteCorrelation": 0.048694,
+     "offsetMilliseconds": -158.75,
+     "zeroOffsetCorrelation": 0.010192
+    },
+    {
+     "sourceStartSeconds": 134.397,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 130.397,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.046166,
+     "absoluteCorrelation": 0.046166,
+     "offsetMilliseconds": -2346.5,
+     "zeroOffsetCorrelation": -0.010037
+    },
+    {
+     "sourceStartSeconds": 217.434,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 213.434,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.071537,
+     "absoluteCorrelation": 0.071537,
+     "offsetMilliseconds": 2126.875,
+     "zeroOffsetCorrelation": -0.017911
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.046166,
+   "medianOffsetMilliseconds": -158.75,
+   "offsetSpreadMilliseconds": 4473.375,
+   "maximumAbsoluteOffsetMilliseconds": 2346.5,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t03",
+    "title": "和你在一起 (2016 Live)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 282.54,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-03 - 和你在一起 (2016 Live).mp3",
+    "donor_id": "lizhi-hangzhou-2015-d01-t13",
+    "donor_album": "杭州酒球会一身酒气",
+    "donor_dur": 276.793,
+    "donor_lrc": "live/李志/2015 - 杭州酒球会一身酒气/01-13 - 和你在一起.lrc",
+    "delta": 5.747,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 58.015,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 54.015,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.073372,
+     "absoluteCorrelation": 0.073372,
+     "offsetMilliseconds": 3925.75,
+     "zeroOffsetCorrelation": -0.004839
+    },
+    {
+     "sourceStartSeconds": 151.036,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 147.036,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.072557,
+     "absoluteCorrelation": 0.072557,
+     "offsetMilliseconds": 3335.75,
+     "zeroOffsetCorrelation": 0.002746
+    },
+    {
+     "sourceStartSeconds": 244.058,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 240.058,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.065576,
+     "absoluteCorrelation": 0.065576,
+     "offsetMilliseconds": -3562.625,
+     "zeroOffsetCorrelation": -0.001387
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.065576,
+   "medianOffsetMilliseconds": 3335.75,
+   "offsetSpreadMilliseconds": 7488.375,
+   "maximumAbsoluteOffsetMilliseconds": 3925.75,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t04",
+    "title": "苍井空 (2015 Live)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 310.596,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-04 - 苍井空 (2015 Live).mp3",
+    "donor_id": "lizhi-hangzhou-2015-d01-t04",
+    "donor_album": "杭州酒球会一身酒气",
+    "donor_dur": 310.073,
+    "donor_lrc": "live/李志/2015 - 杭州酒球会一身酒气/01-04 - 苍井空.lrc",
+    "delta": 0.523,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 57.518,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 53.518,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.966222,
+     "absoluteCorrelation": 0.966222,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.446519
+    },
+    {
+     "sourceStartSeconds": 149.796,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 145.796,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.987132,
+     "absoluteCorrelation": 0.987132,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.802044
+    },
+    {
+     "sourceStartSeconds": 242.074,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 238.074,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.972838,
+     "absoluteCorrelation": 0.972838,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.721988
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.966222,
+   "medianOffsetMilliseconds": 0.25,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 0.25,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": true,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t04",
+    "title": "苍井空 (2015 Live)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 310.596,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-04 - 苍井空 (2015 Live).mp3",
+    "donor_id": "lizhi-seen-2015-d01-t03",
+    "donor_album": "看见",
+    "donor_dur": 307.592,
+    "donor_lrc": "live/李志/2015 - 看见/01-03 - 苍井空.lrc",
+    "delta": 3.004,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 54.258,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 50.258,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.985175,
+     "absoluteCorrelation": 0.985175,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.677243
+    },
+    {
+     "sourceStartSeconds": 141.645,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 137.645,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.990907,
+     "absoluteCorrelation": 0.990907,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.831986
+    },
+    {
+     "sourceStartSeconds": 229.033,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 225.033,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.98502,
+     "absoluteCorrelation": 0.98502,
+     "offsetMilliseconds": 0.25,
+     "zeroOffsetCorrelation": 0.79916
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.98502,
+   "medianOffsetMilliseconds": 0.25,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 0.25,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": true,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t05",
+    "title": "天空之城 (2018 Live)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 294.296,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-05 - 天空之城 (2018 Live).mp3",
+    "donor_id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t07",
+    "donor_album": "李志、电声与管弦乐II",
+    "donor_dur": 291.291,
+    "donor_lrc": "live/李志/2018 - 李志、电声与管弦乐II/01-07 - 天空之城（2017跨年版）.lrc",
+    "delta": 3.005,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 85.166,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 81.166,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.015151,
+     "absoluteCorrelation": 0.015151,
+     "offsetMilliseconds": -3278.375,
+     "zeroOffsetCorrelation": 0.002895
+    },
+    {
+     "sourceStartSeconds": 218.916,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 214.916,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.077149,
+     "absoluteCorrelation": 0.077149,
+     "offsetMilliseconds": 1232.125,
+     "zeroOffsetCorrelation": -0.014289
+    },
+    {
+     "sourceStartSeconds": 352.666,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 348.666,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.068124,
+     "absoluteCorrelation": 0.068124,
+     "offsetMilliseconds": 2453.25,
+     "zeroOffsetCorrelation": 0.008735
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.015151,
+   "medianOffsetMilliseconds": 1232.125,
+   "offsetSpreadMilliseconds": 5731.625,
+   "maximumAbsoluteOffsetMilliseconds": 3278.375,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t06",
+    "title": "墙上的向日葵 (2015 Live)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 470.7,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-06 - 墙上的向日葵 (2015 Live).mp3",
+    "donor_id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t02",
+    "donor_album": "勾三搭四",
+    "donor_dur": 445.832,
+    "donor_lrc": "live/李志/2014 - 勾三搭四/01-02 - 墙上的向日葵.lrc",
+    "delta": 24.868,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 63.6,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 59.6,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.999374,
+     "absoluteCorrelation": 0.999374,
+     "offsetMilliseconds": 1.125,
+     "zeroOffsetCorrelation": 0.541141
+    },
+    {
+     "sourceStartSeconds": 164.999,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 160.999,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.999095,
+     "absoluteCorrelation": 0.999095,
+     "offsetMilliseconds": 1.125,
+     "zeroOffsetCorrelation": 0.416581
+    },
+    {
+     "sourceStartSeconds": 266.398,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 262.398,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.99564,
+     "absoluteCorrelation": 0.99564,
+     "offsetMilliseconds": 1.125,
+     "zeroOffsetCorrelation": 0.310439
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.99564,
+   "medianOffsetMilliseconds": 1.125,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 1.125,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": true,
+   "pair": {
+    "missing_id": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t08",
+    "title": "山阴路的夏天 (2014 Live)",
+    "album": "Best Selection Songs 2004-2018",
+    "missing_dur": 340.976,
+    "missing_src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-08 - 山阴路的夏天 (2014 Live).mp3",
+    "donor_id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t21",
+    "donor_album": "勾三搭四",
+    "donor_dur": 337.998,
+    "donor_lrc": "live/李志/2014 - 勾三搭四/01-21 - 山阴路的夏天.lrc",
+    "delta": 2.978,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 31.385,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 27.385,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.91417,
+     "absoluteCorrelation": 0.91417,
+     "offsetMilliseconds": 560.375,
+     "zeroOffsetCorrelation": -0.15596
+    },
+    {
+     "sourceStartSeconds": 84.463,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 80.463,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.91179,
+     "absoluteCorrelation": 0.91179,
+     "offsetMilliseconds": 560.375,
+     "zeroOffsetCorrelation": -0.048026
+    },
+    {
+     "sourceStartSeconds": 137.542,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 133.542,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.925514,
+     "absoluteCorrelation": 0.925514,
+     "offsetMilliseconds": 560.375,
+     "zeroOffsetCorrelation": -0.070656
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.91179,
+   "medianOffsetMilliseconds": 560.375,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 560.375,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t01",
+    "title": "卡夫卡（2004）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 178.827,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-01 - 卡夫卡（2004）.mp3",
+    "donor_id": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t06",
+    "donor_album": "被禁忌的游戏",
+    "donor_dur": 176.927,
+    "donor_lrc": "artists/李志/2004 - 被禁忌的游戏/01-06 - 卡夫卡.lrc",
+    "delta": 1.9,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 46.517,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 42.517,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.904928,
+     "absoluteCorrelation": 0.904928,
+     "offsetMilliseconds": -719.75,
+     "zeroOffsetCorrelation": 0.02974
+    },
+    {
+     "sourceStartSeconds": 122.293,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 118.293,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.910637,
+     "absoluteCorrelation": 0.910637,
+     "offsetMilliseconds": -719.625,
+     "zeroOffsetCorrelation": -0.013009
+    },
+    {
+     "sourceStartSeconds": 198.07,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 194.07,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.913133,
+     "absoluteCorrelation": 0.913133,
+     "offsetMilliseconds": -719.625,
+     "zeroOffsetCorrelation": 0.000112
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.904928,
+   "medianOffsetMilliseconds": -719.625,
+   "offsetSpreadMilliseconds": 0.125,
+   "maximumAbsoluteOffsetMilliseconds": 719.75,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t03",
+    "title": "翁庆年的六英镑（2006）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 252.587,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-03 - 翁庆年的六英镑（2006）.mp3",
+    "donor_id": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t05",
+    "donor_album": "这个世界会好吗",
+    "donor_dur": 256.522,
+    "donor_lrc": "artists/李志/2006 - 这个世界会好吗/01-05 - 翁庆年的六英镑.lrc",
+    "delta": 3.935,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 36.171,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 32.171,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.935715,
+     "absoluteCorrelation": 0.935715,
+     "offsetMilliseconds": 222.0,
+     "zeroOffsetCorrelation": 0.007172
+    },
+    {
+     "sourceStartSeconds": 96.428,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 92.428,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.921923,
+     "absoluteCorrelation": 0.921923,
+     "offsetMilliseconds": 222.0,
+     "zeroOffsetCorrelation": -0.0348
+    },
+    {
+     "sourceStartSeconds": 156.685,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 152.685,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.940984,
+     "absoluteCorrelation": 0.940984,
+     "offsetMilliseconds": 222.0,
+     "zeroOffsetCorrelation": 0.061626
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.921923,
+   "medianOffsetMilliseconds": 222.0,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 222.0,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t04",
+    "title": "爱（2009）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 202.64,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-04 - 爱（2009）.mp3",
+    "donor_id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t07",
+    "donor_album": "我爱南京",
+    "donor_dur": 200.856,
+    "donor_lrc": "artists/李志/2009 - 我爱南京/01-07 - 爱.lrc",
+    "delta": 1.784,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 21.208,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 17.208,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.942946,
+     "absoluteCorrelation": 0.942946,
+     "offsetMilliseconds": -15.625,
+     "zeroOffsetCorrelation": -0.150655
+    },
+    {
+     "sourceStartSeconds": 59.02,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 55.02,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.919713,
+     "absoluteCorrelation": 0.919713,
+     "offsetMilliseconds": -15.75,
+     "zeroOffsetCorrelation": -0.250035
+    },
+    {
+     "sourceStartSeconds": 96.833,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 92.833,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.910582,
+     "absoluteCorrelation": 0.910582,
+     "offsetMilliseconds": -15.625,
+     "zeroOffsetCorrelation": -0.145708
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.910582,
+   "medianOffsetMilliseconds": -15.625,
+   "offsetSpreadMilliseconds": 0.125,
+   "maximumAbsoluteOffsetMilliseconds": 15.75,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t05",
+    "title": "忽然（2010）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 127.627,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-05 - 忽然（2010）.mp3",
+    "donor_id": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t04",
+    "donor_album": "你好，郑州",
+    "donor_dur": 126.041,
+    "donor_lrc": "artists/李志/2010 - 你好，郑州/01-04 - 忽然.lrc",
+    "delta": 1.586,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 50.847,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 46.847,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.752633,
+     "absoluteCorrelation": 0.752633,
+     "offsetMilliseconds": -448.0,
+     "zeroOffsetCorrelation": 0.036226
+    },
+    {
+     "sourceStartSeconds": 133.117,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 129.117,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.788302,
+     "absoluteCorrelation": 0.788302,
+     "offsetMilliseconds": -448.0,
+     "zeroOffsetCorrelation": -0.031305
+    },
+    {
+     "sourceStartSeconds": 215.386,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 211.386,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.843139,
+     "absoluteCorrelation": 0.843139,
+     "offsetMilliseconds": -448.0,
+     "zeroOffsetCorrelation": -0.088976
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.752633,
+   "medianOffsetMilliseconds": -448.0,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 448.0,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t06",
+    "title": "尽头（2011）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 275.507,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-06 - 尽头（2011）.mp3",
+    "donor_id": "lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t02",
+    "donor_album": "F",
+    "donor_dur": 274.233,
+    "donor_lrc": "artists/李志/2011 - F/01-02 - 尽头.lrc",
+    "delta": 1.274,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 61.332,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 57.332,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.598859,
+     "absoluteCorrelation": 0.598859,
+     "offsetMilliseconds": -596.75,
+     "zeroOffsetCorrelation": -0.067309
+    },
+    {
+     "sourceStartSeconds": 159.331,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 155.331,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.617821,
+     "absoluteCorrelation": 0.617821,
+     "offsetMilliseconds": -596.875,
+     "zeroOffsetCorrelation": 0.033941
+    },
+    {
+     "sourceStartSeconds": 257.329,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 253.329,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.667303,
+     "absoluteCorrelation": 0.667303,
+     "offsetMilliseconds": -596.875,
+     "zeroOffsetCorrelation": -0.003328
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.598859,
+   "medianOffsetMilliseconds": -596.875,
+   "offsetSpreadMilliseconds": 0.125,
+   "maximumAbsoluteOffsetMilliseconds": 596.875,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t07",
+    "title": "大象（2014）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 327.787,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-07 - 大象（2014）.mp3",
+    "donor_id": "lizhi-bfe30cec-4119-41e4-9961-338356921a3c-d01-t01",
+    "donor_album": "1701",
+    "donor_dur": 326.661,
+    "donor_lrc": "artists/李志/2014 - 1701/01-01 - 大象.lrc",
+    "delta": 1.126,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 55.188,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 51.188,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.63676,
+     "absoluteCorrelation": 0.63676,
+     "offsetMilliseconds": 335.0,
+     "zeroOffsetCorrelation": -0.004417
+    },
+    {
+     "sourceStartSeconds": 143.97,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 139.97,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.579989,
+     "absoluteCorrelation": 0.579989,
+     "offsetMilliseconds": 336.0,
+     "zeroOffsetCorrelation": 0.013216
+    },
+    {
+     "sourceStartSeconds": 232.753,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 228.753,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.654697,
+     "absoluteCorrelation": 0.654697,
+     "offsetMilliseconds": 331.75,
+     "zeroOffsetCorrelation": -0.012508
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.579989,
+   "medianOffsetMilliseconds": 335.0,
+   "offsetSpreadMilliseconds": 4.25,
+   "maximumAbsoluteOffsetMilliseconds": 336.0,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t08",
+    "title": "定西（2014）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 298.027,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-08 - 定西（2014）.mp3",
+    "donor_id": "lizhi-bfe30cec-4119-41e4-9961-338356921a3c-d01-t03",
+    "donor_album": "1701",
+    "donor_dur": 295.941,
+    "donor_lrc": "artists/李志/2014 - 1701/01-03 - 定西.lrc",
+    "delta": 2.086,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 55.345,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 51.345,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.042602,
+     "absoluteCorrelation": 0.042602,
+     "offsetMilliseconds": 1542.75,
+     "zeroOffsetCorrelation": -0.020231
+    },
+    {
+     "sourceStartSeconds": 144.363,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 140.363,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.042284,
+     "absoluteCorrelation": 0.042284,
+     "offsetMilliseconds": 1871.375,
+     "zeroOffsetCorrelation": 0.004895
+    },
+    {
+     "sourceStartSeconds": 233.38,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 229.38,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.053956,
+     "absoluteCorrelation": 0.053956,
+     "offsetMilliseconds": 3256.5,
+     "zeroOffsetCorrelation": -0.001045
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.042284,
+   "medianOffsetMilliseconds": 1871.375,
+   "offsetSpreadMilliseconds": 1713.75,
+   "maximumAbsoluteOffsetMilliseconds": 3256.5,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t08",
+    "title": "定西（2014）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 298.027,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-08 - 定西（2014）.mp3",
+    "donor_id": "lizhi-hangzhou-2015-d01-t05",
+    "donor_album": "杭州酒球会一身酒气",
+    "donor_dur": 296.725,
+    "donor_lrc": "live/李志/2015 - 杭州酒球会一身酒气/01-05 - 定西.lrc",
+    "delta": 1.302,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 52.32,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 48.32,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.771071,
+     "absoluteCorrelation": 0.771071,
+     "offsetMilliseconds": -364.875,
+     "zeroOffsetCorrelation": 0.005631
+    },
+    {
+     "sourceStartSeconds": 136.8,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 132.8,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.804119,
+     "absoluteCorrelation": 0.804119,
+     "offsetMilliseconds": -364.875,
+     "zeroOffsetCorrelation": 0.003254
+    },
+    {
+     "sourceStartSeconds": 221.28,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 217.28,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.75829,
+     "absoluteCorrelation": 0.75829,
+     "offsetMilliseconds": -364.75,
+     "zeroOffsetCorrelation": -0.018902
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.75829,
+   "medianOffsetMilliseconds": -364.875,
+   "offsetSpreadMilliseconds": 0.125,
+   "maximumAbsoluteOffsetMilliseconds": 364.875,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t09",
+    "title": "一个夜晚（2016）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 282.853,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-09 - 一个夜晚（2016）.mp3",
+    "donor_id": "lizhi-dde3284d-3c53-4d81-b139-ac11bc831e73-d01-t05",
+    "donor_album": "在每一条伤心的应天大街上",
+    "donor_dur": 281.6,
+    "donor_lrc": "artists/李志/2016 - 在每一条伤心的应天大街上/01-05 - 一个夜晚.lrc",
+    "delta": 1.253,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 32.582,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 28.582,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.680951,
+     "absoluteCorrelation": 0.680951,
+     "offsetMilliseconds": 221.5,
+     "zeroOffsetCorrelation": 0.019905
+    },
+    {
+     "sourceStartSeconds": 87.454,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 83.454,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.704178,
+     "absoluteCorrelation": 0.704178,
+     "offsetMilliseconds": 221.125,
+     "zeroOffsetCorrelation": 0.038327
+    },
+    {
+     "sourceStartSeconds": 142.327,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 138.327,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.668707,
+     "absoluteCorrelation": 0.668707,
+     "offsetMilliseconds": 221.625,
+     "zeroOffsetCorrelation": 0.00941
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.668707,
+   "medianOffsetMilliseconds": 221.5,
+   "offsetSpreadMilliseconds": 0.5,
+   "maximumAbsoluteOffsetMilliseconds": 221.625,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t10",
+    "title": "倒影（2009）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 184.853,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-10 - 倒影（2009）.mp3",
+    "donor_id": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t06",
+    "donor_album": "我爱南京",
+    "donor_dur": 182.909,
+    "donor_lrc": "artists/李志/2009 - 我爱南京/01-06 - 倒影.lrc",
+    "delta": 1.944,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 32.971,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 28.971,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.051182,
+     "absoluteCorrelation": 0.051182,
+     "offsetMilliseconds": -226.75,
+     "zeroOffsetCorrelation": 0.001477
+    },
+    {
+     "sourceStartSeconds": 88.427,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 84.427,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.051411,
+     "absoluteCorrelation": 0.051411,
+     "offsetMilliseconds": -3567.125,
+     "zeroOffsetCorrelation": -0.019984
+    },
+    {
+     "sourceStartSeconds": 143.882,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 139.882,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.050602,
+     "absoluteCorrelation": 0.050602,
+     "offsetMilliseconds": 3168.25,
+     "zeroOffsetCorrelation": 0.008177
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.050602,
+   "medianOffsetMilliseconds": -226.75,
+   "offsetSpreadMilliseconds": 6735.375,
+   "maximumAbsoluteOffsetMilliseconds": 3567.125,
+   "sameCorrelationPolarity": true,
+   "polarity": "negative",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t10",
+    "title": "倒影（2009）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 184.853,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-10 - 倒影（2009）.mp3",
+    "donor_id": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t07",
+    "donor_album": "二零零九年十月十六日事件",
+    "donor_dur": 185.6,
+    "donor_lrc": "live/李志/2010 - 二零零九年十月十六日事件/02-07 - 倒影.lrc",
+    "delta": 0.747,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 51.327,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 47.327,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.975915,
+     "absoluteCorrelation": 0.975915,
+     "offsetMilliseconds": 560.375,
+     "zeroOffsetCorrelation": 0.045077
+    },
+    {
+     "sourceStartSeconds": 134.319,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 130.319,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.939272,
+     "absoluteCorrelation": 0.939272,
+     "offsetMilliseconds": 560.375,
+     "zeroOffsetCorrelation": -0.062841
+    },
+    {
+     "sourceStartSeconds": 217.31,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 213.31,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.940306,
+     "absoluteCorrelation": 0.940306,
+     "offsetMilliseconds": 560.375,
+     "zeroOffsetCorrelation": -0.029002
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.939272,
+   "medianOffsetMilliseconds": 560.375,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 560.375,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t01",
+    "title": "卡夫卡（2016 动静）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 278.96,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-01 - 卡夫卡（2016 动静）.mp3",
+    "donor_id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t04",
+    "donor_album": "动静",
+    "donor_dur": 276.637,
+    "donor_lrc": "live/李志/2016 - 动静/01-04 - 卡夫卡 (2015动静版).lrc",
+    "delta": 2.323,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 51.782,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 47.782,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.911727,
+     "absoluteCorrelation": 0.911727,
+     "offsetMilliseconds": 336.375,
+     "zeroOffsetCorrelation": 0.035893
+    },
+    {
+     "sourceStartSeconds": 135.454,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 131.454,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.704487,
+     "absoluteCorrelation": 0.704487,
+     "offsetMilliseconds": 336.375,
+     "zeroOffsetCorrelation": 0.000814
+    },
+    {
+     "sourceStartSeconds": 219.127,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 215.127,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.696034,
+     "absoluteCorrelation": 0.696034,
+     "offsetMilliseconds": 336.375,
+     "zeroOffsetCorrelation": 0.053188
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.696034,
+   "medianOffsetMilliseconds": 336.375,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 336.375,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t02",
+    "title": "董卓瑶（2015 看见）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 281.6,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-02 - 董卓瑶（2015 看见）.mp3",
+    "donor_id": "lizhi-seen-2015-d01-t08",
+    "donor_album": "看见",
+    "donor_dur": 278.909,
+    "donor_lrc": "live/李志/2015 - 看见/01-08 - 董卓瑶.lrc",
+    "delta": 2.691,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 51.96,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 47.96,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.120095,
+     "absoluteCorrelation": 0.120095,
+     "offsetMilliseconds": -3490.5,
+     "zeroOffsetCorrelation": -0.001501
+    },
+    {
+     "sourceStartSeconds": 135.899,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 131.899,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.056835,
+     "absoluteCorrelation": 0.056835,
+     "offsetMilliseconds": 3734.75,
+     "zeroOffsetCorrelation": -0.003074
+    },
+    {
+     "sourceStartSeconds": 219.838,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 215.838,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.047209,
+     "absoluteCorrelation": 0.047209,
+     "offsetMilliseconds": -3879.5,
+     "zeroOffsetCorrelation": 0.008291
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.047209,
+   "medianOffsetMilliseconds": -3490.5,
+   "offsetSpreadMilliseconds": 7614.25,
+   "maximumAbsoluteOffsetMilliseconds": 3879.5,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t02",
+    "title": "董卓瑶（2015 看见）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 281.6,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-02 - 董卓瑶（2015 看见）.mp3",
+    "donor_id": "lizhi-hangzhou-2015-d01-t09",
+    "donor_album": "杭州酒球会一身酒气",
+    "donor_dur": 279.798,
+    "donor_lrc": "live/李志/2015 - 杭州酒球会一身酒气/01-09 - 董卓瑶.lrc",
+    "delta": 1.802,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 77.215,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 73.215,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.972049,
+     "absoluteCorrelation": 0.972049,
+     "offsetMilliseconds": 344.0,
+     "zeroOffsetCorrelation": 0.01111
+    },
+    {
+     "sourceStartSeconds": 199.036,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 195.036,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.621664,
+     "absoluteCorrelation": 0.621664,
+     "offsetMilliseconds": 343.875,
+     "zeroOffsetCorrelation": -0.015818
+    },
+    {
+     "sourceStartSeconds": 320.858,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 316.858,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.655227,
+     "absoluteCorrelation": 0.655227,
+     "offsetMilliseconds": 344.0,
+     "zeroOffsetCorrelation": -0.024058
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.621664,
+   "medianOffsetMilliseconds": 344.0,
+   "offsetSpreadMilliseconds": 0.125,
+   "maximumAbsoluteOffsetMilliseconds": 344.0,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t03",
+    "title": "翁庆年的六英镑（2018 爵士乐与不插电）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 408.16,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-03 - 翁庆年的六英镑（2018 爵士乐与不插电）.mp3",
+    "donor_id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t07",
+    "donor_album": "爵士乐与不插电新编12首",
+    "donor_dur": 406.073,
+    "donor_lrc": "live/李志/2018 - 爵士乐与不插电新编12首/01-07 - 翁庆年的六英镑.lrc",
+    "delta": 2.087,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 49.096,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 45.096,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.663982,
+     "absoluteCorrelation": 0.663982,
+     "offsetMilliseconds": 340.25,
+     "zeroOffsetCorrelation": 0.095109
+    },
+    {
+     "sourceStartSeconds": 128.74,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 124.74,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.733823,
+     "absoluteCorrelation": 0.733823,
+     "offsetMilliseconds": 340.25,
+     "zeroOffsetCorrelation": 0.103606
+    },
+    {
+     "sourceStartSeconds": 208.384,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 204.384,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.728092,
+     "absoluteCorrelation": 0.728092,
+     "offsetMilliseconds": 340.25,
+     "zeroOffsetCorrelation": 0.027784
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.663982,
+   "medianOffsetMilliseconds": 340.25,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 340.25,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t05",
+    "title": "忽然（2016 动静）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 265.48,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-05 - 忽然（2016 动静）.mp3",
+    "donor_id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t06",
+    "donor_album": "动静",
+    "donor_dur": 266.527,
+    "donor_lrc": "live/李志/2016 - 动静/01-06 - 忽然 (2015动静版).lrc",
+    "delta": 1.047,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 77.91,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 73.91,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.642268,
+     "absoluteCorrelation": 0.642268,
+     "offsetMilliseconds": 334.75,
+     "zeroOffsetCorrelation": -0.081867
+    },
+    {
+     "sourceStartSeconds": 200.774,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 196.774,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.641728,
+     "absoluteCorrelation": 0.641728,
+     "offsetMilliseconds": 338.0,
+     "zeroOffsetCorrelation": -0.002203
+    },
+    {
+     "sourceStartSeconds": 323.638,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 319.638,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.772653,
+     "absoluteCorrelation": 0.772653,
+     "offsetMilliseconds": 335.0,
+     "zeroOffsetCorrelation": 0.012498
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.641728,
+   "medianOffsetMilliseconds": 335.0,
+   "offsetSpreadMilliseconds": 3.25,
+   "maximumAbsoluteOffsetMilliseconds": 338.0,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t07",
+    "title": "大象（2017 电声与管弦乐）",
+    "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+    "missing_dur": 411.64,
+    "missing_src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-07 - 大象（2017 电声与管弦乐）.mp3",
+    "donor_id": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t10",
+    "donor_album": "李志、电声与管弦乐",
+    "donor_dur": 409.548,
+    "donor_lrc": "live/李志/2017 - 李志、电声与管弦乐/01-10 - 大象 - 2016跨年版.lrc",
+    "delta": 2.092,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 49.086,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 45.086,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.117855,
+     "absoluteCorrelation": 0.117855,
+     "offsetMilliseconds": -1703.625,
+     "zeroOffsetCorrelation": -0.029302
+    },
+    {
+     "sourceStartSeconds": 128.715,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 124.715,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.150257,
+     "absoluteCorrelation": 0.150257,
+     "offsetMilliseconds": -914.75,
+     "zeroOffsetCorrelation": 0.022294
+    },
+    {
+     "sourceStartSeconds": 208.344,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 204.344,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.072866,
+     "absoluteCorrelation": 0.072866,
+     "offsetMilliseconds": 2798.0,
+     "zeroOffsetCorrelation": -0.017897
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.072866,
+   "medianOffsetMilliseconds": -914.75,
+   "offsetSpreadMilliseconds": 4501.625,
+   "maximumAbsoluteOffsetMilliseconds": 2798.0,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-has-man-a-future-2015-d01-t01",
+    "title": "这个世界会好吗（2015版本）",
+    "album": "这个世界会好吗（2015版本）",
+    "missing_dur": 266.24,
+    "missing_src": "artists/李志/2015 - 这个世界会好吗（2015版本）/01-01 - 这个世界会好吗（2015版本）.mp3",
+    "donor_id": "lizhi-io-2015-d01-t06",
+    "donor_album": "i/O",
+    "donor_dur": 265.43,
+    "donor_lrc": "live/李志/2015 - i／O/01-06 - 这个世界会好吗.lrc",
+    "delta": 0.81,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 40.487,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 36.487,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.052919,
+     "absoluteCorrelation": 0.052919,
+     "offsetMilliseconds": 2240.875,
+     "zeroOffsetCorrelation": 0.021905
+    },
+    {
+     "sourceStartSeconds": 107.216,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 103.216,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.059127,
+     "absoluteCorrelation": 0.059127,
+     "offsetMilliseconds": -3173.75,
+     "zeroOffsetCorrelation": -0.01694
+    },
+    {
+     "sourceStartSeconds": 173.946,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 169.946,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.0443,
+     "absoluteCorrelation": 0.0443,
+     "offsetMilliseconds": -1136.875,
+     "zeroOffsetCorrelation": -0.006247
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.0443,
+   "medianOffsetMilliseconds": -1136.875,
+   "offsetSpreadMilliseconds": 5414.625,
+   "maximumAbsoluteOffsetMilliseconds": 3173.75,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t08",
+    "title": "杭州 (2016 unplugged)",
+    "album": "李志北京不插电现场",
+    "missing_dur": 222.433,
+    "missing_src": "live/李志/2016 - 李志北京不插电现场/01-08 - 杭州 (2016 unplugged).mp3",
+    "donor_id": "lizhi-f7f7a172-a4cb-4342-af4d-eca0b8371c05-d02-t10",
+    "donor_album": "IMAGINE",
+    "donor_dur": 227.318,
+    "donor_lrc": "live/李志/2012 - IMAGINE/02-10 - 杭州.lrc",
+    "delta": 4.885,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 63.6,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 59.6,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.06333,
+     "absoluteCorrelation": 0.06333,
+     "offsetMilliseconds": -3353.625,
+     "zeroOffsetCorrelation": 0.002943
+    },
+    {
+     "sourceStartSeconds": 164.999,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 160.999,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.06615,
+     "absoluteCorrelation": 0.06615,
+     "offsetMilliseconds": -2868.25,
+     "zeroOffsetCorrelation": -0.016406
+    },
+    {
+     "sourceStartSeconds": 266.398,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 262.398,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.056209,
+     "absoluteCorrelation": 0.056209,
+     "offsetMilliseconds": 3189.375,
+     "zeroOffsetCorrelation": 0.002448
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.056209,
+   "medianOffsetMilliseconds": -2868.25,
+   "offsetSpreadMilliseconds": 6543.0,
+   "maximumAbsoluteOffsetMilliseconds": 3353.625,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t12",
+    "title": "山阴路的夏天 (2016 unplugged)",
+    "album": "李志北京不插电现场",
+    "missing_dur": 343.458,
+    "missing_src": "live/李志/2016 - 李志北京不插电现场/01-12 - 山阴路的夏天 (2016 unplugged).mp3",
+    "donor_id": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t21",
+    "donor_album": "勾三搭四",
+    "donor_dur": 337.998,
+    "donor_lrc": "live/李志/2014 - 勾三搭四/01-21 - 山阴路的夏天.lrc",
+    "delta": 5.46,
+    "class": "T"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 60.752,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 56.752,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.045047,
+     "absoluteCorrelation": 0.045047,
+     "offsetMilliseconds": 1321.5,
+     "zeroOffsetCorrelation": -0.00715
+    },
+    {
+     "sourceStartSeconds": 157.881,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 153.881,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.127528,
+     "absoluteCorrelation": 0.127528,
+     "offsetMilliseconds": -2409.75,
+     "zeroOffsetCorrelation": -0.049985
+    },
+    {
+     "sourceStartSeconds": 255.01,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 251.01,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.053773,
+     "absoluteCorrelation": 0.053773,
+     "offsetMilliseconds": 3646.0,
+     "zeroOffsetCorrelation": 0.001603
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.045047,
+   "medianOffsetMilliseconds": 1321.5,
+   "offsetSpreadMilliseconds": 6055.75,
+   "maximumAbsoluteOffsetMilliseconds": 3646.0,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d01-t01",
+    "title": "黒色信封",
+    "album": "二零零九年十月十六日事件",
+    "missing_dur": 323.762,
+    "missing_src": "live/李志/2010 - 二零零九年十月十六日事件/01-01 - 黒色信封.mp3",
+    "donor_id": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t03",
+    "donor_album": "108个关键词",
+    "donor_dur": 324.911,
+    "donor_lrc": "live/李志/2013 - 108个关键词/01-03 - 黑色信封.lrc",
+    "delta": 1.149,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 50.685,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 46.685,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.041408,
+     "absoluteCorrelation": 0.041408,
+     "offsetMilliseconds": 3869.75,
+     "zeroOffsetCorrelation": -0.00965
+    },
+    {
+     "sourceStartSeconds": 132.712,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 128.712,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.051776,
+     "absoluteCorrelation": 0.051776,
+     "offsetMilliseconds": 2142.75,
+     "zeroOffsetCorrelation": -0.006196
+    },
+    {
+     "sourceStartSeconds": 214.739,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 210.739,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.054795,
+     "absoluteCorrelation": 0.054795,
+     "offsetMilliseconds": -269.125,
+     "zeroOffsetCorrelation": 0.020592
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.041408,
+   "medianOffsetMilliseconds": 2142.75,
+   "offsetSpreadMilliseconds": 4138.875,
+   "maximumAbsoluteOffsetMilliseconds": 3869.75,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d01-t08",
+    "title": "被禁忌的游戯",
+    "album": "二零零九年十月十六日事件",
+    "missing_dur": 277.159,
+    "missing_src": "live/李志/2010 - 二零零九年十月十六日事件/01-08 - 被禁忌的游戯.mp3",
+    "donor_id": "lizhi-f7f7a172-a4cb-4342-af4d-eca0b8371c05-d02-t03",
+    "donor_album": "IMAGINE",
+    "donor_dur": 273.424,
+    "donor_lrc": "live/李志/2012 - IMAGINE/02-03 - 被禁忌的游戏.lrc",
+    "delta": 3.735,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 58.824,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 54.824,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.141355,
+     "absoluteCorrelation": 0.141355,
+     "offsetMilliseconds": -3813.125,
+     "zeroOffsetCorrelation": 0.072103
+    },
+    {
+     "sourceStartSeconds": 153.061,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 149.061,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.090759,
+     "absoluteCorrelation": 0.090759,
+     "offsetMilliseconds": 1900.875,
+     "zeroOffsetCorrelation": -0.00922
+    },
+    {
+     "sourceStartSeconds": 247.298,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 243.298,
+     "targetSearchSeconds": 16.0,
+     "correlation": -0.0863,
+     "absoluteCorrelation": 0.0863,
+     "offsetMilliseconds": -2365.125,
+     "zeroOffsetCorrelation": 0.022245
+    }
+   ],
+   "sameRecordingSupportedBySamples": false,
+   "minimumAbsoluteCorrelation": 0.0863,
+   "medianOffsetMilliseconds": -2365.125,
+   "offsetSpreadMilliseconds": 5714.0,
+   "maximumAbsoluteOffsetMilliseconds": 3813.125,
+   "sameCorrelationPolarity": false,
+   "polarity": "mixed",
+   "canKeepOriginalTimestamps": false,
+   "pair": {
+    "missing_id": "lizhi-tokyo-2024-d01-t08",
+    "title": "这个世界会好吗",
+    "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+    "missing_dur": 317.347,
+    "missing_src": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-08 - 这个世界会好吗.mp3",
+    "donor_id": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t09",
+    "donor_album": "动静",
+    "donor_dur": 314.122,
+    "donor_lrc": "live/李志/2016 - 动静/01-09 - 这个世界会好吗 (2015动静版).lrc",
+    "delta": 3.225,
+    "class": "P"
+   }
+  },
+  {
+   "evidence": [
+    {
+     "sourceStartSeconds": 47.931,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 43.931,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.997542,
+     "absoluteCorrelation": 0.997542,
+     "offsetMilliseconds": -17.875,
+     "zeroOffsetCorrelation": 0.227812
+    },
+    {
+     "sourceStartSeconds": 125.828,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 121.828,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.9921,
+     "absoluteCorrelation": 0.9921,
+     "offsetMilliseconds": -17.875,
+     "zeroOffsetCorrelation": 0.043103
+    },
+    {
+     "sourceStartSeconds": 203.726,
+     "sourceWindowSeconds": 8.0,
+     "targetSearchStartSeconds": 199.726,
+     "targetSearchSeconds": 16.0,
+     "correlation": 0.992163,
+     "absoluteCorrelation": 0.992163,
+     "offsetMilliseconds": -17.875,
+     "zeroOffsetCorrelation": -0.05783
+    }
+   ],
+   "sameRecordingSupportedBySamples": true,
+   "minimumAbsoluteCorrelation": 0.9921,
+   "medianOffsetMilliseconds": -17.875,
+   "offsetSpreadMilliseconds": 0.0,
+   "maximumAbsoluteOffsetMilliseconds": 17.875,
+   "sameCorrelationPolarity": true,
+   "polarity": "positive",
+   "canKeepOriginalTimestamps": true,
+   "pair": {
+    "missing_id": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t04",
+    "title": "寻找（2017跨年版）",
+    "album": "李志、电声与管弦乐II",
+    "missing_dur": 259.657,
+    "missing_src": "live/李志/2018 - 李志、电声与管弦乐II/01-04 - 寻找（2017跨年版）.mp3",
+    "donor_id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t06",
+    "donor_album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+    "donor_dur": 261.587,
+    "donor_lrc": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/02-06 - 寻找.lrc",
+    "delta": 1.93,
+    "class": "T"
+   }
+  }
+ ]
+}

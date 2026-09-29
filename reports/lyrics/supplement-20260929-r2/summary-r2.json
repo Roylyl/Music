@@ -1,0 +1,51 @@
+{
+ "generatedAt": "2026-09-29",
+ "round": "supplement-20260929-r2",
+ "totalPlayableTracks": 848,
+ "statusCounts": {
+  "has-lyrics": 519,
+  "missing": 306,
+  "instrumental": 13,
+  "version-pending": 7,
+  "timeline-anomaly": 1,
+  "new-this-round": 2
+ },
+ "newLyricFiles": 2,
+ "newTimedLyricFiles": 2,
+ "tracksStillWithoutLyricFile": 327,
+ "stillMissingBreakdown": {
+  "missing": 306,
+  "instrumental": 13,
+  "versionPending": 7,
+  "timelineAnomaly": 1
+ },
+ "reuseScan": {
+  "candidatePairsFromLibrary": 306,
+  "sameArtistPairs": 304,
+  "newlyTestedPairs": 251,
+  "previouslyVerifiedPairsReused": 2,
+  "newMatchesFound": 0,
+  "matchesImportedThisRound": 2,
+  "conclusion": "除已导入的2条外，库内其余同名候选均非同一录音；未发现新的可复用时间轴。"
+ },
+ "sourcesThisRound": {
+  "records": 52,
+  "uniqueUrls": 52,
+  "lyricsPageEntries": 2,
+  "lyricsBodiesCopied": 0
+ },
+ "tracksCoveredBySourcesCumulative": {
+  "note": "本轮补全上一轮75条无来源记录的缺口；两条报告合并后，全部327条无歌词文件的音轨均有至少一条来源记录。",
+  "missingFamilyWithoutSourceIds": 0
+ },
+ "policy": "只导入用户已有、提供或明确允许复制的歌词；网上歌词正文一律未复制；未绕过登录、验证码、付费限制或访问控制。未修改音频、元数据、文件名与目录结构；未执行git add/commit/push。",
+ "unverified": [
+  "两条新增LRC未逐句听辨，仅通过三段波形抽样确认同录音与固定偏移（0.984/0.986，离散0毫秒）。",
+  "《我想起你了》作曲署名百科（高阳）与QQ音乐（薛之谦）冲突未裁决。",
+  "《皇后大道东》两条目的录音是否同一母带未验证；本地目录年份1990与资料1991出入未改动。",
+  "《蒙着眼》发行日期2019-07-26/09-06两说并存。",
+  "《玩具》专辑年份2015/2016两说并存。",
+  "8:15pm(Intro)、序曲：调音等间奏是否有唱词未核。",
+  "水仙斗活佛《结婚记》创作者未能可靠确认。"
+ ]
+}

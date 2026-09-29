@@ -1,0 +1,4226 @@
+{
+ "summary": {
+  "generatedAt": "2026-09-29",
+  "missingTotal": 313,
+  "lrclib_foundAny": 138,
+  "lrclib_closeMatch": 77,
+  "lrclib_closeMatchSynced": 50,
+  "lizhinb_lyrics_url_covered": 101
+ },
+ "tracks": [
+  {
+   "trackId": "apple-1442d110473f475d",
+   "title": "皇后大道东",
+   "artist": "罗大佑 & 蒋志光",
+   "album": "蒋志光与他的朋友",
+   "duration": 253.936,
+   "src": "artists/罗大佑 & 蒋志光/1990 - 蒋志光与他的朋友/01-06 - 皇后大道东.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/36184015",
+    "durationDiff": 0.064,
+    "synced": true,
+    "plain": true,
+    "album": "精选",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "other-羅大佑-and-蔣志光-1991-皇后大道東-d01-t01",
+   "title": "皇后大道东",
+   "artist": "罗大佑 & 蒋志光",
+   "album": "皇后大道东",
+   "duration": 247.745,
+   "src": "artists/罗大佑 & 蒋志光/1991 - 皇后大道东/01-01 - 皇后大道东.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17967003",
+    "durationDiff": 1.522,
+    "synced": true,
+    "plain": true,
+    "album": "音乐教父",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "other-崔健-1991-解决-d01-t03",
+   "title": "一块红布",
+   "artist": "崔健",
+   "album": "解决",
+   "duration": 280.738,
+   "src": "artists/崔健/1991 - 解决/01-03 - 一块红布.mp3"
+  },
+  {
+   "trackId": "apple-3e3213cf93c1ceeb",
+   "title": "雾",
+   "artist": "Beyond",
+   "album": "惊喜",
+   "duration": 334.237,
+   "src": "artists/Beyond/1997 - 惊喜/01-02 - 雾.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/15358108",
+    "durationDiff": 27.586,
+    "synced": false,
+    "plain": true,
+    "album": "Goodtime 演唱会",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "apple-7a8dc14821b35e9a",
+   "title": "青马大桥",
+   "artist": "Beyond",
+   "album": "惊喜",
+   "duration": 174.446,
+   "src": "artists/Beyond/1997 - 惊喜/01-08 - 青马大桥.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/32130789",
+    "durationDiff": 0.446,
+    "synced": false,
+    "plain": false,
+    "album": "惊喜",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-f7f64d309412477b",
+   "title": "不朽的传说",
+   "artist": "Beyond",
+   "album": "惊喜",
+   "duration": 221.91,
+   "src": "artists/Beyond/1997 - 惊喜/01-10 - 不朽的传说.mp3"
+  },
+  {
+   "trackId": "apple-26e2b7f1a20dd0a6",
+   "title": "预备",
+   "artist": "Beyond",
+   "album": "请将手放开",
+   "duration": 259.37,
+   "src": "artists/Beyond/1997 - 请将手放开/01-03 - 预备.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37856987",
+    "durationDiff": 61.63,
+    "synced": false,
+    "plain": true,
+    "album": "Good Time Live Concert (Live)",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "apple-bedb16cdfdec95f0",
+   "title": "回响",
+   "artist": "Beyond",
+   "album": "请将手放开",
+   "duration": 267.964,
+   "src": "artists/Beyond/1997 - 请将手放开/01-05 - 回响.mp3"
+  },
+  {
+   "trackId": "apple-89e86ed22f46f00b",
+   "title": "谁命我名字",
+   "artist": "Beyond",
+   "album": "请将手放开",
+   "duration": 197.616,
+   "src": "artists/Beyond/1997 - 请将手放开/01-06 - 谁命我名字.mp3"
+  },
+  {
+   "trackId": "apple-6e02b84c7a911691",
+   "title": "我的知己在街头 (Instrumental Version)",
+   "artist": "Beyond",
+   "album": "请将手放开",
+   "duration": 42.162,
+   "src": "artists/Beyond/1997 - 请将手放开/01-10 - 我的知己在街头 (Instrumental Version).mp3"
+  },
+  {
+   "trackId": "apple-1460dedf8af8d8a7",
+   "title": "旧历 (Instrumental Version)",
+   "artist": "Beyond",
+   "album": "请将手放开",
+   "duration": 279.118,
+   "src": "artists/Beyond/1997 - 请将手放开/01-13 - 旧历 (Instrumental Version).mp3"
+  },
+  {
+   "trackId": "apple-42d682cd80824047",
+   "title": "与我常在",
+   "artist": "陈奕迅",
+   "album": "与我常在",
+   "duration": 242.667,
+   "src": "artists/陈奕迅/1997 - 与我常在/01-02 - 与我常在.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/32229228",
+    "durationDiff": 18.333,
+    "synced": true,
+    "plain": true,
+    "album": "Third Encounter Live",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "apple-22532cf1cabd72d0",
+   "title": "爱没有左右",
+   "artist": "陈奕迅",
+   "album": "与我常在",
+   "duration": 235.416,
+   "src": "artists/陈奕迅/1997 - 与我常在/01-03 - 爱没有左右.mp3"
+  },
+  {
+   "trackId": "apple-db9b7347ec035d11",
+   "title": "晚安,北京",
+   "artist": "鲍家街43号",
+   "album": "摇滚北京 3",
+   "duration": 387.291,
+   "src": "artists/鲍家街43号/1997 - 摇滚北京 3/01-01 - 晚安,北京.mp3"
+  },
+  {
+   "trackId": "apple-4d7a1e9a857a54d8",
+   "title": "不再让你孤单 (陈奕迅我的快乐时代现场)",
+   "artist": "陈奕迅",
+   "album": "我的快乐时代",
+   "duration": 258.038,
+   "src": "artists/陈奕迅/1998 - 我的快乐时代/01-14 - 不再让你孤单 (陈奕迅我的快乐时代现场).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/28541586",
+    "durationDiff": 0.038,
+    "synced": false,
+    "plain": true,
+    "album": "空",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-8d836e6533e0801c",
+   "title": "荒谬",
+   "artist": "Beyond",
+   "album": "Good Time",
+   "duration": 196.127,
+   "src": "artists/Beyond/1999 - Good Time/01-10 - 荒谬.mp3"
+  },
+  {
+   "trackId": "apple-07d2747227a9aa6c",
+   "title": "单车",
+   "artist": "陈奕迅",
+   "album": "Shall We Dance? Shall We Talk!",
+   "duration": 211.251,
+   "src": "artists/陈奕迅/2001 - Shall We Dance？ Shall We Talk!/01-06 - 单车.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/18478710",
+    "durationDiff": 0.756,
+    "synced": false,
+    "plain": false,
+    "album": "Shall We Dance？Shall We Talk！",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-b27488f71f9c355c",
+   "title": "睡火山",
+   "artist": "黄贯中",
+   "album": "黄贯中",
+   "duration": 360.986,
+   "src": "artists/黄贯中/2001 - 黄贯中/01-04 - 睡火山.mp3"
+  },
+  {
+   "trackId": "apple-e1ae45f8b1026ee0",
+   "title": "离开我吧",
+   "artist": "黄贯中",
+   "album": "黑白",
+   "duration": 221.022,
+   "src": "artists/黄贯中/2001 - 黑白/01-06 - 离开我吧.mp3"
+  },
+  {
+   "trackId": "apple-5b9a2f6f58a592ac",
+   "title": "忧书",
+   "artist": "黄贯中",
+   "album": "黑白",
+   "duration": 301.897,
+   "src": "artists/黄贯中/2001 - 黑白/01-07 - 忧书.mp3"
+  },
+  {
+   "trackId": "apple-faf5772e13bd0db4",
+   "title": "你懂不懂?",
+   "artist": "黄贯中",
+   "album": "黑白",
+   "duration": 310.073,
+   "src": "artists/黄贯中/2001 - 黑白/01-09 - 你懂不懂？.mp3"
+  },
+  {
+   "trackId": "apple-9b833b04e867c178",
+   "title": "抗战二十年 (Live)",
+   "artist": "Beyond",
+   "album": "Live Must Go On Series : Beyond 超越 Beyond Live 03 - Since 1983 (Live)",
+   "duration": 317.544,
+   "src": "artists/Beyond/2003 - Live Must Go On Series ／ Beyond 超越 Beyond Live 03 - Since 1983 (Live)/02-06 - 抗战二十年 (Live).mp3"
+  },
+  {
+   "trackId": "other-Beyond-2003-光輝歲月-二十周年精選-d01-t01",
+   "title": "抗战二十年",
+   "artist": "Beyond",
+   "album": "光辉岁月-二十周年精选",
+   "duration": 341.264,
+   "src": "artists/Beyond/2003 - 光辉岁月-二十周年精选/01-01 - 抗战二十年.mp3"
+  },
+  {
+   "trackId": "apple-29c0294e47bc52e4",
+   "title": "猜情寻",
+   "artist": "陈奕迅",
+   "album": "Live for Today",
+   "duration": 246.909,
+   "src": "artists/陈奕迅/2003 - Live for Today/01-08 - 猜情寻.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17881758",
+    "durationDiff": 0.082,
+    "synced": false,
+    "plain": false,
+    "album": "LIVE FOR TODAY [香港首版]",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-48ea7682b44dc30a",
+   "title": "猜情寻",
+   "artist": "陈奕迅",
+   "album": "陈奕迅 广东精选",
+   "duration": 246.909,
+   "src": "artists/陈奕迅/2003 - 陈奕迅 广东精选/01-17 - 猜情寻.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17881758",
+    "durationDiff": 0.082,
+    "synced": false,
+    "plain": false,
+    "album": "LIVE FOR TODAY [香港首版]",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-5457c22faaa81181",
+   "title": "寂寞的季节",
+   "artist": "陶喆",
+   "album": "乐之路",
+   "duration": 215.876,
+   "src": "artists/陶喆/2003 - 乐之路/01-12 - 寂寞的季节.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/28213092",
+    "durationDiff": 0.876,
+    "synced": false,
+    "plain": true,
+    "album": "ULTRASOUND乐之路",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-d33effcb6c52d2d0",
+   "title": "向阳花",
+   "artist": "谢天笑",
+   "album": "谢天笑 X.T.X",
+   "duration": 323.318,
+   "src": "artists/谢天笑/2004 - 谢天笑 X.T.X/01-07 - 向阳花.mp3"
+  },
+  {
+   "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t01",
+   "title": "你离开了南京，从此没有人和我说话（乐曲）",
+   "artist": "李志",
+   "album": "梵高先生",
+   "duration": 71.863,
+   "src": "artists/李志/2005 - 梵高先生/01-01 - 你离开了南京，从此没有人和我说话（乐曲）.mp3"
+  },
+  {
+   "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05",
+   "title": "广场",
+   "artist": "李志",
+   "album": "梵高先生",
+   "duration": 251.35,
+   "src": "artists/李志/2005 - 梵高先生/01-05 - 广场.mp3"
+  },
+  {
+   "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t04",
+   "title": "我们不能失去信仰",
+   "artist": "李志",
+   "album": "这个世界会好吗",
+   "duration": 251.951,
+   "src": "artists/李志/2006 - 这个世界会好吗/01-04 - 我们不能失去信仰.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/38914846",
+    "durationDiff": 4.049,
+    "synced": true,
+    "plain": true,
+    "album": "这个世界会好吗",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t08",
+   "title": "交河（乐曲）",
+   "artist": "李志",
+   "album": "这个世界会好吗",
+   "duration": 218.462,
+   "src": "artists/李志/2006 - 这个世界会好吗/01-08 - 交河（乐曲）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/14629071",
+    "durationDiff": 0.035,
+    "synced": false,
+    "plain": false,
+    "album": "这个世界会好吗",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-jiangjinjiu-d01-t01",
+   "title": "将进酒",
+   "artist": "李志",
+   "album": "将进酒",
+   "duration": 304.039,
+   "src": "live/李志/2007 - 将进酒/01-01 - 将进酒.mp3"
+  },
+  {
+   "trackId": "lizhi-jiangjinjiu-d01-t03",
+   "title": "来了",
+   "artist": "李志",
+   "album": "将进酒",
+   "duration": 342.047,
+   "src": "live/李志/2007 - 将进酒/01-03 - 来了.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17464964",
+    "durationDiff": 18.65,
+    "synced": false,
+    "plain": true,
+    "album": "工体东路没有人 (Live.2009.1.11)",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-jiangjinjiu-d01-t05",
+   "title": "被禁忌的游戏",
+   "artist": "李志",
+   "album": "将进酒",
+   "duration": 261.042,
+   "src": "live/李志/2007 - 将进酒/01-05 - 被禁忌的游戏.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/19487007",
+    "durationDiff": 5.015,
+    "synced": true,
+    "plain": true,
+    "album": "\"挺”不插电巡演 郑州站",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-jiangjinjiu-d01-t06",
+   "title": "梵高先生",
+   "artist": "李志",
+   "album": "将进酒",
+   "duration": 307.043,
+   "src": "live/李志/2007 - 将进酒/01-06 - 梵高先生.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/25005614",
+    "durationDiff": 11.384,
+    "synced": true,
+    "plain": true,
+    "album": "THREE MISSING ONE(叁缺壹) JAPAN Tour 2024 in Tokyo",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-jiangjinjiu-d01-t07",
+   "title": "斜",
+   "artist": "李志",
+   "album": "将进酒",
+   "duration": 218.044,
+   "src": "live/李志/2007 - 将进酒/01-07 - 斜.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17676",
+    "durationDiff": 1.044,
+    "synced": true,
+    "plain": true,
+    "album": "梵高先生",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-jiangjinjiu-d01-t08",
+   "title": "阿兰",
+   "artist": "李志",
+   "album": "将进酒",
+   "duration": 177.032,
+   "src": "live/李志/2007 - 将进酒/01-08 - 阿兰.mp3"
+  },
+  {
+   "trackId": "lizhi-jiangjinjiu-d01-t09",
+   "title": "想起了她",
+   "artist": "李志",
+   "album": "将进酒",
+   "duration": 255.033,
+   "src": "live/李志/2007 - 将进酒/01-09 - 想起了她.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/11448581",
+    "durationDiff": 17.967,
+    "synced": true,
+    "plain": true,
+    "album": "梵高先生",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-jiangjinjiu-d01-t10",
+   "title": "春末的南方城市",
+   "artist": "李志",
+   "album": "将进酒",
+   "duration": 220.029,
+   "src": "live/李志/2007 - 将进酒/01-10 - 春末的南方城市.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/25165226",
+    "durationDiff": 3.35,
+    "synced": true,
+    "plain": true,
+    "album": "二零零九年十月十六日事件",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-jiangjinjiu-d01-t11",
+   "title": "董卓瑶",
+   "artist": "李志",
+   "album": "将进酒",
+   "duration": 620.042,
+   "src": "live/李志/2007 - 将进酒/01-11 - 董卓瑶.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/19412824",
+    "durationDiff": 310.346,
+    "synced": false,
+    "plain": true,
+    "album": "爵士乐与不插电新编12首",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-jiangjinjiu-d01-t15",
+   "title": "这个世界会好吗",
+   "artist": "李志",
+   "album": "将进酒",
+   "duration": 260.049,
+   "src": "live/李志/2007 - 将进酒/01-15 - 这个世界会好吗.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33866126",
+    "durationDiff": 4.951,
+    "synced": true,
+    "plain": true,
+    "album": "i/O（2014 Live）",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-jiangjinjiu-d01-t16",
+   "title": "Wish You Were Here",
+   "artist": "李志",
+   "album": "将进酒",
+   "duration": 423.027,
+   "src": "live/李志/2007 - 将进酒/01-16 - Wish You Were Here.mp3"
+  },
+  {
+   "trackId": "apple-58dd34c22da773cf",
+   "title": "关于我爱你",
+   "artist": "张悬",
+   "album": "城市",
+   "duration": 295.445,
+   "src": "artists/张悬/2009 - 城市/01-01 - 关于我爱你.mp3"
+  },
+  {
+   "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t03",
+   "title": "来了",
+   "artist": "李志",
+   "album": "工体东路没有人",
+   "duration": 323.448,
+   "src": "live/李志/2009 - 工体东路没有人/01-03 - 来了.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17464964",
+    "durationDiff": 0.051,
+    "synced": false,
+    "plain": true,
+    "album": "工体东路没有人 (Live.2009.1.11)",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 41,
+    "songIndex": 3,
+    "title": "It Has Come (来了) [Live]",
+    "lyricsUrl": "https://st.nj1701.com/工体东路没有人/It%20Has%20Come%20(来了)%20%5BLive%5D.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t06",
+   "title": "阿兰",
+   "artist": "李志",
+   "album": "工体东路没有人",
+   "duration": 215.51,
+   "src": "live/李志/2009 - 工体东路没有人/01-06 - 阿兰.mp3",
+   "lizhinb": {
+    "albumId": 41,
+    "songIndex": 6,
+    "title": "Alan (阿兰) [Live]",
+    "lyricsUrl": "https://st.nj1701.com/工体东路没有人/Alan%20(阿兰)%20%5BLive%5D.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t08",
+   "title": "他们",
+   "artist": "李志",
+   "album": "工体东路没有人",
+   "duration": 257.593,
+   "src": "live/李志/2009 - 工体东路没有人/01-08 - 他们.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/14027908",
+    "durationDiff": 0.009,
+    "synced": false,
+    "plain": true,
+    "album": "工体东路没有人 (Live.2009.1.11)",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 41,
+    "songIndex": 8,
+    "title": "They (他们) [Live]",
+    "lyricsUrl": "https://st.nj1701.com/工体东路没有人/They%20(他们)%20%5BLive%5D.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t11",
+   "title": "这个世界会好么",
+   "artist": "李志",
+   "album": "工体东路没有人",
+   "duration": 256.784,
+   "src": "live/李志/2009 - 工体东路没有人/01-11 - 这个世界会好么.mp3"
+  },
+  {
+   "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t13",
+   "title": "月亮代表我的心",
+   "artist": "李志",
+   "album": "工体东路没有人",
+   "duration": 109.636,
+   "src": "live/李志/2009 - 工体东路没有人/01-13 - 月亮代表我的心.mp3",
+   "lizhinb": {
+    "albumId": 41,
+    "songIndex": 13,
+    "title": "Moon Says My Heart (月亮代表我的心) [Live]",
+    "lyricsUrl": "https://st.nj1701.com/工体东路没有人/Moon%20Says%20My%20Heart%20(月亮代表我的心)%20%5BLive%5D.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t15",
+   "title": "青春",
+   "artist": "李志",
+   "album": "工体东路没有人",
+   "duration": 143.595,
+   "src": "live/李志/2009 - 工体东路没有人/01-15 - 青春.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37636140",
+    "durationDiff": 20.405,
+    "synced": true,
+    "plain": true,
+    "album": "108个关键词",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 41,
+    "songIndex": 15,
+    "title": "Once Upon A Time (青春) [Live]",
+    "lyricsUrl": "https://st.nj1701.com/工体东路没有人/Once%20Upon%20A%20Time%20(青春)%20%5BLive%5D.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t16",
+   "title": "想起了他",
+   "artist": "李志",
+   "album": "工体东路没有人",
+   "duration": 775.732,
+   "src": "live/李志/2009 - 工体东路没有人/01-16 - 想起了他.mp3"
+  },
+  {
+   "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t03",
+   "title": "结婚",
+   "artist": "李志",
+   "album": "我爱南京",
+   "duration": 352.653,
+   "src": "artists/李志/2009 - 我爱南京/01-03 - 结婚.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/36740924",
+    "durationDiff": 0.347,
+    "synced": false,
+    "plain": true,
+    "album": "In Love With Nanjing (我爱南京)",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 42,
+    "songIndex": 3,
+    "title": "结婚(老狼+万晓利+李志)",
+    "lyricsUrl": "https://st.nj1701.com/我爱南京/结婚(老狼+万晓利+李志).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t02",
+   "title": "听妈妈讲那过去的事情",
+   "artist": "李志",
+   "album": "我爱南京",
+   "duration": 169.744,
+   "src": "artists/李志/2009 - 我爱南京/02-02 - 听妈妈讲那过去的事情.mp3",
+   "lizhinb": {
+    "albumId": 42,
+    "songIndex": 11,
+    "title": "听妈妈讲那过去的事情",
+    "lyricsUrl": "https://st.nj1701.com/我爱南京/听妈妈讲那过去的事情.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d02-t07",
+   "title": "再见",
+   "artist": "李志",
+   "album": "我爱南京",
+   "duration": 88.921,
+   "src": "artists/李志/2009 - 我爱南京/02-07 - 再见.mp3",
+   "lizhinb": {
+    "albumId": 42,
+    "songIndex": 16,
+    "title": "再见(乐曲)",
+    "lyricsUrl": "https://st.nj1701.com/我爱南京/再见(乐曲).lrc"
+   }
+  },
+  {
+   "trackId": "apple-12f90b855e154012",
+   "title": "释你",
+   "artist": "反光镜乐队",
+   "album": "释你",
+   "duration": 305.293,
+   "src": "artists/反光镜乐队/2010 - 释你/01-04 - 释你.mp3"
+  },
+  {
+   "trackId": "apple-b29418699b5f32de",
+   "title": "年少无知(剧集《天与地》片尾曲)",
+   "artist": "林保怡, 陈豪 & 黄德斌",
+   "album": "年少无知(剧集《天与地》片尾曲)",
+   "duration": 296.15,
+   "src": "artists/林保怡, 陈豪 & 黄德斌/2010 - 年少无知(剧集《天与地》片尾曲)/01-01 - 年少无知(剧集《天与地》片尾曲).mp3"
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d01-t01",
+   "title": "黒色信封",
+   "artist": "李志",
+   "album": "二零零九年十月十六日事件",
+   "duration": 323.762,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/01-01 - 黒色信封.mp3"
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d01-t08",
+   "title": "被禁忌的游戯",
+   "artist": "李志",
+   "album": "二零零九年十月十六日事件",
+   "duration": 277.159,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/01-08 - 被禁忌的游戯.mp3"
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d01-t11",
+   "title": "聴妈妈讲那过去的故事 ボーカル：汤臣・李志",
+   "artist": "汤臣 / 李志",
+   "album": "二零零九年十月十六日事件",
+   "duration": 108.878,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/01-11 - 聴妈妈讲那过去的故事 ボーカル：汤臣・李志.mp3"
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d01-t12",
+   "title": "陀螺 ボーカル：万晓利",
+   "artist": "万晓利",
+   "album": "二零零九年十月十六日事件",
+   "duration": 360.542,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/01-12 - 陀螺 ボーカル：万晓利.mp3"
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d01-t13",
+   "title": "鸟语 ボーカル：万晓利",
+   "artist": "万晓利",
+   "album": "二零零九年十月十六日事件",
+   "duration": 415.06,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/01-13 - 鸟语 ボーカル：万晓利.mp3"
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t01",
+   "title": "狐狸 ボーカル：万晓利",
+   "artist": "万晓利",
+   "album": "二零零九年十月十六日事件",
+   "duration": 289.358,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/02-01 - 狐狸 ボーカル：万晓利.mp3"
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t02",
+   "title": "达摩流浪者 ボーカル：万晓利",
+   "artist": "万晓利",
+   "album": "二零零九年十月十六日事件",
+   "duration": 267.416,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/02-02 - 达摩流浪者 ボーカル：万晓利.mp3"
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t03",
+   "title": "结婚 ボーカル：老狼・万晓利・李志",
+   "artist": "老狼 / 万晓利 / 李志",
+   "album": "二零零九年十月十六日事件",
+   "duration": 337.972,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/02-03 - 结婚 ボーカル：老狼・万晓利・李志.mp3"
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t04",
+   "title": "来自我心 ボーカル：老狼",
+   "artist": "老狼",
+   "album": "二零零九年十月十六日事件",
+   "duration": 252.056,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/02-04 - 来自我心 ボーカル：老狼.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17638678",
+    "durationDiff": 30.363,
+    "synced": true,
+    "plain": true,
+    "album": "恋恋风尘",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t05",
+   "title": "虎口脱険 ボーカル：老狼",
+   "artist": "老狼",
+   "album": "二零零九年十月十六日事件",
+   "duration": 311.197,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/02-05 - 虎口脱険 ボーカル：老狼.mp3"
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t06",
+   "title": "恋恋风尘 ボーカル：老狼",
+   "artist": "老狼",
+   "album": "二零零九年十月十六日事件",
+   "duration": 278.152,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/02-06 - 恋恋风尘 ボーカル：老狼.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/22293525",
+    "durationDiff": 9.285,
+    "synced": false,
+    "plain": true,
+    "album": "恒大星光音乐节",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t08",
+   "title": "驼鸟",
+   "artist": "李志",
+   "album": "二零零九年十月十六日事件",
+   "duration": 278.988,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/02-08 - 驼鸟.mp3"
+  },
+  {
+   "trackId": "lizhi-4970c47f-8920-416b-94e5-485ca1be5396-d02-t12",
+   "title": "家郷",
+   "artist": "李志",
+   "album": "二零零九年十月十六日事件",
+   "duration": 315.873,
+   "src": "live/李志/2010 - 二零零九年十月十六日事件/02-12 - 家郷.mp3"
+  },
+  {
+   "trackId": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t08",
+   "title": "路",
+   "artist": "李志",
+   "album": "你好，郑州",
+   "duration": 141.296,
+   "src": "artists/李志/2010 - 你好，郑州/01-08 - 路.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/11296312",
+    "durationDiff": 2.704,
+    "synced": true,
+    "plain": true,
+    "album": "你好,鄭州 (普通版)",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 44,
+    "songIndex": 8,
+    "title": "路（李志、邵夷贝）",
+    "lyricsUrl": "https://st.nj1701.com/你好%20郑州/路（李志、邵夷贝）.lrc"
+   }
+  },
+  {
+   "trackId": "apple-677c259232cc78b9",
+   "title": "亲密爱人",
+   "artist": "王若琳",
+   "album": "The Things We Do for Love",
+   "duration": 280.216,
+   "src": "artists/王若琳/2011 - The Things We Do for Love/02-02 - 亲密爱人.mp3"
+  },
+  {
+   "trackId": "lizhi-f7f7a172-a4cb-4342-af4d-eca0b8371c05-d02-t14",
+   "title": "结尾",
+   "artist": "李志",
+   "album": "IMAGINE",
+   "duration": 64.679,
+   "src": "live/李志/2012 - IMAGINE/02-14 - 结尾.mp3",
+   "lizhinb": {
+    "albumId": 46,
+    "songIndex": 24,
+    "title": "结尾",
+    "lyricsUrl": "https://st.nj1701.com/Imagine%20Live/结尾.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t01",
+   "title": "她+我们不能失去信仰+1990年的春",
+   "artist": "李志",
+   "album": "108个关键词",
+   "duration": 957.336,
+   "src": "live/李志/2013 - 108个关键词/01-01 - 她+我们不能失去信仰+1990年的春.mp3"
+  },
+  {
+   "trackId": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t06",
+   "title": "来了",
+   "artist": "李志",
+   "album": "108个关键词",
+   "duration": 528.144,
+   "src": "live/李志/2013 - 108个关键词/01-06 - 来了.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17464964",
+    "durationDiff": 204.747,
+    "synced": false,
+    "plain": true,
+    "album": "工体东路没有人 (Live.2009.1.11)",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 50,
+    "songIndex": 3,
+    "title": "来了",
+    "lyricsUrl": "https://st.nj1701.com/挺%20不插电巡演%20郑州站/来了.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t09",
+   "title": "墙上的向日葵",
+   "artist": "李志",
+   "album": "108个关键词",
+   "duration": 528.248,
+   "src": "live/李志/2013 - 108个关键词/01-09 - 墙上的向日葵.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37973882",
+    "durationDiff": 60.248,
+    "synced": true,
+    "plain": true,
+    "album": "i/O (2014 Live)",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 50,
+    "songIndex": 12,
+    "title": "墙上的向日葵",
+    "lyricsUrl": "https://st.nj1701.com/挺%20不插电巡演%20郑州站/墙上的向日葵.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t10",
+   "title": "阿兰",
+   "artist": "李志",
+   "album": "108个关键词",
+   "duration": 261.799,
+   "src": "live/李志/2013 - 108个关键词/01-10 - 阿兰.mp3"
+  },
+  {
+   "trackId": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t13",
+   "title": "广场",
+   "artist": "李志",
+   "album": "108个关键词",
+   "duration": 316.029,
+   "src": "live/李志/2013 - 108个关键词/01-13 - 广场.mp3"
+  },
+  {
+   "trackId": "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t17",
+   "title": "姐姐",
+   "artist": "李志",
+   "album": "108个关键词",
+   "duration": 409.234,
+   "src": "live/李志/2013 - 108个关键词/01-17 - 姐姐.mp3"
+  },
+  {
+   "trackId": "apple-86e7554360e3d7b6",
+   "title": "老伴",
+   "artist": "李荣浩",
+   "album": "模特",
+   "duration": 207.595,
+   "src": "artists/李荣浩/2013 - 模特/01-05 - 老伴.mp3"
+  },
+  {
+   "trackId": "apple-382cec1b2fbe126c",
+   "title": "都一样",
+   "artist": "李荣浩",
+   "album": "模特",
+   "duration": 303.151,
+   "src": "artists/李荣浩/2013 - 模特/01-07 - 都一样.mp3"
+  },
+  {
+   "trackId": "apple-c705b66fc5e55929",
+   "title": "蓝绿",
+   "artist": "李荣浩",
+   "album": "模特",
+   "duration": 259.918,
+   "src": "artists/李荣浩/2013 - 模特/01-09 - 蓝绿.mp3"
+  },
+  {
+   "trackId": "apple-ca25aec5ad5eb589",
+   "title": "我想起你了",
+   "artist": "薛之谦",
+   "album": "意外",
+   "duration": 230.478,
+   "src": "artists/薛之谦/2013 - 意外/01-07 - 我想起你了.mp3"
+  },
+  {
+   "trackId": "other-黃貫中-2013-Paul-Wong-Collection-d01-t03",
+   "title": "年少无知",
+   "artist": "黄贯中",
+   "album": "Paul Wong Collection",
+   "duration": 324.049,
+   "src": "artists/黄贯中/2013 - Paul Wong Collection/01-03 - 年少无知.mp3"
+  },
+  {
+   "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t05",
+   "title": "你的早晨&天空之城&暧昧",
+   "artist": "李志",
+   "album": "勾三搭四",
+   "duration": 547.788,
+   "src": "live/李志/2014 - 勾三搭四/01-05 - 你的早晨&天空之城&暧昧.mp3"
+  },
+  {
+   "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t08",
+   "title": "离婚",
+   "artist": "李志",
+   "album": "勾三搭四",
+   "duration": 280.059,
+   "src": "live/李志/2014 - 勾三搭四/01-08 - 离婚.mp3",
+   "lizhinb": {
+    "albumId": 52,
+    "songIndex": 8,
+    "title": "离婚",
+    "lyricsUrl": "https://st.nj1701.com/勾三搭四/离婚.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t16",
+   "title": "来了",
+   "artist": "李志",
+   "album": "勾三搭四",
+   "duration": 428.669,
+   "src": "live/李志/2014 - 勾三搭四/01-16 - 来了.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17464964",
+    "durationDiff": 105.272,
+    "synced": false,
+    "plain": true,
+    "album": "工体东路没有人 (Live.2009.1.11)",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 52,
+    "songIndex": 16,
+    "title": "来了",
+    "lyricsUrl": "https://st.nj1701.com/勾三搭四/来了.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t17",
+   "title": "妈妈",
+   "artist": "李志",
+   "album": "勾三搭四",
+   "duration": 253.649,
+   "src": "live/李志/2014 - 勾三搭四/01-17 - 妈妈.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/16495590",
+    "durationDiff": 9.649,
+    "synced": true,
+    "plain": true,
+    "album": "Has Man a Future (这个世界会好吗)",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 52,
+    "songIndex": 17,
+    "title": "妈妈",
+    "lyricsUrl": "https://st.nj1701.com/勾三搭四/妈妈.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t20",
+   "title": "杭州&我们不能失去信仰",
+   "artist": "李志",
+   "album": "勾三搭四",
+   "duration": 542.72,
+   "src": "live/李志/2014 - 勾三搭四/01-20 - 杭州&我们不能失去信仰.mp3"
+  },
+  {
+   "trackId": "apple-0df1075604e603fd",
+   "title": "野生动物",
+   "artist": "李荣浩",
+   "album": "有理想",
+   "duration": 295.654,
+   "src": "artists/李荣浩/2015 - 有理想/01-01 - 野生动物.mp3"
+  },
+  {
+   "trackId": "apple-153937cf49141904",
+   "title": "一半",
+   "artist": "薛之谦",
+   "album": "初学者",
+   "duration": 286.041,
+   "src": "artists/薛之谦/2015 - 初学者/01-06 - 一半.mp3"
+  },
+  {
+   "trackId": "apple-c6692805b8d717fd",
+   "title": "小孩",
+   "artist": "薛之谦",
+   "album": "初学者",
+   "duration": 321.463,
+   "src": "artists/薛之谦/2015 - 初学者/01-07 - 小孩.mp3"
+  },
+  {
+   "trackId": "apple-782a17b199f6c594",
+   "title": "Stay Here",
+   "artist": "薛之谦",
+   "album": "初学者",
+   "duration": 301.453,
+   "src": "artists/薛之谦/2015 - 初学者/01-08 - Stay Here.mp3"
+  },
+  {
+   "trackId": "lizhi-io-2015-d01-t01",
+   "title": "杭州",
+   "artist": "李志",
+   "album": "i/O",
+   "duration": 247.641,
+   "src": "live/李志/2015 - i／O/01-01 - 杭州.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33863730",
+    "durationDiff": 0.359,
+    "synced": true,
+    "plain": true,
+    "album": "i/O（2014 Live）",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 54,
+    "songIndex": 1,
+    "title": "杭州 (2014i_O现场版)",
+    "lyricsUrl": "https://st.nj1701.com/I%20O/杭州%20(2014i_O现场版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-io-2015-d01-t02",
+   "title": "墙上的向日葵",
+   "artist": "李志",
+   "album": "i/O",
+   "duration": 482.273,
+   "src": "live/李志/2015 - i／O/01-02 - 墙上的向日葵.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37973882",
+    "durationDiff": 14.273,
+    "synced": true,
+    "plain": true,
+    "album": "i/O (2014 Live)",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 54,
+    "songIndex": 2,
+    "title": "墙上的向日葵 (2014i_O现场版)",
+    "lyricsUrl": "https://st.nj1701.com/I%20O/墙上的向日葵%20(2014i_O现场版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-io-2015-d01-t03",
+   "title": "铅笔",
+   "artist": "李志",
+   "album": "i/O",
+   "duration": 374.256,
+   "src": "live/李志/2015 - i／O/01-03 - 铅笔.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37911879",
+    "durationDiff": 0.256,
+    "synced": true,
+    "plain": true,
+    "album": "i/O (2014 Live)",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 54,
+    "songIndex": 3,
+    "title": "铅笔(2014i_O现场版)",
+    "lyricsUrl": "https://st.nj1701.com/I%20O/铅笔(2014i_O现场版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-io-2015-d01-t04",
+   "title": "来了",
+   "artist": "李志",
+   "album": "i/O",
+   "duration": 286.041,
+   "src": "live/李志/2015 - i／O/01-04 - 来了.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/18186843",
+    "durationDiff": 0.041,
+    "synced": true,
+    "plain": true,
+    "album": "I/O",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 54,
+    "songIndex": 4,
+    "title": "来了 (2014i_O现场版)",
+    "lyricsUrl": "https://st.nj1701.com/I%20O/来了%20(2014i_O现场版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-io-2015-d01-t05",
+   "title": "下雨+董卓瑶+忽然",
+   "artist": "李志",
+   "album": "i/O",
+   "duration": 720.875,
+   "src": "live/李志/2015 - i／O/01-05 - 下雨+董卓瑶+忽然.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/18186087",
+    "durationDiff": 0.125,
+    "synced": true,
+    "plain": true,
+    "album": "I/O",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-io-2015-d01-t07",
+   "title": "妈妈",
+   "artist": "李志",
+   "album": "i/O",
+   "duration": 298.449,
+   "src": "live/李志/2015 - i／O/01-07 - 妈妈.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/18187361",
+    "durationDiff": 0.449,
+    "synced": true,
+    "plain": true,
+    "album": "I/O",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 54,
+    "songIndex": 7,
+    "title": "妈妈 (2014i_O现场版)",
+    "lyricsUrl": "https://st.nj1701.com/I%20O/妈妈%20(2014i_O现场版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-io-2015-d01-t08",
+   "title": "定西",
+   "artist": "李志",
+   "album": "i/O",
+   "duration": 301.61,
+   "src": "live/李志/2015 - i／O/01-08 - 定西.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33866111",
+    "durationDiff": 0.39,
+    "synced": true,
+    "plain": true,
+    "album": "i/O（2014 Live）",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 54,
+    "songIndex": 8,
+    "title": "定西 (2014i_O现场版)",
+    "lyricsUrl": "https://st.nj1701.com/I%20O/定西%20(2014i_O现场版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-io-2015-d01-t10",
+   "title": "鸵鸟+天空之城+我们不能失去信仰",
+   "artist": "李志",
+   "album": "i/O",
+   "duration": 606.145,
+   "src": "live/李志/2015 - i／O/01-10 - 鸵鸟+天空之城+我们不能失去信仰.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/23897883",
+    "durationDiff": 0.0,
+    "synced": true,
+    "plain": true,
+    "album": "i/O（2014 Live）",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 54,
+    "songIndex": 10,
+    "title": "鸵鸟 + 天空之城 + 我们不能失去信仰 (2014i_O现场版)",
+    "lyricsUrl": "https://st.nj1701.com/I%20O/鸵鸟%20+%20天空之城%20+%20我们不能失去信仰%20(2014i_O现场版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-io-2015-d01-t11",
+   "title": "山阴路的夏天",
+   "artist": "李志",
+   "album": "i/O",
+   "duration": 313.208,
+   "src": "live/李志/2015 - i／O/01-11 - 山阴路的夏天.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33866114",
+    "durationDiff": 0.208,
+    "synced": true,
+    "plain": true,
+    "album": "i/O（2014 Live）",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 54,
+    "songIndex": 11,
+    "title": "山阴路的夏天 (2014i_O现场版)",
+    "lyricsUrl": "https://st.nj1701.com/I%20O/山阴路的夏天%20(2014i_O现场版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-has-man-a-future-2015-d01-t01",
+   "title": "这个世界会好吗（2015版本）",
+   "artist": "李志",
+   "album": "这个世界会好吗（2015版本）",
+   "duration": 266.24,
+   "src": "artists/李志/2015 - 这个世界会好吗（2015版本）/01-01 - 这个世界会好吗（2015版本）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33866126",
+    "durationDiff": 1.24,
+    "synced": true,
+    "plain": true,
+    "album": "i/O（2014 Live）",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-seen-2015-d01-t05",
+   "title": "你离开了南京，从此没有人和我说话",
+   "artist": "李志",
+   "album": "看见",
+   "duration": 124.682,
+   "src": "live/李志/2015 - 看见/01-05 - 你离开了南京，从此没有人和我说话.mp3",
+   "lizhinb": {
+    "albumId": 56,
+    "songIndex": 5,
+    "title": "你离开了南京，从此没有人和我说话 (2015 Live 看见版)",
+    "lyricsUrl": "https://st.nj1701.com/看见/你离开了南京，从此没有人和我说话%20(2015%20Live%20看见版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-seen-2015-d01-t09",
+   "title": "离婚",
+   "artist": "李志",
+   "album": "看见",
+   "duration": 289.202,
+   "src": "live/李志/2015 - 看见/01-09 - 离婚.mp3",
+   "lizhinb": {
+    "albumId": 56,
+    "songIndex": 9,
+    "title": "离婚 (2015 Live 看见版)",
+    "lyricsUrl": "https://st.nj1701.com/看见/离婚%20(2015%20Live%20看见版).lrc"
+   }
+  },
+  {
+   "trackId": "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t01",
+   "title": "序曲：调音",
+   "artist": "林俊杰",
+   "album": "和自己对话 From M.E. To Myself",
+   "duration": 70.893,
+   "src": "artists/林俊杰/2015 - 和自己对话 From M.E. To Myself/01-01 - 序曲：调音.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17217713",
+    "durationDiff": 0.052,
+    "synced": false,
+    "plain": false,
+    "album": "和自己对话 (实验专辑)",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t03",
+   "title": "序曲：中场休息",
+   "artist": "林俊杰",
+   "album": "和自己对话 From M.E. To Myself",
+   "duration": 55.2,
+   "src": "artists/林俊杰/2015 - 和自己对话 From M.E. To Myself/01-03 - 序曲：中场休息.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17543124",
+    "durationDiff": 0.142,
+    "synced": false,
+    "plain": false,
+    "album": "和自己对话 (实验专辑)",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t06",
+   "title": "弹唱",
+   "artist": "林俊杰",
+   "album": "和自己对话 From M.E. To Myself",
+   "duration": 193.4,
+   "src": "artists/林俊杰/2015 - 和自己对话 From M.E. To Myself/01-06 - 弹唱.mp3"
+  },
+  {
+   "trackId": "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t07",
+   "title": "有梦不难",
+   "artist": "林俊杰",
+   "album": "和自己对话 From M.E. To Myself",
+   "duration": 270.4,
+   "src": "artists/林俊杰/2015 - 和自己对话 From M.E. To Myself/01-07 - 有梦不难.mp3"
+  },
+  {
+   "trackId": "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t09",
+   "title": "Too Bad",
+   "artist": "林俊杰",
+   "album": "和自己对话 From M.E. To Myself",
+   "duration": 260.2,
+   "src": "artists/林俊杰/2015 - 和自己对话 From M.E. To Myself/01-09 - Too Bad.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/18444203",
+    "durationDiff": 0.036,
+    "synced": true,
+    "plain": true,
+    "album": "和自己對话",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t10",
+   "title": "你，有没有过 (Livehouse版)",
+   "artist": "林俊杰",
+   "album": "和自己对话 From M.E. To Myself",
+   "duration": 278.6,
+   "src": "artists/林俊杰/2015 - 和自己对话 From M.E. To Myself/01-10 - 你，有没有过 (Livehouse版).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/25502440",
+    "durationDiff": 2.033,
+    "synced": true,
+    "plain": true,
+    "album": "和自己对话 From M.E. To Myself",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t11",
+   "title": "序曲：12年前 (口白)",
+   "artist": "林俊杰",
+   "album": "和自己对话 From M.E. To Myself",
+   "duration": 367.133,
+   "src": "artists/林俊杰/2015 - 和自己对话 From M.E. To Myself/01-11 - 序曲：12年前 (口白).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/16369830",
+    "durationDiff": 0.0,
+    "synced": false,
+    "plain": false,
+    "album": "和自己对话",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t13",
+   "title": "序曲：海边 初",
+   "artist": "林俊杰",
+   "album": "和自己对话 From M.E. To Myself",
+   "duration": 28.933,
+   "src": "artists/林俊杰/2015 - 和自己对话 From M.E. To Myself/01-13 - 序曲：海边 初.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/31713728",
+    "durationDiff": 0.067,
+    "synced": false,
+    "plain": false,
+    "album": "和自己对话",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t16",
+   "title": "序曲：海边 终",
+   "artist": "林俊杰",
+   "album": "和自己对话 From M.E. To Myself",
+   "duration": 81.4,
+   "src": "artists/林俊杰/2015 - 和自己对话 From M.E. To Myself/01-16 - 序曲：海边 终.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/38683515",
+    "durationDiff": 0.4,
+    "synced": false,
+    "plain": false,
+    "album": "\"和自己对话\" 实验专辑 (\"From M.E. to Myself\" Experimental Debut album)",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-e4df09c4e3f7525d",
+   "title": "不说 (电影《从你的全世界路过》路过版主题曲)",
+   "artist": "李荣浩",
+   "album": "嗯",
+   "duration": 326.609,
+   "src": "artists/李荣浩/2016 - 嗯/01-10 - 不说 (电影《从你的全世界路过》路过版主题曲).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/36774632",
+    "durationDiff": 0.609,
+    "synced": true,
+    "plain": true,
+    "album": "不说 - single",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-3c72faef88dd08c6",
+   "title": "结婚记",
+   "artist": "水仙斗活佛",
+   "album": "结婚记",
+   "duration": 410.932,
+   "src": "artists/水仙斗活佛/2016 - 结婚记/01-01 - 结婚记.mp3"
+  },
+  {
+   "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t02",
+   "title": "鸵鸟 (2016 unplugged)",
+   "artist": "李志",
+   "album": "李志北京不插电现场",
+   "duration": 259.056,
+   "src": "live/李志/2016 - 李志北京不插电现场/01-02 - 鸵鸟 (2016 unplugged).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/38316624",
+    "durationDiff": 346.944,
+    "synced": true,
+    "plain": true,
+    "album": "i/O (2014 Live)",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 60,
+    "songIndex": 2,
+    "title": "鸵鸟",
+    "lyricsUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/鸵鸟.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t03",
+   "title": "大象 (2016 unplugged)",
+   "artist": "李志",
+   "album": "李志北京不插电现场",
+   "duration": 340.715,
+   "src": "live/李志/2016 - 李志北京不插电现场/01-03 - 大象 (2016 unplugged).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33981060",
+    "durationDiff": 0.285,
+    "synced": true,
+    "plain": true,
+    "album": "北京不插电",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 60,
+    "songIndex": 3,
+    "title": "大象",
+    "lyricsUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/大象.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t04",
+   "title": "定西 (2016 unplugged)",
+   "artist": "李志",
+   "album": "李志北京不插电现场",
+   "duration": 473.966,
+   "src": "live/李志/2016 - 李志北京不插电现场/01-04 - 定西 (2016 unplugged).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33863640",
+    "durationDiff": 0.034,
+    "synced": true,
+    "plain": true,
+    "album": "北京不插电",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 60,
+    "songIndex": 4,
+    "title": "定西",
+    "lyricsUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/定西.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t05",
+   "title": "这个世界会好吗 (2016 unplugged)",
+   "artist": "李志",
+   "album": "李志北京不插电现场",
+   "duration": 273.711,
+   "src": "live/李志/2016 - 李志北京不插电现场/01-05 - 这个世界会好吗 (2016 unplugged).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33642876",
+    "durationDiff": 0.289,
+    "synced": true,
+    "plain": true,
+    "album": "北京不插电现场",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 60,
+    "songIndex": 5,
+    "title": "这个世界会好吗",
+    "lyricsUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/这个世界会好吗.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t07",
+   "title": "关于郑州的记忆 (2016 unplugged)",
+   "artist": "李志",
+   "album": "李志北京不插电现场",
+   "duration": 287.399,
+   "src": "live/李志/2016 - 李志北京不插电现场/01-07 - 关于郑州的记忆 (2016 unplugged).mp3",
+   "lizhinb": {
+    "albumId": 60,
+    "songIndex": 7,
+    "title": "关于郑州的记忆",
+    "lyricsUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/关于郑州的记忆.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t08",
+   "title": "杭州 (2016 unplugged)",
+   "artist": "李志",
+   "album": "李志北京不插电现场",
+   "duration": 222.433,
+   "src": "live/李志/2016 - 李志北京不插电现场/01-08 - 杭州 (2016 unplugged).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/25872862",
+    "durationDiff": 0.032,
+    "synced": true,
+    "plain": true,
+    "album": "李志北京不插电现场 2016.5.29",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 60,
+    "songIndex": 8,
+    "title": "杭州",
+    "lyricsUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/杭州.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t09",
+   "title": "热河 (2016 unplugged)",
+   "artist": "李志",
+   "album": "李志北京不插电现场",
+   "duration": 364.722,
+   "src": "live/李志/2016 - 李志北京不插电现场/01-09 - 热河 (2016 unplugged).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/36263693",
+    "durationDiff": 0.722,
+    "synced": true,
+    "plain": true,
+    "album": "李志北京不插电现场 2016 Live",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 60,
+    "songIndex": 9,
+    "title": "热河",
+    "lyricsUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/热河.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t11",
+   "title": "鼠说 (2016 unplugged)",
+   "artist": "李志",
+   "album": "李志北京不插电现场",
+   "duration": 485.094,
+   "src": "live/李志/2016 - 李志北京不插电现场/01-11 - 鼠说 (2016 unplugged).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/38914900",
+    "durationDiff": 0.094,
+    "synced": false,
+    "plain": true,
+    "album": "李志北京不插电现场",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 60,
+    "songIndex": 11,
+    "title": "鼠说",
+    "lyricsUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/鼠说.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-dfca4787-fa3a-442c-9fd7-877145bc471a-d01-t12",
+   "title": "山阴路的夏天 (2016 unplugged)",
+   "artist": "李志",
+   "album": "李志北京不插电现场",
+   "duration": 343.458,
+   "src": "live/李志/2016 - 李志北京不插电现场/01-12 - 山阴路的夏天 (2016 unplugged).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33863656",
+    "durationDiff": 5.458,
+    "synced": true,
+    "plain": true,
+    "album": "勾三搭四（2013 Live）",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 60,
+    "songIndex": 12,
+    "title": "山阴路的夏天",
+    "lyricsUrl": "https://st.nj1701.com/北京不插电现场%202016%20Live/山阴路的夏天.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-dde3284d-3c53-4d81-b139-ac11bc831e73-d01-t01",
+   "title": "在每一条伤心的应天大街上",
+   "artist": "李志",
+   "album": "在每一条伤心的应天大街上",
+   "duration": 429.714,
+   "src": "artists/李志/2016 - 在每一条伤心的应天大街上/01-01 - 在每一条伤心的应天大街上.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/14753051",
+    "durationDiff": 0.026,
+    "synced": false,
+    "plain": false,
+    "album": "在每一条伤心的应天大街上",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-3b8dceba97146887",
+   "title": "我看着你的时候",
+   "artist": "李荣浩",
+   "album": "嗯",
+   "duration": 294.4,
+   "src": "artists/李荣浩/2017 - 嗯/01-05 - 我看着你的时候.mp3"
+  },
+  {
+   "trackId": "apple-47ebdb2aa62d0ccc",
+   "title": "别",
+   "artist": "薛之谦",
+   "album": "渡 The Crossing",
+   "duration": 215.719,
+   "src": "artists/薛之谦/2017 - 渡 The Crossing/01-06 - 别.mp3"
+  },
+  {
+   "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t01",
+   "title": "序曲 - 2016跨年版",
+   "artist": "李志",
+   "album": "李志、电声与管弦乐",
+   "duration": 289.802,
+   "src": "live/李志/2017 - 李志、电声与管弦乐/01-01 - 序曲 - 2016跨年版.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/11631655",
+    "durationDiff": 0.198,
+    "synced": false,
+    "plain": false,
+    "album": "李志、電聲與管弦樂 (普通版)",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 63,
+    "songIndex": 1,
+    "title": "序曲",
+    "lyricsUrl": "https://st.nj1701.com/电声与管弦乐/序曲.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t02",
+   "title": "杭州 - 2016跨年版",
+   "artist": "李志",
+   "album": "李志、电声与管弦乐",
+   "duration": 331.442,
+   "src": "live/李志/2017 - 李志、电声与管弦乐/01-02 - 杭州 - 2016跨年版.mp3",
+   "lizhinb": {
+    "albumId": 63,
+    "songIndex": 2,
+    "title": "杭州",
+    "lyricsUrl": "https://st.nj1701.com/电声与管弦乐/杭州.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t03",
+   "title": "尽头 - 2016跨年版",
+   "artist": "李志",
+   "album": "李志、电声与管弦乐",
+   "duration": 258.586,
+   "src": "live/李志/2017 - 李志、电声与管弦乐/01-03 - 尽头 - 2016跨年版.mp3",
+   "lizhinb": {
+    "albumId": 63,
+    "songIndex": 3,
+    "title": "尽头",
+    "lyricsUrl": "https://st.nj1701.com/电声与管弦乐/尽头.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t04",
+   "title": "定西 - 2016跨年版",
+   "artist": "李志",
+   "album": "李志、电声与管弦乐",
+   "duration": 363.781,
+   "src": "live/李志/2017 - 李志、电声与管弦乐/01-04 - 定西 - 2016跨年版.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/7927488",
+    "durationDiff": 0.219,
+    "synced": true,
+    "plain": true,
+    "album": "李志、電聲與管弦樂 (普通版)",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 63,
+    "songIndex": 4,
+    "title": "定西",
+    "lyricsUrl": "https://st.nj1701.com/电声与管弦乐/定西.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t07",
+   "title": "铅笔 - 2016跨年版",
+   "artist": "李志",
+   "album": "李志、电声与管弦乐",
+   "duration": 312.477,
+   "src": "live/李志/2017 - 李志、电声与管弦乐/01-07 - 铅笔 - 2016跨年版.mp3",
+   "lizhinb": {
+    "albumId": 63,
+    "songIndex": 7,
+    "title": "铅笔",
+    "lyricsUrl": "https://st.nj1701.com/电声与管弦乐/铅笔.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t09",
+   "title": "墙上的向日葵 - 2016跨年版",
+   "artist": "李志",
+   "album": "李志、电声与管弦乐",
+   "duration": 465.084,
+   "src": "live/李志/2017 - 李志、电声与管弦乐/01-09 - 墙上的向日葵 - 2016跨年版.mp3",
+   "lizhinb": {
+    "albumId": 63,
+    "songIndex": 9,
+    "title": "墙上的向日葵",
+    "lyricsUrl": "https://st.nj1701.com/电声与管弦乐/墙上的向日葵.lrc"
+   }
+  },
+  {
+   "trackId": "qq-Luis Fonsi-Despacito 缓缓 (Mandarin Version)-d01-t01",
+   "title": "Despacito 缓缓 (Mandarin Version)",
+   "artist": "Luis Fonsi & 林俊杰",
+   "album": "Despacito 缓缓 (Mandarin Version)",
+   "duration": 229.333,
+   "src": "artists/Luis Fonsi/2017 - Despacito 缓缓 (Mandarin Version)/01-01 - Despacito 缓缓 (Mandarin Version).mp3"
+  },
+  {
+   "trackId": "qq-林俊杰-伟大的渺小-d01-t01",
+   "title": "圣所",
+   "artist": "林俊杰",
+   "album": "伟大的渺小",
+   "duration": 229.52,
+   "src": "artists/林俊杰/2017 - 伟大的渺小/01-01 - 圣所.mp3"
+  },
+  {
+   "trackId": "qq-林俊杰-伟大的渺小-d01-t05",
+   "title": "我继续",
+   "artist": "林俊杰",
+   "album": "伟大的渺小",
+   "duration": 280.813,
+   "src": "artists/林俊杰/2017 - 伟大的渺小/01-05 - 我继续.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/30621459",
+    "durationDiff": 0.187,
+    "synced": true,
+    "plain": true,
+    "album": "Message in a Bottle (伟大的渺小)",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "qq-林俊杰-伟大的渺小-d01-t06",
+   "title": "剪云者",
+   "artist": "林俊杰",
+   "album": "伟大的渺小",
+   "duration": 215.787,
+   "src": "artists/林俊杰/2017 - 伟大的渺小/01-06 - 剪云者.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/30636654",
+    "durationDiff": 0.213,
+    "synced": true,
+    "plain": true,
+    "album": "Message in a Bottle (伟大的渺小)",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "qq-林俊杰-伟大的渺小-d01-t08",
+   "title": "丹宁执着",
+   "artist": "林俊杰 & 消除联萌",
+   "album": "伟大的渺小",
+   "duration": 254.373,
+   "src": "artists/林俊杰/2017 - 伟大的渺小/01-08 - 丹宁执着.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/15770862",
+    "durationDiff": 0.0,
+    "synced": true,
+    "plain": true,
+    "album": "伟大的渺小",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-31f361d2b6ec0d4b",
+   "title": "成长之重量 (电影 \"动物世界\" 态度版片尾曲)",
+   "artist": "李荣浩",
+   "album": "耳朵",
+   "duration": 337.685,
+   "src": "artists/李荣浩/2018 - 耳朵/01-08 - 成长之重量 (电影 ＂动物世界＂ 态度版片尾曲).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/28759331",
+    "durationDiff": 0.315,
+    "synced": true,
+    "plain": true,
+    "album": "成长之重量",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-78ba326e6c643b46",
+   "title": "之乎者也 (feat. 李志) [Live]",
+   "artist": "罗大佑",
+   "album": "大事发声.录音棚现场: 罗大佑 专场 (超级版)",
+   "duration": 235.468,
+   "src": "artists/罗大佑/2018 - 大事发声.录音棚现场： 罗大佑 专场 (超级版)/01-07 - 之乎者也 (feat. 李志) [Live].mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/29069144",
+    "durationDiff": 0.468,
+    "synced": true,
+    "plain": true,
+    "album": "青春舞曲",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-e77fe7a23cacb551",
+   "title": "最好",
+   "artist": "薛之谦",
+   "album": "怪咖",
+   "duration": 255.556,
+   "src": "artists/薛之谦/2018 - 怪咖/01-06 - 最好.mp3"
+  },
+  {
+   "trackId": "apple-8a0ff255b404afb0",
+   "title": "那是你离开了北京的生活",
+   "artist": "薛之谦",
+   "album": "怪咖",
+   "duration": 268.539,
+   "src": "artists/薛之谦/2018 - 怪咖/01-09 - 那是你离开了北京的生活.mp3"
+  },
+  {
+   "trackId": "apple-4f490116f03031e3",
+   "title": "九月清晨",
+   "artist": "许嵩",
+   "album": "寻宝游戏",
+   "duration": 236.121,
+   "src": "artists/许嵩/2018 - 寻宝游戏/01-04 - 九月清晨.mp3"
+  },
+  {
+   "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t02",
+   "title": "离婚",
+   "artist": "李志",
+   "album": "爵士乐与不插电新编12首",
+   "duration": 277.551,
+   "src": "live/李志/2018 - 爵士乐与不插电新编12首/01-02 - 离婚.mp3",
+   "lizhinb": {
+    "albumId": 65,
+    "songIndex": 2,
+    "title": "离婚 (相信未来版)",
+    "lyricsUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/离婚%20(相信未来版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t03",
+   "title": "关于郑州的记忆",
+   "artist": "李志",
+   "album": "爵士乐与不插电新编12首",
+   "duration": 360.15,
+   "src": "live/李志/2018 - 爵士乐与不插电新编12首/01-03 - 关于郑州的记忆.mp3",
+   "lizhinb": {
+    "albumId": 65,
+    "songIndex": 3,
+    "title": "关于郑州的记忆 (相信未来版)",
+    "lyricsUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/关于郑州的记忆%20(相信未来版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t04",
+   "title": "鸵鸟",
+   "artist": "李志",
+   "album": "爵士乐与不插电新编12首",
+   "duration": 237.767,
+   "src": "live/李志/2018 - 爵士乐与不插电新编12首/01-04 - 鸵鸟.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/38316624",
+    "durationDiff": 368.233,
+    "synced": true,
+    "plain": true,
+    "album": "i/O (2014 Live)",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 65,
+    "songIndex": 4,
+    "title": "鸵鸟 (相信未来版)",
+    "lyricsUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/鸵鸟%20(相信未来版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t09",
+   "title": "爱",
+   "artist": "李志",
+   "album": "爵士乐与不插电新编12首",
+   "duration": 279.197,
+   "src": "live/李志/2018 - 爵士乐与不插电新编12首/01-09 - 爱.mp3",
+   "lizhinb": {
+    "albumId": 65,
+    "songIndex": 9,
+    "title": "爱 (相信未来版)",
+    "lyricsUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/爱%20(相信未来版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t11",
+   "title": "一个夜晚",
+   "artist": "李志",
+   "album": "爵士乐与不插电新编12首",
+   "duration": 328.542,
+   "src": "live/李志/2018 - 爵士乐与不插电新编12首/01-11 - 一个夜晚.mp3",
+   "lizhinb": {
+    "albumId": 65,
+    "songIndex": 11,
+    "title": "一个夜晚 (相信未来版)",
+    "lyricsUrl": "https://st.nj1701.com/爵士乐与不插电新编12首/一个夜晚%20(相信未来版).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t01",
+   "title": "相信未来序曲（2017跨年版）",
+   "artist": "李志",
+   "album": "李志、电声与管弦乐II",
+   "duration": 306.495,
+   "src": "live/李志/2018 - 李志、电声与管弦乐II/01-01 - 相信未来序曲（2017跨年版）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/14629072",
+    "durationDiff": 0.052,
+    "synced": false,
+    "plain": false,
+    "album": "李志、电声与管弦乐II",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t02",
+   "title": "一头偶像（2017跨年版）",
+   "artist": "李志",
+   "album": "李志、电声与管弦乐II",
+   "duration": 289.437,
+   "src": "live/李志/2018 - 李志、电声与管弦乐II/01-02 - 一头偶像（2017跨年版）.mp3"
+  },
+  {
+   "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t03",
+   "title": "你好明天（2017跨年版）",
+   "artist": "李志",
+   "album": "李志、电声与管弦乐II",
+   "duration": 307.252,
+   "src": "live/李志/2018 - 李志、电声与管弦乐II/01-03 - 你好明天（2017跨年版）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/14629075",
+    "durationDiff": 0.031,
+    "synced": true,
+    "plain": true,
+    "album": "李志、电声与管弦乐II",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t05",
+   "title": "山阴路的夏天（2017跨年版）",
+   "artist": "李志",
+   "album": "李志、电声与管弦乐II",
+   "duration": 289.097,
+   "src": "live/李志/2018 - 李志、电声与管弦乐II/01-05 - 山阴路的夏天（2017跨年版）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33832702",
+    "durationDiff": 2.097,
+    "synced": true,
+    "plain": true,
+    "album": "北京不插电",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t08",
+   "title": "家乡（2017跨年版）",
+   "artist": "李志",
+   "album": "李志、电声与管弦乐II",
+   "duration": 425.874,
+   "src": "live/李志/2018 - 李志、电声与管弦乐II/01-08 - 家乡（2017跨年版）.mp3"
+  },
+  {
+   "trackId": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t09",
+   "title": "这个世界会好吗（2017跨年版）",
+   "artist": "李志",
+   "album": "李志、电声与管弦乐II",
+   "duration": 374.439,
+   "src": "live/李志/2018 - 李志、电声与管弦乐II/01-09 - 这个世界会好吗（2017跨年版）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37777139",
+    "durationDiff": 0.439,
+    "synced": true,
+    "plain": true,
+    "album": "李志、电声与管弦乐II",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-jincheng-lanzhou-d01-t01",
+   "title": "金城兰州",
+   "artist": "老狼 / 李志 / 张玮玮",
+   "album": "金城兰州",
+   "duration": 326.008,
+   "src": "artists/李志/2018 - 金城兰州/01-01 - 金城兰州.mp3"
+  },
+  {
+   "trackId": "qq-陈奕迅 & eason and the duo band-L.O.V.E.-d01-t01",
+   "title": "8:15pm",
+   "artist": "陈奕迅 & eason and the duo band",
+   "album": "L.O.V.E.",
+   "duration": 16.441,
+   "src": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-01 - 8:15pm.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17266707",
+    "durationDiff": 0.0,
+    "synced": true,
+    "plain": true,
+    "album": "L.O.V.E.",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-aead02d72408933c",
+   "title": "我们万岁",
+   "artist": "陈奕迅 & eason and the duo band",
+   "album": "L.O.V.E.",
+   "duration": 236.639,
+   "src": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-12 - 我们万岁.mp3"
+  },
+  {
+   "trackId": "qq-林俊杰-进阶-d01-t01",
+   "title": "进阶",
+   "artist": "林俊杰",
+   "album": "进阶",
+   "duration": 218.04,
+   "src": "artists/林俊杰/2018 - 进阶/01-01 - 进阶.mp3"
+  },
+  {
+   "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t01",
+   "title": "一个夜晚",
+   "artist": "李志",
+   "album": "洗心革面 - 演唱会录音",
+   "duration": 424.96,
+   "src": "live/李志/2019 - 洗心革面 - 演唱会录音/01-01 - 一个夜晚.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 12,
+    "title": "一个夜晚",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/一个夜晚.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t02",
+   "title": "你好明天+不多+杭州",
+   "artist": "李志",
+   "album": "洗心革面 - 演唱会录音",
+   "duration": 757.499,
+   "src": "live/李志/2019 - 洗心革面 - 演唱会录音/01-02 - 你好明天+不多+杭州.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 16,
+    "title": "你好明天+不多+杭州",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你好明天+不多+杭州.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t03",
+   "title": "你离开了南京，从此没有人和我说话",
+   "artist": "李志",
+   "album": "洗心革面 - 演唱会录音",
+   "duration": 185.966,
+   "src": "live/李志/2019 - 洗心革面 - 演唱会录音/01-03 - 你离开了南京，从此没有人和我说话.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 25,
+    "title": "你离开了南京，从此没有人和我说话",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你离开了南京，从此没有人和我说话.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t04",
+   "title": "倒影",
+   "artist": "李志",
+   "album": "洗心革面 - 演唱会录音",
+   "duration": 288.287,
+   "src": "live/李志/2019 - 洗心革面 - 演唱会录音/01-04 - 倒影.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/20058500",
+    "durationDiff": 5.34,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面 跨年音乐会",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 70,
+    "songIndex": 19,
+    "title": "倒影 2009",
+    "lyricsUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/倒影%202009.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t07",
+   "title": "哦吼",
+   "artist": "李志",
+   "album": "洗心革面 - 演唱会录音",
+   "duration": 297.117,
+   "src": "live/李志/2019 - 洗心革面 - 演唱会录音/01-07 - 哦吼.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/38841184",
+    "durationDiff": 26.883,
+    "synced": true,
+    "plain": true,
+    "album": "李志、電聲與管弦樂II",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 18,
+    "title": "哦吼",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/哦吼.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t08",
+   "title": "大象",
+   "artist": "李志",
+   "album": "洗心革面 - 演唱会录音",
+   "duration": 371.278,
+   "src": "live/李志/2019 - 洗心革面 - 演唱会录音/01-08 - 大象.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/25250983",
+    "durationDiff": 3.162,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 21,
+    "title": "大象",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/大象.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t10",
+   "title": "寻找+忽然+热河",
+   "artist": "李志",
+   "album": "洗心革面 - 演唱会录音",
+   "duration": 815.203,
+   "src": "live/李志/2019 - 洗心革面 - 演唱会录音/01-10 - 寻找+忽然+热河.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 20,
+    "title": "寻找+忽然+热河",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/寻找+忽然+热河.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t12",
+   "title": "山阴路的夏天",
+   "artist": "李志",
+   "album": "洗心革面 - 演唱会录音",
+   "duration": 407.014,
+   "src": "live/李志/2019 - 洗心革面 - 演唱会录音/01-12 - 山阴路的夏天.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/19487000",
+    "durationDiff": 1.111,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面 跨年音乐会",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 24,
+    "title": "山阴路的夏天",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/山阴路的夏天.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t17",
+   "title": "被禁忌的游戏",
+   "artist": "李志",
+   "album": "洗心革面 - 演唱会录音",
+   "duration": 331.729,
+   "src": "live/李志/2019 - 洗心革面 - 演唱会录音/01-17 - 被禁忌的游戏.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/19619560",
+    "durationDiff": 0.431,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面 跨年音乐会",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 17,
+    "title": "被禁忌的游戏",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/被禁忌的游戏.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t19",
+   "title": "门",
+   "artist": "李志",
+   "album": "洗心革面 - 演唱会录音",
+   "duration": 420.415,
+   "src": "live/李志/2019 - 洗心革面 - 演唱会录音/01-19 - 门.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/24589021",
+    "durationDiff": 3.301,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 22,
+    "title": "门",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/门.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t21",
+   "title": "黑色信封",
+   "artist": "李志",
+   "album": "洗心革面 - 演唱会录音",
+   "duration": 271.02,
+   "src": "live/李志/2019 - 洗心革面 - 演唱会录音/01-21 - 黑色信封.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/18967219",
+    "durationDiff": 3.791,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面 跨年音乐会",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 19,
+    "title": "黑色信封",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/黑色信封.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t22",
+   "title": "意味",
+   "artist": "李志",
+   "album": "洗心革面 - 演唱会录音",
+   "duration": 255.451,
+   "src": "live/李志/2019 - 洗心革面 - 演唱会录音/01-22 - 意味.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/24558680",
+    "durationDiff": 6.277,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 1,
+    "title": "意味",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/意味.lrc"
+   }
+  },
+  {
+   "trackId": "apple-3d71941557cda2ac",
+   "title": "对的时间点",
+   "artist": "林俊杰",
+   "album": "对的时间点",
+   "duration": 242.253,
+   "src": "artists/林俊杰/2019 - 对的时间点/01-01 - 对的时间点.mp3"
+  },
+  {
+   "trackId": "apple-a1d17e7098209094",
+   "title": "将故事写成我们",
+   "artist": "林俊杰",
+   "album": "将故事写成我们",
+   "duration": 335.48,
+   "src": "artists/林俊杰/2019 - 将故事写成我们/01-01 - 将故事写成我们.mp3"
+  },
+  {
+   "trackId": "apple-4f95c73f8e18dcc6",
+   "title": "木偶人",
+   "artist": "薛之谦",
+   "album": "尘",
+   "duration": 286.668,
+   "src": "artists/薛之谦/2019 - 尘/01-01 - 木偶人.mp3"
+  },
+  {
+   "trackId": "apple-299b642f458a0eb4",
+   "title": "笑场",
+   "artist": "薛之谦",
+   "album": "尘",
+   "duration": 272.536,
+   "src": "artists/薛之谦/2019 - 尘/01-04 - 笑场.mp3"
+  },
+  {
+   "trackId": "apple-16e4cb1c6bb5b3c8",
+   "title": "尘",
+   "artist": "薛之谦",
+   "album": "尘",
+   "duration": 281.626,
+   "src": "artists/薛之谦/2019 - 尘/01-06 - 尘.mp3"
+  },
+  {
+   "trackId": "apple-f0a98cb9d0e408e5",
+   "title": "陪你去流浪",
+   "artist": "薛之谦",
+   "album": "尘",
+   "duration": 274.469,
+   "src": "artists/薛之谦/2019 - 尘/01-07 - 陪你去流浪.mp3"
+  },
+  {
+   "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t01",
+   "title": "黑色信封 (2004)",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018",
+   "duration": 284.63,
+   "src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-01 - 黑色信封 (2004).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/24815235",
+    "durationDiff": 0.03,
+    "synced": true,
+    "plain": true,
+    "album": "Best Selection Songs 2004～2019 Studio recording",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t04",
+   "title": "苍井空 (2009)",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018",
+   "duration": 262.322,
+   "src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-04 - 苍井空 (2009).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/16537364",
+    "durationDiff": 0.015,
+    "synced": true,
+    "plain": true,
+    "album": "我爱南京",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t06",
+   "title": "墙上的向日葵 (2010)",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018",
+   "duration": 298.188,
+   "src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-06 - 墙上的向日葵 (2010).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/38228525",
+    "durationDiff": 106.812,
+    "synced": true,
+    "plain": true,
+    "album": "动静LIVE [数字版]",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t09",
+   "title": "杭州 (2011)",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018",
+   "duration": 241.215,
+   "src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-09 - 杭州 (2011).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/18905570",
+    "durationDiff": 0.042,
+    "synced": true,
+    "plain": true,
+    "album": "Best Selection Songs 2004～2018 Studio recording",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 67,
+    "songIndex": 17,
+    "title": "杭州(2011)(杭州Hangzhou)",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/杭州(2011)(杭州Hangzhou).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t10",
+   "title": "这个世界会好吗 (2006)",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018",
+   "duration": 242.469,
+   "src": "collections/李志/2019 - Best Selection Songs 2004-2018/01-10 - 这个世界会好吗 (2006).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/34252139",
+    "durationDiff": 0.469,
+    "synced": true,
+    "plain": true,
+    "album": "best Selection Songs 2004～2019 Studio recording",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t06",
+   "title": "墙上的向日葵 (2015 Live)",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018",
+   "duration": 470.7,
+   "src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-06 - 墙上的向日葵 (2015 Live).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37973882",
+    "durationDiff": 2.7,
+    "synced": true,
+    "plain": true,
+    "album": "i/O (2014 Live)",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t07",
+   "title": "关于郑州的记忆 (2018 Live)",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018",
+   "duration": 363.154,
+   "src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-07 - 关于郑州的记忆 (2018 Live).mp3"
+  },
+  {
+   "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t09",
+   "title": "杭州 (2015 Live)",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018",
+   "duration": 250.593,
+   "src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-09 - 杭州 (2015 Live).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33863730",
+    "durationDiff": 2.593,
+    "synced": true,
+    "plain": true,
+    "album": "i/O（2014 Live）",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 67,
+    "songIndex": 18,
+    "title": "杭州(2015 Live)(杭州Hangzhou)",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018/杭州(2015%20Live)(杭州Hangzhou).lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t10",
+   "title": "这个世界会好吗 (2018 Live)",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018",
+   "duration": 374.439,
+   "src": "collections/李志/2019 - Best Selection Songs 2004-2018/02-10 - 这个世界会好吗 (2018 Live).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37777139",
+    "durationDiff": 0.439,
+    "synced": true,
+    "plain": true,
+    "album": "李志、电声与管弦乐II",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "qq-林俊杰-我们很好-d01-t01",
+   "title": "我们很好",
+   "artist": "林俊杰",
+   "album": "我们很好",
+   "duration": 268.907,
+   "src": "artists/林俊杰/2019 - 我们很好/01-01 - 我们很好.mp3"
+  },
+  {
+   "trackId": "qq-蔡徐坤-YOUNG-d01-t02",
+   "title": "蒙着眼",
+   "artist": "蔡徐坤",
+   "album": "YOUNG",
+   "duration": 224.266,
+   "src": "artists/蔡徐坤/2019 - YOUNG/01-02 - 蒙着眼.mp3"
+  },
+  {
+   "trackId": "apple-a2675c0d64fcb9af",
+   "title": "花样年华",
+   "artist": "李荣浩",
+   "album": "麻雀",
+   "duration": 311.928,
+   "src": "artists/李荣浩/2020 - 麻雀/01-07 - 花样年华.mp3"
+  },
+  {
+   "trackId": "apple-537e6f9f224bb0d7",
+   "title": "在一起嘛好不好",
+   "artist": "李荣浩",
+   "album": "麻雀",
+   "duration": 298.893,
+   "src": "artists/李荣浩/2020 - 麻雀/01-08 - 在一起嘛好不好.mp3"
+  },
+  {
+   "trackId": "apple-e9f83e70b9d88800",
+   "title": "无滤镜 (feat. Hiroshi Fujiwara)",
+   "artist": "林俊杰",
+   "album": "无滤镜 (feat. Hiroshi Fujiwara)",
+   "duration": 214.674,
+   "src": "artists/林俊杰/2020 - 无滤镜 (feat. Hiroshi Fujiwara)/01-01 - 无滤镜 (feat. Hiroshi Fujiwara).mp3"
+  },
+  {
+   "trackId": "apple-50ded7abfdd26a22",
+   "title": "过",
+   "artist": "王嘉尔 & 林俊杰",
+   "album": "过",
+   "duration": 203.912,
+   "src": "artists/王嘉尔 & 林俊杰/2020 - 过/01-01 - 过.mp3"
+  },
+  {
+   "trackId": "apple-6e81a2a52cbe9266",
+   "title": "迟迟",
+   "artist": "薛之谦",
+   "album": "天外来物",
+   "duration": 255.634,
+   "src": "artists/薛之谦/2020 - 天外来物/01-02 - 迟迟.mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d01-t01",
+   "title": "那个夏天 (选自 千与千寻)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 242.333,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/01-01 - 那个夏天 (选自 千与千寻).mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d01-t02",
+   "title": "Kiki's Delivery Service (选自 魔女宅急便)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 270.48,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/01-02 - Kiki's Delivery Service (选自 魔女宅急便).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37464024",
+    "durationDiff": 10.52,
+    "synced": false,
+    "plain": false,
+    "album": "Symphonic Suite \"Kiki's Delivery Service\"",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d01-t03",
+   "title": "Summer (选自 菊次郎的夏天)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 244.32,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/01-03 - Summer (选自 菊次郎的夏天).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/28461364",
+    "durationDiff": 7.32,
+    "synced": false,
+    "plain": false,
+    "album": "£Ê£ï£å¡¡£È£é£ó£á£é£ó£è£é¡¡£Å£î£ó£å£í£â£ì£å £Ó£è£ï£ï£ô¡¡£Ô£è£å¡¡£Ö£é£ï£ì£é£ó£ô",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d01-t04",
+   "title": "il porco rosso (选自 红猪)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 114.253,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/01-04 - il porco rosso (选自 红猪).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/21218619",
+    "durationDiff": 0.253,
+    "synced": false,
+    "plain": false,
+    "album": "梦之歌：久石让精选",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d01-t05",
+   "title": "Madness (选自 红猪)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 253.52,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/01-05 - Madness (选自 红猪).mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d01-t06",
+   "title": "Water Traveller (选自 水之旅人)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 500.72,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/01-06 - Water Traveller (选自 水之旅人).mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d01-t07",
+   "title": "东风",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 329.2,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/01-07 - 东风.mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d01-t08",
+   "title": "沉默的爱 (选自 那年夏天，宁静的海)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 389.693,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/01-08 - 沉默的爱 (选自 那年夏天，宁静的海).mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d01-t09",
+   "title": "Departures (选自 入殓师)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 499.68,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/01-09 - Departures (选自 入殓师).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37970866",
+    "durationDiff": 224.68,
+    "synced": false,
+    "plain": false,
+    "album": "another piano stories - the end of the world",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d01-t10",
+   "title": "PRINCESS MONONOKE (选自 幽灵公主)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 511.307,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/01-10 - PRINCESS MONONOKE (选自 幽灵公主).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33562566",
+    "durationDiff": 299.307,
+    "synced": false,
+    "plain": false,
+    "album": "Princess Mononoke (A Film By H",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d01-t11",
+   "title": "天人的音乐",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 167.293,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/01-11 - 天人的音乐.mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d01-t12",
+   "title": "My Neighbour TOTORO (选自 龙猫)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 247.173,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/01-12 - My Neighbour TOTORO (选自 龙猫).mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t01",
+   "title": "Ballade (选自 大佬)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 259.84,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-01 - Ballade (选自 大佬).mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t02",
+   "title": "KIDS RETURN (选自 坏孩子的天空)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 262.293,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-02 - KIDS RETURN (选自 坏孩子的天空).mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t03",
+   "title": "梦游亚细亚",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 328.96,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-03 - 梦游亚细亚.mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t04",
+   "title": "生辰",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 256.6,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-04 - 生辰.mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t05",
+   "title": "Innocent (选自 天空之城)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 151.333,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-05 - Innocent (选自 天空之城).mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t06",
+   "title": "Fantasia (for Nausicaä) (选自 风之谷)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 416.187,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-06 - Fantasia (for Nausicaä) (选自 风之谷).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/18958944",
+    "durationDiff": 1.306,
+    "synced": false,
+    "plain": false,
+    "album": "Piano Stories Best '88-'08",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t07",
+   "title": "HANA-BI (选自 花火)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 205.253,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-07 - HANA-BI (选自 花火).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37957905",
+    "durationDiff": 1.747,
+    "synced": false,
+    "plain": false,
+    "album": "WORKS II ～Orchestra Nights～ (Live)",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t08",
+   "title": "风之甬道 (风中森林) (选自 龙猫)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 294.707,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-08 - 风之甬道 (风中森林) (选自 龙猫).mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t09",
+   "title": "天使的春天",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 194.187,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-09 - 天使的春天.mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t10",
+   "title": "乡愁",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 213.96,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-10 - 乡愁.mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t11",
+   "title": "春天",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 171.56,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-11 - 春天.mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t12",
+   "title": "生命之风",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 283.25,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-12 - 生命之风.mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t13",
+   "title": "Ashitaka and San",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 236.56,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-13 - Ashitaka and San.mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t14",
+   "title": "Ponyo on the Cliff by the Sea (选自 悬崖上的波妞)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 168.96,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-14 - Ponyo on the Cliff by the Sea (选自 悬崖上的波妞).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33668561",
+    "durationDiff": 2.96,
+    "synced": false,
+    "plain": false,
+    "album": "Studio Ghibli Official B-Sides and Rarities Album",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t15",
+   "title": "怀旧电影",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 367.693,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-15 - 怀旧电影.mp3"
+  },
+  {
+   "trackId": "qq-久石让-梦之歌：久石让精选-d02-t16",
+   "title": "人生的旋转木马 (选自 哈尔的移动城堡)",
+   "artist": "久石让",
+   "album": "梦之歌：久石让精选",
+   "duration": 311.133,
+   "src": "artists/久石让/2020 - 梦之歌：久石让精选/02-16 - 人生的旋转木马 (选自 哈尔的移动城堡).mp3"
+  },
+  {
+   "trackId": "qq-刘维-小小星球-d01-t01",
+   "title": "我们都快乐",
+   "artist": "刘维",
+   "album": "小小星球",
+   "duration": 211.379,
+   "src": "artists/刘维/2020 - 小小星球/01-01 - 我们都快乐.mp3"
+  },
+  {
+   "trackId": "qq-刘维-小小星球-d01-t02",
+   "title": "过问",
+   "artist": "刘维",
+   "album": "小小星球",
+   "duration": 238.093,
+   "src": "artists/刘维/2020 - 小小星球/01-02 - 过问.mp3"
+  },
+  {
+   "trackId": "qq-刘维-小小星球-d01-t03",
+   "title": "小小星球",
+   "artist": "刘维",
+   "album": "小小星球",
+   "duration": 241.168,
+   "src": "artists/刘维/2020 - 小小星球/01-03 - 小小星球.mp3"
+  },
+  {
+   "trackId": "qq-刘维-小小星球-d01-t04",
+   "title": "曾经太难 (专辑版)",
+   "artist": "刘维",
+   "album": "小小星球",
+   "duration": 218.136,
+   "src": "artists/刘维/2020 - 小小星球/01-04 - 曾经太难 (专辑版).mp3"
+  },
+  {
+   "trackId": "qq-刘维-小小星球-d01-t06",
+   "title": "烟圈",
+   "artist": "刘维",
+   "album": "小小星球",
+   "duration": 237.341,
+   "src": "artists/刘维/2020 - 小小星球/01-06 - 烟圈.mp3"
+  },
+  {
+   "trackId": "qq-刘维-小小星球-d01-t08",
+   "title": "come back to me",
+   "artist": "刘维",
+   "album": "小小星球",
+   "duration": 217.963,
+   "src": "artists/刘维/2020 - 小小星球/01-08 - come back to me.mp3"
+  },
+  {
+   "trackId": "qq-刘维-小小星球-d01-t10",
+   "title": "蓝 (专辑版)",
+   "artist": "刘维",
+   "album": "小小星球",
+   "duration": 226.3,
+   "src": "artists/刘维/2020 - 小小星球/01-10 - 蓝 (专辑版).mp3"
+  },
+  {
+   "trackId": "qq-刘维-小小星球-d01-t11",
+   "title": "只是纪念 (专辑版)",
+   "artist": "刘维",
+   "album": "小小星球",
+   "duration": 267.552,
+   "src": "artists/刘维/2020 - 小小星球/01-11 - 只是纪念 (专辑版).mp3"
+  },
+  {
+   "trackId": "qq-刘维-小小星球-d01-t12",
+   "title": "一首歌的距离",
+   "artist": "刘维",
+   "album": "小小星球",
+   "duration": 300.568,
+   "src": "artists/刘维/2020 - 小小星球/01-12 - 一首歌的距离.mp3"
+  },
+  {
+   "trackId": "qq-刘维-小小星球-d01-t13",
+   "title": "在天亮之后",
+   "artist": "刘维",
+   "album": "小小星球",
+   "duration": 260.15,
+   "src": "artists/刘维/2020 - 小小星球/01-13 - 在天亮之后.mp3"
+  },
+  {
+   "trackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t01",
+   "title": "被禁忌的游戏",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+   "duration": 376.093,
+   "src": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/01-01 - 被禁忌的游戏.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/16351545",
+    "durationDiff": 0.0,
+    "synced": false,
+    "plain": true,
+    "album": "Best Selection Songs 2004～2018 (Volume.2) Studio recording",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 68,
+    "songIndex": 1,
+    "title": "被禁忌的游戏（2004）",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018%20Vol.2/被禁忌的游戏（2004）.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t04",
+   "title": "结婚",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+   "duration": 354.613,
+   "src": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/01-04 - 结婚.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/36740924",
+    "durationDiff": 1.613,
+    "synced": false,
+    "plain": true,
+    "album": "In Love With Nanjing (我爱南京)",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 68,
+    "songIndex": 7,
+    "title": "结婚 feat.老狼&万晓利（2009）",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018%20Vol.2/结婚%20feat.老狼&万晓利（2009）.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t10",
+   "title": "热河",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+   "duration": 405.24,
+   "src": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/01-10 - 热河.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17337767",
+    "durationDiff": 0.0,
+    "synced": false,
+    "plain": true,
+    "album": "Best Selection Songs 2004～2018 (Volume.2) Studio recording",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 68,
+    "songIndex": 19,
+    "title": "热河（2014）",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018%20Vol.2/热河（2014）.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t12",
+   "title": "你离开了南京, 从此没有人和我说话",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+   "duration": 79.08,
+   "src": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/01-12 - 你离开了南京, 从此没有人和我说话.mp3",
+   "lizhinb": {
+    "albumId": 68,
+    "songIndex": 23,
+    "title": "你离开了南京，从此没有人和我说话（2005）",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018%20Vol.2/你离开了南京，从此没有人和我说话（2005）.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t01",
+   "title": "被禁忌的游戏",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+   "duration": 334.68,
+   "src": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/02-01 - 被禁忌的游戏.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/19619560",
+    "durationDiff": 3.382,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面 跨年音乐会",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 68,
+    "songIndex": 1,
+    "title": "被禁忌的游戏（2004）",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018%20Vol.2/被禁忌的游戏（2004）.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t02",
+   "title": "梵高先生",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+   "duration": 166.96,
+   "src": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/02-02 - 梵高先生.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/34238173",
+    "durationDiff": 0.04,
+    "synced": true,
+    "plain": true,
+    "album": "看见",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 68,
+    "songIndex": 3,
+    "title": "梵高先生（2005）",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018%20Vol.2/梵高先生（2005）.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t03",
+   "title": "妈妈",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+   "duration": 300.373,
+   "src": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/02-03 - 妈妈.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/18187361",
+    "durationDiff": 2.373,
+    "synced": true,
+    "plain": true,
+    "album": "I/O",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 68,
+    "songIndex": 5,
+    "title": "妈妈（2006）",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018%20Vol.2/妈妈（2006）.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t04",
+   "title": "结婚",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+   "duration": 267.253,
+   "src": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/02-04 - 结婚.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/36740924",
+    "durationDiff": 85.747,
+    "synced": false,
+    "plain": true,
+    "album": "In Love With Nanjing (我爱南京)",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 68,
+    "songIndex": 7,
+    "title": "结婚 feat.老狼&万晓利（2009）",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018%20Vol.2/结婚%20feat.老狼&万晓利（2009）.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t05",
+   "title": "铅笔",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+   "duration": 314.173,
+   "src": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/02-05 - 铅笔.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37776203",
+    "durationDiff": 2.173,
+    "synced": true,
+    "plain": true,
+    "album": "李志、电声与管弦乐",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 68,
+    "songIndex": 9,
+    "title": "铅笔（2010）",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018%20Vol.2/铅笔（2010）.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t08",
+   "title": "下雨",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+   "duration": 279.56,
+   "src": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/02-08 - 下雨.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/20987446",
+    "durationDiff": 7.0,
+    "synced": true,
+    "plain": true,
+    "album": "勾三搭四.2013跨年",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 68,
+    "songIndex": 15,
+    "title": "下雨（2011）",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018%20Vol.2/下雨（2011）.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t12",
+   "title": "你离开了南京, 从此没有人和我说话",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+   "duration": 125.72,
+   "src": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/02-12 - 你离开了南京, 从此没有人和我说话.mp3",
+   "lizhinb": {
+    "albumId": 68,
+    "songIndex": 23,
+    "title": "你离开了南京，从此没有人和我说话（2005）",
+    "lyricsUrl": "https://st.nj1701.com/Best%20Selection%20Songs%202004-2018%20Vol.2/你离开了南京，从此没有人和我说话（2005）.lrc"
+   }
+  },
+  {
+   "trackId": "qq-林俊杰-无滤镜 (feat. 藤原浩)-d01-t01",
+   "title": "无滤镜 (feat. 藤原浩)",
+   "artist": "林俊杰 & 藤原浩 (藤原ヒロシ)",
+   "album": "无滤镜 (feat. 藤原浩)",
+   "duration": 214.955,
+   "src": "artists/林俊杰/2020 - 无滤镜 (feat. 藤原浩)/01-01 - 无滤镜 (feat. 藤原浩).mp3"
+  },
+  {
+   "trackId": "qq-林俊杰-Stay With You (英文版)-d01-t01",
+   "title": "Stay With You (英文版)",
+   "artist": "林俊杰 & 孙燕姿",
+   "album": "Stay With You (英文版)",
+   "duration": 207.76,
+   "src": "artists/林俊杰/2020 - Stay With You (英文版)/01-01 - Stay With You (英文版).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/12884022",
+    "durationDiff": 0.0,
+    "synced": true,
+    "plain": true,
+    "album": "Stay With You (英文版)",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "qq-林俊杰-幸存者-d01-t04",
+   "title": "离开的那一些",
+   "artist": "林俊杰",
+   "album": "幸存者",
+   "duration": 277.107,
+   "src": "artists/林俊杰/2020 - 幸存者/01-04 - 离开的那一些.mp3"
+  },
+  {
+   "trackId": "qq-林俊杰-幸存者-d01-t06",
+   "title": "暂时的记号",
+   "artist": "林俊杰",
+   "album": "幸存者",
+   "duration": 253.368,
+   "src": "artists/林俊杰/2020 - 幸存者/01-06 - 暂时的记号.mp3"
+  },
+  {
+   "trackId": "qq-林俊杰-感爵这一刻-d01-t02",
+   "title": "伟大的渺小 (Jazz Version)",
+   "artist": "林俊杰",
+   "album": "感爵这一刻",
+   "duration": 298.773,
+   "src": "artists/林俊杰/2020 - 感爵这一刻/01-02 - 伟大的渺小 (Jazz Version).mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/20705522",
+    "durationDiff": 0.0,
+    "synced": true,
+    "plain": true,
+    "album": "感爵这一刻",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-9429a5aade77068a",
+   "title": "我们好好的",
+   "artist": "李荣浩",
+   "album": "纵横四海",
+   "duration": 272.144,
+   "src": "artists/李荣浩/2021 - 纵横四海/01-02 - 我们好好的.mp3"
+  },
+  {
+   "trackId": "apple-8e83d1891a6ed32d",
+   "title": "情人",
+   "artist": "李荣浩",
+   "album": "纵横四海",
+   "duration": 414.537,
+   "src": "artists/李荣浩/2021 - 纵横四海/01-04 - 情人.mp3"
+  },
+  {
+   "trackId": "apple-805c6f238218e8fd",
+   "title": "对等关系 (feat. 张惠妹)",
+   "artist": "李荣浩",
+   "album": "纵横四海",
+   "duration": 327.393,
+   "src": "artists/李荣浩/2021 - 纵横四海/01-05 - 对等关系 (feat. 张惠妹).mp3"
+  },
+  {
+   "trackId": "apple-072f132bffe1587f",
+   "title": "最好的安排",
+   "artist": "谢天笑",
+   "album": "哈哈大笑",
+   "duration": 252.238,
+   "src": "artists/谢天笑/2021 - 哈哈大笑/01-03 - 最好的安排.mp3"
+  },
+  {
+   "trackId": "apple-96927687f4041110",
+   "title": "海鸥",
+   "artist": "逃跑计划",
+   "album": "回到海洋",
+   "duration": 226.038,
+   "src": "artists/逃跑计划/2021 - 回到海洋/01-05 - 海鸥.mp3"
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t01",
+   "title": "卡夫卡（2004）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 178.827,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-01 - 卡夫卡（2004）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/16749",
+    "durationDiff": 1.827,
+    "synced": true,
+    "plain": true,
+    "album": "被禁忌的遊戲",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t03",
+   "title": "翁庆年的六英镑（2006）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 252.587,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-03 - 翁庆年的六英镑（2006）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37562563",
+    "durationDiff": 3.413,
+    "synced": true,
+    "plain": true,
+    "album": "IMAGINE",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t05",
+   "title": "忽然（2010）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 127.627,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-05 - 忽然（2010）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/7994922",
+    "durationDiff": 0.627,
+    "synced": true,
+    "plain": true,
+    "album": "你好,鄭州",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t06",
+   "title": "尽头（2011）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 275.507,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-06 - 尽头（2011）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/18034038",
+    "durationDiff": 1.507,
+    "synced": true,
+    "plain": true,
+    "album": "F",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t07",
+   "title": "大象（2014）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 327.787,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-07 - 大象（2014）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/11296248",
+    "durationDiff": 0.787,
+    "synced": true,
+    "plain": true,
+    "album": "1701 (普通版)",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t08",
+   "title": "定西（2014）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 298.027,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-08 - 定西（2014）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37562507",
+    "durationDiff": 1.027,
+    "synced": true,
+    "plain": true,
+    "album": "Best Selection Songs 2004-2018 (Volume.3) “倒影” (Reflection) 第1版/1st Edition",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t09",
+   "title": "一个夜晚（2016）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 282.853,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-09 - 一个夜晚（2016）.mp3"
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t10",
+   "title": "倒影（2009）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 184.853,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/01-10 - 倒影（2009）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/20388262",
+    "durationDiff": 0.708,
+    "synced": true,
+    "plain": true,
+    "album": "二零零九年十月十六日事件",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t02",
+   "title": "董卓瑶（2015 看见）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 281.6,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-02 - 董卓瑶（2015 看见）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/20266166",
+    "durationDiff": 1.829,
+    "synced": false,
+    "plain": true,
+    "album": "杭州酒球会一身酒气",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t03",
+   "title": "翁庆年的六英镑（2018 爵士乐与不插电）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 408.16,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-03 - 翁庆年的六英镑（2018 爵士乐与不插电）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/19557628",
+    "durationDiff": 2.132,
+    "synced": true,
+    "plain": true,
+    "album": "爵士乐与不插电新编12首",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t04",
+   "title": "爱（2018 爵士乐与不插电）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 279.373,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-04 - 爱（2018 爵士乐与不插电）.mp3"
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t05",
+   "title": "忽然（2016 动静）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 265.48,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-05 - 忽然（2016 动静）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/36887971",
+    "durationDiff": 0.52,
+    "synced": true,
+    "plain": true,
+    "album": "music",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t06",
+   "title": "尽头（2017 电声与管弦乐）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 260.68,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-06 - 尽头（2017 电声与管弦乐）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/24815653",
+    "durationDiff": 2.141,
+    "synced": true,
+    "plain": true,
+    "album": "李志、电声与管弦乐",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t07",
+   "title": "大象（2017 电声与管弦乐）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 411.64,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-07 - 大象（2017 电声与管弦乐）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/11631566",
+    "durationDiff": 1.64,
+    "synced": true,
+    "plain": true,
+    "album": "李志、電聲與管弦樂 (普通版)",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t08",
+   "title": "定西（2017 电声与管弦乐）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 365.867,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-08 - 定西（2017 电声与管弦乐）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/38316580",
+    "durationDiff": 0.867,
+    "synced": true,
+    "plain": true,
+    "album": "Best Selection Songs 2004-2018 (Volume.3) “倒影” (Reflection) 第1版/1st Edition",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t09",
+   "title": "一个夜晚（2019 洗心革面）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 433.64,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-09 - 一个夜晚（2019 洗心革面）.mp3"
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t10",
+   "title": "倒影（2019 洗心革面）",
+   "artist": "李志",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "duration": 300.32,
+   "src": "collections/李志/2021 - Best Selection Songs 2004-2018 Vol.3 - 倒影/02-10 - 倒影（2019 洗心革面）.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/24959458",
+    "durationDiff": 2.453,
+    "synced": true,
+    "plain": true,
+    "album": "THREE MISSING ONE(叁缺壹) JAPAN Tour 2024 in Tokyo",
+    "closeMatch": false
+   }
+  },
+  {
+   "trackId": "qq-周杰伦-最伟大的作品-d01-t01",
+   "title": "Intro",
+   "artist": "周杰伦",
+   "album": "最伟大的作品",
+   "duration": 29.813,
+   "src": "artists/周杰伦/2022 - 最伟大的作品/01-01 - Intro.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/17961325",
+    "durationDiff": 0.0,
+    "synced": false,
+    "plain": false,
+    "album": "Greatest Works Of Art",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-cc9f0f045db47414",
+   "title": "河流",
+   "artist": "蛙池",
+   "album": "蛙池 2020-2021",
+   "duration": 240.353,
+   "src": "artists/蛙池/2023 - 蛙池 2020-2021/01-02 - 河流.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/36226436",
+    "durationDiff": 0.353,
+    "synced": true,
+    "plain": true,
+    "album": "蛙池 2020-2021",
+    "closeMatch": true
+   }
+  },
+  {
+   "trackId": "apple-61486eb05d2ae15a",
+   "title": "另一端",
+   "artist": "李荣浩",
+   "album": "黑马",
+   "duration": 295.784,
+   "src": "artists/李荣浩/2024 - 黑马/01-03 - 另一端.mp3"
+  },
+  {
+   "trackId": "apple-224ea14d2724f957",
+   "title": "玩具",
+   "artist": "岛屿心情",
+   "album": "纷纭",
+   "duration": 297.117,
+   "src": "artists/岛屿心情/2025 - 纷纭/01-09 - 玩具.mp3"
+  },
+  {
+   "trackId": "qq-陶喆-STUPID POP SONGS-d01-t02",
+   "title": "Moonchild",
+   "artist": "陶喆",
+   "album": "STUPID POP SONGS",
+   "duration": 256.094,
+   "src": "artists/陶喆/2025 - STUPID POP SONGS/01-02 - Moonchild.mp3"
+  },
+  {
+   "trackId": "qq-陶喆-STUPID POP SONGS-d01-t04",
+   "title": "一点点",
+   "artist": "陶喆",
+   "album": "STUPID POP SONGS",
+   "duration": 229.226,
+   "src": "artists/陶喆/2025 - STUPID POP SONGS/01-04 - 一点点.mp3"
+  },
+  {
+   "trackId": "qq-陶喆-STUPID POP SONGS-d01-t06",
+   "title": "半晴天",
+   "artist": "陶喆",
+   "album": "STUPID POP SONGS",
+   "duration": 294.773,
+   "src": "artists/陶喆/2025 - STUPID POP SONGS/01-06 - 半晴天.mp3"
+  },
+  {
+   "trackId": "qq-陶喆-STUPID POP SONGS-d01-t07",
+   "title": "活该",
+   "artist": "陶喆",
+   "album": "STUPID POP SONGS",
+   "duration": 240.507,
+   "src": "artists/陶喆/2025 - STUPID POP SONGS/01-07 - 活该.mp3"
+  },
+  {
+   "trackId": "qq-陶喆-STUPID POP SONGS-d01-t10",
+   "title": "千言万语",
+   "artist": "陶喆",
+   "album": "STUPID POP SONGS",
+   "duration": 278.057,
+   "src": "artists/陶喆/2025 - STUPID POP SONGS/01-10 - 千言万语.mp3"
+  },
+  {
+   "trackId": "qq-陶喆-STUPID POP SONGS-d01-t12",
+   "title": "陪你",
+   "artist": "陶喆",
+   "album": "STUPID POP SONGS",
+   "duration": 304.743,
+   "src": "artists/陶喆/2025 - STUPID POP SONGS/01-12 - 陪你.mp3"
+  },
+  {
+   "trackId": "qq-陶喆-STUPID POP SONGS-d01-t13",
+   "title": "让爱再继续",
+   "artist": "陶喆",
+   "album": "STUPID POP SONGS",
+   "duration": 252.669,
+   "src": "artists/陶喆/2025 - STUPID POP SONGS/01-13 - 让爱再继续.mp3"
+  },
+  {
+   "trackId": "lizhi-tokyo-2024-d01-t01",
+   "title": "关于郑州的记忆+董卓瑶+春末的南方城市",
+   "artist": "李志",
+   "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+   "duration": 908.853,
+   "src": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-01 - 关于郑州的记忆+董卓瑶+春末的南方城市.mp3"
+  },
+  {
+   "trackId": "lizhi-tokyo-2024-d01-t02",
+   "title": "苍井空",
+   "artist": "李志",
+   "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+   "duration": 317.187,
+   "src": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-02 - 苍井空.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/18967357",
+    "durationDiff": 7.14,
+    "synced": true,
+    "plain": true,
+    "album": "杭州酒球会一身酒气",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 71,
+    "songIndex": 2,
+    "title": "苍井空",
+    "lyricsUrl": "https://st.nj1701.com/叁缺壹东京站/苍井空.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-tokyo-2024-d01-t06",
+   "title": "天空之城",
+   "artist": "李志",
+   "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+   "duration": 229.187,
+   "src": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-06 - 天空之城.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/19909436",
+    "durationDiff": 3.667,
+    "synced": true,
+    "plain": true,
+    "album": "Best Selection Songs 2004～2018 Studio recording",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 71,
+    "songIndex": 6,
+    "title": "天空之城",
+    "lyricsUrl": "https://st.nj1701.com/叁缺壹东京站/天空之城.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-tokyo-2024-d01-t07",
+   "title": "鸵鸟+墙上的向日葵+鼠说",
+   "artist": "李志",
+   "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+   "duration": 1446.027,
+   "src": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-07 - 鸵鸟+墙上的向日葵+鼠说.mp3",
+   "lizhinb": {
+    "albumId": 71,
+    "songIndex": 7,
+    "title": "鸵鸟+墙上的向日葵+鼠说",
+    "lyricsUrl": "https://st.nj1701.com/叁缺壹东京站/鸵鸟+墙上的向日葵+鼠说.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-tokyo-2024-d01-t08",
+   "title": "这个世界会好吗",
+   "artist": "李志",
+   "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+   "duration": 317.347,
+   "src": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/01-08 - 这个世界会好吗.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/38272384",
+    "durationDiff": 2.347,
+    "synced": true,
+    "plain": true,
+    "album": "叁缺壹-大阪",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 71,
+    "songIndex": 8,
+    "title": "这个世界会好吗",
+    "lyricsUrl": "https://st.nj1701.com/叁缺壹东京站/这个世界会好吗.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-tokyo-2024-d02-t02",
+   "title": "被禁忌的游戏+定西+一个夜晚",
+   "artist": "李志",
+   "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+   "duration": 1116.853,
+   "src": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-02 - 被禁忌的游戏+定西+一个夜晚.mp3",
+   "lizhinb": {
+    "albumId": 71,
+    "songIndex": 10,
+    "title": "被禁忌的游戏+定西+一个夜晚",
+    "lyricsUrl": "https://st.nj1701.com/叁缺壹东京站/被禁忌的游戏+定西+一个夜晚.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-tokyo-2024-d02-t03",
+   "title": "大象+门+来了+热河",
+   "artist": "李志",
+   "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+   "duration": 1742.107,
+   "src": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-03 - 大象+门+来了+热河.mp3",
+   "lizhinb": {
+    "albumId": 71,
+    "songIndex": 11,
+    "title": "大象+门+来了+热河",
+    "lyricsUrl": "https://st.nj1701.com/叁缺壹东京站/大象+门+来了+热河.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-tokyo-2024-d02-t04",
+   "title": "寻找+忽然",
+   "artist": "李志",
+   "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+   "duration": 484.853,
+   "src": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-04 - 寻找+忽然.mp3",
+   "lizhinb": {
+    "albumId": 71,
+    "songIndex": 12,
+    "title": "寻找+忽然",
+    "lyricsUrl": "https://st.nj1701.com/叁缺壹东京站/寻找+忽然.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-tokyo-2024-d02-t06",
+   "title": "你离开了南京，从此没有人和我说话",
+   "artist": "李志",
+   "album": "THREE MISSING ONE JAPAN Tour 2024 in Tokyo",
+   "duration": 177.88,
+   "src": "live/李志/2025 - THREE MISSING ONE JAPAN Tour 2024 in Tokyo/02-06 - 你离开了南京，从此没有人和我说话.mp3"
+  },
+  {
+   "trackId": "apple-a61d90f5f7d37d76",
+   "title": "过去来的人",
+   "artist": "刘森",
+   "album": "峨眉",
+   "duration": 210.782,
+   "src": "artists/刘森/2026 - 峨眉/01-02 - 过去来的人.mp3"
+  },
+  {
+   "trackId": "lizhi-kuala-lumpur-2025-d01-t04",
+   "title": "逼言逼语",
+   "artist": "李志",
+   "album": "叁缺壹吉隆坡站",
+   "duration": 50.442,
+   "src": "live/李志/2025 - 叁缺壹吉隆坡站/01-04 - 逼言逼语.mp3",
+   "lizhinb": {
+    "albumId": 72,
+    "songIndex": 4,
+    "title": "逼言逼语",
+    "lyricsUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-kuala-lumpur-2025-d01-t10",
+   "title": "逼言逼语",
+   "artist": "李志",
+   "album": "叁缺壹吉隆坡站",
+   "duration": 50.442,
+   "src": "live/李志/2025 - 叁缺壹吉隆坡站/01-10 - 逼言逼语.mp3",
+   "lizhinb": {
+    "albumId": 72,
+    "songIndex": 4,
+    "title": "逼言逼语",
+    "lyricsUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-kuala-lumpur-2025-d01-t25",
+   "title": "逼言逼语",
+   "artist": "李志",
+   "album": "叁缺壹吉隆坡站",
+   "duration": 50.442,
+   "src": "live/李志/2025 - 叁缺壹吉隆坡站/01-25 - 逼言逼语.mp3",
+   "lizhinb": {
+    "albumId": 72,
+    "songIndex": 4,
+    "title": "逼言逼语",
+    "lyricsUrl": "https://st.nj1701.com/叁缺壹吉隆坡站/04逼言逼语.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-ting-zhengzhou-2014-d01-t07",
+   "title": "忽然 余赣宁",
+   "artist": "李志",
+   "album": "挺 不插电巡演 郑州站",
+   "duration": 163.5,
+   "src": "live/李志/2014 - 挺 不插电巡演 郑州站/01-07 - 忽然 余赣宁.mp3"
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t01",
+   "title": "意味",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 255.451,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-01 - 意味.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/24558680",
+    "durationDiff": 6.277,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 1,
+    "title": "意味",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/意味.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t02",
+   "title": "鸵鸟",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 465.763,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-02 - 鸵鸟.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/38316624",
+    "durationDiff": 140.237,
+    "synced": true,
+    "plain": true,
+    "album": "i/O (2014 Live)",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 2,
+    "title": "鸵鸟",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/鸵鸟.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t03",
+   "title": "墙上的向日葵",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 533.238,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-03 - 墙上的向日葵.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/37973882",
+    "durationDiff": 65.238,
+    "synced": true,
+    "plain": true,
+    "album": "i/O (2014 Live)",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 3,
+    "title": "墙上的向日葵",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/墙上的向日葵.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t04",
+   "title": "这个世界会好吗",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 237.505,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-04 - 这个世界会好吗.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/33763755",
+    "durationDiff": 2.495,
+    "synced": true,
+    "plain": true,
+    "album": "这个世界会好吗",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 4,
+    "title": "这个世界会好吗",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/这个世界会好吗.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t05",
+   "title": "定西",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 290.325,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-05 - 定西.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/34348847",
+    "durationDiff": 4.675,
+    "synced": true,
+    "plain": true,
+    "album": "定西",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 5,
+    "title": "定西",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/定西.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t06",
+   "title": "倒影",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 288.287,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-06 - 倒影.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/20058500",
+    "durationDiff": 5.34,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面 跨年音乐会",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 70,
+    "songIndex": 19,
+    "title": "倒影 2009",
+    "lyricsUrl": "https://st.nj1701.com/倒影%20Best%20Selection%20Songs%20Vol.3/倒影%202009.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t09",
+   "title": "求婚+结婚",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 530.024,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-09 - 求婚+结婚.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 9,
+    "title": "求婚+结婚",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/求婚+结婚.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t10",
+   "title": "关于郑州的回忆",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 379.768,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-10 - 关于郑州的回忆.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 10,
+    "title": "关于郑州的回忆",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/关于郑州的回忆.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t11",
+   "title": "董卓瑶+春末的南方城市",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 517.982,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-11 - 董卓瑶+春末的南方城市.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 11,
+    "title": "董卓瑶+春末的南方城市",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/董卓瑶+春末的南方城市.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t12",
+   "title": "一个夜晚",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 424.96,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-12 - 一个夜晚.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 12,
+    "title": "一个夜晚",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/一个夜晚.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t16",
+   "title": "你好明天+不多+杭州",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 757.499,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-16 - 你好明天+不多+杭州.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 16,
+    "title": "你好明天+不多+杭州",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你好明天+不多+杭州.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t17",
+   "title": "被禁忌的游戏",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 331.729,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-17 - 被禁忌的游戏.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/19619560",
+    "durationDiff": 0.431,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面 跨年音乐会",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 17,
+    "title": "被禁忌的游戏",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/被禁忌的游戏.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t18",
+   "title": "哦吼",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 297.117,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-18 - 哦吼.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/38841184",
+    "durationDiff": 26.883,
+    "synced": true,
+    "plain": true,
+    "album": "李志、電聲與管弦樂II",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 18,
+    "title": "哦吼",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/哦吼.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t19",
+   "title": "黑色信封",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 271.02,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-19 - 黑色信封.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/18967219",
+    "durationDiff": 3.791,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面 跨年音乐会",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 19,
+    "title": "黑色信封",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/黑色信封.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t20",
+   "title": "寻找+忽然+热河",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 815.203,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-20 - 寻找+忽然+热河.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 20,
+    "title": "寻找+忽然+热河",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/寻找+忽然+热河.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t21",
+   "title": "大象",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 371.278,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-21 - 大象.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/25250983",
+    "durationDiff": 3.162,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 21,
+    "title": "大象",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/大象.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t22",
+   "title": "门",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 420.415,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-22 - 门.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/24589021",
+    "durationDiff": 3.301,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面",
+    "closeMatch": false
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 22,
+    "title": "门",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/门.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t23",
+   "title": "尽头+来了",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 512.418,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-23 - 尽头+来了.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 23,
+    "title": "尽头+来了",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/尽头+来了.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t24",
+   "title": "山阴路的夏天",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 407.014,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-24 - 山阴路的夏天.mp3",
+   "lrclib": {
+    "bestUrl": "https://lrclib.net/19487000",
+    "durationDiff": 1.111,
+    "synced": true,
+    "plain": true,
+    "album": "洗心革面 跨年音乐会",
+    "closeMatch": true
+   },
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 24,
+    "title": "山阴路的夏天",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/山阴路的夏天.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t25",
+   "title": "你离开了南京，从此没有人和我说话",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 185.966,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-25 - 你离开了南京，从此没有人和我说话.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 25,
+    "title": "你离开了南京，从此没有人和我说话",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/你离开了南京，从此没有人和我说话.lrc"
+   }
+  },
+  {
+   "trackId": "lizhi-washing-2019-fan-26-d01-t26",
+   "title": "纯洁",
+   "artist": "李志",
+   "album": "洗心革面（歌迷站26轨版）",
+   "duration": 382.981,
+   "src": "live/李志/2019 - 洗心革面（歌迷站26轨版）/01-26 - 纯洁.mp3",
+   "lizhinb": {
+    "albumId": 69,
+    "songIndex": 26,
+    "title": "纯洁",
+    "lyricsUrl": "https://st.nj1701.com/洗心革面%20跨年音乐会/纯洁.lrc"
+   }
+  }
+ ]
+}

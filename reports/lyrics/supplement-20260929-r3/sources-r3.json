@@ -1,0 +1,209 @@
+{
+ "generatedAt": "2026-09-29",
+ "round": "supplement-20260929-r3",
+ "scope": "本轮网络检索记录：歌迷站lizhinb全目录歌词资源索引与匹配、lrclib全量探测(313条)、针对性网页检索。只含链接与元数据，未复制任何歌词正文；不绕过登录/付费/访问控制。",
+ "executedQueries": {
+  "webSearch": [
+   "李志 洗心革面 2019 演唱会 南京 歌词 专辑",
+   "李志 \"路\" 你好郑州 歌词 专辑 歌曲",
+   "李志 再见 我爱南京 歌词 专辑",
+   "李志 广场 歌曲 梵高先生 歌词 发行 版本",
+   "李志 在每一条伤心的应天大街上 专辑 歌词 一头偶像 彩色派对",
+   "久石让 梦之歌 精选 专辑 曲目 人声 演唱",
+   "刘维 小小星球 专辑 曲目 歌词",
+   "薛之谦 尘 专辑 曲目 歌词 网易云"
+  ],
+  "webFetch": [
+   "lizhinb.com 首页（栏目结构）",
+   "lizhinb.com/gequ（目录结构）",
+   "lizhinb.com/xz（资源栏目）",
+   "lizhinb.com gequ?oa_album=69/42/43（专辑页）"
+  ],
+  "api": [
+   "lrclib.net /api/search × 313",
+   "st.nj1701.com lrc抽查（格式/可达性/同源对比）"
+  ]
+ },
+ "records": [
+  {
+   "id": "r3-w-001",
+   "type": "fan-site-lyrics-index",
+   "site": "lizhinb.com（关于李志的记忆，歌迷资料站）",
+   "urls": [
+    "https://www.lizhinb.com/gequ/",
+    "https://www.lizhinb.com/xz"
+   ],
+   "what": "全站歌曲目录（33张专辑/475条曲目）内嵌播放器数据含逐曲 lyrics_url —— 指向 st.nj1701.com 的 .lrc 资源。已提取为 lizhinb-lyrics-index.json（album_id/song_index/title/lyricsUrl）。资源下载栏目仅提供音频zip、吉他谱与自传，无独立歌词栏目。",
+   "coverage": {
+    "李志缺失曲目匹配数": 101,
+    "其中严格同名": 48,
+    "含版本后缀变体": 53
+   },
+   "formatVerified": {
+    "抽查文件": "洗心革面《求婚+结婚》",
+    "结果": "HTTP 200；UTF-8；带 [mm:ss.mmm] 时间戳51个；词曲以 [00:00.000] 行序列化；非卡拉OK标签"
+   },
+   "access": {
+    "lrc直链": "未登录可直接获取（抽查HTTP 200）",
+    "音频下载": "站点播放器配置写明下载需登录（未绕过）",
+    "会员体系": "存在（未使用任何账号）"
+   },
+   "copyPermission": "未核实（未发现书面复制许可声明）",
+   "importDecision": "未导入——按本轮边界（导入限用户已有/提供/明确允许复制），该类第三方歌迷站资源复制许可未核实，仅记录",
+   "provenanceSpotCheck": "义乌《黑色信封》：库内文件与站点文件 12/22 行文与时间（±100ms）一致、末位时间戳(304.586s)相同；《死人》：时间轴不一致(0/26)。部分关联，不能证明全部同源。",
+   "note": "歌词正文未写入仓库。"
+  },
+  {
+   "id": "r3-w-002",
+   "type": "open-lyrics-db-probe",
+   "site": "lrclib.net（开放歌词数据库，公开搜索API）",
+   "urls": [
+    "https://lrclib.net"
+   ],
+   "what": "对全部313条缺失音轨逐曲探测（track_name+artist_name），只提取元数据（是否收录/是否同步歌词/时长匹配），未保存歌词文本。结果见 lrclib-probe.json。",
+   "aggregate": {
+    "probed": 313,
+    "found": 138,
+    "closeDurationMatch<=2s": 77,
+    "closeComposition": {
+     "synced": 50,
+     "plainOnly": 10,
+     "instrumentalFlag": 16,
+     "neither": 1
+    }
+   },
+   "lizhi": {
+    "found": 99,
+    "close": 49,
+    "closeSynced": 37
+   },
+   "nonLizhiCloseSynced": 13,
+   "caveats": [
+    "lrclib的instrumental标记含商业曲目伴奏条目（如单车/猜情寻），不能替代本地曲目分类。",
+    "薛之谦/刘维/黄贯中/万晓利/谢天笑等在lrclib未收录；其歌词页面存在于其他平台（本轮抽查确认，见r3-w-007）。"
+   ],
+   "copyPermission": "未核实",
+   "importDecision": "未导入——政策（只记录）。"
+  },
+  {
+   "id": "r3-w-003",
+   "type": "event-and-lyric-pages",
+   "site": "搜狐/百度百科",
+   "urls": [
+    "https://www.sohu.com/a/284059424_115487",
+    "https://www.sohu.com/a/286226450_283596",
+    "https://baike.baidu.com/item/%E6%84%8F%E5%91%B3/19655397",
+    "https://baike.baidu.com/item/%E7%83%AD%E6%B2%B3/16160359"
+   ],
+   "what": "《洗心革面》=2018-12-31 南京欧拉艺术空间 第十次跨年音乐会（网易云直播；嘉宾木马；太合/麦田合作）。百科《意味》《热河》词条存在（含歌词正文，未复制）；《热河》条目注明洗心革面串烧（寻找+忽然+热河）。",
+   "covers": [
+    "洗心革面（歌迷站26轨版）",
+    "洗心革面 - 演唱会录音"
+   ]
+  },
+  {
+   "id": "r3-w-004",
+   "type": "song-and-album-pages",
+   "site": "百度百科",
+   "urls": [
+    "https://baike.baidu.com/item/%E8%B7%AF/7693555",
+    "https://baike.baidu.com/item/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/5947568"
+   ],
+   "what": "《路》：李志、邵夷贝合唱；词曲署名页含歌词正文（未复制）；署名：吉他韩俊、手风琴张玮玮、打击乐荒井壮一郎；收录《你好，郑州》(2010-09-01)。专辑页含完整制作名单（制作人刘威、录音姜北生/黎乐乐、混音姜北生、母带Abbey Road）。",
+   "covers": [
+    "你好，郑州《路》"
+   ]
+  },
+  {
+   "id": "r3-w-005",
+   "type": "song-page-and-lyric-entry",
+   "site": "百度百科/91FLAC",
+   "urls": [
+    "https://baike.baidu.com/item/%E4%B8%80%E5%A4%B4%E5%81%B6%E5%83%8F/20222098",
+    "https://www.91flac.com/song/109325700"
+   ],
+   "what": "《一头偶像》（应天大街，2016-11，南京自由落体文化发展有限公司）：词曲李志；署名（91FLAC页）：编曲李志乐队、吉他袁铮/赵永庆、贝斯张雯、键盘李天雄、鼓余赣宁、打击乐魏星、口琴陈岍、和声朱格乐/阿玛尼/张怡然。含歌词文本（未复制）。",
+   "covers": [
+    "李志、电声与管弦乐II《一头偶像（2017跨年版）》（歌词文本=同名歌曲，时间轴不同）"
+   ]
+  },
+  {
+   "id": "r3-w-006",
+   "type": "album-pages",
+   "site": "bgm.tv/百度百科/中文百科/KKBOX",
+   "urls": [
+    "https://www.bgm.tv/subject/300719",
+    "https://baike.baidu.com/item/%E6%A2%A6%E4%B9%8B%E6%AD%8C%EF%BC%9A%E4%B9%85%E7%9F%B3%E8%AE%A9%E7%B2%BE%E9%80%89/24411489"
+   ],
+   "what": "《梦之歌：久石让精选》(Dream Songs: The Essential Joe Hisaishi)：2020-02-21 Decca Gold，2CD 28曲，全部为重新录制的代表曲；发行署名artist含 広谷順子（人声）。曲目表与KKBOX逐曲时长已记录（器乐为主）。",
+   "covers": [
+    "久石让 28条缺失的器乐属性线索（该精选以重录器乐为主；个别曲目历史有填词/人声版本，本精选版本未逐曲核实唱词）"
+   ]
+  },
+  {
+   "id": "r3-w-007",
+   "type": "official-label-page",
+   "site": "爱贝克思官方/中文百科/百度百科/酷我",
+   "urls": [
+    "https://www.avex.com.tw/artist/artist_disco_songlist.asp?catalogNo=AVCCCD90001",
+    "http://newton.com.tw/wiki/%E5%B0%8F%E5%B0%8F%E6%98%9F%E7%90%83/24681469",
+    "https://baike.baidu.com/item/%E5%B0%8F%E5%B0%8F%E6%98%9F%E7%90%83/24690267"
+   ],
+   "what": "刘维《小小星球》(2020-03-24 爱贝克思)：官方页列10曲+4首配乐(instrumental)：《夢裡好多如果》《該走該留》《流星墜落》《每個人都是》。10曲词曲署名齐全（如《小小星球》词吉小星/陈静楠 曲王植）。歌词页面存在（百度百科《小小星球》条目含正文，未复制）。",
+   "covers": [
+    "刘维 10条缺失（词曲署名已获取）"
+   ]
+  },
+  {
+   "id": "r3-w-008",
+   "type": "album-and-timestamped-pages",
+   "site": "搜狗百科/Wikis.pro/360百科/followlyrics/KKBOX",
+   "urls": [
+    "https://baike.sogou.com/v183845470.htm",
+    "https://wikis.pro/%E5%B0%98_%28%E4%B8%93%E8%BE%91%29",
+    "https://zh.followlyrics.com/lyrics/22586856/chen/amp"
+   ],
+   "what": "薛之谦《尘》：曲目10首，词曲+编曲逐曲署名（Wikis.pro：木偶人-陈迪编曲；慢半拍-Adam Lee/许嵩；等）。followlyrics 提供《尘》的带时间戳页面（[mm:ss.mmm] 级），属可用的“带时间戳来源”；歌词正文未复制。发行日期存在 2019-06-26 与 2019-12-27 两说（并列记录）。",
+   "covers": [
+    "薛之谦 尘 4条缺失"
+   ]
+  },
+  {
+   "id": "r3-w-009",
+   "type": "search-result",
+   "site": "网络检索（未找到）",
+   "urls": [
+    "（多引擎查询：李志 广场 梵高先生 歌词）"
+   ],
+   "what": "《广场》未找到独立歌词页面或词条；与既有结论一致（lizhinb 17轨列表与 MusicBrainz 缓存均未见）。保留未解决。"
+  },
+  {
+   "id": "r3-w-010",
+   "type": "fan-site-album-pages",
+   "site": "lizhinb.com",
+   "urls": [
+    "https://www.lizhinb.com/gequ/?oa_album=43",
+    "https://www.lizhinb.com/gequ/?oa_album=42",
+    "https://www.lizhinb.com/gequ/?oa_album=69"
+   ],
+   "what": "专辑级页面（无歌词正文）：43=二零零九年十月十六日事件(27曲清单)、42=我爱南京(18曲，含「结婚(老狼+万晓利+李志)」「再见(乐曲)」)、69=洗心革面跨年(26曲)。歌词资源统一走 r3-w-001 的 lyrics_url 体系。",
+   "notes": [
+    "我爱南京《再见》在歌迷站标注为「乐曲」。",
+    "二零零九年事件歌迷站版含「弄错的车站」(27曲)，与库内26曲版编排不同。"
+   ]
+  },
+  {
+   "id": "r3-w-011",
+   "type": "credits-page",
+   "site": "百度百科星图",
+   "urls": [
+    "https://baike.baidu.com/starmap/view?nodeId=0cbc6fa2b5f7ce38f20e0446"
+   ],
+   "what": "《结婚》相关署名：「老狼、万晓利、李志主唱，李志作词，江建民作曲」——来源为百科星图摘要，作曲署名与预期不符，未复核，按“待核”记录；不据此填表。",
+   "covers": [
+    "Ballads 01-04/02-04 结婚",
+    "事件版结婚"
+   ]
+  }
+ ]
+}

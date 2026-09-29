@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-09-29T04:10:09.616224+00:00",
+  "totalPlayableTracks": 848,
+  "existingLyricFilesBefore": 516,
+  "existingLyricFilesAfter": 519,
+  "missingTracksBefore": 332,
+  "missingTracksAfter": 329,
+  "newLyricFiles": 3,
+  "newRemoteLyricFiles": 0,
+  "sourceRecords": 104,
+  "uniqueSourceUrls": 46,
+  "tracksWithSourceReferences": 257,
+  "tracksWithoutRecordedSourceThisPass": 75,
+  "recordingClassificationCounts": {
+    "not-reviewed": 268,
+    "confirmed-instrumental": 12,
+    "possible-instrumental": 24,
+    "needs-review": 27,
+    "vocal-or-choral": 1
+  },
+  "localReuseCandidatesReviewed": 8,
+  "verifiedRemoteTimedLyrics": 0,
+  "openlyLicensedRemoteLyricsFound": 0,
+  "scope": "来源与版本核对；未下载或保存网上受版权保护的完整歌词。没有声称逐轨穷尽互联网。"
+}

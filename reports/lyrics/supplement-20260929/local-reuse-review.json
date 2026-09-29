@@ -1,0 +1,697 @@
+{
+  "method": "Read-only FFmpeg accurate seeks into 8-second source windows at 20%, 50%, 80% of the shorter duration; 8kHz mono PCM through stdout; target search +/-4 seconds; mean-removed amplitude-normalized cross-correlation.",
+  "offsetMeaning": "Positive means target audio contains the same sample later than source; source lyric timestamps would need that offset added.",
+  "sampleResolutionMilliseconds": 0.125,
+  "acceptance": {
+    "minimumAbsoluteCorrelationAllWindows": 0.92,
+    "maximumOffsetSpreadMilliseconds": 15,
+    "maximumOffsetForUnchangedTimestampsMilliseconds": 20,
+    "sameCorrelationPolarity": true
+  },
+  "boundary": "Only three short windows were decoded per recording. Strong agreement supports reuse, but does not prove identical structure between unsampled passages or verify that source LRC was aligned correctly.",
+  "results": [
+    {
+      "targetTrackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t01",
+      "sourceLyricPath": "artists/李志/2004 - 被禁忌的游戏/01-07 - 被禁忌的游戏.lrc",
+      "sourceTrackId": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t07",
+      "reason": "同歌手同歌名；精选来源文件名为被禁忌的游戏（2004）.mp3，与候选专辑《被禁忌的游戏》存在版本线索；时长差1.768秒。但来源URL不同，library.versionMatch未确认，无法仅凭近似时长确认起点及剪辑完全一致，暂不可直接复用时间轴。",
+      "confidence": 0.8,
+      "timelineSafe": false,
+      "durationDifference": 1.768,
+      "targetTitle": "被禁忌的游戏",
+      "targetAlbum": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+      "sourceAlbum": "被禁忌的游戏",
+      "status": "needs-recording-verification",
+      "evidence": [
+        {
+          "sourceStartSeconds": 71.219,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 67.219,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.827295,
+          "absoluteCorrelation": 0.827295,
+          "offsetMilliseconds": -2329.5,
+          "zeroOffsetCorrelation": 0.166566,
+          "sourceRms": 0.168983,
+          "targetRms": 0.203812
+        },
+        {
+          "sourceStartSeconds": 184.047,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 180.047,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.865553,
+          "absoluteCorrelation": 0.865553,
+          "offsetMilliseconds": -2329.375,
+          "zeroOffsetCorrelation": 0.050346,
+          "sourceRms": 0.160786,
+          "targetRms": 0.212337
+        },
+        {
+          "sourceStartSeconds": 296.874,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 292.874,
+          "targetSearchSeconds": 16.0,
+          "correlation": -0.679782,
+          "absoluteCorrelation": 0.679782,
+          "offsetMilliseconds": -2326.125,
+          "zeroOffsetCorrelation": -0.026199,
+          "sourceRms": 0.289417,
+          "targetRms": 0.352829
+        }
+      ],
+      "sameRecordingSupportedBySamples": false,
+      "minimumAbsoluteCorrelation": 0.679782,
+      "medianOffsetMilliseconds": -2329.375,
+      "offsetSpreadMilliseconds": 3.375,
+      "maximumAbsoluteOffsetMilliseconds": 2329.5,
+      "canKeepOriginalTimestamps": false,
+      "decision": "recording-or-timing-not-confirmed",
+      "sourceLyricValidation": {
+        "audioDurationSeconds": 377.861,
+        "firstBodyTimestampSeconds": 50.43,
+        "lastBodyTimestampSeconds": 369.33,
+        "validBodyLineCount": 52,
+        "bodyTimestampCount": 52,
+        "bodyLinesWithinAudioDuration": 52,
+        "bodyLinesAfterAudioDuration": 0,
+        "bodyLinesBeforeZero": 0,
+        "lateLines": [],
+        "offsetMilliseconds": 0,
+        "ignoredTimedTitleLines": 0,
+        "timeBoundaryValid": true,
+        "independentVersionMarkers": {
+          "albumTags": [],
+          "versionHeaders": []
+        },
+        "explicitVersionMarkerConflict": false,
+        "sourceVersionVerifiedByLyricMetadata": false,
+        "limitation": "Valid time boundaries do not establish vocal synchronization or the correct performance. These files do not include independent album/version metadata."
+      },
+      "audioAlignmentAllowsOriginalTimestamps": false
+    },
+    {
+      "targetTrackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t02",
+      "sourceLyricPath": "artists/李志/2005 - 梵高先生/01-08 - 梵高先生.lrc",
+      "sourceTrackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t08",
+      "reason": "同歌手同歌名；精选来源文件名为梵高先生（2005）.mp3，与候选专辑《梵高先生》存在版本线索；时长差1.59秒。但来源URL不同，library.versionMatch未确认，无法仅凭近似时长确认起点及剪辑完全一致，暂不可直接复用时间轴。",
+      "confidence": 0.8,
+      "timelineSafe": false,
+      "durationDifference": 1.59,
+      "targetTitle": "梵高先生",
+      "targetAlbum": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+      "sourceAlbum": "梵高先生",
+      "status": "needs-recording-verification",
+      "evidence": [
+        {
+          "sourceStartSeconds": 45.957,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 41.957,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.996338,
+          "absoluteCorrelation": 0.996338,
+          "offsetMilliseconds": -199.0,
+          "zeroOffsetCorrelation": -0.101933,
+          "sourceRms": 0.362529,
+          "targetRms": 0.352633
+        },
+        {
+          "sourceStartSeconds": 120.891,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 116.891,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.998197,
+          "absoluteCorrelation": 0.998197,
+          "offsetMilliseconds": -199.0,
+          "zeroOffsetCorrelation": -0.051779,
+          "sourceRms": 0.376798,
+          "targetRms": 0.367083
+        },
+        {
+          "sourceStartSeconds": 195.826,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 191.826,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.997502,
+          "absoluteCorrelation": 0.997502,
+          "offsetMilliseconds": -199.0,
+          "zeroOffsetCorrelation": -0.123206,
+          "sourceRms": 0.325039,
+          "targetRms": 0.332068
+        }
+      ],
+      "sameRecordingSupportedBySamples": true,
+      "minimumAbsoluteCorrelation": 0.996338,
+      "medianOffsetMilliseconds": -199.0,
+      "offsetSpreadMilliseconds": 0.0,
+      "maximumAbsoluteOffsetMilliseconds": 199.0,
+      "canKeepOriginalTimestamps": false,
+      "decision": "same-recording-offset-needs-review",
+      "sourceLyricValidation": {
+        "audioDurationSeconds": 249.783,
+        "firstBodyTimestampSeconds": 27.81,
+        "lastBodyTimestampSeconds": 242.69,
+        "validBodyLineCount": 19,
+        "bodyTimestampCount": 19,
+        "bodyLinesWithinAudioDuration": 19,
+        "bodyLinesAfterAudioDuration": 0,
+        "bodyLinesBeforeZero": 0,
+        "lateLines": [],
+        "offsetMilliseconds": 0,
+        "ignoredTimedTitleLines": 0,
+        "timeBoundaryValid": true,
+        "independentVersionMarkers": {
+          "albumTags": [],
+          "versionHeaders": []
+        },
+        "explicitVersionMarkerConflict": false,
+        "sourceVersionVerifiedByLyricMetadata": false,
+        "limitation": "Valid time boundaries do not establish vocal synchronization or the correct performance. These files do not include independent album/version metadata."
+      },
+      "audioAlignmentAllowsOriginalTimestamps": false
+    },
+    {
+      "targetTrackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t03",
+      "sourceLyricPath": "artists/李志/2006 - 这个世界会好吗/01-01 - 妈妈.lrc",
+      "sourceTrackId": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t01",
+      "reason": "同歌手同歌名；精选来源文件名为妈妈（2006）.mp3，与候选专辑《这个世界会好吗》存在版本线索；时长差0.94秒。但来源URL不同，library.versionMatch未确认，无法仅凭近似时长确认起点及剪辑完全一致，暂不可直接复用时间轴。",
+      "confidence": 0.88,
+      "timelineSafe": false,
+      "durationDifference": 0.94,
+      "targetTitle": "妈妈",
+      "targetAlbum": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+      "sourceAlbum": "这个世界会好吗",
+      "status": "needs-recording-verification",
+      "evidence": [
+        {
+          "sourceStartSeconds": 44.828,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 40.828,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.924292,
+          "absoluteCorrelation": 0.924292,
+          "offsetMilliseconds": -864.25,
+          "zeroOffsetCorrelation": -0.021014,
+          "sourceRms": 0.291681,
+          "targetRms": 0.281068
+        },
+        {
+          "sourceStartSeconds": 118.07,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 114.07,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.93624,
+          "absoluteCorrelation": 0.93624,
+          "offsetMilliseconds": -864.25,
+          "zeroOffsetCorrelation": -0.061224,
+          "sourceRms": 0.225273,
+          "targetRms": 0.224357
+        },
+        {
+          "sourceStartSeconds": 191.312,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 187.312,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.944237,
+          "absoluteCorrelation": 0.944237,
+          "offsetMilliseconds": -864.25,
+          "zeroOffsetCorrelation": -0.017342,
+          "sourceRms": 0.233731,
+          "targetRms": 0.228865
+        }
+      ],
+      "sameRecordingSupportedBySamples": true,
+      "minimumAbsoluteCorrelation": 0.924292,
+      "medianOffsetMilliseconds": -864.25,
+      "offsetSpreadMilliseconds": 0.0,
+      "maximumAbsoluteOffsetMilliseconds": 864.25,
+      "canKeepOriginalTimestamps": false,
+      "decision": "same-recording-offset-needs-review",
+      "sourceLyricValidation": {
+        "audioDurationSeconds": 244.14,
+        "firstBodyTimestampSeconds": 39.02,
+        "lastBodyTimestampSeconds": 172.35,
+        "validBodyLineCount": 12,
+        "bodyTimestampCount": 12,
+        "bodyLinesWithinAudioDuration": 12,
+        "bodyLinesAfterAudioDuration": 0,
+        "bodyLinesBeforeZero": 0,
+        "lateLines": [],
+        "offsetMilliseconds": 0,
+        "ignoredTimedTitleLines": 0,
+        "timeBoundaryValid": true,
+        "independentVersionMarkers": {
+          "albumTags": [],
+          "versionHeaders": []
+        },
+        "explicitVersionMarkerConflict": false,
+        "sourceVersionVerifiedByLyricMetadata": false,
+        "limitation": "Valid time boundaries do not establish vocal synchronization or the correct performance. These files do not include independent album/version metadata."
+      },
+      "audioAlignmentAllowsOriginalTimestamps": false
+    },
+    {
+      "targetTrackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t10",
+      "sourceLyricPath": "artists/李志/2014 - 1701/01-06 - 热河.lrc",
+      "sourceTrackId": "lizhi-bfe30cec-4119-41e4-9961-338356921a3c-d01-t06",
+      "reason": "同歌手同歌名；精选来源文件名为热河（2014）.mp3，与候选专辑《1701》存在版本线索；时长差1.356秒。但来源URL不同，library.versionMatch未确认，无法仅凭近似时长确认起点及剪辑完全一致，暂不可直接复用时间轴。",
+      "confidence": 0.8,
+      "timelineSafe": false,
+      "durationDifference": 1.356,
+      "targetTitle": "热河",
+      "targetAlbum": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+      "sourceAlbum": "1701",
+      "status": "needs-recording-verification",
+      "evidence": [
+        {
+          "sourceStartSeconds": 77.048,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 73.048,
+          "targetSearchSeconds": 16.0,
+          "correlation": -0.748363,
+          "absoluteCorrelation": 0.748363,
+          "offsetMilliseconds": 187.875,
+          "zeroOffsetCorrelation": 0.121225,
+          "sourceRms": 0.293244,
+          "targetRms": 0.40249
+        },
+        {
+          "sourceStartSeconds": 198.62,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 194.62,
+          "targetSearchSeconds": 16.0,
+          "correlation": -0.755066,
+          "absoluteCorrelation": 0.755066,
+          "offsetMilliseconds": 187.75,
+          "zeroOffsetCorrelation": 0.054195,
+          "sourceRms": 0.286424,
+          "targetRms": 0.386782
+        },
+        {
+          "sourceStartSeconds": 320.192,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 316.192,
+          "targetSearchSeconds": 16.0,
+          "correlation": -0.636316,
+          "absoluteCorrelation": 0.636316,
+          "offsetMilliseconds": 186.875,
+          "zeroOffsetCorrelation": -0.025756,
+          "sourceRms": 0.356582,
+          "targetRms": 0.429154
+        }
+      ],
+      "sameRecordingSupportedBySamples": false,
+      "minimumAbsoluteCorrelation": 0.636316,
+      "medianOffsetMilliseconds": 187.75,
+      "offsetSpreadMilliseconds": 1.0,
+      "maximumAbsoluteOffsetMilliseconds": 187.875,
+      "canKeepOriginalTimestamps": false,
+      "decision": "recording-or-timing-not-confirmed",
+      "sourceLyricValidation": {
+        "audioDurationSeconds": 406.596,
+        "firstBodyTimestampSeconds": 39.61,
+        "lastBodyTimestampSeconds": 314.47,
+        "validBodyLineCount": 36,
+        "bodyTimestampCount": 36,
+        "bodyLinesWithinAudioDuration": 36,
+        "bodyLinesAfterAudioDuration": 0,
+        "bodyLinesBeforeZero": 0,
+        "lateLines": [],
+        "offsetMilliseconds": 0,
+        "ignoredTimedTitleLines": 0,
+        "timeBoundaryValid": true,
+        "independentVersionMarkers": {
+          "albumTags": [],
+          "versionHeaders": []
+        },
+        "explicitVersionMarkerConflict": false,
+        "sourceVersionVerifiedByLyricMetadata": false,
+        "limitation": "Valid time boundaries do not establish vocal synchronization or the correct performance. These files do not include independent album/version metadata."
+      },
+      "audioAlignmentAllowsOriginalTimestamps": false
+    },
+    {
+      "targetTrackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t11",
+      "sourceLyricPath": "artists/李志/2016 - 在每一条伤心的应天大街上/01-04 - 死人.lrc",
+      "sourceTrackId": "lizhi-dde3284d-3c53-4d81-b139-ac11bc831e73-d01-t04",
+      "reason": "同歌手同歌名；精选来源文件名为死人（2016）.mp3，与候选专辑《在每一条伤心的应天大街上》存在版本线索；时长差0.164秒。但来源URL不同，library.versionMatch未确认，无法仅凭近似时长确认起点及剪辑完全一致，暂不可直接复用时间轴。",
+      "confidence": 0.88,
+      "timelineSafe": false,
+      "durationDifference": 0.164,
+      "targetTitle": "死人",
+      "targetAlbum": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+      "sourceAlbum": "在每一条伤心的应天大街上",
+      "status": "needs-recording-verification",
+      "evidence": [
+        {
+          "sourceStartSeconds": 53.898,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 49.898,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.996813,
+          "absoluteCorrelation": 0.996813,
+          "offsetMilliseconds": 219.375,
+          "zeroOffsetCorrelation": -0.058169,
+          "sourceRms": 0.309776,
+          "targetRms": 0.23461
+        },
+        {
+          "sourceStartSeconds": 140.744,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 136.744,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.999436,
+          "absoluteCorrelation": 0.999436,
+          "offsetMilliseconds": 219.375,
+          "zeroOffsetCorrelation": 0.194353,
+          "sourceRms": 0.301036,
+          "targetRms": 0.242857
+        },
+        {
+          "sourceStartSeconds": 227.591,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 223.591,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.997979,
+          "absoluteCorrelation": 0.997979,
+          "offsetMilliseconds": 219.375,
+          "zeroOffsetCorrelation": 0.143285,
+          "sourceRms": 0.320039,
+          "targetRms": 0.259449
+        }
+      ],
+      "sameRecordingSupportedBySamples": true,
+      "minimumAbsoluteCorrelation": 0.996813,
+      "medianOffsetMilliseconds": 219.375,
+      "offsetSpreadMilliseconds": 0.0,
+      "maximumAbsoluteOffsetMilliseconds": 219.375,
+      "canKeepOriginalTimestamps": false,
+      "decision": "same-recording-offset-needs-review",
+      "sourceLyricValidation": {
+        "audioDurationSeconds": 289.489,
+        "firstBodyTimestampSeconds": 0.01,
+        "lastBodyTimestampSeconds": 257.24,
+        "validBodyLineCount": 32,
+        "bodyTimestampCount": 32,
+        "bodyLinesWithinAudioDuration": 32,
+        "bodyLinesAfterAudioDuration": 0,
+        "bodyLinesBeforeZero": 0,
+        "lateLines": [],
+        "offsetMilliseconds": 0,
+        "ignoredTimedTitleLines": 0,
+        "timeBoundaryValid": true,
+        "independentVersionMarkers": {
+          "albumTags": [],
+          "versionHeaders": []
+        },
+        "explicitVersionMarkerConflict": false,
+        "sourceVersionVerifiedByLyricMetadata": false,
+        "limitation": "Valid time boundaries do not establish vocal synchronization or the correct performance. These files do not include independent album/version metadata."
+      },
+      "audioAlignmentAllowsOriginalTimestamps": false
+    },
+    {
+      "targetTrackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t02",
+      "sourceLyricPath": "live/李志/2015 - 看见/01-10 - 梵高先生.lrc",
+      "sourceTrackId": "lizhi-seen-2015-d01-t10",
+      "reason": "同歌手同歌名；精选来源文件名为梵高先生（2015“玩偶之主录音棚”）.mp3，与候选专辑《看见》存在版本线索；时长差0.299秒。但来源URL不同，library.versionMatch未确认，无法仅凭近似时长确认起点及剪辑完全一致，暂不可直接复用时间轴。",
+      "confidence": 0.88,
+      "timelineSafe": false,
+      "durationDifference": 0.299,
+      "targetTitle": "梵高先生",
+      "targetAlbum": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+      "sourceAlbum": "看见",
+      "status": "source-timeline-invalid",
+      "evidence": [
+        {
+          "sourceStartSeconds": 29.332,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 25.332,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.981079,
+          "absoluteCorrelation": 0.981079,
+          "offsetMilliseconds": -9.625,
+          "zeroOffsetCorrelation": -0.216831,
+          "sourceRms": 0.129474,
+          "targetRms": 0.155201
+        },
+        {
+          "sourceStartSeconds": 79.331,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 75.331,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.987349,
+          "absoluteCorrelation": 0.987349,
+          "offsetMilliseconds": -9.625,
+          "zeroOffsetCorrelation": -0.028875,
+          "sourceRms": 0.371084,
+          "targetRms": 0.344156
+        },
+        {
+          "sourceStartSeconds": 129.329,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 125.32900000000001,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.979258,
+          "absoluteCorrelation": 0.979258,
+          "offsetMilliseconds": -9.625,
+          "zeroOffsetCorrelation": -0.138052,
+          "sourceRms": 0.157379,
+          "targetRms": 0.240286
+        }
+      ],
+      "sameRecordingSupportedBySamples": true,
+      "minimumAbsoluteCorrelation": 0.979258,
+      "medianOffsetMilliseconds": -9.625,
+      "offsetSpreadMilliseconds": 0.0,
+      "maximumAbsoluteOffsetMilliseconds": 9.625,
+      "canKeepOriginalTimestamps": false,
+      "decision": "source-timeline-invalid",
+      "sourceLyricValidation": {
+        "audioDurationSeconds": 166.661,
+        "firstBodyTimestampSeconds": 28.33,
+        "lastBodyTimestampSeconds": 235.96,
+        "validBodyLineCount": 18,
+        "bodyTimestampCount": 18,
+        "bodyLinesWithinAudioDuration": 11,
+        "bodyLinesAfterAudioDuration": 7,
+        "bodyLinesBeforeZero": 0,
+        "lateLines": [
+          {
+            "sourceLineNumber": 15,
+            "timesSeconds": [
+              172.77
+            ]
+          },
+          {
+            "sourceLineNumber": 16,
+            "timesSeconds": [
+              205.38
+            ]
+          },
+          {
+            "sourceLineNumber": 17,
+            "timesSeconds": [
+              210.88
+            ]
+          },
+          {
+            "sourceLineNumber": 18,
+            "timesSeconds": [
+              216.9
+            ]
+          },
+          {
+            "sourceLineNumber": 19,
+            "timesSeconds": [
+              223.23
+            ]
+          },
+          {
+            "sourceLineNumber": 20,
+            "timesSeconds": [
+              229.77
+            ]
+          },
+          {
+            "sourceLineNumber": 21,
+            "timesSeconds": [
+              235.96
+            ]
+          }
+        ],
+        "offsetMilliseconds": 0,
+        "ignoredTimedTitleLines": 0,
+        "timeBoundaryValid": false,
+        "independentVersionMarkers": {
+          "albumTags": [],
+          "versionHeaders": []
+        },
+        "explicitVersionMarkerConflict": false,
+        "sourceVersionVerifiedByLyricMetadata": false,
+        "limitation": "Valid time boundaries do not establish vocal synchronization or the correct performance. These files do not include independent album/version metadata."
+      },
+      "audioAlignmentAllowsOriginalTimestamps": true
+    },
+    {
+      "targetTrackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t09",
+      "sourceLyricPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-01 - 看见.lrc",
+      "sourceTrackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t01",
+      "reason": "同歌手同歌名；精选来源文件名为看见（2018 Live“爵士乐与不插电”）.mp3，与候选专辑《爵士乐与不插电新编12首》存在版本线索；时长差2.002秒。但来源URL不同，library.versionMatch未确认，无法仅凭近似时长确认起点及剪辑完全一致，暂不可直接复用时间轴。",
+      "confidence": 0.8,
+      "timelineSafe": false,
+      "durationDifference": 2.002,
+      "targetTitle": "看见",
+      "targetAlbum": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+      "sourceAlbum": "爵士乐与不插电新编12首",
+      "status": "needs-recording-verification",
+      "evidence": [
+        {
+          "sourceStartSeconds": 42.618,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 38.618,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.984643,
+          "absoluteCorrelation": 0.984643,
+          "offsetMilliseconds": 82.125,
+          "zeroOffsetCorrelation": 0.160339,
+          "sourceRms": 0.327968,
+          "targetRms": 0.364593
+        },
+        {
+          "sourceStartSeconds": 112.546,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 108.546,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.984479,
+          "absoluteCorrelation": 0.984479,
+          "offsetMilliseconds": 82.125,
+          "zeroOffsetCorrelation": 0.209858,
+          "sourceRms": 0.239778,
+          "targetRms": 0.336541
+        },
+        {
+          "sourceStartSeconds": 182.473,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 178.473,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.987398,
+          "absoluteCorrelation": 0.987398,
+          "offsetMilliseconds": 82.125,
+          "zeroOffsetCorrelation": 0.201674,
+          "sourceRms": 0.359659,
+          "targetRms": 0.373949
+        }
+      ],
+      "sameRecordingSupportedBySamples": true,
+      "minimumAbsoluteCorrelation": 0.984479,
+      "medianOffsetMilliseconds": 82.125,
+      "offsetSpreadMilliseconds": 0.0,
+      "maximumAbsoluteOffsetMilliseconds": 82.125,
+      "canKeepOriginalTimestamps": false,
+      "decision": "same-recording-offset-needs-review",
+      "sourceLyricValidation": {
+        "audioDurationSeconds": 233.091,
+        "firstBodyTimestampSeconds": 37.96,
+        "lastBodyTimestampSeconds": 179.14,
+        "validBodyLineCount": 18,
+        "bodyTimestampCount": 18,
+        "bodyLinesWithinAudioDuration": 18,
+        "bodyLinesAfterAudioDuration": 0,
+        "bodyLinesBeforeZero": 0,
+        "lateLines": [],
+        "offsetMilliseconds": 0,
+        "ignoredTimedTitleLines": 0,
+        "timeBoundaryValid": true,
+        "independentVersionMarkers": {
+          "albumTags": [],
+          "versionHeaders": []
+        },
+        "explicitVersionMarkerConflict": false,
+        "sourceVersionVerifiedByLyricMetadata": false,
+        "limitation": "Valid time boundaries do not establish vocal synchronization or the correct performance. These files do not include independent album/version metadata."
+      },
+      "audioAlignmentAllowsOriginalTimestamps": false
+    },
+    {
+      "targetTrackId": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t10",
+      "sourceLyricPath": "live/李志/2018 - 爵士乐与不插电新编12首/01-06 - 热河.lrc",
+      "sourceTrackId": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t06",
+      "reason": "同歌手同歌名；精选来源文件名为热河（2018 Live“爵士乐与不插电”）.mp3，与候选专辑《爵士乐与不插电新编12首》存在版本线索；时长差0.567秒。但来源URL不同，library.versionMatch未确认，无法仅凭近似时长确认起点及剪辑完全一致，暂不可直接复用时间轴。",
+      "confidence": 0.88,
+      "timelineSafe": false,
+      "durationDifference": 0.567,
+      "targetTitle": "热河",
+      "targetAlbum": "Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）",
+      "sourceAlbum": "爵士乐与不插电新编12首",
+      "status": "needs-recording-verification",
+      "evidence": [
+        {
+          "sourceStartSeconds": 91.551,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 87.551,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.988184,
+          "absoluteCorrelation": 0.988184,
+          "offsetMilliseconds": 34.125,
+          "zeroOffsetCorrelation": 0.063102,
+          "sourceRms": 0.10064,
+          "targetRms": 0.120766
+        },
+        {
+          "sourceStartSeconds": 234.876,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 230.876,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.985574,
+          "absoluteCorrelation": 0.985574,
+          "offsetMilliseconds": 34.125,
+          "zeroOffsetCorrelation": 0.11527,
+          "sourceRms": 0.269697,
+          "targetRms": 0.323162
+        },
+        {
+          "sourceStartSeconds": 378.202,
+          "sourceWindowSeconds": 8.0,
+          "targetSearchStartSeconds": 374.202,
+          "targetSearchSeconds": 16.0,
+          "correlation": 0.989059,
+          "absoluteCorrelation": 0.989059,
+          "offsetMilliseconds": 34.125,
+          "zeroOffsetCorrelation": 0.091268,
+          "sourceRms": 0.171873,
+          "targetRms": 0.181637
+        }
+      ],
+      "sameRecordingSupportedBySamples": true,
+      "minimumAbsoluteCorrelation": 0.985574,
+      "medianOffsetMilliseconds": 34.125,
+      "offsetSpreadMilliseconds": 0.0,
+      "maximumAbsoluteOffsetMilliseconds": 34.125,
+      "canKeepOriginalTimestamps": false,
+      "decision": "same-recording-offset-needs-review",
+      "sourceLyricValidation": {
+        "audioDurationSeconds": 477.753,
+        "firstBodyTimestampSeconds": 38.909,
+        "lastBodyTimestampSeconds": 313.378,
+        "validBodyLineCount": 41,
+        "bodyTimestampCount": 41,
+        "bodyLinesWithinAudioDuration": 41,
+        "bodyLinesAfterAudioDuration": 0,
+        "bodyLinesBeforeZero": 0,
+        "lateLines": [],
+        "offsetMilliseconds": 0,
+        "ignoredTimedTitleLines": 1,
+        "timeBoundaryValid": true,
+        "independentVersionMarkers": {
+          "albumTags": [],
+          "versionHeaders": []
+        },
+        "explicitVersionMarkerConflict": false,
+        "sourceVersionVerifiedByLyricMetadata": false,
+        "limitation": "Valid time boundaries do not establish vocal synchronization or the correct performance. These files do not include independent album/version metadata."
+      },
+      "audioAlignmentAllowsOriginalTimestamps": false
+    }
+  ]
+}

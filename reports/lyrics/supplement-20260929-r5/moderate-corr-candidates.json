@@ -1,0 +1,420 @@
+[
+ {
+  "round": "r3",
+  "title": "和你在一起 (2016 Live)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t03",
+  "sid": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t05",
+  "mincorr": 0.9969,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r1",
+  "title": "死人",
+  "tid": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t11",
+  "sid": "lizhi-dde3284d-3c53-4d81-b139-ac11bc831e73-d01-t04",
+  "mincorr": 0.9968,
+  "spread_ms": 0.0,
+  "other": {
+   "status": "needs-recording-verification"
+  }
+ },
+ {
+  "round": "r1",
+  "title": "梵高先生",
+  "tid": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t02",
+  "sid": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t08",
+  "mincorr": 0.9963,
+  "spread_ms": 0.0,
+  "other": {
+   "status": "needs-recording-verification"
+  }
+ },
+ {
+  "round": "r3",
+  "title": "山阴路的夏天 (2014 Live)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t08",
+  "sid": "lizhi-1442643e-a76d-4bcf-b2f5-9fbddc1b05c6-d01-t21",
+  "mincorr": 0.9956,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r3",
+  "title": "天空之城 (2009)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t05",
+  "sid": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t05",
+  "mincorr": 0.9949,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r3",
+  "title": "寻找（2017跨年版）",
+  "tid": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t04",
+  "sid": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t06",
+  "mincorr": 0.9921,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r3",
+  "title": "关于郑州的记忆 (2010)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t07",
+  "sid": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t03",
+  "mincorr": 0.9891,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r1",
+  "title": "热河",
+  "tid": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t10",
+  "sid": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t06",
+  "mincorr": 0.9856,
+  "spread_ms": 0.0,
+  "other": {
+   "status": "needs-recording-verification"
+  }
+ },
+ {
+  "round": "r3",
+  "title": "天空之城 (2018 Live)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t05",
+  "sid": "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t07",
+  "mincorr": 0.985,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r1",
+  "title": "看见",
+  "tid": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t09",
+  "sid": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t01",
+  "mincorr": 0.9845,
+  "spread_ms": 0.0,
+  "other": {
+   "status": "needs-recording-verification"
+  }
+ },
+ {
+  "round": "r3",
+  "title": "黑色信封 (2015 Live)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t01",
+  "sid": "lizhi-seen-2015-d01-t02",
+  "mincorr": 0.984,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r1",
+  "title": "梵高先生",
+  "tid": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t02",
+  "sid": "lizhi-seen-2015-d01-t10",
+  "mincorr": 0.9793,
+  "spread_ms": 0.0,
+  "other": {
+   "status": "source-timeline-invalid"
+  }
+ },
+ {
+  "round": "r3",
+  "title": "春末的南方城市 (2005)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t02",
+  "sid": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t03",
+  "mincorr": 0.978,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r3",
+  "title": "苍井空 (2015 Live)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t04",
+  "sid": "lizhi-seen-2015-d01-t03",
+  "mincorr": 0.9662,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r3",
+  "title": "山阴路的夏天 (2011)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t08",
+  "sid": "lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t05",
+  "mincorr": 0.9649,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r3",
+  "title": "春末的南方城市 (2015 Live)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t02",
+  "sid": "lizhi-seen-2015-d01-t04",
+  "mincorr": 0.9618,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r3",
+  "title": "卡夫卡（2016 动静）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t01",
+  "sid": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t04",
+  "mincorr": 0.9393,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r1",
+  "title": "妈妈",
+  "tid": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t03",
+  "sid": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t01",
+  "mincorr": 0.9243,
+  "spread_ms": 0.0,
+  "other": {
+   "status": "needs-recording-verification"
+  }
+ },
+ {
+  "round": "r3",
+  "title": "爱（2009）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t04",
+  "sid": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t07",
+  "mincorr": 0.9219,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r3",
+  "title": "卡夫卡（2004）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t01",
+  "sid": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t06",
+  "mincorr": 0.9118,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "尽头（2011）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t06",
+  "sid": "lizhi-3a52b24e-1c71-4e2d-91b2-b90e13b91617-d01-t02",
+  "mincorr": 0.7526,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "董卓瑶（2015 看见）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t02",
+  "sid": "lizhi-seen-2015-d01-t08",
+  "mincorr": 0.696,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "忽然（2016 动静）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t05",
+  "sid": "lizhi-860b6bbc-fd99-42a9-94bb-0b08af0958f7-d01-t06",
+  "mincorr": 0.664,
+  "spread_ms": 0.0,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "和你在一起 (2006)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t03",
+  "sid": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t03",
+  "mincorr": 0.9376,
+  "spread_ms": 0.125,
+  "other": {
+   "keep": true
+  }
+ },
+ {
+  "round": "r3",
+  "title": "忽然（2010）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t05",
+  "sid": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t04",
+  "mincorr": 0.9106,
+  "spread_ms": 0.125,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "翁庆年的六英镑（2006）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t03",
+  "sid": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t05",
+  "mincorr": 0.9049,
+  "spread_ms": 0.125,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "一个夜晚（2016）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t09",
+  "sid": "lizhi-dde3284d-3c53-4d81-b139-ac11bc831e73-d01-t05",
+  "mincorr": 0.7583,
+  "spread_ms": 0.125,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "翁庆年的六英镑（2018 爵士乐与不插电）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t03",
+  "sid": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t07",
+  "mincorr": 0.6217,
+  "spread_ms": 0.125,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "大象（2014）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t07",
+  "sid": "lizhi-bfe30cec-4119-41e4-9961-338356921a3c-d01-t01",
+  "mincorr": 0.5989,
+  "spread_ms": 0.125,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "黑色信封 (2004)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t01",
+  "sid": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t01",
+  "mincorr": 0.7949,
+  "spread_ms": 0.25,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "倒影（2009）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t10",
+  "sid": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t06",
+  "mincorr": 0.6687,
+  "spread_ms": 0.5,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r1",
+  "title": "热河",
+  "tid": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t10",
+  "sid": "lizhi-bfe30cec-4119-41e4-9961-338356921a3c-d01-t06",
+  "mincorr": 0.6363,
+  "spread_ms": 1.0,
+  "other": {
+   "status": "needs-recording-verification"
+  }
+ },
+ {
+  "round": "r3",
+  "title": "苍井空 (2009)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t04",
+  "sid": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t02",
+  "mincorr": 0.5883,
+  "spread_ms": 1.25,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "这个世界会好吗 (2006)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t10",
+  "sid": "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t09",
+  "mincorr": 0.595,
+  "spread_ms": 2.0,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "墙上的向日葵 (2010)",
+  "tid": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d01-t06",
+  "sid": "lizhi-38d58d47-5f00-4f4b-95aa-f499cdba365b-d01-t01",
+  "mincorr": 0.8035,
+  "spread_ms": 2.625,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r3",
+  "title": "大象（2017 电声与管弦乐）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t07",
+  "sid": "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t10",
+  "mincorr": 0.6417,
+  "spread_ms": 3.25,
+  "other": {
+   "keep": false
+  }
+ },
+ {
+  "round": "r1",
+  "title": "被禁忌的游戏",
+  "tid": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t01",
+  "sid": "lizhi-758a394c-126c-487f-bca1-31ff28467d13-d01-t07",
+  "mincorr": 0.6798,
+  "spread_ms": 3.375,
+  "other": {
+   "status": "needs-recording-verification"
+  }
+ },
+ {
+  "round": "r3",
+  "title": "定西（2014）",
+  "tid": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d01-t08",
+  "sid": "lizhi-bfe30cec-4119-41e4-9961-338356921a3c-d01-t03",
+  "mincorr": 0.58,
+  "spread_ms": 4.25,
+  "other": {
+   "keep": false
+  }
+ }
+]

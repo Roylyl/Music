@@ -1,0 +1,153 @@
+{
+ "generatedAt": "2026-09-29",
+ "round": "supplement-20260929-r4",
+ "scope": "本轮网络检索记录（补查无入口曲目）。只含链接与元数据，未复制歌词正文；公开可读≠允许复制，用户确认亦未视为权利人授权。",
+ "executedQueries": {
+  "webSearch": [
+   "李志 将进酒 歌词 2007 巡演 歌曲 阿兰",
+   "李志 将进酒 君不见 李白 陈涌海 演唱 2007",
+   "李志 将进酒 歌词 李白 诗 演唱 版本",
+   "李志 \"将进酒\" 歌词 豆瓣 现场 2007 星光",
+   "李志 姐姐 歌词 108个关键词 演唱",
+   "万晓利 陀螺 歌词 鸟语 狐狸 达摩流浪者",
+   "老狼 虎口脱险 歌词 来自我心 恋恋风尘",
+   "刘维 小小星球 过问 烟圈 歌词 歌曲",
+   "林俊杰 和自己对话 弹唱 有梦不难 歌词",
+   "陶喆 STUPID POP SONGS 专辑 Moonchild 一点点 歌词",
+   "Beyond 请将手放开 回响 谁命我名字 歌词",
+   "李志 将进酒 星光现场 歌词 现场版"
+  ],
+  "webFetch": [
+   "discogs release/33367331（将进酒DVD）"
+  ]
+ },
+ "records": [
+  {
+   "id": "r4-w-001",
+   "type": "album-page",
+   "site": "Discogs",
+   "urls": [
+    "https://www.discogs.com/release/33367331"
+   ],
+   "what": "李志「将进酒」北京演唱会live（2007-11-11，口袋唱片Pocket Records，DVD双碟、限量3000）：15轨曲目表与库内一致（第1轨《将进酒》、第9轨《想起了他》、第10轨「南方的春末城市」= 库内《春末的南方城市》异写）。",
+   "covers": [
+    "将进酒专辑多轨"
+   ],
+   "note": "未找到《将进酒》曲目词面页面（多轮检索：含李志本人版的歌词未果，2012年即有网友求词未得）——《将进酒》词面归属保留未解决（可能为李白诗演唱版或原创，未获证据）。"
+  },
+  {
+   "id": "r4-w-002",
+   "type": "song-page",
+   "site": "百度百科",
+   "urls": [
+    "https://baike.baidu.com/item/%E9%98%BF%E5%85%B0/7165914"
+   ],
+   "what": "《阿兰》词条：2004《被禁忌的游戏》曲目，吉他李志；版本记录含2009现场/2012 live/工体东路现场——歌曲级入口，将进酒(2007)与108(2013)两个现场版本无专门条目。",
+   "covers": [
+    "108个关键词《阿兰》",
+    "将进酒《阿兰》"
+   ]
+  },
+  {
+   "id": "r4-w-003",
+   "type": "lyric-pages",
+   "site": "左叔电台/无名杂志/幸存者诗刊",
+   "urls": [
+    "http://leftfm.com/12148.html",
+    "https://www.saicn.com/bbs/pre-88-5635.html",
+    "https://surpoetry.com/index.php/artmz/artmz_txt/id/3082"
+   ],
+   "what": "万晓利《陀螺》《鸟语》《达摩流浪者》（及词选页含《狐狸》线索）：歌词页/词选页存在，均词曲万晓利；2009-10-16现场版无专门条目。",
+   "covers": [
+    "二零零九年十月十六日事件 万晓利4曲"
+   ]
+  },
+  {
+   "id": "r4-w-004",
+   "type": "song-page",
+   "site": "百度百科/酷我",
+   "urls": [
+    "https://baike.baidu.com/item/%E8%99%8E%E5%8F%A3%E8%84%B1%E9%99%A9/8108796",
+    "https://bd.kuwo.cn/yinyue/150066"
+   ],
+   "what": "《虎口脱险》：郁冬词曲，2002《晴朗》（华纳）；词条含版本沿革（2002录音室/2016我是歌手等）。2009-10-16现场版无专门条目。",
+   "covers": [
+    "二零零九年十月十六日事件《虎口脱険》"
+   ]
+  },
+  {
+   "id": "r4-w-005",
+   "type": "timestamped-lyric-pages",
+   "site": "90歌词网/快懂百科/LINE MUSIC",
+   "urls": [
+    "https://www.90lrc.cn/geci/106528.html",
+    "https://www.90lrc.cn/geci/106531.html"
+   ],
+   "what": "刘维《过问》（词张鹏鹏/曲邓强中）、《烟圈》（词张粒沙/曲王植）：90lrc.cn 提供带时间戳 LRC（页面含下载数与LRC块）；LINE MUSIC/快懂百科为文本页。均对应录音室版。",
+   "covers": [
+    "小小星球《过问》",
+    "小小星球《烟圈》"
+   ],
+   "note": "小小星球其余曲目预计同站可查（下一批）。"
+  },
+  {
+   "id": "r4-w-006",
+   "type": "song-pages",
+   "site": "百度百科/酷我/求真百科",
+   "urls": [
+    "https://baike.baidu.com/item/%E6%9C%89%E6%A2%A6%E4%B8%8D%E9%9A%BE/18873668"
+   ],
+   "what": "林俊杰《有梦不难》：方文山词/林俊杰曲，合唱张怀颢、周信廷，收录2015-12-25《和自己对话》。条目含歌词。《弹唱》未单独确认（下一批）。",
+   "covers": [
+    "和自己对话《有梦不难》"
+   ]
+  },
+  {
+   "id": "r4-w-007",
+   "type": "song-pages",
+   "site": "百度百科/musico.wiki",
+   "urls": [
+    "https://baike.baidu.com/item/MOONCHILD/65589557",
+    "https://baike.baidu.com/item/%E4%B8%80%E7%82%B9%E7%82%B9/65589560",
+    "https://musico.wiki/mediawiki/index.php?title=Moonchild_(%E9%99%B6%E5%96%86)"
+   ],
+   "what": "陶喆《STUPID POP SONGS》(2025-04-15)：Moonchild（李焯雄词/陶喆曲，含完整制作名单）、一点点（词曲编陶喆）条目已定位；专辑其余曲目预计有同类条目（下一批）。",
+   "covers": [
+    "STUPID POP SONGS《Moonchild》《一点点》"
+   ]
+  },
+  {
+   "id": "r4-w-008",
+   "type": "lyric-pages",
+   "site": "百度百科/觅歌词/中文百科",
+   "urls": [
+    "https://baike.baidu.com/item/%E8%B0%81%E5%91%BD%E6%88%91%E5%90%8D%E5%AD%97",
+    "https://www.migeci.com/geci/287237.html",
+    "https://www.newton.com.tw/wiki/%E8%AB%8B%E5%B0%87%E6%89%8B%E6%94%BE%E9%96%8B"
+   ],
+   "what": "Beyond《谁命我名字》（词曲黄贯中；国际爱护动物基金公益曲）、《回响》（词黄家强/李焯雄）——词条与带时间戳页（migeci LRC）已定位；1997《请将手放开》专辑页含全文。发行日期两说（1996/1997-04-01）并列记录。",
+   "covers": [
+    "请将手放开《回响》《谁命我名字》"
+   ]
+  },
+  {
+   "id": "r4-w-009",
+   "type": "unresolved-search",
+   "site": "网络多引擎",
+   "urls": [
+    "https://zhidao.baidu.com/question/392313087"
+   ],
+   "what": "《姐姐》(108个关键词)：同名作品歧义（检索到的多为他人作品）；若为张楚《姐姐》翻唱则歌词页存在（未确认归属）。保留未解决。",
+   "covers": [
+    "108个关键词《姐姐》"
+   ]
+  },
+  {
+   "id": "r4-w-010",
+   "type": "pending-list",
+   "site": "-",
+   "urls": [],
+   "what": "本轮未逐条检索（列入下一批）：李荣浩(模特/有理想/纵横四海/麻雀/嗯/耳朵/黑马 11条)、黄贯中(黑白5条)、陈奕迅(与我常在/单车/猜情寻 4条)、崔健、鲍家街43号、张悬、许嵩、蔡徐坤、谢天笑、逃跑计划、蛙池、岛屿心情、刘森、反光镜乐队、水仙斗活佛、王若琳、林保怡等单曲及金城兰州/年少无知/Despacito缓缓/过/Stay With You等；薛之谦沿用r3记录（followlyrics带时间戳页已录）。"
+  }
+ ]
+}

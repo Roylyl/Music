@@ -1,0 +1,669 @@
+{
+  "generatedAt": "2026-09-29T12:04:54+08:00",
+  "sourceList": "missing-tracks.json",
+  "searchRounds": 4,
+  "reviewedTracks": 64,
+  "classificationCounts": {
+    "confirmed-instrumental": 12,
+    "possible-instrumental": 24,
+    "needs-review": 27,
+    "vocal-or-choral": 1
+  },
+  "method": "只读曲目目录并检索发行信息、录音署名与歌迷目录；未下载音频、未抓取完整歌词、未改动Music仓库。",
+  "classificationPolicy": {
+    "confirmed-instrumental": "发行方明确标注器乐，或此录音有明确的钢琴独奏/器乐版本信息。仅描述此版，不扩展到同名其他版。",
+    "possible-instrumental": "器乐编制或二手曲目说明支持，但证据尚不足以确定完全没有人声。不得生成假歌词或永久排除检索。",
+    "vocal-or-choral": "此录音明确署名人声；仍需区分有词演唱与无词吟唱。",
+    "needs-review": "串烧、说话、现场版本或相互冲突的说明，需按录音版本继续核对。"
+  },
+  "notes": [
+    "久石让专辑版本与曲序以环球音乐官方发行页核对；演奏署名主要采用MusicBrainz，另以唱片资料转录交叉核对。仅凭原作品有词作者不能判断精选中的特定录音有演唱。",
+    "confidence是对分流结论的把握，不是“没有歌词”的概率；needs-review高分仍表示应继续核对。",
+    "没有实际试听，所以不把久石让全专辑标为已确认纯音乐。",
+    "李志串烧、现场器乐及讲话继续保留各自trackId，不共用其他版本时间轴。"
+  ],
+  "albumIdentityEvidenceUrl": "https://www.universal-music.co.jp/hisaishi-joe/products/umck-1638/",
+  "crossCheckEvidenceUrl": "https://hibikihajime.com/?p=32716",
+  "reviews": [
+    {
+      "trackIds": [
+        "apple-6e02b84c7a911691"
+      ],
+      "title": "我的知己在街头 (Instrumental Version)",
+      "classification": "confirmed-instrumental",
+      "evidenceUrl": "https://music.apple.com/hk/song/1070689457",
+      "evidence": "官方Apple Music发行曲名明确标注Instrumental Version，专辑与本地版本一致。",
+      "confidence": 0.99
+    },
+    {
+      "trackIds": [
+        "apple-1460dedf8af8d8a7"
+      ],
+      "title": "旧历 (Instrumental Version)",
+      "classification": "confirmed-instrumental",
+      "evidenceUrl": "https://music.apple.com/hk/song/1070689460",
+      "evidence": "官方Apple Music发行曲名明确标注Instrumental Version，专辑与本地版本一致。",
+      "confidence": 0.99
+    },
+    {
+      "trackIds": [
+        "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t01"
+      ],
+      "title": "你离开了南京，从此没有人和我说话（乐曲）",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://www.newton.com.tw/wiki/你離開了南京，從此沒有人和我說話",
+      "evidence": "本地正式曲名标乐曲，百科记为纯音乐；网上填词存在后配词情形，不应据此补为原版歌词。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "lizhi-083e1542-8767-4a92-8465-bc3fb233b8b9-d01-t08"
+      ],
+      "title": "交河（乐曲）",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://lyrics.nocp.space/docs/lizhi/has-man-a-future/3",
+      "evidence": "本地曲名标乐曲，歌迷资料页明确记为纯音乐；缺少一手发行演奏说明。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "lizhi-46c5e5b4-84a7-40d5-bed9-7383ae6202ca-d01-t01"
+      ],
+      "title": "她+我们不能失去信仰+1990年的春",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-io-2015-d01-t05"
+      ],
+      "title": "下雨+董卓瑶+忽然",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-io-2015-d01-t10"
+      ],
+      "title": "鸵鸟+天空之城+我们不能失去信仰",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-seen-2015-d01-t05"
+      ],
+      "title": "你离开了南京，从此没有人和我说话",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "同名原作常标器乐，但此条为现场或精选录音，时长不同；目录不足以排除现场念白或其他内容。",
+      "confidence": 0.93
+    },
+    {
+      "trackIds": [
+        "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t01"
+      ],
+      "title": "序曲：调音",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://zh.wikipedia.org/wiki/和自己对话",
+      "evidence": "专辑曲表标注纯音乐，时长与本地相差约1至2秒；未取得独立一手演奏署名。",
+      "confidence": 0.84
+    },
+    {
+      "trackIds": [
+        "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t03"
+      ],
+      "title": "序曲：中场休息",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://zh.wikipedia.org/wiki/和自己对话",
+      "evidence": "专辑曲表标注纯音乐，时长与本地相差约1至2秒；未取得独立一手演奏署名。",
+      "confidence": 0.84
+    },
+    {
+      "trackIds": [
+        "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t11"
+      ],
+      "title": "序曲：12年前 (口白)",
+      "classification": "needs-review",
+      "evidenceUrl": "https://zh.wikipedia.org/wiki/和自己对话",
+      "evidence": "本地曲名标注口白，百科曲表却标纯音乐；存在冲突，不能确认无语言内容。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t13"
+      ],
+      "title": "序曲：海边 初",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://zh.wikipedia.org/wiki/和自己对话",
+      "evidence": "专辑曲表标注纯音乐，时长与本地相差约1至2秒；未取得独立一手演奏署名。",
+      "confidence": 0.84
+    },
+    {
+      "trackIds": [
+        "qq-林俊杰-和自己对话 From M.E. To Myself-d01-t16"
+      ],
+      "title": "序曲：海边 终",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://zh.wikipedia.org/wiki/和自己对话",
+      "evidence": "专辑曲表标注纯音乐，时长与本地相差约1至2秒；未取得独立一手演奏署名。",
+      "confidence": 0.84
+    },
+    {
+      "trackIds": [
+        "lizhi-a2df0227-b7ae-4408-95c8-79baf1099f39-d01-t01"
+      ],
+      "title": "序曲 - 2016跨年版",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "现场目录可确认序曲名称，但不足以确认本次录音是否包含念白或演唱。",
+      "confidence": 0.8
+    },
+    {
+      "trackIds": [
+        "lizhi-6a798753-fe04-4301-b727-3b0b9be33fa1-d01-t01"
+      ],
+      "title": "相信未来序曲（2017跨年版）",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "歌迷站将此序曲标为乐曲；仍须核对本地2017跨年录音是否同版及有无现场念白。",
+      "confidence": 0.8
+    },
+    {
+      "trackIds": [
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t02"
+      ],
+      "title": "你好明天+不多+杭州",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t03"
+      ],
+      "title": "你离开了南京，从此没有人和我说话",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "同名原作常标器乐，但此条为现场或精选录音，时长不同；目录不足以排除现场念白或其他内容。",
+      "confidence": 0.93
+    },
+    {
+      "trackIds": [
+        "lizhi-2faf828e-04f3-4410-9a84-e88c547ffdda-d01-t10"
+      ],
+      "title": "寻找+忽然+热河",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d01-t01"
+      ],
+      "title": "那个夏天 (选自 千与千寻)",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d01-t02"
+      ],
+      "title": "Kiki's Delivery Service (选自 魔女宅急便)",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d01-t03"
+      ],
+      "title": "Summer (选自 菊次郎的夏天)",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d01-t04"
+      ],
+      "title": "il porco rosso (选自 红猪)",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d01-t05"
+      ],
+      "title": "Madness (选自 红猪)",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d01-t06"
+      ],
+      "title": "Water Traveller (选自 水之旅人)",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d01-t07"
+      ],
+      "title": "东风",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d01-t08"
+      ],
+      "title": "沉默的爱 (选自 那年夏天，宁静的海)",
+      "classification": "vocal-or-choral",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列有Junko Hirotani演唱；是否有可转写词句仍待确认。",
+      "confidence": 0.99
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d01-t09"
+      ],
+      "title": "Departures (选自 入殓师)",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d01-t10"
+      ],
+      "title": "PRINCESS MONONOKE (选自 幽灵公主)",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d01-t11"
+      ],
+      "title": "天人的音乐",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d01-t12"
+      ],
+      "title": "My Neighbour TOTORO (选自 龙猫)",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此版列管弦演奏；须与有演唱的主题歌区分。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t01"
+      ],
+      "title": "Ballade (选自 大佬)",
+      "classification": "confirmed-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音的演奏署名为钢琴独奏。",
+      "confidence": 0.95
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t02"
+      ],
+      "title": "KIDS RETURN (选自 坏孩子的天空)",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t03"
+      ],
+      "title": "梦游亚细亚",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t04"
+      ],
+      "title": "生辰",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t05"
+      ],
+      "title": "Innocent (选自 天空之城)",
+      "classification": "confirmed-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音的演奏署名为钢琴独奏。",
+      "confidence": 0.95
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t06"
+      ],
+      "title": "Fantasia (for Nausicaä) (选自 风之谷)",
+      "classification": "confirmed-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音的演奏署名为钢琴独奏。",
+      "confidence": 0.95
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t07"
+      ],
+      "title": "HANA-BI (选自 花火)",
+      "classification": "confirmed-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音的演奏署名为钢琴独奏。",
+      "confidence": 0.95
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t08"
+      ],
+      "title": "风之甬道 (风中森林) (选自 龙猫)",
+      "classification": "confirmed-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音的演奏署名为钢琴独奏。",
+      "confidence": 0.95
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t09"
+      ],
+      "title": "天使的春天",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t10"
+      ],
+      "title": "乡愁",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t11"
+      ],
+      "title": "春天",
+      "classification": "confirmed-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音的演奏署名为钢琴独奏。",
+      "confidence": 0.95
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t12"
+      ],
+      "title": "生命之风",
+      "classification": "confirmed-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音的演奏署名为钢琴独奏。",
+      "confidence": 0.95
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t13"
+      ],
+      "title": "Ashitaka and San",
+      "classification": "confirmed-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音的演奏署名为钢琴独奏。",
+      "confidence": 0.95
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t14"
+      ],
+      "title": "Ponyo on the Cliff by the Sea (选自 悬崖上的波妞)",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此版列器乐编制；原作有词不等于此录音有演唱。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t15"
+      ],
+      "title": "怀旧电影",
+      "classification": "possible-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "此录音列器乐编制，未列演唱；尚未经试听确认。",
+      "confidence": 0.88
+    },
+    {
+      "trackIds": [
+        "qq-久石让-梦之歌：久石让精选-d02-t16"
+      ],
+      "title": "人生的旋转木马 (选自 哈尔的移动城堡)",
+      "classification": "confirmed-instrumental",
+      "evidenceUrl": "https://musicbrainz.org/release/8e9673fa-ca7d-4b16-8381-a93a64eb4f2b",
+      "evidence": "录音关联明确标为器乐版本。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t12"
+      ],
+      "title": "你离开了南京, 从此没有人和我说话",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "同名原作常标器乐，但此条为现场或精选录音，时长不同；目录不足以排除现场念白或其他内容。",
+      "confidence": 0.93
+    },
+    {
+      "trackIds": [
+        "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t12"
+      ],
+      "title": "你离开了南京, 从此没有人和我说话",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "同名原作常标器乐，但此条为现场或精选录音，时长不同；目录不足以排除现场念白或其他内容。",
+      "confidence": 0.93
+    },
+    {
+      "trackIds": [
+        "qq-周杰伦-最伟大的作品-d01-t01"
+      ],
+      "title": "Intro",
+      "classification": "confirmed-instrumental",
+      "evidenceUrl": "https://sonymusic.com.tw/album/jay-chou-greatest-works-of-art/",
+      "evidence": "索尼音乐官方专辑介绍明确说明Intro为钢琴演奏。",
+      "confidence": 1.0
+    },
+    {
+      "trackIds": [
+        "lizhi-tokyo-2024-d01-t01"
+      ],
+      "title": "关于郑州的记忆+董卓瑶+春末的南方城市",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-tokyo-2024-d01-t07"
+      ],
+      "title": "鸵鸟+墙上的向日葵+鼠说",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-tokyo-2024-d02-t02"
+      ],
+      "title": "被禁忌的游戏+定西+一个夜晚",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-tokyo-2024-d02-t03"
+      ],
+      "title": "大象+门+来了+热河",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-tokyo-2024-d02-t04"
+      ],
+      "title": "寻找+忽然",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-tokyo-2024-d02-t06"
+      ],
+      "title": "你离开了南京，从此没有人和我说话",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "同名原作常标器乐，但此条为现场或精选录音，时长不同；目录不足以排除现场念白或其他内容。",
+      "confidence": 0.93
+    },
+    {
+      "trackIds": [
+        "lizhi-kuala-lumpur-2025-d01-t04"
+      ],
+      "title": "逼言逼语",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=4",
+      "evidence": "目录列为现场讲话段；这3条本地记录都指向04逼言逼语.MP3且时长相同，需先确认源映射，不能认定为3段不同录音。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-kuala-lumpur-2025-d01-t10"
+      ],
+      "title": "逼言逼语",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=4",
+      "evidence": "目录列为现场讲话段；这3条本地记录都指向04逼言逼语.MP3且时长相同，需先确认源映射，不能认定为3段不同录音。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-kuala-lumpur-2025-d01-t25"
+      ],
+      "title": "逼言逼语",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/?oa_album=72&oa_song=4",
+      "evidence": "目录列为现场讲话段；这3条本地记录都指向04逼言逼语.MP3且时长相同，需先确认源映射，不能认定为3段不同录音。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-washing-2019-fan-26-d01-t09"
+      ],
+      "title": "求婚+结婚",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-washing-2019-fan-26-d01-t11"
+      ],
+      "title": "董卓瑶+春末的南方城市",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-washing-2019-fan-26-d01-t16"
+      ],
+      "title": "你好明天+不多+杭州",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-washing-2019-fan-26-d01-t20"
+      ],
+      "title": "寻找+忽然+热河",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-washing-2019-fan-26-d01-t23"
+      ],
+      "title": "尽头+来了",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "本地曲名表明是连曲；歌迷站提供曲目对照，但不能由目录确认此录音逐段内容，需独立核对歌词及时间轴。",
+      "confidence": 0.97
+    },
+    {
+      "trackIds": [
+        "lizhi-washing-2019-fan-26-d01-t25"
+      ],
+      "title": "你离开了南京，从此没有人和我说话",
+      "classification": "needs-review",
+      "evidenceUrl": "https://www.lizhinb.com/gequ/",
+      "evidence": "同名原作常标器乐，但此条为现场或精选录音，时长不同；目录不足以排除现场念白或其他内容。",
+      "confidence": 0.93
+    }
+  ]
+}

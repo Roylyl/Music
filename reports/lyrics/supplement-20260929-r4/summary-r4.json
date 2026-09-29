@@ -1,0 +1,98 @@
+{
+ "generatedAt": "2026-09-29",
+ "round": "supplement-20260929-r4",
+ "totalPlayableTracks": 848,
+ "statusCounts": {
+  "has-lyrics": 521,
+  "missing": 285,
+  "instrumental": 13,
+  "version-pending": 14,
+  "new-this-round": 14,
+  "timeline-anomaly": 1
+ },
+ "newLyricFiles": 0,
+ "newTimedLyricFiles": 0,
+ "newUntimedLyricFiles": 0,
+ "importNote": "本轮无新增导入：库内遗漏候选18对全部未通过音频验证；网络候选复制许可未核实（用户明确：公开可读≠允许复制；用户确认亦不等于权利人授权），未导入。",
+ "r4InLibraryRetest": {
+  "pairsTested": 18,
+  "matches": 0,
+  "scope": "r1-r3从未测试过的同曲候选（Δ≤8s 全量14对 + 边际probe 4对）"
+ },
+ "entryCounts": {
+  "validLyricEntries": 170,
+  "noValidEntry": 143,
+  "r4NewEntries": 14,
+  "definition": "有效入口=lizhinb匹配 ∪ lrclib带时间戳/纯文本 ∪ 本轮检索确认的歌词页面；按trackId去重（两源同曲不重复计）"
+ },
+ "dualSourceRows": 62,
+ "blocked": {
+  "byCopyPermissionUnverified": 170,
+  "byVersionOnly_noImportableCandidate": 11,
+  "note": "两类别可重叠；版本类即“有本地同曲候选但非同录音/未通过”，复制许可类即“有外部歌词入口但许可未核实”"
+ },
+ "stillMissing": 313,
+ "nextBatchSuggestions": [
+  {
+   "trackId": "lizhi-jiangjinjiu-d01-t01",
+   "title": "将进酒",
+   "album": "将进酒",
+   "why": "词面归属待确认（可能为李白诗演唱版/原创）；Discogs发行页已核（2007-11-11星光现场）"
+  },
+  {
+   "trackId": "lizhi-211ffdd9-238e-4c6d-858d-a38f725e0493-d01-t05",
+   "title": "广场",
+   "album": "梵高先生",
+   "why": "无公开歌词页；需歌迷社群/现场听辨"
+  },
+  {
+   "trackId": "lizhi-ting-zhengzhou-2014-d01-t07",
+   "title": "忽然 余赣宁",
+   "album": "挺 不插电巡演 郑州站",
+   "why": "2014挺巡演现场；无同源候选，需专项检索"
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t09",
+   "title": "一个夜晚（2019 洗心革面）",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "why": "两版洗心革面同曲均缺歌词，获得其一即可双版本受益（双缺目标）"
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t10",
+   "title": "倒影（2019 洗心革面）",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "why": "同上（双缺目标）"
+  },
+  {
+   "trackId": "lizhi-f441c560-c866-410a-a53e-432f3e69b809-d02-t04",
+   "title": "爱（2018 爵士乐与不插电）",
+   "album": "Best Selection Songs 2004-2018 Vol.3 - 倒影",
+   "why": "爵士12首同录音缺歌词；双缺目标"
+  },
+  {
+   "trackId": "lizhi-7c2d7ddb-9446-4c59-a9ac-42582d4ea6bc-d02-t07",
+   "title": "关于郑州的记忆 (2018 Live)",
+   "album": "Best Selection Songs 2004-2018",
+   "why": "电声与管弦乐II/爵士12首同录音互缺"
+  },
+  {
+   "trackId": "apple-29c0294e47bc52e4",
+   "title": "猜情寻",
+   "album": "Live for Today",
+   "why": "双缺目标（Live for Today + 广东精选两版均缺，同录音两副本）"
+  },
+  {
+   "trackId": "apple-9b833b04e867c178",
+   "title": "抗战二十年 (Live)",
+   "album": "Live Must Go On Series : Beyond 超越 Beyond Live 03 - Since 1983 (Live)",
+   "why": "双缺目标（Live03 + 二十周年精选）"
+  },
+  {
+   "trackId": "lizhi-355106ea-2263-4983-b24a-42d225d222ad-d01-t03",
+   "title": "结婚",
+   "album": "我爱南京",
+   "why": "Ballads双版 + 事件版；多缺目标"
+  }
+ ],
+ "boundary": "未修改音频/元数据/文件名/目录结构；未覆盖已有歌词；未执行git操作；未复制网上歌词正文；未绕过访问限制。"
+}

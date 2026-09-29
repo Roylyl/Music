@@ -1,0 +1,52 @@
+{
+ "generatedAt": "2026-09-29",
+ "round": "supplement-20260929-r5",
+ "baseline": {
+  "missing": 313
+ },
+ "newFiles": {
+  "total": 155,
+  "synced": 153,
+  "note": "按来源：lizhinb 138、lrclib 14、库内复用 3",
+  "syncedNote": "同步时间戳153（歌迷站138+库内复用3+lrclib同步12）；纯文本2（lrclib）"
+ },
+ "newFilesDetail": {
+  "lizhinb": 138,
+  "lrclib": 14,
+  "localReuse": 3,
+  "lrclibSynced": 12,
+  "lrclibPlain": 2
+ },
+ "lizhinbQuality": {
+  "written": 136,
+  "placeholderSkipped": 7,
+  "serverMissing": 5,
+  "noSource": 1
+ },
+ "remaining": {
+  "total": 158,
+  "lizhi": 23,
+  "other": 135,
+  "lizhiBreakdown": {
+   "将进酒整档无源": 11,
+   "广场（两处，站点无条目）": 2,
+   "站点服务器文件缺失(404)": 5,
+   "站点标注纯音乐/无唱词（未建文件）": 5
+  },
+  "lizhiByAlbum": {
+   "梵高先生": 1,
+   "这个世界会好吗": 1,
+   "将进酒": 11,
+   "我爱南京": 1,
+   "IMAGINE": 1,
+   "108个关键词": 2,
+   "在每一条伤心的应天大街上": 1,
+   "李志、电声与管弦乐": 1,
+   "李志、电声与管弦乐II": 1,
+   "洗心革面 - 演唱会录音": 1,
+   "Best Selection Songs 200": 1,
+   "洗心革面（歌迷站26轨版）": 1
+  }
+ },
+ "stillNoEntry": 98
+}
