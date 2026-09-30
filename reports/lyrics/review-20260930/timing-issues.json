@@ -1,0 +1,79 @@
+[
+  {
+    "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t01",
+    "path": "live/李志/2009 - 工体东路没有人/01-01 - 被禁忌的游戏.lrc",
+    "issues": [
+      {
+        "type": "timestamp-overrun",
+        "last": 347.12,
+        "duration": 330.736
+      }
+    ]
+  },
+  {
+    "id": "lizhi-200dad30-e066-4956-bc59-88f98524563d-d01-t07",
+    "path": "live/李志/2009 - 工体东路没有人/01-07 - 春末的南方城市.lrc",
+    "issues": [
+      {
+        "type": "timestamp-overrun",
+        "last": 235.57,
+        "duration": 200.725
+      }
+    ]
+  },
+  {
+    "id": "lizhi-seen-2015-d01-t01",
+    "path": "live/李志/2015 - 看见/01-01 - 看见.lrc",
+    "issues": [
+      {
+        "type": "timestamp-overrun",
+        "last": 179.14,
+        "duration": 140.016
+      }
+    ]
+  },
+  {
+    "id": "lizhi-seen-2015-d01-t10",
+    "path": "live/李志/2015 - 看见/01-10 - 梵高先生.lrc",
+    "issues": [
+      {
+        "type": "timestamp-overrun",
+        "last": 235.96,
+        "duration": 166.661
+      }
+    ]
+  },
+  {
+    "id": "lizhi-8b283e60-70fa-46ea-a564-675db0444a8b-d01-t08",
+    "path": "live/李志/2018 - 爵士乐与不插电新编12首/01-08 - 死人.lrc",
+    "issues": [
+      {
+        "type": "timestamp-overrun",
+        "last": 256.83,
+        "duration": 250.253
+      }
+    ]
+  },
+  {
+    "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d01-t05",
+    "path": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/01-05 - 铅笔.lrc",
+    "issues": [
+      {
+        "type": "timestamp-overrun",
+        "last": 294.28,
+        "duration": 275.387
+      }
+    ]
+  },
+  {
+    "id": "lizhi-30817cce-0960-44cd-b570-d39bcd8c8de5-d02-t11",
+    "path": "collections/李志/2020 - Best Selection Songs 2004-2018 Vol.2 - Ballads（叙事歌）/02-11 - 死人.lrc",
+    "issues": [
+      {
+        "type": "timestamp-overrun",
+        "last": 256.83,
+        "duration": 251.093
+      }
+    ]
+  }
+]

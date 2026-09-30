@@ -1,0 +1,10 @@
+[
+  {
+    "trackId": "other-羅大佑-and-蔣志光-1991-皇后大道東-d01-t01",
+    "target": "artists/罗大佑 & 蒋志光/1991 - 皇后大道东/01-01 - 皇后大道东.lrc",
+    "source": "artists/罗大佑 & 蒋志光/1990 - 蒋志光与他的朋友/01-06 - 皇后大道东.lrc",
+    "mode": "local-text-reuse",
+    "timed": false,
+    "basis": "Exact local song title and same credited artists. Existing user-owned text reused as work-level lyrics; target-edition transcription and timing are not independently verified. Version-specific production/performance credits omitted."
+  }
+]
