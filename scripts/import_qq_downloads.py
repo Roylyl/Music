@@ -16,6 +16,7 @@ import urllib.request
 from mutagen.id3 import APIC, TALB, TDRC, TIT2, TPE1, TPE2, TPOS, TRCK
 from mutagen.mp3 import MP3
 from PIL import Image, ImageOps
+from windows_paths import safe_component
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -153,7 +154,7 @@ def main():
             continue
         if existing is None:
             stamp = next((release_date(row) for row in rows if release_date(row)), None)
-            folder = Path("artists") / safe(artist) / (f"{stamp[:4] if stamp else '年份待核'} - {safe(title)}")
+            folder = Path("artists") / safe_component(artist) / safe_component(f"{stamp[:4] if stamp else '年份待核'} - {title}")
             existing = {"id": "qq-album-" + safe(artist) + "-" + safe(title), "artist": artist,
                         "title": title, "releaseDate": stamp,
                         "releaseDatePrecision": "day" if stamp and len(stamp) == 10 else "year" if stamp else None,
@@ -196,7 +197,7 @@ def main():
             replaced.append(row["source"])
         else:
             album = next(a for a in albums if a["artist"] == row["artist"] and a["title"] == row["album"])
-            filename = f'{row["disc"]:02d}-{row["track"]:02d} - {safe(row["title"])}.mp3'
+            filename = f'{row["disc"]:02d}-{row["track"]:02d} - {safe_component(row["title"])}.mp3'
             destination = ROOT / album["path"] / filename
             if destination.exists():
                 raise FileExistsError(destination)

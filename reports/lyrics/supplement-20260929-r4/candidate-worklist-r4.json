@@ -5301,7 +5301,7 @@
    "artist": "陈奕迅 & eason and the duo band",
    "album": "L.O.V.E.",
    "duration": 16.441,
-   "src": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-01 - 8:15pm.mp3",
+   "src": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E/01-01 - 8：15pm.mp3",
    "sourceEntries": [
     {
      "source": "lrclib",
@@ -5324,7 +5324,7 @@
    "artist": "陈奕迅 & eason and the duo band",
    "album": "L.O.V.E.",
    "duration": 236.639,
-   "src": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E./01-12 - 我们万岁.mp3",
+   "src": "artists/陈奕迅 & eason and the duo band/2018 - L.O.V.E/01-12 - 我们万岁.mp3",
    "sourceEntries": [],
    "localSameTitleDonors": [],
    "importable": "no",

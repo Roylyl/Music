@@ -9,6 +9,7 @@ import urllib.request
 
 from mutagen import File
 from PIL import Image
+from windows_paths import safe_component
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -43,9 +44,9 @@ for artist, title, release_date, kind, track_no, song, filename, cover_url, cata
     album_id = "other-" + artist.replace(" ", "-").replace("&", "and") + "-" + release_date[:4] + "-" + title.replace(" ", "-")
     if album_id in existing_ids:
         continue
-    directory = ROOT / "artists" / artist / (release_date[:4] + " - " + title)
+    directory = ROOT / "artists" / safe_component(artist) / safe_component(release_date[:4] + " - " + title)
     directory.mkdir(parents=True, exist_ok=True)
-    dest = directory / f"01-{track_no:02d} - {song}{src.suffix.lower()}"
+    dest = directory / f"01-{track_no:02d} - {safe_component(song)}{src.suffix.lower()}"
     if not dest.exists():
         shutil.copy2(src, dest)
 
